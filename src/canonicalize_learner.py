@@ -12,6 +12,7 @@ from gensim.models import KeyedVectors
 from torch.utils.data import DataLoader
 
 from vae_gmm import VAE_GMM
+from vae_gmm2 import VAE_GMM2
 from kge_util import KGEModels
 from canonicalize_ds import BuildDataForCanonicalization
 
@@ -38,8 +39,12 @@ class OpenKGCanonicalization(nn.Module):
         self.n_ent_clusters = n_ent = self.config_params['clusters']['ent']
         self.n_rel_clusters = n_rel = self.config_params['clusters']['rel']
         self.initial_clusters = init_clusters = self.read_initial_clusters()
+        # TODO: change the dimensions in the config parameters
         self.ent_vae = VAE_GMM(self.config_params['dims'], n_ent, init_clusters['ent'], self.reg_info, models, self.dataset.ent2id, device)
-        self.rel_vae = VAE_GMM(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.rel2id, device)
+        '''Passing triple2id file instead of rel2id'''
+        #self.rel_vae = VAE_GMM(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.rel2id, device)
+        self.rel_vae = VAE_GMM2(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.untriple2relid, device)
+        ''''''
         # ================== Set Up the KBC Model.
         kge_util_params = self.config_params['kge_util_params']
         self.kge_model = KGEModels(temp=kge_util_params['temp'], n_corruptions=kge_util_params['n_corruptions'], n_ent_clusters=n_ent, n_rel_clusters=n_rel)

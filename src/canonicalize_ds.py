@@ -22,11 +22,25 @@ class BuildDataForCanonicalization(Dataset):
         self.id2ent = dict([(idx, entity) for entity, idx in self.ent2id.items()])
         self.rel2id = dict(self.read_file(os.path.join(self.data_dir, 'rel2id.txt')))
         self.id2rel = dict([(idx, rel) for rel, idx in self.rel2id.items()])
-        self.triples = self.read_file(os.path.join(self.data_dir, 'triples.txt'))  # Triples in (head, relation, tail) FORMAT.
+        self.triples = self.read_file(os.path.join(self.data_dir, 'triples.txt'))
+        '''Added links between triples and rels'''
+        # Thoughts: removing duplicates in the triples.
+        # This works for relations, but might not for entities.
+        # Duplicates may be there on purpose if, e.g. Apple and apple match to two
+        # different entities in Wiki in exactly the same triple
+        self.triples = list({tuple(t) for t in self.triples})
+        self.triple2relid = {trip: self.rel2id[trip[1]] for trip in self.triples}
+        '''Leaving only one triple per rel for dimensionality's sake.
+        Also, it should not be a problem for any model to cluster exactly the same relations
+        together'''
+        self.relid2untriple = {idx: trip for trip, idx in self.triple2relid.items()}
+        self.untriple2relid = {trip: idx for idx, trip in self.relid2untriple.items()}
+        ''''''
         entity_side_info = self.read_file(os.path.join(self.data_dir, 'ent_side_info.txt'))
         self.ent_side_info = list(map(lambda z: (self.ent2id[z[0]], self.ent2id[z[1]], float(z[2])), entity_side_info))
         relation_side_info = self.read_file(os.path.join(self.data_dir, 'rel_side_info.txt'))
         self.rel_side_info = list(map(lambda z: (self.rel2id[z[0]], self.rel2id[z[1]], float(z[2])), relation_side_info))
+        # Golden clusters dataset for entities
         self.ent2truelinks = self.read_gold_clust(os.path.join(self.data_dir, 'gold_npclust.txt'))
 
     def __len__(self):
@@ -38,7 +52,10 @@ class BuildDataForCanonicalization(Dataset):
         head_idx = self.ent2id[head]
         tail_idx = self.ent2id[tail]
         rel_idx = self.rel2id[rel]
+        '''Triple is returned instead of a single rel now'''
+        # curr_triple = [head_idx, rel_idx, tail_idx]
         curr_triple = [head_idx, rel_idx, tail_idx]
+        ''''''
         ent_side_info = self.ent_side_info[item % len(self.ent_side_info)]
         rel_side_info = self.rel_side_info[item % len(self.rel_side_info)]
         return curr_triple, ent_side_info, rel_side_info

@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+from os import terminal_size
 import torch
 import pickle
 import logging
@@ -14,17 +15,18 @@ from typing import Dict
 
 logging.basicConfig(level=logging.INFO)
 
-class VAE_GMM(nn.Module):
+class VAE_GMM2(nn.Module):
     """ Implemention based on the following paper:
     Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering. IJCAI 2017.
     """
     def __init__(self, dims, n_clusters, init_clust_assignment_file, weights, pretrained_models, term2idx, device):
-        super(VAE_GMM, self).__init__()
+        super(VAE_GMM2, self).__init__()
         self.device = device
         self.weights = weights
+        '''Number of relations is passed as a n_clusters???'''
         self.n_clusters = n_clusters
         self.input_dims = dims['input']
-        self.hidden_dims = dims['latent']
+        self.hidden_dims = dims['latent']*3
         # Initialize Cluster MEANS, Cluster LOG SIGMA Squared AND Cluster ASSIGNMENT PRIOR.
         logging.info('Using labels from a serialized HAC clustering to initialize GMMs')
         self.log_pi_c = None
@@ -38,13 +40,13 @@ class VAE_GMM(nn.Module):
         self.word_embedding = self.__initialize_input_embeddings(term2idx, pretrained_models)
 
         # Build the VAE Model.
-        self.enc_layers = NeuralNetwork(self.input_dims, dims['interim'], self.hidden_dims)
-        self.dec_layers = NeuralNetwork(self.hidden_dims, dims['interim'], self.input_dims)
+        self.enc_layers = NeuralNetwork(self.input_dims*3, dims['interim'], self.hidden_dims)
+        self.dec_layers = NeuralNetwork(self.hidden_dims, dims['interim'], self.input_dims*3)
         # Parameters that build \tilde{\mu} AND \log \tilde{\sigma}^2 for the generation/recognition networks.
         self.enc_weights_mean = nn.Parameter(xavier_uniform_(torch.empty(size=(self.hidden_dims, self.hidden_dims))), requires_grad=True)
-        self.dec_weights_mean = nn.Parameter(xavier_uniform_(torch.empty(size=(self.input_dims, self.input_dims))), requires_grad=True)
+        self.dec_weights_mean = nn.Parameter(xavier_uniform_(torch.empty(size=(self.input_dims*3, self.input_dims*3))), requires_grad=True)
         self.enc_weights_log_sigma_sq = nn.Parameter(xavier_uniform_(torch.empty(size=(self.hidden_dims, self.hidden_dims))), requires_grad=True)
-        self.dec_weights_log_sigma_sq = nn.Parameter(xavier_uniform_(torch.empty(size=(self.input_dims, self.input_dims))), requires_grad=True)
+        self.dec_weights_log_sigma_sq = nn.Parameter(xavier_uniform_(torch.empty(size=(self.input_dims*3, self.input_dims*3))), requires_grad=True)
 
     def __initialize_gmm_parameters(self, X, label):
         """ Initialize Gaussian Mixture model params using,
@@ -75,7 +77,8 @@ class VAE_GMM(nn.Module):
     def __initialize_input_embeddings(self, term2idx, pretrained_models):
         """ Build an embedding lookup Table.
         Use pretrained_models if available, else initialize randomly. """
-        input_embeddings = nn.Embedding(len(term2idx), self.input_dims)
+        '''Multiplied the dims by 3 to concatenate the rel vectors'''
+        input_embeddings = nn.Embedding(len(term2idx), self.input_dims*3)
         if pretrained_models['input']:
             input_term_vectors = self.__initialize_embeddings(pretrained_models['input'], pretrained_models['source'], term2idx)
             input_embeddings.load_state_dict({'weight': torch.FloatTensor(input_term_vectors)})
@@ -86,30 +89,42 @@ class VAE_GMM(nn.Module):
     def __initialize_embeddings(self, pretrained_model, source: str, term2idx: Dict[str, int]):
         if not pretrained_model: raise NotImplementedError
         input_dims = pretrained_model.vector_size
-        weights_matrix = np.zeros((len(term2idx), input_dims))
+        '''Multiplying the dim by 3'''
+        weights_matrix = np.zeros((len(term2idx), input_dims*3))
         em, all_tokens = 0, 0
-        for term, indx in term2idx.items():
-            term = str(term)
-            is_embedding_avail = False
-            if source == 'GLOVE':
-                tterm = term.replace(' ', '_')
-                if tterm in pretrained_model:
-                    em += 1
-                    is_embedding_avail = True
-                    weights_matrix[indx] = pretrained_model[tterm]
-            else:
-                raise NotImplementedError
-            if not is_embedding_avail:
-                tokens_list = word_tokenize(term)
-                vector = np.zeros(input_dims, np.float32)
-                if all(map(lambda z: z in pretrained_model, tokens_list)):
-                    all_tokens += 1
-                for tok in tokens_list:
-                    if tok in pretrained_model: current_vec = pretrained_model[tok]
-                    else: current_vec = np.random.randn(input_dims)
-                    vector += (current_vec/np.linalg.norm(current_vec))
-                vector /= len(tokens_list)
-                weights_matrix[indx] = vector
+        for terms, indx in term2idx.items():
+            '''Encoding h,r,t instead of only a rel, writing extra loop'''
+            matrix_row = []
+            for term in terms:
+                term_row = []
+                term = str(term)
+                is_embedding_avail = False
+                tterm = term.split()
+                for tt in tterm:
+                    if source == 'GLOVE':
+                        # tterm = term.replace(' ', '_')
+                        if tt in pretrained_model:
+                            em += 1
+                            is_embedding_avail = True
+                            term_row.append(pretrained_model[tt])
+                            # weights_matrix[indx] = pretrained_model[tterm]
+                    else:
+                        raise NotImplementedError
+                    if not is_embedding_avail:
+                        tokens_list = word_tokenize(term)
+                        vector = np.zeros(input_dims, np.float32)
+                        if all(map(lambda z: z in pretrained_model, tokens_list)):
+                            all_tokens += 1
+                        for tok in tokens_list:
+                            if tok in pretrained_model: current_vec = pretrained_model[tok]
+                            else: current_vec = np.random.randn(input_dims)
+                            vector += (current_vec/np.linalg.norm(current_vec))
+                        vector /= len(tokens_list)
+                        #weights_matrix[indx] = vector
+                        term_row.append(vector)
+                tterm_vector = np.stack(term_row).mean(axis=0)
+                matrix_row.append(tterm_vector)
+            weights_matrix[indx] = np.concatenate(matrix_row)
         log_msg = '[Dims: {3}]: Pretrained embeddings found: EM: {0}, all tokens:{1} out of {2} terms.'
         logging.info(log_msg.format(em, all_tokens, len(term2idx), pretrained_model.vector_size))
         return weights_matrix

@@ -187,6 +187,7 @@ class Experiment(object):
     def cluster_relations_and_serialize(self, out_fname):
       """ Use our trained model to assign each Relation Phrase to a cluster.
       Serialize the clusters onto a output file"""
+      import pdb;pdb.set_trace()
       rel2predlinks = ddict(set)
       curr_id2rel = self.openKG_canonicalize.dataset.id2rel
       num_relations = len(self.openKG_canonicalize.dataset.rel2id)
