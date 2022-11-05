@@ -13,8 +13,8 @@
     "stage2": 1e-4
   },
   "eval_per": {
-    "stage1": 10,
-    "stage2": 10
+    "stage1": 1,
+    "stage2": 1
   },
   "loss_weights": {
     "vae": 1,
@@ -26,7 +26,7 @@
     "stage2"
   ],
   "dims": {
-    "input": 768,
+    "input": 300, 
     "interim": [384],
     "latent": 100
   },
@@ -47,7 +47,7 @@
     "n_corruptions": 20
   },
   "n_epochs": {
-    "stage1": 50,
-    "stage2": 300
+    "stage1": 1,
+    "stage2": 1
   }
 }
