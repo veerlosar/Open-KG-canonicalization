@@ -39,7 +39,6 @@ class OpenKGCanonicalization(nn.Module):
         self.n_ent_clusters = n_ent = self.config_params['clusters']['ent']
         self.n_rel_clusters = n_rel = self.config_params['clusters']['rel']
         self.initial_clusters = init_clusters = self.read_initial_clusters()
-        # TODO: change the dimensions in the config parameters
         self.ent_vae = VAE_GMM(self.config_params['dims'], n_ent, init_clusters['ent'], self.reg_info, models, self.dataset.ent2id, device)
         '''Passing triple2id file instead of rel2id'''
         #self.rel_vae = VAE_GMM(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.rel2id, device)
@@ -127,16 +126,18 @@ class OpenKGCanonicalization(nn.Module):
             r_vae_loss = self.rel_vae.stage_one_loss(hrt_triples[:, 1], r_clust_probs)
             kbc_loss = 0.
         else:
+            kbc_loss = 0.
             e_vae_loss = self.ent_vae.loss(ent_idxs, e_latent_params, e_out_scores, e_clust_probs, self.train_stage.lower())
             r_vae_loss = self.rel_vae.loss(rel_idxs, r_latent_params, r_out_scores, r_clust_probs, self.train_stage.lower())
             h_clust_probs = e_clust_probs[:e_clust_probs.shape[0]//2, :]
             t_clust_probs = e_clust_probs[e_clust_probs.shape[0]//2:, :]
             hrt_probs = [h_clust_probs, r_clust_probs, t_clust_probs]
-            if self.kge_algorithm == 'HOLE':
-                kbc_loss = self.kge_model.hole_loss(hrt_probs, self.ent_vae.cluster_means, self.rel_vae.cluster_means)
-            elif self.kge_algorithm == 'TRANSE':
-                kbc_loss = self.kge_model.transe_loss(hrt_probs, self.ent_vae.cluster_means, self.rel_vae.cluster_means)
-            else: raise NotImplementedError
+            '''Removing KGE module'''
+            #if self.kge_algorithm == 'HOLE':
+            #    kbc_loss = self.kge_model.hole_loss(hrt_probs, self.ent_vae.cluster_means, self.rel_vae.cluster_means)
+            #elif self.kge_algorithm == 'TRANSE':
+            #    kbc_loss = self.kge_model.transe_loss(hrt_probs, self.ent_vae.cluster_means, self.rel_vae.cluster_means)
+            #else: raise NotImplementedError
         vae_loss = e_vae_loss + r_vae_loss
         ent_constraint_loss = self.constraint_loss_mse(similar_ent_triples, self.ent_vae.word_embedding)
         rel_constraint_loss = self.constraint_loss_mse(similar_rel_triples, self.rel_vae.word_embedding)
