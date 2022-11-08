@@ -1,6 +1,6 @@
 {
   "batch_size": {
-    "train": 50,
+    "train": 36,
     "eval": 5
   },
   "model_info": {
@@ -13,8 +13,8 @@
     "stage2": 1e-4
   },
   "eval_per": {
-    "stage1": 1,
-    "stage2": 1
+    "stage1": 10,
+    "stage2": 10
   },
   "loss_weights": {
     "vae": 1,
@@ -47,7 +47,7 @@
     "n_corruptions": 20
   },
   "n_epochs": {
-    "stage1": 1,
-    "stage2": 1
+    "stage1": 50,
+    "stage2": 300
   }
 }

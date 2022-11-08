@@ -1,0 +1,3601 @@
+{"batch_size": {"train": 50, "eval": 5}, "model_info": {"dir": "glove/", "src": "GLOVE"}, "working_directory": "data/vae_run/ReVerb_Ambiguous_hac_OKG_canonicalize_heads/", "learning_rate": {"stage1": 0.001, "stage2": 0.0001}, "eval_per": {"stage1": 10, "stage2": 10}, "loss_weights": {"vae": 1, "kbc": 1, "side_info": 1}, "train_stages": ["stage1", "stage2"], "dims": {"input": 300, "interim": [384], "latent": 100}, "seed": 57, "init_ent_file": "hac_init_entity_0.3_threshold_OpenKG_Canonicalize.pkl", "init_rel_file": "hac_init_relation_0.5_threshold_OpenKG_Canonicalize.pkl", "clusters": {"ent": 5013, "rel": 625}, "reg_info": {"stage1_reg": 0.001, "stage2_reg": 0.001, "mc_samples": 1}, "kge_util_params": {"temp": 0.01, "n_corruptions": 20}, "n_epochs": {"stage1": 50, "stage2": 300}}
+
+Number of Clusters: 3598
+4408	2	constipation	constipation hemorrhoid
+1482	12	mental disorder	georgetown university	chapman university	georgetown	princeton university	medical disorder	george washington university school law	baylor university	gannon university	law school	pasadena city college	george washington university
+3252	4	aspect ratio	contrast	contrast ratio	ratio
+2701	1	vacuum
+4845	2	karla homolka	homolka
+3275	94	big problem	social	plant food	legal consequence	ever increase rate	various way	real number	real life	plant base food	history	health	field	few issue	fuel problem	family film	community character	significant health problem	bad idea	character	great choice	numerous way	little thing	better character	community analysis	primary color	american political history	experience	assassination	major issue	major problem	lot person	fundamental	great	threat	economic	poor person	great car	number thing	family value	time experience	right	central role	real	good health	fundamental way	role	term economic	serious consequence	growth	small role	health problem	very real threat	older child adult	economic growth	better choice	real concern	human right	political issue	black right	fundamental human right	serious threat	adult	poor choice	bad thing	digital age	right center	human health	bad	right field	american history	environmental reason	character assassination	environmental damage	important role	serious issue	numerous health problem	choice	real issue	best album	better	good choice	economic issue	thing	natural history	increase problem	black person	real person	major health problem	community problem	topic	serious legal consequence	third world	big role	social justice
+4220	1	playasia
+3634	7	david swanson	young patient	patient	bowel cancer	lung cancer	cancer patient	cancer
+3369	5	soviet union	european union	union	different sector	political union
+513	2	limb	artificial limb
+1834	3	blowjob	business district	loreleilee
+1218	3	philly	philadelphia	philadelphia philly
+3591	208	billion	arbitrary choice	treatment	leukemia	stuntman	article	mtvcom	sweetener	world wide epidemic	physical violence	gov	drug absorption	captain americas shield	howley park road east leed	flowjo software	matt murton	physical dependency	drug target	demopoli	productivity loss	tmpgenc dvd author	term population	costa mesa	financial problem	alboreto	hobbe	severe sanction	intervention	matrix	taxation	lsc transportation consultant	transfer student	inglewood	codehaus	clermont	positive number	washington dc	standard tcp ip protocol	copa	task force	federal funding	multiple sclerosis	sri lanka	statistical distribution	drug addiction problem	drug store	rep	homelessness	severe hemorrhage	illicit drug	united states postal service	free world	collection development	chicago cub	collateral requirement	illegal drug	democratic rep	chemical	local anesthesia	total	physical dependence	amiga	san angelo	limerick	haematology oncology	federal emergency management agency	missal	culver city	mitigating factor	benzene	topeka	guatemalan person	developmental problem	boffin	lenexa	hunger	fouling	aide	master ceremoney	boomor bust	drug abuse	www matter form com	cpl	excellant condition	supplement	gta	amelium	promotional tool	goverment	world wide phenomenon	drug distribution	ietf	abuser	suggested retail price	united states department agriculture	deidara	mccann erickson	spur	united states census bureau	leandro barbosa	cordova	short span time	rehabilitation	sec	usd	artistic collaboration	microcredit summit campaign	regimen	capital punishment	iso file system	polyhedra	colley	aids	gender inequality	federal office	welfare dependency	global epidemic	berne	increment	mcallen	embed system	virtual life	urbandale	aceh	strategix	drug use	digital sign age network	communicator	molecular weight	psychoactive drug	drug dependence	global problem	transportation corridor	inequality	addon	roosevelt	communicable disease	equal number	albuquerque	staff	crohns disease	va	liberium	badc redit	aids prevention	logistic	institutional structure	waste production	crc he	tire clearance	lean thinking	dell wfp	laboratory testing	child allage	dsseldorf	derivative	federal intervention	amphibious operation	yesasia	joint ach	sa	alcoholism	decide factor	hagiasophia	comprehensive security	decomposition	clean campaign	corona	melton mowbray	arbitrary unit	gr	compressibility	drug	portability	lynchburg metropolitan statistical area	homepage	seawolf	roman calendar	pit strategy	serious complication	search engine optimization	drug addiction	preferential treatment	glycemic index	feminism	mpg	social stratification	netware	tradeoff	pegasus communication	clinical	hollywood ending	illegal substance	edinburg	santa barbara news press	duplication	drug problem	food poisoning	short time	gp	bilderberg group	similar theory	vd	variety task	palermo	nigeria	anastacia	entitlement
+3222	5	sexual dimorphism	sexual orientation	sexual behavior	sexual preference	personal preference
+1562	1	lone wolf
+4766	1	kenner
+4913	1	nightlife
+707	1	evival
+496	1	diagnosis
+265	13	power dvd	james monroe	president madison	monroe	clinton county	state library	local government	lincoln johnson	president james monroe	ohio state football	ohio state	medical issue	madison
+3934	84	number discipline	poesy	shukaku	youtube	matriarchy	hinata	fruitful life	recorded history	sean hannity	santro	keila	bush lite	charm character	uchiha sasuke	bodily sensation	habit form	middle ages	krono	additional attribute	goodlettsville	haunted house	offensive weapon	differance	okmulgee	hardcore punk	youtube com	bix	sunny day	astmd	thighbone	temari	easter egg	sonority	domestic dwelling	silence secrecy	habbo	tarpon spring	maximum day	pickaxe	god send	marmite	best effort basis	korean war	modx	risky sex	wwiii	winston churchill	ministerial order	secrecy	afeeofus	tcl string result	hungarian goulash	aclich	various attribute	lip colour	gentleman prefer blonde	the godfather	mithraism	getcha	akane	tsukiyomi	kanata	moot point	cheraw	joey logano	uchiha clan	juugo	sasuke uchiha	stag	hulk vs	victory lane	interlace display	alexandrium	clio	vir	scientific instrument	physicality	tcl read	quicklist	sasuke	brevity	spiritual disease	team kakashi	valid form
+1285	17	aroostook county	farm	elementary school	trumbull county	fayette county	fayette	van buren county	marshall farm	storyville	prescott valley	cuyahoga county	macomb county	henrico county	litchfield county	monroe county	cuyahoga fall	stlouis county
+3411	7	different package	original package	second stimulus package	original video	original	original case	package
+2164	16	ntsc pal format	dvd format	pal system	pal	format	ntsc	ntsc standard	ntsc pal	audio format	new format	pal format	ntsc video format	digital format	different format	pal ntsc format	ntsc format
+4744	1	williston
+3924	3	caesar	augustus	augustus caesar
+1151	1	travel
+4251	1	newseum
+2602	6	region format	region	eastern region	centre	television centre	centre region
+1921	6	nicaea	nicea	cdjapan	council nicaea	hamilcar barca	council nicea
+3566	2	variable	continuous variable
+142	1	ludicrous
+2068	14	torrid pace	steady rise	incredible pace	grand rapid	rapid pace	frightening pace	park rapid	pace	brent barry	incredible	optimum success	big rapid	optimum health	incredible feature
+1086	2	straight game	game winning streak
+32	2	manchester	manchester unite
+3555	30	trunk area	pell city	base	turn point	glucose tolerance	heart attack stroke	dana point	density	lower cholesterol	riverview	water molecule	moiety	thedanube plain	matt clement	home schooling	population density	fuel line	high density	single game	orford place norwich	secondary city	certain point	intestinal transit time	single point	sugar molecule	rasho nesterovic	heart attack	secondary fire	attack	chlorophyll synthesis
+448	3	dougla	political fundraising	fundraising event
+4343	1	shali
+17	1	bury
+4651	4	john carmack	coulter	carmack	chris carmack
+2819	4	truth	objective truth	equal truth	home truth
+1575	2	consolation	consolation prize
+2114	2	moderate difficulty	moderate
+3496	1	subscriber
+4602	1	dirtier
+3284	494	black white	food supply	single character	big way	all star	west point	great show	sport fan	radio interview	number	area	top page	different variety	president bush	better quality	lake river	early age	plant	easy subject	call girl	success	key west	film video	datum resource	new world order	race car	private issue	great condition	numerous film	high quality	london	problem	new york city	woman man	relationship	american	good team	woman	long life	poor quality	state	world war	number reason	alfr russel wallace	life death	sale	vector graphic	good	president	feature	variety shape	death president	more time	use	new mode	court house	young girl	more serious problem	iowa state university	county	high school friend	yale law school	money	store hour	various quality	post	power control	few point	long term	good work	song	tonight show	real time	variety color	percent	new york time	no show	white	boy	size	international business	tv screen	different size	music history	bonus feature	music photo	great film	fox tv	st	big lead	news	story	economic development	european player	family god	lot	age	big movie	middle class	world series	serious	desert hot spring	president again	little concern	student	financial gain	green river	show	power	new problem	new york pizza	good thing	big time	animal right	alltime high	time london	washington state	york	multiple page	virginia	authority	audio video tape	man woman	third	word press	news world	extreme example	same sex relationship	black	video quality	bed	christian	lot thing	river side	extra	crime	united kingdom	bonus footage	variety way	good time	different child	reason	saturday night	monetary success	fire	little use	weight	warren	poor country	kerry	variety person	control	different time	class	private donation	baby name	best	interview	small size	addiction	great man	white black	rock	society	video footage	school	very good player	third base	college point	good place	suggested donation	bay area	america	new condition	creation	new york time book review	good quality	home movie	pentagon news conference	happy hour	war	television tonight	street child	physical attack	daily news	person identity	single vote	just rock	different thing	video	issue	number way	public university	god mode	rock spring	gate	store	court	physical space	local court	person	governor	film	couple year	traditional church	family court	use today	shape	blue note	team leader	west london	news story	young man	entertainment fun	beautiful	form	social construction	national concern	long beach	time	case	race	real death	success size	large	good condition	image entertainment	lot better	violence	top	black line	vote office	gb datum	american south	different way	great quality	development	good president	recent year	last night	game	low fence	few example	different shape size	large bed	movie television	death	serious problem	extreme pressure	variety size	house	baby	numerous college	good used condition	high school	young woman	vote	court appeal	blue material	top form	space	used	year	better team	hard time	west	office	black woman	good shape	audio video	green	saturday race	fox news sunday	lot problem	great movie	key role	child	different story	multiple	word	internet	london time	law	experience age	very good quality	straight loss	president university	girl	wallace line	new york daily news	earl warren	hour	variety reason	supreme court	new york	second	great human be	team	very young age	new thing	star player	medium	datum	economy subject	little girl	personal use	hard work	donation	music video	few movie	bluray disc player	public school	high	home	rock county	physical abuse	dvdr format	research	united states today	control power	very good show	bonus material	river	bluray	character creation	page	person person	new york area	different person	democratic primary	christian church	physical sexual abuse	mail	tv	second project	extra bed	research program	movie	variety	movie star	job creation	friend	man	long time	century fox	great story	dvdr	double bed	small child	woman girl	person race	today world	new york state	abuse	college	church community	rock music	best music	family	new home	very strong note	young person	music sale	similar way	loss	modern radio	illness	false pride	bad president	christian experience	file size	sex work	little rock	new	place	material	new life	quality	last place	washington	clear audio	united states	commercial production	daily show tonight	baby girl	political gain	false information	child age	iowa state	color	great stuff	top shape	church	number different way	democratic state	world war ii	white house	middle east	radio television	west virginia	good news	person age	young child	good idea	substance addiction	concern	bluray player	court law	plant product	new medium	group	wide variety music	world war ii veteran	happy man	great president	bad choice	television	governor alabama	bad character	lot more information	line	music	television show	white house news conference	small space	radio	double talk	film stage television	various shape size	dispute resolution	american popular culture	criminal law	real space	white vote	washington time	fox news channel	private bill	series lead	texas	high point	texas primary	fun	land use	washington county	war department	very different thing	university college	home entertainment	canada	better leader	short film	very early age	quality film	personal entertainment	black boy	great shape	scalable vector graphic	low resolution	new london	audio	point	lot size	good game	small group	very high standard	domestic abuse	older adult	physical	charlie rise	good music	little space	god	fun enjoyment	color shape size	fox	white plain	top world	control issue	video audio	music movie	good use	governor new york	digital sign age	better shape	week age	entertainment	little	bad news	poor nation	fox news	video game	bonus stuff	age year	film short
+1223	5	los angeles clippers	los angeles	los angeles today	clippers	los angeles time
+2147	18	anmire	kid adult age	famil ymember	psych	data presentation	closet	major crime	booklet	internet crime	dvds movie	glass acrylic	organized crime	car stuff	vaio	dvds	forgery	stuff	beautiful presentation
+2063	2	straight top finish	place finish
+4243	1	playact
+781	4	lehigh valley	dwight eisenhower	mount holly	eisenhower
+594	1	impunity
+1484	1	commencement
+2152	37	storage medium	different stuff	full screen	storage	cd player	dvd drive	bonus	sex drive	cd drive	video store	screen resolution	audio cd	digital camera	new store	digital video	video datum	digital video disk	video storage	digital versatile disc	gb	strong word	entertainment medium	gb storage	digital imaging	cd	gb disk space	digital television technology	gb space	drive	line resolution	vector drawing	digital versatile disk	cd disc	research material	digital material	digital video disc	gb information
+410	1	fly
+2931	14	thursday morning	washington monday	tuesday	lunch	friday february	monday	last tuesday	monday evening	saturday afternoon	friday march	thursday evening	panama city	panama city beach	tuesday action
+4809	1	olney
+2031	2	driver seat	seat
+249	1	chapman
+2506	5	private bank	england wale	bank	bank england	england
+2828	6	heart disease colon cancer	brain disease	heart disease	liver damage	disease	liver disease
+1573	1	basket
+3603	3	pain	real pain	physical pain
+3735	3	pathological state	pathological liar	liar
+901	1	documentation
+2269	53	store tomorrow	halloween	favorite tv show	friendly flora	psychotic episode	one trick pony	ado	regular dvd player	ld	batman	chase	boxing day	compact disc	tennesseesmoky	favorite	glastonbury	tomorrow	fighter	standalone mode	goal set	cd dvd	napa valley opera house	dvd	cathode	amazoncom netflix	swede	chase standing	andersson	kiss	warrenton	bet	dvd dvd	joe gibb race	atom film	gebze	disc	home theatre	cod piece	town tomorrow night	halloween film eries	episode	universal	hour footage	dvd packaging	universal studio home video	rent	aykroyd	chaptert	compilation	moron	tk	paramount	comeback
+4121	1	nuisance
+3111	114	yard office	small	job growth	few month	work	large concern	today	less week	year so	less concern	late summer	internet information service	day	year more	working day	big concern	second year term	yard	early lead	less year	additional	summer	south america	business week	small business	week month	next week	few more year	press	little support	way	national team	percent vote	last week	long	bill	mental illness	less yard	couple way	great company	great team	robert gate	company	public office	second best	third term	help	year low	team year	few week	washington national	news conference	little work	year research	final call	spring	large donation	available next week	month	monetary policy	public	divine help	weight loss	term	office today	week	business day	board	new york post	less	few day	plan board	major role	green white	year term	strong year	national university	lot team	national	popular support	first choice	second term	huge today	spring summer	month work	low	last year	new plan	support role	university	more year	hour order	business	lead	couple week	food	loss power	long way	new york home	black american	john kerry	small state	order	business executive	world	private	board war	plan	new job	support	last year more	place community	land	work order
+3313	2	healthy blood sugar level	blood sugar control
+2626	2	revenue	tax revenue
+2452	9	position	adverse side effect	significant effect	tough position	side effect	tough day	powerful position	tough	attack position
+2780	3	mixed result	mixed reaction	reaction
+1247	1	nassau
+2553	2	katrina	hurricane
+830	3	mccain	john mccain	republican john mccain
+3210	65	indian	social security number	time money	religious right	direct tv	internet presence	military home	indian country	american person	first class mail	food network	virtual	secret service	mail order	commercial law	person food	percent sale	communication	internet traffic	music distribution	free time	internet communication	political commercial	marketing management	dangerous business	free	internet time	american indian	available land	information service	person life	service	remote	free choice	marketing technique	american tv	damage	online delivery	internet game	land quality	standard technique	marketing	free trade	top secret	communication service	line information	food network show	private life	line sight	term money	available online	online	video distribution	internet marketing	american family	internet access	security reason	military family	money line	virtual machine	social class	secret service protection	cyber crime	religious man	internet success
+1793	3	private citizen	citizen	american citizen
+2723	2	different industrial purpose	various purpose
+4894	3	hypertensive effect	contradiction	contradiction paradox
+771	1	closure
+4327	1	boerne
+1031	3	pizza delivery	loading unload	disco ball
+4558	1	freelancing
+419	2	farmer	farmer market
+1461	4	student faculty	member	faculty	faculty member
+4661	1	keyser
+1222	2	detroit	metro detroit
+4299	1	ruston
+4111	2	unconventional warfare	maneuver warfare
+4067	1	gravel
+1287	1	hind county
+342	1	scully
+4562	1	clich
+1654	3	blazer	hell blazer	biophilium
+1612	2	grain	whole grain
+128	1	rag doll
+4937	1	ruhl
+1052	8	good fiction	great novel	novel	fantasy world	science fiction convention	fiction	fantasy	spy novel
+369	1	consortium
+2929	8	sunday night	sunday evening	saturday game	saturday night live	couple night	off night	night	sunday
+2091	1	dollar
+2137	1	low profile
+1731	3	wild country	pitch	wild pitch
+4711	1	burlington
+3245	1	large amount datum
+4741	2	selma	uniontown
+701	1	invention
+1334	1	maui invitational
+1760	3	injury	physical injury	injury death
+1521	9	voter	dissapoint	middle class family	black voter	white voter	upper class	hispanic support	loaded word	middle class voter
+1485	1	graduation
+3039	6	recent interview	email interview	recent television interview	recent time	email	email management
+2847	44	hiv aids	care maintenance	healthy digestion	residential care	primary	epidemic	numerous book	washington dc area	support maintenance	democratic society	person health	public health	web graphic	health awareness	value creation	educational reform	maintenance time	leadership	maintenance	poor health	better graphic	list process	graphic	care	leadership network	social organization	overall good health	medium attention	epidemic proportion	mental health issue	environmental problem	process	washington area	biological process	dc	value education	republican	healthcare reform	network	republican congress	health care	part time work	health care issue	creation entertainment
+938	4	jason marquis	champ	jason jennings	champ car
+1809	4	zeitgeist film	entirely different character	history channel	delete scene
+2639	2	employee	employee employer
+2296	5	silver city	gold medal	gold	gold mine	silver
+633	5	active development	fuel ethanol	ethanol fuel	fuel	fossil fuel
+1409	1	salem
+1055	5	comic book	new book	cyclical fashion	book	history book
+601	97	juvenile delinquency	gender justice	sexuality	play adelrey	hip hop album	icpd programme action	soluble insoluble	physical problem	indeterminate length	workplace violence	national student exchange	car racing	west de moine	tenseness	hiatus	uniform group	english russian language	gender equality	peacemaker	britney	discrimination	kazuomatsui	peorium	anamorphic	digestion elimination	neal shusterman	voluntary effort	black girl	varied form	negative divergence	american radio	better journalism	strong independent woman	social difference	adultery	double feature	metropolitan borough stockport	mili second	adverse condition	anational problem	cliffhanger	signing	newman haas lanigan race	dilemma	excellent conditon	eddie murphy	underdog	niv	equality	school uniform	alba	ps pversion	different team	meritocracy	distinct disadvantage	equality diversity	intercollegiate horse show association	biological diversity	strong woman	senior	communion	promotion	discussion format	adhd	grammatical gender	woman live	differentiation	danzou	dichotomy	shaun livingston	foreigner	parenthood	disadvantaged person	pregnancy	gender	prejudice	criminal justice	cowboy	number aspect	big difference	huge difference	campaigner	preeclampsia	uniform	intimacy	human identity	weslaco	human sexuality	legal representation	giorgia	diversity	colour transparency	preference	race ethnicity	markrich	french monaural soundtrack	full color
+2438	1	arrival
+2184	25	macintosh computer	computer screen	atanasoff berry computer	paranoia agent	desktop computer	supreme headquarters	internet video	personal information	laptop computer	private information	screen	variety purpose	computer	laptop	screen size	flowood	target disk mode	retail shop	additional material	storage space	information purpose	computer information	information	kino video	closed door
+1648	2	moustache	mustache
+4127	1	deception
+4532	1	sarsaparilla
+2577	8	population	national capital	natural selection	access line	vehement opposition	local symmetries	population control	world population
+529	4	moment	battle somme	few moment	moment notice
+3862	1	contender
+4377	1	weil
+422	3	coffee talk	the beatles	lame duck president
+2219	16	level	uk economy	various form	member favorite list	panel discussion	multiple form	different level	different form	personal level	training	physical form	different dosage form	multiple thing	multiple level	high importance	dosage
+3926	1	marcellus
+1136	2	snow clear	snow
+2457	2	second reference	reference
+258	5	father brown	father	superior officer	puppy training class	gordon brown
+1906	6	tcl regexp match	badminton school	cooking class	thedubuque community school district	hungarian cuisine	hungarian cooking
+3334	5	favor project	proposal	favor proposal	favor	favor bill
+3027	1	johnny cash show
+2599	10	conference	north american	western canada	south vietnam	boy nation	nation	middle america	north	press conference	western conference
+4815	2	charle barkley	shaquille oneal
+3227	2	time occurrence	everyday occurrence
+1250	1	port isabel
+3983	3	neil armstrong	armstrong	neil
+2476	23	president united states	usa	indiana supreme court	united states supreme court	daytona beach	united states military academy	united states house representative	arizona state university	usa canada	united states army	united states presidency	texas supreme court	supreme court united states	name	united nations	usa today	usa president	united states senate	model united nations	person name	united states armed force	united states america	arizona
+1453	3	follow study	scholar	rhodes scholar
+1294	82	james dougherty	morris	wayne gretzky	terry riley	casper	lee summit	brandon webb	lewinsky	logan county	criminal case	jesse custer	fool	barton	hart county	butler county	mercer county	wayne county	stephen colbert	samp county	veteran affair	marshall county	dickin county	denton	kennedy brother	hickman county	benton	potter county	randolph county	lauren county	warren county	davis county	monica lewinsky	benton county	affair	morrow county	warren commission	alabama	sue	time warner	bustar hyme	arthur miller	gay marraige	anna nicole	brad pitt	government ontario	henry miller	maye county	state virginia	elizabeth stewart	loterium	criminal prosecution	durham	david city	kendall county	methampheta mine	warren hard	scott county	pitt	burnett	gibson county	modern farm	wale	taylor county	terry porter	earl	marshall	henry county	morgan city	carolina	monica lewinsky scandal	lewinsky affair	criminal civil prosecution	beaufort	spink county	virginia state legislature	bradley county	gay boy	lincoln county	north carolina house	lee county	virginia legislature	peter lawford
+4178	1	masculine feminine
+967	1	fort adam
+2923	86	canadian rocky	production gain	store november	indiana	short supply	british columbia	fire today	late november	october release	store september	brand roy	end august	january	french	october	lee	worldwide release	command death	june july	february	new low	valentine day	late june	early march	news release	rd january	brain damage	iron chef america	jan	holy land	page decision	thursday july	st february	july release	mid august	economy	summit county	school child	wide variety platform	lee william	early june	french spanish	production	fountain pen	early october	american president	mid november	sony	early january	dec	civil case	april	surprise	strong economy	theater	store february	december	mid october	november	happy end	st march	june	stephen sondheim	rd february	press release	late	school today	wide variety illness	food production	october year	big surprise	invasion privacy	company release	march	limited supply	warner theater	july	mid february	early december	august	mid march	early	april fool day	rd	release	september
+3323	22	national group	cultural group	today society	press time	size weight	working group	volume	modern society	royal society	mass	eagle vision	front child	volume mass	group more	royal	american society	michigan	eagle	volume datum	michigan today	mass volume	front group
+3182	1	chain
+1281	19	valley city	texas county	central city	central texas	texas be university	east lake	east texas	christian doctrine	national city	west coast	south texas	monroe doctrine	ohio texas	bush doctrine	park city	east	city	ohio	texas city
+3392	2	leader	majority vote
+2855	90	job	human experience	multiple purpose	real beauty	economic security	animal	medium coverage	small problem	hot start	ever increase problem	specific function	large number	mythical figure	datum storage	social network	complex	beautiful job	human behavior	security	variety cause	national security	natural resource	good job	natural	weight management	color relationship	product	blue color	great job	substance	different player	american revolution	start	similar problem	simple subject	huge problem	list	bigger problem	variety other topic	natural increase	michigan primary	huge form	electromagnetic interference	social analysis	interesting example	independent product	pressure relief valf	beauty	simple effect	primary care	wide variety reason	food plant origin	plain fun	hot topic	community	human life	subject	problem solve decision make	foreign policy	fat distribution	political experience	natural cause	large problem	substance abuse	animal weight	urban area	cause	human use	social problem	social construct	origin	poverty	natural beauty	fire element	complex idea	distribution	population health	animal product	natural change	political reason	urban problem	complex subject	human	valf	word list	example	second place	digital distribution	violence war	national figure
+1280	11	custer county	southwestern florida	delray beach	florida	southwest florida	western culture	university florida	american culture	culture	south florida	southwest florida college
+1741	1	lausanne
+4460	1	jiraiya
+2061	3	fourth	first run feature	distant third
+2240	3	medium vision	vision	new vision
+4613	2	hounslow	london borough hounslow
+1597	1	peach
+4733	2	glendale	lakewood
+418	1	agriculture animal husbandry
+1965	1	slovakia
+4027	1	wynette
+3136	2	bloomberg news	bloomberg
+3766	1	igor
+3308	1	dna
+3553	1	tall
+4992	1	cincinnatus
+3530	4	least gallon	gallon	gallon more	least
+2018	6	defense secretary	left side	national defense university	defense	side	secretary defense
+3796	1	ruby
+2194	1	connector type
+1824	5	yoga journal	mad scientist	bowel management	great scientist	scientist
+4695	1	wyandotte
+2326	1	quilt
+1129	3	hollywood walk fame	hollywood	hollywood glamour
+3841	14	sex	lord prayer	gospel john	equal sex	countless book	green economy	gospel	gospel music	woman child	springfield	john gospel	house lord	church god	springfield elementary
+925	3	prison	jail	check
+3859	3	mansell	nigel mansell	brad miller
+1360	2	tennessee river	tennessee
+1298	2	aurangabad district maharashtra	ballston spa
+4701	1	devonport
+431	1	sea
+1047	1	prince george county
+2642	1	offer
+919	2	judge	county judge
+78	1	branch
+3852	2	ayrton senna	senna
+4966	1	microbe
+1781	1	jewish lineage
+1898	37	expert mode	american sign language	senior thesis	policy development	language skill	new development	class discussion	hall language	type	sign	language	similar program	medium training	thesis	language learn	language development	european language	teaching language	tool command language	basic	policy	philosophy department	phd	program	good discussion	foreign language	neuroscience research	difficult subject	vocational education	teaching research	scholarship learn	discussion	skill	different type	program type	north american free trade agreement	philosophy
+2882	2	ease	ease administration
+1207	5	toronto	downtown	downtown toronto	downtown phoenix	edison mall
+1444	6	deep run	rookie earhonor	base trim	magnetic field intensity	magnetic field	electromagnetic field
+3863	1	loser
+2090	3	pound pressure	light yagami	pound
+3640	3	dose mg	mg capsule	mg tablet
+823	1	campaign rally
+2203	3	awesome	plain awesome	awesome feature
+1278	5	new mexico	mexico	gulf mexico	gulf	mexico city policy
+2789	2	conversation	true conversation
+2654	30	worldwide	adult material	clip	commentary	rigorous peer review	dragic	audio commentary	yr	assist	hour content	keystone	priority	fbn	digital medium	docudrama	commentary track	jon udell	segment	sex appeal	content	hbo	yr old	movie clip	video content	dietary component	major samantha carter	squad	high quality video	metoprolol	xvid
+1216	2	chicago	chicago area
+311	4	sean mark	mark	mark chapman	mark david chapman
+897	13	pro business	campaign fundrais	fraud	fundrais	identity theft	physical sex	consumer fraud	identity crime	victimless crime	hot spring	political capital	identity fraud	nnoitra
+3159	4	very timely fashion	external dvd drife	timely manner	timely fashion
+4382	1	mcavoy
+676	1	concrete
+4642	1	johnb ayley
+2415	6	appropriate response	long speech	chinese medical treatment	response	speech	bushs response
+898	15	theme tropolitan police	busy woman	free agency	cyber space	sexual identity	gender identity	cultural value	child life program	victim	identity	different victim	small number case	legal problem	cultural experience	variety legal problem
+206	1	eugene
+3412	2	kyoto protocol	kyoto
+1703	9	hall fame	aviation	automotive engineering	fame	modern engineering	songwriter hall fame	great solo	military aviation	aviation hall fame
+2286	1	performer
+4380	5	mia hamm	mayo clinic com	helen johnson	hamm	haddon field
+3127	8	electric	electric car	power generation	vehicle	electric generation	generation	future generation	electric vehicle
+595	1	lawlessness
+1255	2	jacksonville beach	jacksonville
+4967	1	bacterium
+1713	3	atlanta hawk	atlanta	hawk
+669	2	copper aluminum	copper
+877	1	suit
+272	1	reed
+3314	10	discharge	nuclear safety	blood	blood pressure	pressure	tissue	new blood	supplementary material	high blood pressure	deficit reduction act
+4699	1	jamestown
+2365	2	adequate funding	funding
+518	2	raise brow	raised eye brow
+1732	1	fever pitch
+4172	1	compromiser
+2824	1	hopeless condition
+3022	3	server host	host issue	host
+4536	11	mack sennett	thanight	erskine bowle	boman	multimedium	peter jenning	getz	hadleyville	boman irani	apulium	screen edinporch
+4698	1	denali borough
+3843	11	jesus teaching	sebastian	lord jesus christ	jesus christ	jesus	single mother	mother	christian teaching	christ	jesus mother	messiah jesus
+1214	2	cleveland	cleveland indian
+746	2	publicity photo	publicity
+4590	1	corvus
+2843	4	hospital	military hospital	new hospital	forest type
+2793	2	intense debate	debate
+2641	2	pay television	pay
+2127	2	rise	decline
+4269	1	chardon
+3015	3	chief	executive producer	chief justice
+336	1	emily robison
+1276	3	alaska time zone	alaska	interior alaska
+3892	1	cog
+1022	3	loud	loud clear	loud speaker
+2300	10	academy award	stage	nomination	grammy award	academy award nomination	face recognition	committee stage	award	grammy	top priority
+1914	4	rhode island	rhode	island	johns island
+578	2	effectiveness	development effectiveness
+3656	3	black case	dietary fiber	news corp
+2675	2	national test	test case
+4788	1	aprox
+4704	1	groton
+3473	1	gamezhero
+1084	1	unbelievable season
+4458	1	drumset
+853	1	errno
+4414	1	mange
+3452	3	kia	kia motor	suzuki
+665	3	light	light power	light dark
+678	13	door	suspension post privilege	jf kennedy	barbed wire	nyarlathotep	various shade blue	wire	insert	hot lunch program	strap	concertina wire	external feature	leak
+2668	6	education	student organization	medical student	high quality education	student education	university education
+4198	1	peasant
+1300	1	brewer
+695	2	hydro power	vodcast
+2716	1	physical setting
+2174	1	processor
+261	6	janet jackson	richardson	jesse jackson	luke jackson	jackson	luke
+1581	1	neat tidy
+1630	1	blue screen death
+2444	2	korea	south korea
+1653	2	trail blazer	portland trail blazer
+2783	1	conscious
+3441	4	cape canaveral	shade grey	new jersey	new brunswick
+18	1	revere
+4275	7	sarah palin	bindi irwin	paula jone	sex chromosome	bindi	paula	laura bush
+1519	1	profession
+1315	4	mike myer	material loss	chris myer	michael myer
+2956	3	significant advantage	great advantage	advantage
+1576	6	few minute	few more minute	minute	minute warm	minute music	straight line
+2266	3	version	number version	separate version
+3784	2	contemporary black biography	biography
+4392	1	bj
+2425	1	oval office
+1569	3	base ball team	long ball	ball
+4155	5	mpeg format	mpeg encode	mpeg	mpeg video	georgeii
+1606	5	flavor	fish	flavor fish	variety flavor	big fish
+502	4	childhood	normal family	normal childhood	early childhood
+4524	1	onida
+1825	3	good politician	politician	career politician
+1198	6	oak	wood fence	wood	oak wood	oak hill	red oak
+1370	1	quincy
+4235	7	victorium	prince albert	vlad iii	vlad	warner brother	mae west	vlad dracul
+2730	4	complete player	complete system	complete makeover	complete
+3513	7	vista	windows xp tablet pc edition	windows xp vista	windows vista ultimate	windows vista	microsoft windows xp professional	fairmont state college
+2678	10	future relationship	modern technology	software developer	modern time	different technology	variety technology	universal healthcare	peer peer technology	peer pressure	technology
+776	3	great timing	unfortunate timing	precise timing
+1586	2	powder	fine powder
+826	13	senator obama	barack	obama approach	panel time	state senator	presidency	senator barack obama	barack obama	senator	side panel	president obama	better approach	obama
+1801	3	guy	car guy	bad guy
+1657	1	salesman
+1460	1	cum
+3493	1	walmart
+813	1	centrist
+4938	1	ee
+4313	1	barnesville
+2992	4	law firm	academic department	law enforcement	constitutional law
+3104	9	pm	rule	charge	additional charge	common day	traffic rule	small charge	be bound	be
+1049	1	duke
+267	3	michael meyer	michael moore	michael
+4271	1	fergus
+2740	12	high definition audio	standard	open source	high definition tv	standard definition	standard case	open standard	definition	open format	open source software	open	high definition
+1959	1	bucharest
+3347	1	house joint resolution
+3629	3	malnutrition	diabetes	obesity
+4983	1	hypnotist
+2436	5	visit	return visit	short visit	return	daily visit
+2166	2	pdf file	html text format
+4402	1	seguin
+61	14	coral	huntington beach	cape coral	pompano beach	idamare	new orlean	deerfield beach	vero beach	miramar beach	fort myer cape coral	fernandina beach	designer	redondo beach	rehoboth beach
+2863	14	emotional problem	neglect	child abuse neglect	emotional neglect	emotional abuse	victim domestic violence	economic abuse	emotional state	moral problem	sexual abuse	harassment	domestic violence	biological sex	self abuse
+3310	2	mendelian genetic	genetic polymorphism
+1913	8	spanish version	spanish	stephen breyer	american english	english football	english spanish	french english	english
+3169	1	operation enduring freedom
+3318	1	brain washing
+1964	2	romania	bulgaria
+1454	1	fulbright
+3211	1	request
+2587	5	rural	rural area	rural school	valley	agricultural rural development
+1739	3	minor issue	minor	minor effect
+2930	2	easter sunday	weekend
+4373	1	teleconference
+1533	4	local library	library	library office	central library
+3958	4	baitullah mehsud	akbar	mehsud	baitullah
+3850	1	ferrari
+936	2	grand jury	grand
+406	2	plane crash	plane
+4988	1	tristano
+616	3	migration	external migration	common material
+4933	2	dee brown	dee
+2557	8	kennedy	left	joe kennedy	center	joe	kennedy center	field goal attempt	left center
+3389	6	house representative	indiana house representative	alabama house representative	fuente	representative organization	representative
+1314	4	fort myer	home theater	spalding	myer
+3324	1	group trend
+1933	1	ethiopia
+1795	3	little trouble	very lucky man	want man
+3536	1	penetration
+806	1	president emeritus
+3044	2	free standing	agency
+1554	3	hill	chapel hill	capitol hill
+960	4	army	continental army	army potomac	confederate army
+2993	1	massachusetts general law
+2999	4	appeal	president court appeal	ontario court justice	ontario court appeal
+3951	1	ambiguity
+2874	2	crisis	identity crisis
+3241	1	comparison
+4068	1	sand
+3258	13	very important factor	big factor	reduce risk	risk	risk factor	factor	addiction dependency	various factor	combination factor	significant risk factor	vital factor	calculated risk	strong factor
+3030	2	bbc radio	bbc
+2910	2	niche market	flea market
+4245	1	stud
+4888	1	brightness
+1646	1	golden era
+3249	2	actual size	mere size
+854	1	gal
+661	4	top gear	reverse	reverse gear	gear
+1972	2	beating	beat
+504	1	arrangement
+3798	1	ark
+1727	3	basketball card	national basketball association	basketball
+1719	30	western division national league	new fan	season series	nba title	nba team	fan	daily show	hockey	next season	final	championship	successful team	nba championship	nba final	series	title	nba playoff	national league	final approval	national hockey league	nba draft	number title	last season	season	world championship	fan series	consecutive game	nba	team play	native title
+637	7	little liquid	gas	liquid gas	liquid	city gas	liquid water	gas city
+2119	1	percent respondent
+2011	1	barak
+4469	1	nightcrawler
+1936	9	university challenge	intellectual challenge	new challenge	south	africa	south africa	challenge	western mass	forbes ranking
+1261	2	governor virginia	central virginia
+3477	1	pace compumetric
+838	1	libertarian party michigan
+1064	1	rap album
+3692	2	chicken	chicken casserole
+1042	1	meal
+4836	2	gough whitlam	whitlam
+4416	1	nav
+1726	3	major league baseball	baseball game	baseball
+1141	3	themissouri compromise	mount pleasant	mount prospect
+3753	1	oz
+318	2	corbett	corbett field
+1572	5	thousand	hit	thousand thousand year	thousand hit	big hit
+1079	4	disc set	goal	set	dvd set
+1465	4	undergraduate education	undergraduate graduate education	graduate student	graduate
+880	2	bankruptcy	bankruptcy reform
+3359	2	high government position	head government
+4017	3	nab	stander	lionel stander
+1324	1	la grange
+4638	1	abram
+1772	1	deceased
+2059	2	black hole	hole
+1623	2	shade gray	gray
+655	3	different gauge	various gauge	gauge
+2906	5	wall street	wall st	wall	wall street journal	journal
+1710	1	court tv com
+19	3	road basingstoke	basingstoke	ground basingstoke
+1939	3	columbia university	columbia	columbia co
+2182	2	pc	pc compatible
+3654	2	antibiotic	appropriate antibiotic
+2140	1	high tech
+4665	1	thef
+3196	2	different operating system	window server operating system
+3832	2	atonement	optimist
+4062	1	titanium
+964	1	camp david
+985	2	freedom love	love
+4939	1	discography
+2072	1	counter clockwise
+288	1	tracy
+4043	1	hannibal golux
+1571	2	better shot	shot
+2359	1	action
+459	2	omega psi phi fraternity	omega psi phi
+1637	6	rain shine	red mountain	black folk	red rock west	church folk	flame thrower
+494	2	doctor	new doctor
+3601	7	time warp	depression	stress depression	lean transformations	depression anxiety	great depression	uneven quality
+1030	9	beautiful family	child adult	pizza	charlie rise show	pizza hut	equal fun	pizza restaurant	pizza hut pizza	pizza topping
+308	1	herbert
+4437	1	amundson
+2215	1	rectangular shape
+3386	1	palestinian state
+280	17	joshmc robert	shaky ground	george bush jr	president george hw bush	mr bush	george	mr	blu ray disc	mr newman	george wallace	bush jr	george hw bush	richard gere	sister souljah	good car	british israelism	george washington carver
+988	1	joy
+4738	1	millington
+4823	1	swamp
+3779	1	nightingale
+2026	2	considerable margin	wider margin
+4484	1	nijinsky
+1023	2	sound bite	sound
+1723	2	new agent	ivy league
+2372	2	asia	south asia
+3311	1	reproduction
+1679	2	kenneth starr	starr
+4645	1	beckley
+726	1	greece
+4835	2	khrushchev	nikita khrushchev
+2714	1	harsh training
+2653	5	enterprise content management	content management	web content management	enterprise content	resource depletion
+1871	3	baptist	southern baptist	baptist church
+3706	1	anguish
+1778	1	bancroft family
+3100	4	hand hand combat	good hand	broken hand	hand
+1119	1	honeymoon
+2087	5	sell	worth buy	buy	best buy	good buy
+4057	9	high temperature	salinity	alarming speed	temperature indicator	extreme temperature	temperature salinity	temperature	combination characteristic	alarming rate
+2677	4	technical drawing	technical term	technical issue	string delimiter
+4675	1	bro
+1626	4	orange park	orange	port orange	orange city
+767	3	shock effect	shock	stroke
+4033	3	teddy kennedy	teddy	teddy bear
+3744	1	villain
+3331	2	extensive consultation	extensive experimentation
+3708	1	anger
+963	1	detachment
+4802	2	sakura	naruto sakura
+1472	2	professor	law professor
+2307	2	design	furniture design
+2477	8	world mission	dangerous mission	trade program	steiner	mission hill	mission	mission critical	mission statement
+4844	1	helena
+3945	1	matrimony
+3621	2	typhoid	cholera
+1470	2	princeton	yale
+836	5	national film board canada	quick dinner	dinner	private party event	dinner party
+2293	2	rock band	great band
+1979	1	roman coliseum
+1636	2	red	red herring
+3450	2	pump motor	tesla motor
+1647	1	golden globe
+182	1	beckett
+1594	2	cocoa beach	cocoa
+4654	1	clift
+2591	1	railroad town
+1279	9	southern california area	great commission	commission	california	southern california	nevada	david	california nevada	central california
+2399	1	participation
+4812	3	headach	jeremy paxman	paxman
+1999	3	bin laden	osama	bin
+1539	1	brooklyn
+4949	2	mca universal	oro
+1869	1	mumbai
+1275	1	oregon
+1775	1	musical family
+2241	1	progressive scan
+4466	2	john piper	uchiha
+2696	2	heat	heat pressure
+3199	1	simulation
+2181	1	tech demo
+1183	2	yucca mountain	yucca valley
+2801	7	worse reason	specific area	specific time	death threat	specific reason	kind person	fact
+1665	1	america westarena
+3931	3	anime	naruto anime series	naruto anime manga series
+3141	2	franklin co	co
+1863	1	thailand
+2311	3	exhibition	temporary exhibition	public exhibition
+334	1	judy
+2972	25	hotel room	room	call	talk show	crucial issue	pretty good job	uk prime minister tony blair	double double	star	really good movie	bad film	different room	new platform	serious role	monetary damage	important decision	order page	crucial decision	tony blair	interesting stuff	decision	dvdr medium	self start	room temperature	stunning success
+711	6	wikiproject biology	wikiproject serbia	yugoslavia	serbia	croatia	serbia croatia
+4132	1	drm
+3928	1	mtn
+1219	1	pittsburgh
+1369	2	milton	milton greene
+3684	1	cayenne
+2366	4	legal aid ontario	legal aid society	constitutional convention	legal aid
+639	1	coal
+786	7	president nixon	president richard nixon	nixon	administration	bush administration policy	nixon administration	richard nixon
+4141	4	color histogram	fat	histogram	embed databasis
+1695	2	joe satriani	joe beimel
+3716	6	smile	sly smile	slight problem	voice	slight smile	grin
+2986	2	fast food	fast
+1302	2	yum brand inc	yum brand
+1670	1	artisan
+4688	1	desalination
+364	2	treasure trove	treasure
+2493	9	military science	military strategy	family conflict	conflict	different strategy	military conflict	similar strategy	military	strategy
+4110	1	crate
+4839	1	bose
+3489	2	ebay	ebay canada
+3809	1	nuance
+2112	1	similar trajectory
+4104	1	mattress
+320	7	game informer	gannon	ref	good website	wendi	rich gannon	theorlando sentinel
+2562	5	different height	height	building	building height	community building
+597	2	sexism	racism
+474	1	advanced research project agency
+3361	1	government spending
+2105	3	hooker blow	positive territory	negative territory
+4605	1	gentrification
+367	1	giant lizard
+4770	1	usk
+3914	3	mislead claim	constantius	constantius chlorus
+3802	1	pup
+2564	4	beautiful campus	housing	campus housing	campus
+3391	3	house hold term	hold	requirement management
+3909	1	ephesus
+4858	2	fuel injection	injection
+760	1	sabotage
+86	3	central ave	main ave	ave
+2390	3	economic stimulus	economic initiative	economic stimulus plan
+2627	5	earned income tax credit	low income person	income	low income client	percent victim
+185	1	scott podsednik
+2289	1	theme
+4631	1	ms
+2314	3	outside vendor	outside	vendor
+402	1	missile
+3646	1	carb
+3399	22	senate	government	senate foreign relation committee	house committee	majority	county government	government house	senate committee	limited resource	lake luzerne	popular vote	house financial service committee	house judiciary committee	legal service commission	state senate	committee	senate judiciary committee	sec state	house local government committee	government policy	grant hill	senate criminal justice committee
+3801	1	seal
+612	1	devastate consequence
+2299	3	different category	number category	category
+4993	1	janelle
+2275	1	pocket
+1830	1	sync
+1487	1	ireland
+1116	1	bonita spring
+186	1	scott meredith
+3558	2	shorter distance	distance
+4182	1	sexiness
+2188	5	interactive mode	element	interactive	interactive element	interactive content
+4217	1	hermitage
+881	1	filing
+85	1	motorway
+303	1	philip
+2414	1	tribal leadership
+390	6	east london	london area	london east end	penn	end	washington post
+3693	2	pasta	pasta hut
+2163	1	zip
+4229	1	freemason
+658	4	fiber bundle	fiber optic communication	fiber	optical fiber
+4444	1	mooresville
+2120	2	percentage	percentage point
+4212	1	danielson
+2655	4	balanced budget	network news transfer protocol	tayuya	user generate content
+975	2	birth rate	birth
+3972	1	hj
+3544	1	tail
+3383	2	southern state	penn state
+2077	8	rating	credit	person credit rating	card	credit card fraud	credit card	approval rating	credit rating
+1096	1	west lothian
+4042	6	associate press interview	deckerville	rupert grint	associate press	grint	samuel clemen
+4463	3	itachi	itachi uchiha	kakashi
+2021	1	dictator
+4905	1	israelite
+3110	2	few second silence	silence
+484	3	carnegie mellon	carnegie hall	carnegie mellon university
+3237	2	magnetic strength	strength
+727	4	assistant manager	melrose park	operation manager	new manager
+924	8	juanita broaddrick	medication counseling	kamehameha school	divine incarnation	appropriate sentence	liturgy word	death sentence	false swearing
+1419	1	flint
+4712	1	guilford
+2338	19	separate part	division	main part	time event	first place	franchise history	house blue	third place	later period	first time	extremely long time	second time	house today	later time	london university	part	first	third division	first class
+1925	1	indianapoli
+1733	1	starter
+642	2	cloud	cloud dust
+1770	3	son	grandson	brother
+863	1	perjury
+1517	2	retirement community	retirement
+3289	1	feminist theory
+3113	7	next year	help committee	importance	first importance	great importance	easy start	major concern
+197	2	paul hamm	paul
+4534	1	massachusett
+2799	4	situation	no situation	interesting situation	unfamiliar social situation
+2010	2	arafat	yasser arafat
+1600	5	ice show	ice	ice surprise	water ice	ice cream
+164	12	executive	executive department	latin name	santa barbara	marilyn	bunch different way	pasadena	rancho santa margarita	latin america	neasy	marilyn monroe	sevenoak
+2100	3	postandbeam construction	shipping	shipping handling
+3567	2	dichotomous variable	categorical variable
+2233	2	image quality	image
+237	2	sam bowie	david bowie
+754	3	political suicide	attempted suicide	suicide
+3638	2	single vaccine	vaccine
+3299	1	input
+2490	5	tiger tank	fire water	fuel economy	tank	water
+2287	2	ballet class	ballet
+3724	1	disgrace
+2753	1	processing facility
+3070	2	pass christian	pass
+3719	1	brave
+3003	6	free date service	date	day date	tax court	pdf format	court date
+3833	1	antichrist
+902	2	revocation	revocation privilege
+1154	2	outdoor adventure	adventure
+4978	1	hustler
+3153	11	extra feature	additional extra	live	few extra	margin	wide margin	large margin	lower resolution	straight	big margin	great extra
+1930	2	arizona republic	dominican republic
+1146	1	alps
+1167	6	park street	cedar park	park avenue	cedar fall	park	forest park
+827	1	romney
+28	1	preston
+2905	1	independence
+4990	1	broomfield
+712	3	kosovo	bosnia kosovo	bosnia
+2406	5	peace prosperity	peace	prosperity	reconciliation	economic prosperity
+194	3	lennon	john lennon	former beatle john lennon
+2649	4	spectrum	wide spread interest	spread spectrum	spread
+1513	3	educational purpose	educational development	educational opportunity
+1839	2	iris murdoch	iris
+2503	2	commonwealth	commonwealth virginia
+1552	1	laguna hill
+2961	1	fourth place
+2672	6	future application	patent application	patent	enterprise application	application	standard equipment
+4131	1	crm
+1193	1	beech grove
+1379	3	appomattox county	appomattox river	appomattox
+1056	1	legend
+4065	2	surface topography	surface
+3770	1	spacecom
+4249	1	person everyage
+4826	1	saigon
+4720	1	torrance
+1139	2	breeze	gulf breeze
+3588	1	controlled substance
+2128	3	budget surplus	surplus	huge surplus
+2837	5	heart failure	branchoffice	failure	congestive heart failure	heart problem
+3397	1	review committee
+1735	1	innings
+4331	1	brewster
+1402	1	asheville
+2424	1	unemployment office
+4291	1	bremerton
+3156	1	necessity
+2084	1	very reasonable price
+2913	3	million	million person	million american
+4973	1	hater
+4107	2	futon	bsd style license
+2921	2	delivery	production delivery
+3858	2	nigel mcguinness	mcguinness
+4915	1	improv
+3346	6	higher resolution	much higher quality	higher quality	career high yard	dulcemarium	better mileage
+2680	3	secret key	search identity	search
+818	4	american political scene	scene	scene election	election day
+2433	1	progress
+3996	1	shaq
+4240	3	paperboy	hannibal	hannibal hamlin
+4505	1	vaporware
+2292	1	contemporary music
+537	1	seclusion
+4647	1	forsyth
+3685	14	paprika	serbian descent	naple	ubaldo jimenez	sinner	rub	smoothy	emboli	gram	airhead	lonavala	closeup	jest	dark yellow
+3446	2	ford	edsel ford
+4753	1	leawood
+184	1	buchholz
+157	3	bill cosby	cosby show	cosby
+1764	1	milli second
+2381	3	item interest	food item	interest
+444	1	assembly
+3827	1	archimedes principle
+4529	1	michaelangelo
+810	1	president theus
+558	4	variety faith	faith prayer	raised voice	faith
+1669	1	martini
+1254	2	port charlotte	charlotte
+3457	7	tcl file	lynchburg	clearwire	tcl main	nextel cup	tcl	rsa conference
+2823	6	perfect	enemy	perfect security	excellent condition	friend enemy	perfect condition
+4934	1	kay
+753	1	explosive
+2461	1	superior team
+1786	2	christian persecution	christian identity
+4436	2	vlad tepe	tepe
+1902	1	incarnation word
+1891	2	urdu	hindi
+158	1	carlin
+1430	12	san carlos	san diego	san fernando valley	south san francisco	saint johns	austin city limit	san antonio	san francisco	san jose	san pedro	san antonio spur	san juan
+1025	2	cook	good cook
+3292	1	basic literacy
+3803	1	stranding
+328	1	rebecca
+1426	1	berkeley
+905	2	immigration	immigration policy
+2787	2	safe manner	safe area
+3730	1	rage
+1495	2	mathematics	simple mathematics
+1560	1	quarry
+294	1	greg reynold
+4008	3	richie mccaw	craig mccaw	mccaw
+516	1	lip os
+1035	1	sit
+1969	1	denmark
+3839	1	genesis
+2679	1	technological system
+4227	1	detractor
+3396	1	insufficient school ranking datum
+435	1	species
+3606	1	smoking
+1074	1	console game
+1867	1	new delhi
+4669	1	squamish
+3204	6	phone	telephone interview	frequent visitor	telephone	phone interview	email telephone
+2430	3	similar comment	comment	televised comment
+1184	6	paradise valley	western iowa	iowa fall	iowa city	colorado	iowa
+1806	2	teenager	normal teenager
+1338	2	la vegas	vegas
+950	1	gallipoli
+656	1	durable
+4498	1	catagory
+3921	6	idea	justice	constantine	gaul	john constantine	constantine vii
+1427	1	irvine
+1263	1	nebraska
+2039	2	ford truck	truck
+1303	2	brand	brand new
+4874	1	pvc
+2496	2	supreme ally commander	commander
+2501	1	monarch
+1286	10	weld county	lake county	kaiser family foundation	cathedral city	lake city	fiscalde centralization	temperance cause	cruel unusual	jackson mississippi metro area	pore size
+176	1	linda tellington jone
+4277	1	cantwell
+3704	1	usgovt
+4627	1	sf
+2012	1	ariel sharon
+1384	1	williamsburg
+3729	2	revenge	vengeance
+941	2	cobra venom	cobra
+1257	2	miami garden	miami
+3604	1	pain relief
+2645	2	previous owner	home owner policy
+1565	1	saddle
+1368	1	greenwood
+2352	1	wholesale store
+3683	1	pepperoni
+576	1	vulnerability
+4363	1	cardew
+1420	1	crisler arena
+878	1	defamation
+2099	1	surcharge
+1264	1	oklahoma
+2054	2	mathematical formula	formula
+2429	2	brief statement	brief interview
+1477	9	director central intelligence	pace university	director	american federation teacher	teacher	institute	college student	central intelligence agency	phillip academy
+3117	1	past
+3367	2	labor	cheaper labor
+3236	2	different intensity	intensity
+1885	1	judaism
+2885	1	huffington post
+4048	1	hefner
+2302	3	assortment style	particular style	style
+1875	2	orthodox priest	orthodox christian
+2340	3	current time	limited time	full time
+2371	7	continental	eastern europe	continental europe	eastern language	europe	early modern europe	continental congress
+2979	2	promise	promising deliver
+972	1	child fault
+361	5	fight club	club	good fight	national press club	fight
+4690	1	seaport
+796	7	bush appointee	republican administration	reagan	reagan bush	ronald reagan	george bush	bush
+4439	1	moab
+3020	1	scottish executive
+4859	1	carburetor
+4824	1	floodplain
+514	3	breast prosthesis	prosthesis	server
+45	3	oct	aug	feb
+269	3	martin	kevin johnson	kevin martin
+2691	6	glass house	glass	fresh water	plenty water	pure water	glass water
+155	1	leno
+859	1	rape
+716	1	balkan
+1546	1	hut
+4606	1	hauppauge
+2426	1	palestine hotel
+2083	4	hotel price	price	additional price	lower price
+4579	1	shumpert
+2179	1	microchip technology inc
+1191	1	garden grove
+893	2	favour defendant	defendant
+832	1	versaille republican
+2252	2	editorial content	editorial
+3505	2	fleetwood mac	mac
+2394	2	international relation	international collaboration
+3678	1	scopus
+575	2	health wellbeing	wellbeing
+426	3	cat	bob cat	raven
+1233	1	niagara fall
+573	1	charisma
+3517	1	programmer
+1678	2	investigation	starrs investigation
+2848	1	healthy cardiovascular system
+635	11	oil fuel	energy	oil	alternative energy	solar energy	renewable energy	alternative content	good soil	alternative	crude oil	fuel oil
+3955	1	strangulation
+52	1	wellington
+59	1	atlantic beach
+405	1	submarine
+1836	1	buycom
+4283	1	suwanee
+3491	1	paypal
+1326	2	el cajon	el monte
+2510	4	strong influence	influence	significant influence	great influence
+4963	1	cor
+3720	1	defiant
+4307	2	slide show	febuary
+217	2	james dickey	dickey
+3537	1	armour
+2209	7	planet earth	western	earth atmosphere	international religious freedom act	earth	western country	earth science
+3370	1	strike
+3223	4	sexual harrassment	sexual indiscretion	domestic assault	sexual assault
+1445	2	field cut	thenbaall rookie first team
+3712	1	selfishness
+1826	2	savvy businessman	good businessman
+3074	2	letter box	box
+2081	1	auction
+3501	1	toshiba
+3417	1	moratorium
+230	1	king charlesii
+83	4	highway	bus	interstate highway system	interstate
+2554	2	floridas gulf coast	gulf coast florida
+98	3	studio	studio quality	universal studio
+166	1	rector
+856	2	serious offense	offense
+4807	8	chester	synoptic gospel	horace walpole	century more	horace	west chester	century	messiah college
+3608	1	beverage
+2984	1	faster
+4869	1	octahedron
+3622	2	bacterial infection	surgical infection
+4293	1	texarkana
+3115	3	extremely	rough year	long stand
+3624	1	spinal meningitis
+3866	1	stardom
+2171	1	tablet capsule form
+1016	2	crowd sourcing	crowd
+565	2	self destruction	self destructive behavior
+839	1	american independent party
+4257	1	sarge
+1853	2	pt	pt attack
+384	5	france	proposal submission	garden france	king france	eighteenth century
+2144	10	dolby digital ex	stereo	dolby digital stereo	dolby digital surround sound	surround sound	digital sound	dolby surround sound	dolby digital	surround	ex
+3731	2	bad fellow	suicidal feeling
+4136	3	virtualization adoption	virtualization	server virtualization
+751	2	bomb	cherry bomb
+1794	1	resident
+4727	1	porterville
+4081	1	catalytic converter
+4808	3	horace greeley	greeley	greeley county
+1932	2	kenya	uganda
+479	13	biology	metabolic pathway	mathematical biology	evolutionary biology	quantitative data	department cultural resource	good nutrition	active ingredient	computational biology	web browse	biological function	attrition warfare	natural ingredient
+4231	3	nikola	nikola tesla	tesla
+4968	1	sponge
+4901	1	thieve
+4782	1	temptation
+1245	2	board regent university california	board regent
+3907	1	bce
+2468	6	rochester new york metro area	seasonal employee	franchising com	lawrence massachusetts new hampshire metro area	cheaper andc heaper	matthias corvinus
+4735	1	moorpark
+1355	1	delaware
+4930	1	pa
+4577	1	buccaneer
+1753	1	dortmund
+2584	4	main section	distinct section	separate section	section
+1359	2	auburn hill	auburn
+1017	1	laughter
+2315	1	souvenir
+4614	1	heathrow
+2569	2	transit	transit use
+4607	1	chappaqua
+3982	2	buzz	buzz aldrin
+2264	2	alternate current	alternate end
+3202	3	wireless transmission	wireless capability	wireless technology
+1927	1	peru
+3005	4	national joke	whole new persona	unlimited capacity	joke
+491	1	medical condition
+821	3	barack obamas campaign	obamas campaign	campaign
+3371	2	community reinvestment act	nurse reinvestment act
+3617	2	marijuana	ymca
+1685	1	condoleezza rice
+3157	1	urgency
+2015	1	cairo
+3203	1	provider
+3848	3	bible verse	god bible	bible
+2123	7	different rate	emperor diocletian	high birth rate	state library victorium	enormous rate	enormous proportion	extraordinary rate
+761	1	deliberate planning
+825	7	hillary	port clinton	sen hillary clinton	hillary clinton	senator hillary clinton	sen	rodham
+1063	1	soundtrack
+507	4	loving relationship	lesbian relationship	homosexual relationship	intimate relationship
+2800	7	rebirth	life rebirth	kind	sense	sense belong acceptance	common sense	remote sense
+67	1	corpus christi
+179	1	lowe
+4411	1	tb
+4485	1	ncop
+3776	2	krono quartet	quartet
+3377	3	state art facility	majority leader	permanent state
+745	1	bribery
+1348	1	moon
+1649	1	hair
+3699	2	willy	slick willy
+3124	1	ac motor
+1178	2	salt lake city	salt
+2850	1	sick
+1566	1	hat
+4050	4	tv commercial	rupert	murdoch	rupert murdoch
+3348	1	solution
+2132	1	downward
+3661	1	insulin
+293	4	greg harris	dan majerle	jennie finch	greg norman
+54	1	kimberley
+1203	3	hot	rocky	colorado rocky
+3998	1	bryant
+3364	1	opposition
+555	3	nurture not nature	nature	financial nature
+219	14	madara	richard pryor	married couple family	ascary thing	briar cliff manor	sweetheart	mark pryor	bryan road	compton	clint hurdle	married man	pryor	uchiha itachi	hopeful
+1706	1	liverpool football club
+4445	1	bishopville
+1078	1	bd player
+723	1	ankara
+1346	1	sun lab
+4215	1	cuzco
+275	2	ross	ross perot
+4195	1	imitation
+4503	1	skillz
+1982	1	venice
+3545	1	cylinder
+3952	1	confusion
+429	1	reptile
+2592	2	residential zone	zone
+937	1	grand blanc
+3168	4	freedom	washington freedom	religious freedom	freedom liberty
+3350	1	negotiation
+3559	1	radius
+4308	1	afganistan
+3213	1	hughe electronic
+4442	1	summerville
+1413	1	nc
+1133	1	honor
+1121	2	christmas eve	christmas
+1819	1	avid reader
+2608	2	lean manufacturing	manufacturing
+569	2	comic genius	genius
+4810	1	hartwell
+3256	5	magnitude	order magnitude	industrial complex	probability	military industrial complex
+2859	1	exposure
+2040	6	compact car	car	hybrid vehicle	hard drive space	target	passenger car
+4443	1	asheboro
+4263	1	oden
+2052	1	lap
+2785	6	behavior	pattern behavior	learned behavior	pattern	similar pattern	modern phenomenon
+1320	1	punta gorda
+4507	1	sarmatian
+4281	1	milledgeville
+1244	1	daly city
+4584	1	vegeta
+3740	1	hatching
+414	4	force	air power	royal australian air force	air force
+1622	1	grey
+3787	2	beautiful landscape	beautiful imagery
+1802	1	dad
+3332	1	feasibility
+403	1	radar
+1174	1	ivory tower
+1968	2	southern sweden	sweden
+301	2	david shepard	david chapman
+1748	3	german development policy	germany	german
+2873	1	fear
+3004	3	national association underwater instructor	association	national eagle association
+1319	2	sierra vista	chula vista
+77	3	station	fairfax	fairfax station
+211	1	mead
+4506	1	butthead
+2377	1	imagine america
+1475	5	morgan	morgan hill	howard	howard dean	dean
+4795	1	fang
+2310	3	still gallery	gallery	photo gallery
+4193	1	artefact
+2413	2	visionary	national visionary leadership project
+3717	1	laugh
+3194	2	hierarchical system	binary system
+3303	2	new concept	simple concept
+4153	1	scrabble
+4368	1	whataburger
+3160	2	consideration	important consideration
+2465	1	guard
+1290	3	wyoming county	county massachusetts	bureau county
+1721	1	bioenergy research
+225	3	cliff edward	cliff	edward
+2095	4	additional fee	nominal charge	fee	nominal fee
+2484	1	ground squirrel
+4482	1	sigil
+2949	3	trouble	serious trouble	big trouble
+3879	1	map
+4255	1	swayne
+2565	1	residential neighborhood
+4300	1	raceland
+2965	2	run block	run
+3902	3	transylvania	seychelle	slavs
+952	2	battle	naval battle
+3933	4	face	naruto	naruto face	new face
+647	4	hinge cover	album cover	cover	fat today
+2335	7	olympic	beijing	beijing olympic game	summer olympic game	charlton athletic	beijing olympic	olympic green
+2408	1	effect
+2285	3	performance	positive performance	show performance
+1692	2	sharingan	sultanate oman
+4996	1	gassaway
+3977	1	gade
+2937	2	good match	match
+175	2	macneil	robert macneil
+1316	1	rio grande
+4830	1	disciplinarity
+2811	1	multitude way
+2567	1	mass communication
+2548	1	disaster
+4817	1	abia
+1363	3	columbus ohio	southeastern ohio	columbus
+4842	1	regina
+3746	1	demon
+4108	1	lid
+168	1	rev
+2473	1	north american cordillera
+4297	1	batesville
+4884	1	lactose
+131	1	shrek
+1446	1	coor field
+1652	3	white collar crime	collar	blue collar
+3440	4	new hampshire primary	regional leader	key battleground state	new hampshire
+2014	1	jerusalem
+1126	1	invitation
+3554	2	square	square shape
+8	1	telethon
+3688	1	carrot
+1309	1	jp morgan
+1511	2	other institution	institution
+1253	1	hampton
+4369	1	autoplay
+899	1	proof
+2079	10	rental rate	rental	rental purchase	disney world	purchase	purchase online	sale october	great purchase	day purchase	sale rental
+2288	2	irish dance	dance
+1977	8	carthaginian army	roman empire	roman	empire	carthaginian empire	roman republic	holy roman empire	western roman empire
+837	3	labour party	labour	progressive party
+4075	3	plasma	lcd screen	lcd plasma
+3137	4	abc news	abc debate	mtv news	abc
+42	1	stirling
+1059	2	american dream	dream
+628	1	sub
+2600	5	northern arizona university	university south carolina	south carolina	south dakota	midwest league
+4314	1	clarinda
+1634	4	asmo	red velvet cake	shrink wrap	red velvet
+4030	1	virgil
+2743	4	multiple meaning	variety method	special person	multiple method
+266	1	james maxwell
+138	2	pretty thing	pretty
+3755	1	judas
+663	1	rubber tire
+3751	1	vampire
+1172	1	palace
+235	4	miller	steve miller	steve	steve nash
+3102	1	longer
+4890	2	prim eminister	collector item
+3388	2	delegate	super delegate
+4680	1	lanark
+1672	1	kyuubi
+3349	1	compromise
+3815	1	parable
+3327	1	movement
+2773	2	tone	desperate tone
+1225	1	milwaukee
+4358	1	sorcery
+2235	7	best motion picture drama	best wish	picture	hard look	look	best picture	columbia picture
+4038	3	jimmy	jimmy buffett	buffett
+817	2	strong candidate	candidate
+1944	1	canadian
+1385	1	fredericksburg
+2623	5	customer demand	customer	great demand	high demand	demand
+1006	1	house commons
+4425	1	rutger
+650	1	rope
+4084	1	equilibrium
+3667	1	readership
+4044	1	xm
+2617	6	local shop	shop	small shop	barber shop	leadership alliance	washington thursday
+892	5	character character basis	dvd case	clear case	case case basis	limited basis
+4935	1	neosho
+1343	1	hostess twinky
+772	1	demise
+629	4	propane grill	propane	downtown telluride	todd bodine
+688	1	catalyst
+3484	1	lifethreaten
+2441	3	china	china town	south china morning post
+2784	1	perception
+2920	2	content delivery	instructional material
+2067	2	giant stride	stride
+1488	2	brighton	dublin
+4079	3	coil form	coil	tesla coil
+4365	1	slipcover
+4309	1	niceville
+4070	1	lithium ion battery
+1353	1	connecticut
+1912	3	subtitle	english dub	english subtitle
+124	1	gentleman
+4356	1	wicca
+116	1	preview
+2036	1	fuel efficient vehicle
+4546	1	kryptonite
+2866	1	potential
+1248	2	anchor bay	anchor bay entertainment
+1143	2	climb	rock climb
+3	1	lf
+3565	4	decimal fraction	fraction	decimal	decimal format
+561	2	self knowledge	knowledge
+1312	1	penney
+433	1	fishery
+991	1	pleasure
+2938	1	draw
+4673	1	cashel
+2840	1	suffering
+3994	2	lakers	celtics
+3967	1	mcr
+1989	3	victory	win	big win
+344	2	ron	ron weasley
+2497	4	build command	command	international human right law	simple command
+971	2	unborn child	child molester
+3456	1	tcl read char
+4354	1	batesburg
+3439	4	gang new york	new york tribune	tribune	harlan
+56	4	palm harbor	subic bay	west palm beach	palm bay
+2953	2	dvd forum	open forum
+1425	1	duluth
+807	4	vice	high growth market	vice president	association president
+543	2	dignity	little dignity
+4954	1	galilee
+2603	1	ozarks region
+1391	1	greensburg
+460	1	chapter
+4055	1	dame judi dench
+3193	1	observation
+954	1	gettysburg
+253	2	henderson	fletcher henderson
+4142	1	rgb
+1687	1	libby
+992	4	magic	orlando magic	east orlando	orlando
+3736	1	opportunist
+2704	5	hundred	sofa bed	fence	hundred device	sofa
+3265	3	individual organization	society individual	individual
+844	7	party	republican party	new democrat	democrat party	liberal democrat	democracy	democrat
+1432	1	tucson
+3057	1	attendance
+3278	1	creativity
+2891	3	taliban	pakistani taliban	afghan taliban
+1890	1	conception
+2243	2	print note	print
+1107	1	port st lucie
+4837	1	netaji
+20	1	sussex
+4371	1	corbis
+692	1	police power
+2030	1	danzo
+579	1	usefulness
+4046	1	primestar
+4875	1	polyethylene
+4387	1	apax
+4117	1	marksmanship
+2004	1	baghdad
+4376	1	isg
+4956	1	harlingen
+1803	2	comeback kid	kid
+231	2	big buck	buck
+3949	1	inferno
+4336	1	bathgate
+3522	3	twitter	facebook	myspace
+3636	1	chemotherapy
+2754	2	process capability	capability
+2447	1	tokyo
+4261	2	denny hamlin	hamlin
+4344	1	rybak
+640	1	candle
+505	1	cohabitation
+4128	1	disguise
+4488	1	capsicum annuum
+3790	1	mythical proportion
+3583	1	counsele
+1440	6	thomas	edison	james thomas	unconventional idea	thomas edison	thomas alva edison
+2614	12	older group	digital right management	online consumer	percent complaint	consumer complaint	today consumer	physical complaint	select customer	car insurance premium	consumer	online life	complaint
+4417	1	actuary
+3031	1	british sky broadcasting
+3014	6	secretary state	then ugget	naval academy	home secretary	western reserve	army reserve
+1181	1	tom river
+2550	1	surge
+2107	1	negative role
+1981	1	italian
+2216	1	tiptop shape
+1942	2	university alberta	alberta
+1975	5	bishop rome	saint cloud	new rome	rome	john bishop
+4018	1	ledgewood
+1971	1	spain
+4078	1	rf
+1756	2	netherlands	dutch
+1411	1	raleigh
+1405	1	rockingham
+2604	1	northeast
+3747	1	beast
+1011	1	tear
+4925	1	vida
+3273	2	emotional personal reason	personal weakness
+3649	1	exercise
+3506	2	macs	big macs
+1660	1	wwwamazoncom
+3430	1	new twist
+391	1	putney high street london
+3161	1	tact courtesy consideration
+1530	2	stable foundation	foundation
+1106	6	st croix	st augustine	saint paul	fountain hill	st petersburg	saint
+443	2	public speaker	speaker gingrich
+1841	2	lady	lady man
+4311	1	satc
+4881	1	starch
+3904	2	byzantine	byzantine emperor
+3876	1	cartography
+420	1	farm ranch
+2092	1	euro
+2715	3	practice space	technique practice	practice
+3616	1	cocaine
+581	1	greater hazleton
+4962	2	bonito	pueblo bonito
+3414	1	eu
+653	3	glass plastic	plastic	plastic cap
+1345	17	home video	traditional video	sun	secret	arkansa	video file	sun city	direct	song file	city service	word god	direct effect	sun wind	word file	phoenix sun	sony home entertainment	file
+4758	1	springville
+1399	1	germantown
+4446	1	hartsville
+3453	7	hyundai motor company	hyundai kia automotive group	sponsorship deal	tcl getopenfile	hyundai motor america	hyundai	hyundai motor
+1020	1	high pitched voice
+4914	1	buckhead
+4225	1	revote
+3584	2	partial seizure	seizure
+4831	1	densitometer
+2686	2	measurement service	specific product service
+3013	3	general contractor	foreign visitor	general
+3658	5	healthy diet	healthful diet	universal coverage	balanced healthy diet	healthy balanced diet
+3799	1	elephant
+829	1	mrs kerry
+343	5	brian	brian skinner	brian fuente	skinner	closer brian fuente
+4279	1	newnan
+2983	1	find
+725	4	greek letter	greek	symbol	greek symbol
+3571	2	vector image	biological system
+106	2	home cinema	cinema
+3810	1	seduction
+1742	1	switzerland
+1265	1	southwestern utah
+3979	1	vicky
+4169	1	plugin
+4244	1	jonstewart
+1067	2	roll	rock roll
+3012	2	report	credit report
+4729	1	indio
+4324	1	centereach
+379	1	regulator
+4975	1	goner
+2802	1	thought
+4237	1	dracul
+2247	5	message	text	obamas message	text message	black text
+674	7	harwood height	aluminum	steel plate	steel	stainless steel	aluminum steel	steel aluminum
+800	2	bush sr	franklin township
+2597	1	north shore
+4004	1	jameer nelson
+2395	1	amnesty international
+352	3	john edwards	francis lawrence	john
+3101	1	no
+2652	1	significant morbidity mortality worldwide
+3631	3	range symptom	psychotic symptom	symptom
+1274	3	maine legislature	university pennsylvania	maine
+4493	1	satanist
+1574	2	dress	loose
+2294	2	great song	real song
+1468	2	oxford	cambridge
+4655	1	denison
+3737	1	legally blonde
+392	1	london dungeon
+4448	1	silverthorne
+2636	2	investment	infrastructure investment
+2958	2	competition	annual competition
+445	1	parliament
+4768	1	covington
+5006	2	pic	pic microcontroller
+2141	2	high noon	humidity
+506	1	relationship trust
+541	2	fairness honesty	fairness
+2594	1	designate area
+4384	1	tess
+1878	1	preach
+1931	1	chechen republic
+3264	2	outcome size	outcome
+1862	2	malaysia	malaysian
+214	1	trent lott
+2864	3	psychological effect	severe psychological physical dependence	psychological dependence
+914	1	waco
+1190	1	napa
+3276	1	real estate fraud
+4319	1	slidell
+2291	2	national concert hall	concert
+4049	1	playboy
+2702	2	lie	small lie
+2055	2	grid	grid pattern
+1769	3	sole emperor	north portugal	sole ruler
+430	1	mammal
+4175	1	tactician
+1375	1	warwick
+3375	1	gramm leach bliley act
+2512	1	legacy
+2693	1	dry bulk
+4575	1	loon
+2759	4	material reality	raw material	reality television	reality
+974	3	infant	sudden infant death	rothschild family
+4545	1	bindu
+4522	1	bocock
+3296	1	illustrative purpose
+1221	3	baltimore	boston	new boston
+2076	2	deep discount	discount
+3515	3	blog podcast	blog	msnbc
+377	1	irc sec
+1523	1	junior
+1874	3	catholic pope	catholic	catholic church
+66	1	galveston
+4816	1	charle batchelor
+3895	1	sicily
+2013	2	israel radio	israel
+698	3	handheld device	device	variety device
+4434	1	neji
+4120	2	few drawback	drawback
+4640	1	mar
+2583	1	pertinent part
+3121	1	amtrak
+2876	1	emotional instability
+3080	1	large organisation
+4454	2	kishimoto	kishimoto sensei
+4855	1	heartbeat
+2912	1	market liquidity
+3305	2	good background	different background
+4851	1	impairment
+4196	1	flattery
+888	1	genocide
+1720	1	nfl
+1682	1	suggestion
+4183	1	irreverence
+2234	1	image info
+3076	4	bar chart	florida bar	texas bar association	bar
+4725	1	sunnyvale
+2239	4	group view	view	mountain view	view today
+1580	3	odd	persona	early show
+534	1	hyperbole
+4756	1	provo
+4772	1	torrington
+1021	1	bored voice
+4185	1	empathy
+3301	3	innovative programming	procedural programming language	leitchfield
+1498	2	classroom	home classroom use
+3270	1	liquidation value
+550	5	bunch friend	life	serious illness death	quiet life	happy life
+3085	1	single serving
+2103	1	upgrade
+1507	3	oberlin college	strapon	haverford college
+4082	1	solenoid
+2838	1	cardiac arrest
+2244	1	copy
+3781	1	enigma
+62	3	commercial exploitation	jensen beach	bondi beach
+2435	4	road	road trip	power trip	trip
+1689	1	stephanopoulos
+3068	1	number entrant
+200	1	peter sellers
+3837	2	book covenant	new covenant
+1083	2	unconventional career	remarkable career
+1138	1	weather
+4205	1	goth
+4847	1	oj simpson case
+393	1	london metro politan police
+1655	1	mechanic
+300	2	alan moore	alan
+1090	1	siege
+2803	2	american phenomena	sort
+4989	1	dalla
+790	1	mayor
+439	3	bhutto assassination	benazir bhutto	benazir
+970	1	invisible child
+306	5	william	clark college	william casey	william wallace	william clark
+3742	3	dixie	dixie chick	chick
+3374	1	unpaid bill
+519	3	eye candy	sasuke eye	eye
+851	1	peso
+383	1	french nobility
+3187	3	appropriate unit	unit	unit measure
+127	3	mouse rat	shark writer	mouse
+2034	3	front camera	front royal	front
+556	2	eternal life	eternal existence
+1267	2	mississippi	university southern mississippi
+4759	1	sandpoint
+2821	3	bypass surgery	heart surgery	surgery
+1013	1	bolt lightning
+1638	6	left field	red sox	tim red	boston red sox	bossier city	kyle busch
+480	1	physiology
+4920	1	ni
+4345	1	bilo
+4003	9	dwight howard	screen castcom	new york knick	new york state public service commission	calif	dwight	knick	luke allen	porter
+3963	1	censure
+4697	2	denali	denali highway
+1134	1	tribute
+4689	1	shoreham
+994	2	grace god	grace
+1400	1	savannah
+120	1	thedalailama
+3328	1	hamas
+48	4	melbourne	fremantle	sydney	sydney opera house
+2169	5	amare stoudemire	tablet pc	different source	tablet pcs	tablet
+2697	3	cool	dry cool place	cool place
+3083	3	independent person	position independent code	independent means
+2282	1	emi
+3312	3	plant cell wall	plant cell	cell
+3605	1	fatigue
+907	4	forced marriage	marriage license	gay marriage	marriage
+1450	1	ame laboratory
+4366	1	tupperware
+332	1	joan crawford
+2313	3	chinese	chinese painting	painting
+2009	1	jordan
+2589	2	village	leaf village
+3925	1	brutus
+4350	1	fausta
+3664	1	anfascism
+3444	2	roadster	tesla roadster
+2601	1	south waziristan
+4985	1	loner
+1749	1	berlin
+193	2	davison	peter davison
+2328	2	photo	photo album
+889	1	humanity
+4204	1	muse
+660	4	optical technology	optical	optical medium	optical disc storage technology
+4379	1	rubell
+562	2	human wisdom	wisdom
+748	2	considerable controversy	controversy
+1501	1	school textbook
+4961	1	achemist
+1592	1	mint
+1099	1	ocean point
+4187	1	foresight
+4827	1	baton
+4284	1	clarksville
+1966	2	macedonia	hungary
+2420	1	copenhagen summit
+1417	1	arbor
+4504	1	roughage
+137	2	nasty stuff	nice stuff
+4259	1	marv
+867	2	theft	data theft
+782	4	harry truman	nailbrush	truman scholarship	truman
+1376	1	byrd
+883	2	copyright	copyright law
+1763	1	warmup
+3183	1	operator
+564	2	self deprecation	self medicating
+4158	1	vcd
+89	1	cr
+849	1	witness
+1547	1	log
+2807	2	do	need
+2196	3	engine efficiency	cd expression	expression engine
+1256	1	tampa
+2901	1	imperial war museum
+289	1	jackie
+1812	1	personality
+3511	3	window	linux	window linux
+119	1	caption
+2845	4	good digestive health	digestive health	gut	gut health
+542	1	credibility
+1852	1	raja bell
+1473	2	department finance	harvard
+295	1	joel
+2699	1	empty rhetoric
+1387	1	bloomsburg
+4780	1	awaken
+1077	4	standard fare	standard dvd player	user goal	dvd player
+3917	1	illyricum
+2043	2	used car salesman	tony womack
+2745	4	better option	various option	bad option	option
+4728	1	vacaville
+90	1	sh
+1751	1	asmodai
+4848	1	oj
+0	1	airstrike
+139	1	ugly thing
+3627	1	plague
+2851	1	treat
+3741	1	brood
+3794	1	excalibur
+375	1	audit
+4560	1	nonissue
+5002	1	hist
+1389	1	erie
+326	1	lori
+1916	1	guam
+4323	1	titusville
+706	1	basetrim
+2319	1	shoe
+1701	1	herman wouk
+1755	1	sc
+2988	1	easy rider
+3063	1	numbered list
+1407	1	martinsville
+3478	1	taxe
+1711	1	go dot
+842	2	politic	democratic politic
+3402	5	new deal program	great deal	new deal	good deal	year deal
+779	1	fdr
+2308	2	weave design	green wood avenue
+4399	1	kisame
+2559	1	lanta center
+1024	1	click sound
+1610	3	vegetable food	fruit vegetable	vegetable
+2507	1	cult member
+809	4	former president	former president bill clinton	president kennedy	president john kennedy
+2048	1	bicycle
+340	1	sarah silverman program
+773	1	incident
+2590	6	town next	town	town today	lake worth	great area	winnipeg jet
+1069	3	jazz	jazz drummer	jazz music
+4708	1	cohasset
+2605	1	province
+1200	1	jade tree
+3813	1	symbolism
+65	2	pensacola beach	pensacola
+535	1	hype
+407	1	flight
+5004	1	cel
+99	1	animation
+1601	1	chocolate
+4951	1	corral
+486	1	eisen hower institute
+1845	1	genjutsu
+1118	1	denham spring
+1471	1	princeton theological seminary
+1336	2	aurora	east aurora
+2003	2	saddam	saddam hussein
+2382	1	compound interest
+4620	1	telegraph
+2895	2	russian history	russian federation
+3499	1	laptop pda
+3071	1	human sight
+4478	1	balm
+4083	3	flux	magnetic flux density	state flux
+2670	1	life peer
+2290	1	tune
+309	2	vincent foster	vincent
+959	1	armored
+1110	4	university missouri	missouri	missouri st	university maryland
+3956	1	asphyxiation
+3250	1	disk
+71	1	kissimmee
+2797	1	lesson
+2417	2	last meeting	meeting
+4367	2	dunkin	dunkin donut
+2504	3	australia lead university	australia pga	australia
+3255	2	scale	logarithmic scale
+1212	1	nashville
+1761	1	leg
+4461	4	kiple	schizophrenia patient	orochimaru	deg
+4755	1	coffeyville
+210	2	mark twain	twain
+966	4	fort washington	fort lauderdale	fort	fort pierce
+3096	2	lock out	out
+4320	1	acworth
+3054	5	dvd talk	count manslaughter	full count	count	number count
+3029	2	appearance	beauty physical appearance
+508	1	unhealthy relationship
+1036	2	nearby restaurant	restaurant
+1010	1	charcoal fire
+3514	2	microsoft	microsoft office share point server
+427	4	dog food	puppy dog	dog	dog training
+3710	1	guilt
+1328	1	disneyland
+1558	2	databasis	watton stone
+4491	1	voltron
+33	1	salford
+3690	1	soup
+2549	1	tragedy
+2362	1	acceptable use policy
+976	1	killer
+2612	1	commodity product
+3144	1	conjunction
+4565	1	reproof
+3467	1	memorabilium
+1347	2	jupiter	jupiter moon europa
+1663	1	desmoine
+4501	1	jawbreaker lariat
+1458	2	rd degree mason	degree
+1161	1	swanston street
+1241	3	kansas city metropolitan area	oklahoma city	kansas city
+1948	2	soldier	fellow soldier
+4535	1	kansa
+4600	1	dirty rotten scoundrel
+2909	5	stock position	holy well	well	stock well	stock
+4123	1	lifesaver
+2879	3	poverty status	dependence	relative poverty
+1658	2	regent street cambridge	clerk
+766	1	casualty
+5005	1	cdr
+3315	1	body
+1671	1	specialty
+4087	1	selectivity
+3620	2	diarrhea	diarrhoea
+2242	2	pen paper	paper
+673	2	metal	hard rock metal
+2732	1	full colour
+4878	1	acetaminophen
+1321	1	largo
+4035	1	stan jame
+1351	1	bridgeport
+1709	2	golf	volkswagen golf
+3201	2	mobile	mobile professional
+922	1	parole
+2451	2	best art direction	direction
+15	1	martyr
+4900	1	shelve
+4987	1	techie
+4643	1	huddleston
+3140	1	cbn news
+2957	5	give	opportunity	chance	great opportunity	missed opportunity
+1596	2	lemon grove	lemon
+3269	1	property value
+1044	3	larry king	larry king tonight	larry king live
+4295	1	pikeville
+1881	1	deity
+4760	1	florissant
+4440	1	palu
+1478	1	university wide committee
+183	1	josh fogg
+3469	1	rams bottom
+4209	1	zouk
+2893	2	border	gaza border
+208	1	bernard baruch
+3705	2	disbelief	amazement
+4718	1	crestview
+3764	2	paul bernardo	bernardo
+2016	1	amr
+2306	2	interaction design	interface design
+102	1	goofy movie
+2521	3	decade	next decade	more abstract level
+2656	1	sugar content
+2428	2	written statement	statement
+3487	2	amazon com	amazon
+4385	1	accenture
+35	1	inverness
+190	1	laurie
+2189	2	electronic business	electronic music
+337	3	rachael	rachael ray	diabetic
+1527	5	medieval iceland	liberal art college	leisure time	art school	art
+2804	2	mind	little mind
+4499	1	blockhead
+2798	3	circumstance change	specific trait	different circumstance
+1357	1	purdue
+1144	1	mountain biking
+1199	2	palm tree	tree
+2529	2	african american	african american heritage
+951	1	waterloo
+3146	1	ad
+3069	2	american red cross	cross
+382	1	shirt jean
+2778	2	extra bit	bit
+956	2	artillery mortar	coast artillery
+4527	1	lic
+720	1	prime factor
+2516	1	viking age
+3281	1	social stimulation
+4325	1	chiefland
+4455	1	masashi kishimoto
+468	1	neurology
+1598	1	strawberry
+312	1	simon renshaw
+329	1	amy
+719	2	interior	interior space
+1699	5	morton feldman	marty feldman	feldman	security clearance	scott feldman
+1676	1	monica
+3520	1	download
+3494	1	airtime
+488	2	kindergarten	preschool
+191	1	harley davidson
+450	1	incentive
+3964	1	motion
+610	2	cultural survival	survival
+3300	2	visual analysis	visual material
+4751	1	pflugerville
+758	2	control plot	plot
+2434	1	advance
+4982	1	clown
+1142	1	mount olympus
+37	1	dundee
+2259	2	order precision	coin magic
+4748	1	lakeville
+2363	3	political integration	social integration	economic integration
+1683	1	resignation
+2546	3	doom quake	earthquake	quake ii
+3143	1	partnership
+834	2	democrat national convention	democratic national convention
+1529	1	literature
+1342	1	poker
+243	2	george mason university	mason
+4969	1	husk
+3309	1	sequence
+857	2	serious offence	criminal offence
+1149	2	guide	study guide
+3618	1	meth
+3869	1	breakthrough
+1590	1	crisp
+3408	1	extension
+4388	2	arthritis rheumatism	athen
+2522	3	day period	transition period	period week
+2050	2	drag city	drag
+2513	1	lifetime
+2318	1	hobby
+742	2	intelligence	artificial intelligence
+4864	1	mastectomy
+2027	3	national poll	gallup poll	poll
+4750	1	muscatine
+3985	1	booker
+811	1	disasterous president
+2896	2	moscow	russia
+586	2	important criterion	criterion
+1559	2	fort mill	mill
+1373	1	lancaster
+4094	4	tcl geterrno	protein protein interaction	multiple server	protein function
+4898	1	constrain
+3817	1	ideology
+3526	1	wral com
+509	1	friendship
+3274	1	personal integrity
+3659	2	nutritional health	nutritional knowledge
+4764	1	canandaigua
+4156	6	vhs	tape	videotape	vhs video	vhs tape	vhs videotape
+1228	1	toledo
+2860	2	harm	physical harm
+192	1	jon
+3345	1	delay
+3525	3	keyword stuff	usage	keyword usage
+3516	1	blogger
+670	1	brass
+2509	2	uk parliament website	uk
+4348	1	arius
+1758	1	dirk
+43	1	hrs
+4972	1	wimp
+1382	1	lexington
+1629	1	green cove spring
+2486	1	shield
+478	1	monash asia institute
+1754	1	hamburg
+4662	1	molay
+4628	1	oa
+3077	1	small apartment
+4624	2	gigabyte	gigabyte datum
+198	1	paul tsongas
+248	2	graham chapman	graham
+2402	1	variety community event
+2633	1	tuition exchange
+3671	1	inquirer
+4406	5	pertussis	tuskegee syphilis study	stds	dd	bordetella pertussis
+3594	3	alcohol poisoning	alcohol	alcohol addiction
+693	1	power dynamic
+4674	1	grafton
+4069	1	clay
+1072	3	star trek	star trek fan	star wars
+3471	1	favre
+3451	1	automobile
+455	1	torture
+1317	1	janeiro
+3874	1	strategic conquest
+3437	1	new recruit
+1980	2	italy	southern italy
+4771	1	severn
+2898	2	civil war	ministry war
+2002	7	afghanistan iraq	avoteof	afghanistan	iraq war	group study	iraq study group	iraq
+890	2	trial	mock trial
+4932	2	david lindley	lindley
+4820	1	dulle
+1213	3	buffalo area	rush limbaugh	buffalo
+3913	1	antioch
+762	2	street robbery	robbery
+1157	1	corner
+1497	2	instruction	full instruction
+2505	3	great britain	little britain	britain
+3965	1	cloture
+3960	1	deregulation
+115	2	theatrical trailer	trailer
+3263	2	important predictor	significant predictor
+60	1	new smyrna beach
+4173	1	pragmatist
+4404	2	terrelle pryor	terrelle
+447	1	donor
+2902	5	revolutionary idea	revolutionary war	hero	marestoudamire	revolutionary war hero
+3531	1	liter
+4658	1	vinton
+1437	1	wichita
+3709	1	disgust
+4029	1	kara
+2903	1	communist
+4886	1	cyanuric acid
+4063	1	silicon dioxide
+4451	1	absecon
+1111	2	winter park	winter
+3481	2	tricon global restaurant	tricon
+495	1	physician
+4224	1	forgetfulness
+3344	1	step
+365	1	marc rich
+4636	1	amien
+1282	1	egg harbor township
+1996	2	iran contra	iran
+1534	2	archive	story archive
+2449	1	shift
+3947	1	gridlock
+4222	1	psychosis
+2017	2	rumsfeld	donald rumsfeld
+3225	4	female male	male female	male	female
+4315	1	wapakoneta
+1583	3	peel	robert peel	john peel
+2508	2	kingdom	kingdom god
+1895	1	arabic
+4341	1	karlovac
+4592	3	gremlin	multimedium designer	amc gremlin
+1364	1	montgomery
+1340	1	different casino
+3878	2	lake ariel geological survey map	hamlin geological survey map
+4071	1	volt
+1467	1	college campuse
+1291	7	bristol county	ezra fitch	oxford county	lorain county community college	constituent service	bavarian state library	essex county
+4860	1	carburetion
+884	1	argument
+1310	1	barney
+2373	2	asian american	asian society
+4746	1	conroe
+2707	1	reach
+3147	1	advertisement
+4452	1	plt
+4825	1	ocoee
+257	1	hamilton
+273	1	chandler
+527	1	apagan
+835	1	dem convention
+2945	3	turn over	big victory	prime minister rudd
+2897	1	putin
+3428	1	cycle
+3932	2	manga	manga corps
+3614	1	overdose sleeping pill
+2392	1	expand economy
+2540	1	great reputation
+423	1	duck pond
+1313	1	james cash penney
+3808	1	elegance
+2131	1	fiscal
+3762	1	andrea
+4161	1	dv camcorder
+4950	1	chaco canyon
+2729	2	critical problem	critical thinking analysis
+3867	1	greatness
+499	1	rehab
+1046	1	martin luther king
+2316	2	fine antique	antique
+270	1	jeff francis
+2611	2	commerce server	commerce
+4943	1	carvajal
+801	2	al gore	gore
+3669	1	newspaper
+1045	2	king crimson	king
+1197	3	forest resource	lake forest	forest
+2199	1	live view mode
+2709	2	speed	speed dial
+1635	3	sweet red pepper	red bell pepper	red pepper
+227	1	jay gibbon
+4709	1	nashua
+916	1	arian
+3568	1	dummy variable
+2575	1	housing shortage
+739	7	information object	william thomson	advertising agency	lack information	robert thomson	valuable information	personal identify information
+4151	1	videogame
+380	2	jean harlow	staff usarmy
+4400	1	dragutin
+2192	1	australian digital thesis program
+2466	2	beijing national stadium	national stadium
+4599	1	okay
+3492	1	netflix
+1262	1	georgia
+1476	1	innovative research university australia
+2423	1	business development office
+1518	5	industry professional	professional	insurance	medical professional	industry
+3721	1	racist
+3132	2	fox business network	fox entertainment group
+4026	3	yoakam	value stream mapping	dwight yoakam
+3822	1	spiritualism
+1499	1	project rainbow
+4494	1	nambla
+501	2	adolescent	adolescent development
+2924	1	march dime
+868	1	misuse
+1000	3	elimination chamber	council chamber	chamber
+2812	1	lot people mind
+4998	1	brea
+1934	2	congo	rwanda
+4793	2	mun	tuen mun
+4216	1	susa
+3563	1	datum projector
+2022	1	hitler
+3465	2	land slide victory	amdt
+2822	1	cosmetic reason
+1140	1	surf
+4006	1	chris bosh
+615	1	abandonment
+3341	1	intention
+4849	1	hypogonadal
+4508	1	epona
+3552	1	meter
+3897	1	carthage
+1152	1	ski
+4302	1	heswall
+4051	1	dick murdoch
+4519	1	kemmerer
+3229	4	physical activity	disk activity	line activity	activity
+1270	1	illinois
+1396	1	pennsylvania
+3288	2	evolutionary change	evolution
+4401	1	crispus
+122	2	idiot	complete idiot
+1542	1	youth
+2829	1	widespread disease
+4619	1	atv
+3825	1	obedience
+291	1	todd stern
+4537	1	ohara
+3475	1	mcain
+2431	2	official website	official announcement
+2230	1	account deletion
+4171	1	gml
+1868	1	india
+2995	2	legal advice	legal counsel
+4677	1	riverdale
+4441	1	zama
+3257	1	expectation
+3416	2	similar ban	ban
+4197	1	idolatry
+696	1	traction
+2502	1	queen
+4800	1	ppv
+2386	1	immediate concern
+3923	1	reign
+2827	2	due	result
+4149	3	xbox	ps	ps xbox
+1684	1	apology
+394	1	london astorium
+4134	2	xml	xml type
+1272	2	iowa caucus	caucus
+1961	1	milan
+3828	1	salvation
+2607	1	cottage industry
+2966	1	presidential run
+4542	1	lage raho munna bhai
+4719	1	waverly
+4516	1	kubuntu
+2471	1	central park medium
+256	2	wallace	alfr wallace
+1311	1	brokerage
+4652	1	cleaver
+1080	2	record	record deal
+1561	2	phoenix coyote	coyote
+3610	2	drink	drink water
+2312	3	accomplished artist	new artist	artist
+3232	2	human contact	contact
+3435	2	team new zealand	new zealand
+4872	1	cube
+489	1	orphanage
+68	1	bradenton
+3642	4	carbohydrate	complex carbohydrate	carbohydrate source	total carbohydrate
+2911	3	current european market	market share	market
+2448	4	cultural change	change management	change	climate change
+858	5	bhutto murder	murder	conviction	equal murder	murder conviction
+2991	1	oral administration
+436	2	wildlife warrior worldwide	wildlife
+4833	1	rmbc
+1883	1	temple
+4559	1	grunt
+4767	1	metairie
+4649	1	winder
+4303	1	broadstone
+1973	1	crushed
+2573	2	urban suburban area	urban sprawl
+355	2	john deutch	wasington
+2899	1	cold war
+2000	4	al university	al azhar	al qaeda	al
+2281	1	bandai entertainment
+4116	2	rotc program	rotc
+4052	1	mel
+154	2	david letterman tonight	david letterman show
+1462	1	alumni
+4113	1	network centric warfare
+2113	1	similar limit
+323	1	griffin
+21	1	yorkshire
+2533	2	american pop culture	social medium site
+396	1	astronaut
+4154	2	mpeg compression	compression
+4247	1	oriole
+3830	1	forgiveness
+4543	1	mithra
+2334	1	anjubobby george
+4413	1	msm
+307	1	sir robert walpole
+3097	2	let down	up down
+4233	1	ww
+4882	1	cellulose
+1618	1	brilliant color
+4252	1	comdex
+4393	1	jr ew
+4515	1	remmy
+4349	1	arianism
+156	1	oprah
+4598	1	fuck
+4007	1	brendan canty
+2284	1	virgin
+3118	1	have
+4312	1	abus
+4106	1	sleeper sofa
+4633	1	amour
+2734	1	full circle
+1448	1	moffett federal airfield
+3818	1	pragmatism
+1568	1	kick ass
+3908	1	seleucid
+1076	6	metallic finish	strong player	more positive note	fixed form	tcl regexpmatchobj	solid player
+4970	1	stalk
+3681	1	pickle
+1864	1	indonesia
+1782	3	jews gentile	jews	gentile
+4586	1	corkscrew
+3034	2	sky television	tv broadcast
+2225	2	wide	wide screen
+3177	2	protection intellectual property right	intellectual property
+452	1	bargain
+2226	5	mountain gear	wide range size	wide range food	wide range consumer	wide range sport
+3540	1	inch
+1459	1	master
+764	2	auto homeowner insurance	insurance industry
+2647	1	management buyout
+544	1	respect
+4637	1	srp
+1537	1	playhouse
+1904	1	dirty word
+1557	3	big stone county	glad stone	stone
+3306	1	more apt description
+3623	1	pneumonia
+4775	1	pascagoula
+3189	2	clandestine operation	operation
+1479	1	ohio wesleyan university
+4167	1	perl
+4947	1	angel
+126	1	stranger
+3940	1	udma
+4389	1	hooter
+4039	1	margaritaville
+1545	1	plow
+1186	1	lehigh acre
+2364	2	welfare reform	human welfare
+3686	1	saucepan
+4326	1	cottondale
+4561	1	crapshoot
+49	2	brisbane	perth
+51	2	dunedin	christchurch
+3128	1	cnn
+3490	1	yahoo
+363	1	rival
+282	1	carter
+3398	3	house arm service committee	senate arm service committee	armed service committee
+931	1	kite runner
+4957	1	brownsville
+341	1	evan
+3116	1	long be land association
+2007	1	syria
+1085	2	play	triple play
+3911	1	eusebius
+1208	1	montreal
+2635	1	export import bank
+816	1	reelection
+4691	1	okeechobee
+4742	1	winnemucca
+3668	1	circulation
+4031	1	ovid
+588	1	guideline
+2582	1	spare part
+3142	2	partner organization	corporate partner
+3777	1	haydn
+4137	1	authentication
+4427	1	macrophage
+3134	3	espn	nbc protection	nbc
+4587	1	zigzag
+4569	1	artesia
+4477	1	dez
+3230	1	repeated pattern
+4262	1	denny
+1180	2	fraser basin	nile basin
+3036	1	analog television
+434	2	habitat	habitat type
+4418	1	agf
+652	3	foam	lightweight	lightweight foam
+1091	1	capture
+4805	1	cooley
+3409	1	extend
+3948	1	nightmare
+521	1	maecena
+3767	1	olga
+3283	3	construction work	church construction	common abbreviation
+700	1	convergence device
+3722	1	hate
+2416	2	union address	address
+4105	1	bedding
+3789	1	lush
+4762	1	boonville
+1785	2	christian religion	religion
+4696	2	seward	seward peninsula
+866	1	fraud alert
+4338	1	bradycardia
+4139	4	cakewalk sonar	various kind	sonar	cakewalk
+2074	1	opposite
+2273	1	cd rom
+3171	2	women life	women right
+1392	1	lafayette
+777	2	error	error correction
+1997	2	armenia	azerbaijan
+1451	1	ame research center
+743	2	military corruption com	corruption
+2884	1	pentagon
+3551	2	foot elevation	foot
+4296	1	kerrville
+2919	1	lost
+852	1	philippine
+804	1	reagan revolution
+3329	1	provisional ira
+2779	1	bit confuse
+2968	1	nearly lead
+1911	1	spanish grammar
+2446	3	toyota	japan	japanese
+917	1	pollard
+2777	1	little impatient
+3612	4	drug overdose	lorena bobbitt	overdose	accidental drug overdose
+2321	2	wolf clothing	clothing
+903	1	lgpl license
+3774	2	grand piano	piano
+3896	1	crete
+4763	1	bridgeton
+4838	3	afghan constitution	solinvictus	subhash chandra
+1414	1	unc
+3447	1	volvo
+2889	1	close
+2748	2	air pollution	light pollution
+242	1	baker
+2816	1	yes
+932	1	pole
+315	2	robin lopez	robin
+2479	1	shawnee mission
+2637	2	fund	new fund
+1924	1	proclamation
+4694	1	stillwater
+2177	1	selective memory
+1714	2	austin power	austin
+4801	2	brand equity	tna wrestling com
+3696	1	soy bean
+2038	3	driver	delivery driver	important driver
+2056	1	circuit
+3726	1	coward
+1028	1	burger
+1681	2	prepared remark	remark
+462	1	pirate
+2346	1	rifle
+2826	1	mechanical failure
+143	1	unfunny
+2198	1	model
+76	2	west coast railway heritage park	heritage railway
+3691	1	stew
+2023	1	spy rsd art ement
+2066	1	pair
+4798	1	xian
+1564	1	brook
+3772	1	morgenthauplan
+3233	6	ingenuity pathway analysis	cellular process	interaction	cgi scripting	self promoter	need complete overhaul
+4321	1	middleburg
+424	1	horse
+4621	1	marconi
+3407	1	contract
+2347	1	knife
+3700	1	iceberg
+2443	1	taiwan
+451	1	reward
+3786	1	narration
+4903	1	nextlink
+2249	2	publish	magazine publish
+2908	1	thick wall
+4991	1	littleton
+3800	1	whale
+3829	1	redemption
+3950	1	brawl
+1702	1	victor
+4533	1	pawpaw
+2405	2	voice recognition software	recognition
+1929	2	bring	haiti
+3087	1	single mindedness focus
+69	1	sarasota
+487	1	philipquast
+4208	1	electro
+1639	1	white pine
+4710	1	concord
+3037	2	time magazine	parade magazine
+4593	1	lotus elise
+2815	2	easy answer	answer
+2750	1	environmental degradation
+620	1	medium player classic
+376	1	inspection
+1525	1	elite
+1717	1	midwestern usa
+3847	2	prayer	school prayer
+2208	1	leap bound
+2157	2	different folder	folder
+4180	2	satoshi kon	haiku
+3338	1	political ploy
+4462	1	konoha
+338	1	rachael leigh cook
+3170	1	emotional freedom mobility
+694	1	legislative power
+1579	1	pot odd
+927	2	robert yate race	yate race
+3509	1	server base compute
+4540	1	chakra
+3748	1	monster
+912	1	naacp
+387	5	robert rubin	rubin	treasury	department treasury	robert
+412	4	higher ground	ground combat	combat	ground
+3961	1	nafta
+4678	1	rosedale
+3207	1	bulk email
+2255	1	numerical order
+3647	1	massage
+3849	1	scripture
+4318	1	prineville
+234	2	phil	pastor phil
+1780	2	jewish population	jewish
+2963	2	different course	course
+2383	1	ownership issue
+3880	1	climate topography
+1068	2	guitar	lead guitar
+1395	1	lasalle
+4310	1	indialantic
+1469	1	clifton way cambridge
+148	1	gag
+3860	1	nigel
+3886	1	plexifilm
+2089	1	expensive
+1323	3	la quinta	la mesa	la habra
+1974	1	seed
+1951	1	senior adviser
+1774	2	immigrant parent	parent
+3126	2	electrical power	electrical equipment
+546	2	national unity	unity
+1015	1	furious
+4483	1	nyx
+4853	1	unconsciousness
+2630	3	significant benefit	number benefit	benefit
+4781	1	conscience
+1159	1	huston street
+3875	1	conquer
+319	1	mcmahon
+236	1	steve harvey writer
+1150	2	possible destination	popular tourist destination
+2327	1	photo montage
+2185	2	rival software	software
+4126	2	maneuver	valsalva maneuver
+3307	1	context
+2711	2	high frequency	frequency distribution
+4374	1	roundtable
+4265	2	caulfield	holden caulfield
+2886	1	wooden post
+1870	2	presbyterian	presbyterian college
+2782	1	caution
+2178	1	logic
+1176	1	rara lake
+2080	1	sale catalogue
+900	1	evidence
+4747	1	alachua
+1528	2	poetry	poetry magazine
+271	2	ed	board ed
+3304	1	practical reason
+3602	1	respiratory depression
+765	1	liability
+1548	1	loft
+3167	1	safety
+522	1	poorness
+4159	1	hdtv
+3778	1	compose
+1866	1	indian penal code
+1125	1	greeting
+4256	1	dmca
+3579	1	hectare
+173	1	capt
+477	1	polytechnic institute
+3238	2	significant variation	variation
+1132	1	hollywood cemetery
+1033	3	table	buffet table	full frame
+4361	1	teleprompter
+2125	2	employment growth	steady growth
+3672	1	newsday
+1884	2	catholicism	christianity
+3884	1	carygrant
+4528	1	joyo
+189	1	holliday
+415	1	troop carrier
+4294	1	fayetteville
+3718	1	chuckle
+1496	1	math
+4092	3	vitamin mineral	calcium absorption	vitamin
+2940	1	disappointing start
+631	2	gasoline	gasoline diesel
+3707	1	despair
+3890	1	crossroad
+4011	1	messier
+4757	1	orem
+404	2	navy	military vessel
+4721	1	kearny
+4724	1	hawthorne
+4873	1	rectangle
+4509	1	sgd
+3488	1	amazon co uk
+1595	1	cotton
+1229	1	bend
+730	2	public health authority	winning team
+2135	1	mediocre
+1724	1	soccer
+1893	1	acronym
+3151	1	monitor
+4481	1	vampyre
+611	1	extinction
+1102	1	jurong point
+1128	1	reception
+3771	1	pentrex
+1722	1	rug league
+1888	2	mystical theology	theology
+2852	2	underlying problem	underlying disease
+2110	1	devastating effect
+4378	1	deepak chopra
+47	1	thru
+3239	2	different characteristic	unique characteristic
+2391	2	grow concern	grow problem
+4811	1	alger
+3547	1	ft
+3941	1	fathometer
+3569	1	integer overflow
+226	1	edward bate
+4258	1	braswell
+471	1	ornithology
+358	2	gamble	sport gamble
+4773	1	css
+1330	1	luxury
+2133	1	adjustment
+4548	1	headrest
+121	1	pabloozuna
+4945	1	garza
+1073	1	violent video game
+2867	1	possibility
+1365	1	marion
+682	2	continuous loop	loop
+4496	1	clon
+703	2	alarm	alarm rate
+2541	1	great cast
+4337	1	bramhall
+2238	1	blank screen
+3016	1	chairman
+1435	1	maricopa
+520	2	nose job	nose
+1949	1	interpreter
+1985	1	cuba
+3316	3	break	bone	break bone
+4056	1	davie
+482	1	astronomy
+1743	1	davos
+3611	2	underage drinking	excessive drinking
+1429	1	san bernadino
+4981	1	showman
+923	1	probation
+2088	3	cost	low cost	additional cost
+3585	1	generalized seizure
+4706	1	brockton
+96	1	disney channel
+4609	1	nap
+159	2	frank capra	capra
+2329	1	photography
+4511	1	eal
+3733	1	womanizer
+648	1	sheet
+1381	1	vernon rockville
+4332	1	kingman
+1688	1	rove
+3752	1	dracula
+4468	1	hokage
+2650	1	global warming
+4683	1	rockaway
+4077	1	electrical interference
+4254	1	akamai
+3500	1	printer
+2770	1	foreign soil
+1092	1	freed slave
+26	1	albion
+5011	1	gd
+2070	1	rebound
+3542	2	equal length	length
+2712	2	army signal corps	signal
+3889	1	cryptome
+2096	2	hike	hike fishing
+4390	1	sylvanus
+1029	1	mcdonald
+1398	2	battle trenton	trenton
+4181	1	sappho
+1745	1	canton
+212	1	dodd
+2768	2	artificial	artificial life
+3819	1	humanism
+457	2	cage	john cage
+4372	1	asio
+1602	1	cheese
+3556	3	mile	mile high stadium	kilometre
+1189	1	apple valley
+3853	1	berger
+3966	1	quorum
+1784	3	muslim	muslim woman	muslim student
+4846	2	karla	karla cave
+2445	1	pyongyang
+571	3	new talent	talent	amazing talent
+4547	1	whiplash
+3372	2	act	defense marriage act
+4715	1	lawrenceville
+2964	5	numerous track	couple track	multiple audio track	audio track	track
+2400	1	involvement
+1194	1	cypress
+4273	1	stuffconz
+926	2	life imprisonment	imprisonment
+1483	3	murdoch university	intel architecture	corenet global
+161	1	val
+1306	2	pepsico	pepsico inc
+4582	1	arris
+3714	1	disrespect
+1970	1	finland
+4194	1	archetype
+3785	1	documentary
+4984	1	godlike
+53	1	canterbury
+1897	1	alphabet
+4170	1	svg
+1406	1	darlington
+1850	1	rana
+2857	1	orthopedic problem
+2606	1	tourism industry
+2982	1	hope
+1589	1	spice
+2792	1	matter
+2547	1	quake arena
+163	2	dimaggio	joe dimaggio
+1644	1	black bart
+2341	1	specified time
+3529	1	www
+759	2	terrorism	terrorist
+681	1	string
+4239	1	buda
+1762	1	hip
+3418	1	revival
+1640	1	white bedroom furniture
+1543	1	hoe
+4777	1	clarksdale
+1170	2	network site	site
+802	2	clinton	bill clinton
+3969	1	gdl
+1421	1	sherbrooke
+3788	1	vivid
+2049	1	racer
+4797	1	hsu
+4707	1	medford
+1879	1	worship
+3326	2	radical	radical idea
+432	1	marine
+2942	1	round
+4681	1	enfield
+609	2	poverty elimination	elimination
+2791	6	question	foreign policy experience	very important question	separate question	personal question	president bushs foreign policy
+1155	1	recreational opportunity
+1578	1	substitute
+1188	1	loire valley
+2121	1	average
+1510	1	ambassador college
+559	2	islamic belief	belief
+2495	1	civilian
+3240	1	similarity
+251	1	campbell
+4634	1	amani
+1490	1	celtic
+4328	1	schertz
+943	1	samurai
+2041	1	getaway car
+3523	1	wikipedia
+3870	2	achievement	accomplishment
+4610	1	siesta
+3687	1	quart
+4164	1	pcm
+2888	1	closed room
+921	2	child custody	custody
+1886	1	islam
+4218	1	wakamatsu
+630	1	firewood
+3991	1	ejection
+264	1	thomas jefferson
+1694	1	woklahoma
+3470	1	bowl
+4282	1	statesboro
+1740	1	exception
+2057	1	row
+2494	1	indonesian military
+2305	1	yclic fashion
+4566	1	ecj
+3760	1	prop
+2664	1	quality assurance
+492	1	medical diagnostic
+770	1	setback
+40	2	south scotland	scotland
+3360	2	iraqi government	government document
+1344	1	teller
+1332	1	inn
+3231	1	frequent occasion
+4821	1	sacrosanct
+4419	1	busness
+589	1	continuum
+548	1	true democracy
+1994	2	vietnam war	vietnam
+3191	1	surveillance
+1182	1	caloosahatchee river
+4749	1	burnsville
+3154	1	extra judicial killing
+4921	1	hb
+965	1	camp meade
+845	4	blonde bombshell	mark fuhrman	small script	fuhrman
+1651	1	tattoos
+4671	1	waterville
+268	1	devon michael
+1088	1	score
+3081	1	larger venue
+132	1	punch
+3974	1	leed
+4166	1	celt
+4464	1	zaurus
+2053	1	mph
+4276	1	goody
+644	1	shroud
+2212	1	dimensional stability
+1422	1	quebec
+752	1	blast
+366	1	wealth
+1783	1	jew
+1371	1	newton
+4814	1	monty
+4549	1	bodywork
+4672	1	bangor
+3715	1	insensitivity
+3968	1	saa
+3665	1	oregonian
+1673	1	extramarital affair
+1729	2	pacific division	island pacific
+3915	1	maximian
+4438	1	bodog
+3092	1	native people
+1918	1	gibraltar
+957	2	infantry	infantry support
+3871	1	feat
+3261	1	differentiate factor
+1877	2	preacher	preacher roe
+3512	1	unix
+362	1	bull fight
+3682	1	bbq
+4470	1	telepath
+2946	1	big profit
+3546	1	rpm
+171	1	mr packard
+2374	3	developed country	country	congress
+553	1	organizational life
+4489	1	gcm
+1027	1	chef
+1986	1	fidel castro
+12	1	homily
+3757	3	saint loui	st loui	st loui cardinal
+3103	1	now
+918	1	clemency
+1987	1	exile
+3702	4	gaara	university arkansa	governor arkansa	state arkansa
+5001	2	sgt	staff sgt
+2148	2	cds	nursery rhyme
+57	1	twentynine palm
+2367	1	assistance
+4799	1	min
+144	1	humor
+646	1	custom rack
+1322	2	la time	la
+4574	1	midriff
+2576	2	population growth rate	population growth
+2878	1	tension
+64	1	ormond beach
+254	1	kenny
+1857	1	sarawak
+408	2	jet	jet engine
+416	2	cattle horse	cattle
+1231	1	fall
+2796	2	very unpleasant experience	terrifying experience
+278	1	ted turner
+2345	3	machine gun	gun	big gun
+3486	1	rickwarren
+4778	1	mankind
+4186	1	humility
+1113	2	summer autumn	autumn
+285	1	trey johnson
+4612	1	anicon
+744	2	sex scandal	scandal
+2757	2	component	component lead
+3973	1	cllr
+2005	1	kuwait
+4143	1	pixel
+968	2	hoshigaki kisame	fort walton beach
+1790	1	rich person
+4138	1	validation
+1227	1	anaheim
+1428	2	santa	santa monica
+1613	1	cereal
+4656	1	stanton
+4538	1	haku
+683	1	thread
+3497	1	landline
+4596	1	shit
+1135	1	birthday
+3279	1	innovation
+2578	1	population genetic
+2058	1	contention
+1	1	leaflet
+1210	1	edmonton
+4476	1	codefendant
+4306	1	klif
+1995	1	burma
+1563	2	walnut creek	goose creek
+4430	1	appeaser
+4210	1	manda
+2690	1	public domain
+2551	1	wave
+2332	1	ap
+4125	1	diver
+1838	1	drevil
+582	1	flexibility
+3782	1	poem
+3811	1	sustenance
+4530	1	pagliarulo
+149	1	don kurtz
+749	1	heavy criticism
+4578	1	nudist
+3176	1	human interaction
+1307	1	pepsi
+1615	2	white wine	excellent wine
+4702	1	chatham
+1162	3	heavy gauge steel	main street	east side street
+2894	1	kashmir
+4449	1	saguntum
+4790	1	mio
+4230	1	follower
+4557	1	cthulhu
+4002	1	rondo
+657	1	reliable
+3959	1	theoline
+204	1	freedman
+3078	1	small decrease
+3586	1	focal seizure
+1737	1	offensive foul
+3769	1	nicolas batum
+3302	1	instance
+1917	1	hawaii
+3978	1	bjorn lomborg
+259	1	molly brown
+3864	1	clincher
+580	1	relevance
+2211	2	specific gravity	gravity
+174	1	joseph goebbel
+1163	1	street trading
+4567	1	frankfurter
+1553	1	agoura hill
+4581	1	kaz matsui
+92	1	ny
+608	1	inheritance
+3330	1	breakaway
+4664	1	httpwww
+4133	1	dictation
+1690	1	deposition
+169	4	dr arndt	john thompson iii	international coalition	dr
+3797	1	necklace
+4298	1	plaquemine
+437	1	conservation
+1708	2	sport	roadster sport
+524	1	gibill
+5009	1	ino
+150	1	imus
+4942	1	superdelegate
+774	1	accident
+3780	1	ode
+165	1	elvis
+4792	1	wiz
+4601	1	suck
+2368	3	ongoing training	ongoing process	as much fun
+3462	1	tcl listvar
+2116	2	mild case	mild severe
+1147	1	tour
+279	1	george iii
+2322	1	apparel
+2204	1	special feature
+4919	1	fp
+428	2	beautiful bird	bird
+3000	1	unanimous supreme court
+2700	1	empty stomach
+3836	1	apostle
+481	2	physics project	physics
+246	1	cole
+324	1	sam lowry
+3045	1	smoke free home
+1169	4	location	remote location	location timing	new location
+4246	1	yearling
+3094	3	half	half bad	half person
+463	1	piracy
+4926	1	mo
+4854	1	coma
+72	1	clearwater
+381	1	jean chretien
+2172	3	display	display screen	display today
+1928	1	guyana
+4653	1	weller
+3984	1	edwin aldrin
+3449	2	motor carrier	ford motor company division
+4603	1	regeneration
+3055	2	michigan ballot	ballot
+3162	2	privacy	privacy advocate
+1604	1	milk
+3503	1	toshiba direct com
+5012	1	toi
+4122	1	pest
+4370	2	taijutsu	materiality
+2268	3	st edition	limited edition	edition
+3025	1	rush show
+4539	1	wahoo
+3468	1	veishea
+2187	1	id software
+2523	1	mccarthy era
+2258	1	larger order
+4342	1	lika
+2071	1	momentum
+724	1	turkey
+4034	1	ichkerium
+1807	1	desperate housewife
+2020	1	buildup
+2151	1	digital voice recorder
+566	1	self confidence
+4685	1	belleview
+4891	1	unstressed syllable
+4145	1	loudness
+371	1	bhp
+599	1	ignorance
+613	1	dire consequence
+864	2	felony	misdemeanor
+4526	1	mossadeq
+3697	2	blister pack	pack
+697	1	grip
+643	1	mist
+4397	1	tifa
+1659	1	old saybrook
+4876	1	chipboard
+151	1	franken
+3448	1	audi
+510	1	platonic solid
+4021	1	bubba
+4391	1	coggin
+4118	1	rcaf
+4910	1	betus
+987	1	soul
+2877	1	turmoil
+3415	1	wto
+3826	1	virtue
+1922	1	council
+3745	1	evil
+4974	1	sycophant
+552	1	life resurrection
+1014	1	flash
+3805	1	wikio
+600	1	collusion
+3765	1	marcello
+517	1	palate
+4221	1	kidoumaru
+2566	1	entire neighbourhood
+4906	1	phoenicia
+949	1	ace
+791	1	rudy giuliani
+1230	2	midwest	midwest regional
+3754	1	scarecrow
+4700	1	annapolis
+2927	1	assignment today
+4713	2	ohio state buckeye	buckeye
+1967	1	poland
+2985	1	harder
+399	2	memory module	module
+1677	1	intern
+2045	2	summit train source	train
+3164	1	protection
+3732	1	obsession
+4774	1	albemarle
+4352	1	naissus
+1892	1	swahili
+4479	1	catnip
+672	1	wood vinyl
+590	1	iq
+4660	1	longitude
+317	1	miss yvonne
+2737	2	block schedule	schedule
+3980	1	pryce
+4278	1	aiken
+721	1	cabinet
+1449	1	moffett
+368	1	shell
+787	1	mcgovern
+4211	1	aleo
+2432	1	afp
+2124	1	weekly rate
+4053	1	braveheart
+2229	1	array
+3793	1	cock
+3823	1	etiquette
+750	1	scrutiny
+101	1	movie lover
+4405	1	borrego
+4381	1	tiffeny milbrett
+3943	1	jello
+850	1	eyewitness
+2489	2	rocket	rocket science
+1158	1	monck corner
+2525	1	american enterprise institute
+4936	1	methuen
+2735	1	full swing
+2755	2	nuclear weapon	nuclear power
+1352	1	fairfield
+4234	1	dirigible
+2628	1	reagan tax cut
+3510	1	enterprise java bean
+4353	1	carthago
+3133	1	drife
+1829	1	fatherhood
+2149	1	dolby digital mono
+1919	1	malta
+3689	1	garnish
+4150	1	wii
+3912	1	athanasius
+4162	1	hdmi
+4632	1	ns
+2344	1	ocarina time
+260	1	amanda brown
+4423	1	watchman
+4102	1	minneapoli
+274	1	ben
+708	1	tcea
+244	1	stevenson
+4040	1	tilton
+146	1	funny
+3942	1	realbasic
+574	1	enthusiasm
+1734	1	pitcher
+4165	1	dts
+73	1	tallahassee
+1814	1	actress
+4667	1	accra
+563	1	essence
+1923	1	council bluff
+3999	1	stoudemire
+1185	1	boulder
+3495	1	advertiser
+4554	1	featurette
+1415	1	livonia
+1773	2	single parent family	single parent household
+885	1	rationale
+935	1	moto
+209	1	herrmann
+3894	1	gonzale
+1153	1	resort
+3899	2	bohemia	moravia
+321	1	howie
+4160	1	hd
+4585	1	newline
+1094	1	far east
+2324	1	costume
+713	1	bosnian serb
+1736	2	defensive position	defensive battle
+2046	1	cab
+4862	1	miscarriage
+1704	1	arsenio hall show
+1438	1	abilene
+3728	1	glee
+3639	1	vaccination
+2706	2	minimum	minimum year
+942	1	hornet
+345	1	tom cruise
+3761	1	backline
+756	1	sneak attack
+1081	1	reprise record
+1388	1	berwick
+4922	1	sb
+4013	3	knoblauch	chuck knoblauch	chuck
+2165	1	widescreen format
+737	1	anamazing job
+2998	1	civil right activist
+1544	1	spade
+3049	1	meet press
+4580	1	yorvit
+4260	1	whitten
+3694	1	garlic
+1195	1	spruce pine
+449	1	fundraiser
+531	1	difficulty breathe
+2320	1	leather
+538	1	obscurity
+3541	1	mm
+4280	1	douglasville
+3155	1	hire
+1645	2	purple	purple onion
+4904	1	wchandy
+1037	1	restaurant recommendation
+3615	1	poison
+709	1	milosevic
+3814	1	subtext
+3898	1	thessaloniki
+4064	1	silica
+4188	1	shrewdness
+3243	1	difference
+4428	1	aphid
+2410	1	important distinction
+4272	1	kearney
+632	1	heating
+2267	1	added bonus
+3267	1	corporate presentation
+4394	1	prez
+3423	1	sustainable development
+1196	1	laurel
+1209	1	vancouver
+398	1	apollo
+36	1	falkirk
+4629	1	rn
+3993	1	timeout
+532	1	breath
+2213	1	dimension
+3570	1	subset
+1367	1	dawson
+3953	1	misinformation
+3838	2	new testament	old testament
+3820	1	spirituality
+4398	1	cosponsor
+2407	1	nobel peace prize
+1383	1	arlington
+1408	1	homestead
+2662	1	fine quality
+1502	1	parent school
+2337	1	flexible working hour
+3775	1	flute
+958	1	cavalry
+470	1	microbiology
+1664	1	fetuse
+2865	1	blunt force trauma
+2817	1	guess
+4976	1	suis
+140	1	tickle
+2047	2	motorcycle	motorbike
+990	2	fantastic show	fantastic
+4639	1	mt
+3916	1	maxentius
+3816	1	anecdote
+4085	1	hardness
+356	1	john ousterhout
+4576	1	mamie
+1909	1	anglo saxon origin
+74	1	gainesville
+4267	1	sportingbet
+4644	1	mccomb
+1224	1	houston
+2195	1	configuration
+4865	1	fellatio
+679	1	picket fence
+4650	1	parson
+29	1	cardiff
+4060	1	altitude
+4250	1	smiljan
+3773	1	arut
+2632	2	loan	student loan bankruptcy
+3247	1	quantity
+1540	1	harlem
+3910	1	nicomedia
+233	2	charlie bell	charlie
+4776	1	gulfport
+4911	1	fixture
+3750	1	superman
+3666	1	picayune
+1661	1	arod
+4091	1	odor
+3653	1	prescription
+442	1	argus leader
+2303	2	fashion street	similar fashion
+4521	1	toddlerhood
+1582	1	nice berg
+292	1	bryan colangelo
+38	1	gretna
+1686	1	hadley
+778	1	mistake
+920	1	magistrate
+1164	1	monument
+2738	1	pre
+3725	1	traitor
+3413	1	treaty
+3538	1	fragment
+2283	1	label
+735	1	cia
+4571	1	bullfighter
+2511	1	popularity
+1846	1	commissionor omission
+4471	1	amaterasu
+4115	1	warfighting
+2926	1	here
+1532	1	wikimedia foundation
+2596	1	shady area
+2487	2	little pride	pride
+906	2	corporate citizenship	citizenship
+141	1	bully
+3109	1	steady increase
+2411	2	human responsibility	responsibility
+3082	1	independent experiment
+1114	1	homosassa spring
+4072	1	defective
+325	1	carson
+1032	1	chicago style pizza
+4287	1	beachwood
+2805	1	understand
+3272	1	attitude sand value
+3574	1	specialization
+2728	2	different focus	focus
+2082	1	retail sale growth
+87	1	quay
+23	2	torquay	brentford
+4544	1	dominionism
+4264	1	blodgett
+4140	1	magnetron
+4009	2	wendell	wendell scott
+4270	1	findlay
+3317	1	fat tissue
+3900	1	wallachia
+3443	1	new braunfel
+4692	1	intracoastal
+2025	1	plurality
+4889	1	hue
+4877	1	ingot
+1268	1	louisiana
+2978	1	decent work
+22	1	hertfordshire
+177	1	dennison
+1818	1	educator
+1308	1	coca cola league
+1494	1	wavecrest
+824	1	campaigning
+2459	2	proper use	careful use
+3927	1	licinius
+983	1	heaven
+4784	1	scratch
+370	1	stake
+4005	2	chris	chris clark
+4487	1	pwn
+1747	1	max
+1937	1	ghana
+1821	2	journalist	reporter
+2217	1	dramatic form
+1887	1	sikhism
+4703	1	glen burnie
+4474	1	patridge
+2890	1	briefly
+4912	1	mainstay
+557	1	existence
+1680	1	janet reno
+2676	1	automated testing
+596	1	thrive
+4364	1	neuroanatomy
+4492	1	antigravity
+252	1	stuart
+909	1	divorce
+3089	1	modest home
+687	1	impulse
+2844	1	emergency
+1947	1	aninvidious position
+1333	1	saloon
+3607	1	cigar
+1750	1	heidelberg
+3548	1	lb
+2629	1	gas tax holiday
+528	1	theu
+2389	2	poor economic condition	economic social condition
+1766	1	session work
+1284	3	dade county	socialist republic vietnam	lenawee county
+2952	2	number entry	entry
+3336	1	re
+1329	1	flamingo hilton
+3051	1	hydraulic press
+456	1	rendition
+2183	1	hardware
+4641	1	ie
+2746	1	obvious choice
+4415	1	ois
+1805	1	petite woman
+4670	1	kelowna
+3561	1	continuous datum
+333	1	cindy
+3404	1	agreement
+4214	1	tilak
+989	1	happiness
+70	1	ocala
+2248	1	read
+1650	1	wig
+4304	1	glendive
+1434	1	phoenix
+2222	1	umber form
+808	1	president elect obama
+5007	1	rad
+812	2	liberal	conservative
+2456	1	link
+1179	1	devil lake
+1851	1	anu malik
+172	2	captain	vice captain
+4119	1	sac
+1823	1	critic
+485	1	smithsonian
+2409	1	major historical importance
+798	1	gw bush
+228	2	abraham lincoln	abraham
+1012	1	burn
+3872	1	dominance
+4124	1	beginner
+2751	1	cleanup
+4731	1	fullerton
+2725	2	addition	solid addition
+1331	1	upscale
+4902	1	thfeb
+2786	1	rude behavior
+593	1	segregation
+4617	1	rte
+4041	1	wagoner
+1705	1	corinthian hall
+1728	1	athletic
+1611	1	fruit
+4066	1	layer
+4597	1	crap
+4184	1	aplomb
+769	2	disappointment	great disappointment
+4045	1	directv
+1356	1	providence
+1536	1	broadway
+2616	1	publicly trade corporation
+4952	1	douro
+2263	1	irish name
+13	1	pope
+2841	1	intestinal pain
+4305	1	nembutal
+3877	1	cartographer
+617	1	illegal alien
+4357	1	coven
+4687	1	hialeah
+814	1	populist
+704	1	timer
+929	1	indy race
+310	1	lou grant
+203	1	larry bigbie
+4668	1	suva
+3919	1	frederick
+498	1	examination
+4285	1	dyersburg
+3783	1	epic
+314	1	lee strasberg
+862	3	obstruction justice	perjury obstruction justice charge	perjury obstruction justice
+3358	1	federal register
+583	2	availability	prey availability
+3695	1	lettuce tomato
+2231	1	account
+3763	1	salvatore
+3885	1	jesuslife
+3433	1	whole new level
+4334	1	paxson
+3595	1	alcohol metabolism
+4074	1	disruptive discharge coil
+2535	1	ancient time
+327	1	heidi
+4502	1	akatsuki
+4386	2	arizona diamondback	diamondback
+3125	1	ac electricity
+3139	1	news corporation
+792	1	mario cuomo
+2111	1	impact
+3834	1	satan
+2977	1	creative work
+3557	1	km
+1252	2	richmond today	richmond
+1832	1	gloria estefan
+997	1	cargo room
+4618	1	cctv
+2806	2	sure	if
+41	1	edinburgh
+82	2	bus route	route
+3297	2	data value	video data
+4917	1	ch
+2727	1	devoted follow
+4794	1	po
+4219	1	fume
+4200	1	bohemian rhapsody
+591	1	slavery
+4986	1	creepy
+1998	1	uzbekistan
+3149	2	watch	movie watch
+3376	1	amendment
+2139	2	high capacity	european medium
+948	2	torii hunter	hunter
+828	1	dole
+3795	1	sandal
+4019	1	humphrey
+4752	1	waxahachie
+2357	1	millennium development goal
+107	2	google	google video
+1418	1	ypsilanti
+4684	1	wantagh
+4459	1	secdef
+4705	1	amherst
+4723	1	lawndale
+2453	1	select position
+887	1	legitimate
+533	1	sigh
+9	1	clothe
+1007	1	drake house way sheffield
+386	1	paris
+1827	1	entrepreneur
+3581	1	approx
+4456	1	hoarfrost
+1876	1	protestant
+4740	1	marianna
+75	1	fl
+1920	1	anguilla
+545	1	determination
+4804	1	murakami
+4714	1	wildwood
+3824	1	sportsmanship
+979	1	dead
+4931	1	pf
+346	1	dennis
+1856	1	malay archipelago
+3363	1	bangladeshi government
+4588	1	icicle
+592	1	colonialism
+1192	1	elk grove village
+4157	1	laserdisc
+3518	1	hacker
+1503	1	school tube
+3508	1	server consolidation
+2663	1	excellent quality
+1815	1	comedian
+677	2	horse fencing	fencing
+1204	1	ridge
+4743	1	elko
+1860	1	singapore
+1156	1	recreation
+1840	1	darwin
+736	1	fbi
+100	3	sesame street	drama	comedy
+2062	1	eighth
+1127	1	farewell
+4207	1	emo
+4870	1	dodecahedron
+530	1	pause
+39	1	hampden
+1009	1	fire resistant
+4288	1	ironton
+626	1	medium blaster
+3676	1	dow jone
+1848	1	atraumatic experience
+1656	1	laborer
+3986	1	whitbread
+1757	1	holland
+178	1	dewitt
+1983	1	societys firs president
+2499	1	royal household
+2955	1	open terrain
+4022	1	crosby
+634	1	fuel system
+638	1	energy consumption
+4199	1	aristocrat
+4999	1	blakely
+1165	1	marble fall
+3970	1	asha bhosle
+4867	1	fissure
+3609	1	alcoholic
+1378	1	terre
+3831	1	repentance
+4	1	cf
+4268	1	bookmaker
+3677	1	wsj
+4726	1	cupertino
+4435	1	vampira
+3482	1	spaghettus
+1341	1	gaming
+1148	1	journey
+3086	1	single joint
+1882	1	goddess
+3427	1	phase
+330	1	lynn
+4716	1	alpharetta
+4630	1	sd
+4730	1	santee
+2881	1	greater pressure
+2035	1	rear
+351	1	berry
+4879	1	paracetamol
+1787	1	christian bookstore
+130	2	harry potter	potter
+2245	2	script writing	writing
+4523	1	yonker
+4892	1	schwa
+3575	1	preorder
+3944	1	kennedys
+4426	1	kingsford
+3002	1	municipal court
+710	1	belgrade
+58	1	palm desert
+4553	1	apennine
+458	1	sting
+2558	1	grundy center
+3881	1	geography
+5010	1	src
+1599	1	banana
+1018	1	applause
+3856	1	irl
+1424	1	rochester
+1593	1	crumb
+2954	1	open content
+3401	1	unhappy ending
+1377	1	jasper
+2463	2	naval reserve	lindvd
+3224	2	mature adult	mature
+397	1	nasa
+2987	2	quick fix	quick
+3651	1	aerobic
+2833	1	terminal illness
+1631	1	blue ray
+4450	1	santafe
+3619	1	dope
+1549	1	tenant
+1416	1	muskegon
+2008	1	egypt
+4907	1	constan
+4736	1	herrin
+1266	1	idaho
+4339	1	symptomatic hypotension
+2772	1	plant substance
+4510	1	humanness
+2774	1	touch
+984	1	hell
+4292	1	mukilteo
+805	1	horrible president
+3577	1	siz strength
+2336	1	relay
+1915	1	south padre island
+2075	1	bevelled edge
+2330	1	photographer
+331	1	susan comb
+3060	1	higher ranking
+4818	1	maran
+4301	1	winnfield
+3648	1	meditation
+493	1	medicine
+196	1	dylan
+374	1	trilateral commission
+1390	1	harrisburg
+322	1	matthews
+3419	1	restoration
+2619	1	business retention expansion
+998	1	maneuvering room
+2454	1	strange position
+1896	1	hebrew
+1767	1	breakout session
+4745	1	newberry
+4228	1	attendee
+4410	1	rosacea
+1591	1	soft gelatin capsule
+4783	1	hurry
+1401	1	charleston
+1423	2	minnesota	minnesota twin
+4355	1	theap
+1813	2	fellow actor	good actor
+3846	1	gracious god
+2572	1	farmland
+4103	1	videoblog
+2705	1	maximum year
+4130	1	kde
+4732	1	bakersfield
+31	1	birmingham
+4979	1	pimp
+4333	1	linyi
+4765	1	steuben
+1403	1	spartanburg
+1226	1	seattle
+4020	1	cary
+618	1	atechnical problem
+145	1	satire
+1603	2	bread water	bread butter
+5	1	ramona
+4589	1	snowflake
+4779	1	destiny
+1335	1	handicap
+4090	1	condensation
+799	1	pennsylvania go ved rendell
+4457	1	chidori
+4796	1	chieh
+2379	1	world trade center
+3873	1	supremacy
+1337	1	kartika plaza
+577	1	resilience
+747	1	attention
+2006	1	saudi arabia
+4403	1	gallatin
+388	1	hm treasury
+2176	1	chip
+2210	1	universe
+55	1	gauteng
+3321	1	oreilly factor
+3713	1	hypocrisy
+3040	1	manhattan project
+3613	2	barbiturate overdose	overdose barbiturate
+1960	1	krakow
+955	1	battlefield
+2962	1	spot
+2170	1	graphic tablet
+1480	1	illinois state university
+3711	1	remorse
+4109	1	jar jar
+2069	1	orlando pace
+2724	1	various piece equipment
+3891	1	crucial juncture
+1404	1	macon
+3905	1	constantinople
+861	1	treason
+3840	1	revelation
+1990	1	defeat
+3351	1	intervene
+3539	1	bullet
+2698	1	cold fusion developer
+229	2	mckinley	mount mckinley
+734	1	be fractometer
+4785	1	invent
+3906	1	byzantium
+1043	1	menu
+2180	1	agilent technology
+2531	1	american psyche
+4383	1	mccauley
+4317	1	fairbury
+3058	1	ticket
+738	1	incorrect information
+4453	1	biogeography
+4223	1	hallucination
+1115	1	defuniak spring
+3673	1	gannett
+4843	1	beatrice
+335	1	ellen
+1173	1	castle
+1707	1	bombay club
+3212	1	http request
+2703	2	flat screen	flat
+567	1	self organize system
+453	1	give nperiod
+4086	1	durability
+167	1	fr
+3342	1	indication
+4657	1	chapin
+1691	1	oath
+129	1	toy
+715	1	macedonian
+389	1	chancellor exchequer
+4407	1	whooping cough
+4248	1	dodger
+4473	1	higgin
+928	1	horse race
+915	1	koresh
+846	1	glove
+1120	1	vacation
+3066	1	nearest whole number
+467	1	kgm
+4868	1	ovary
+1935	1	somalia
+2809	1	see
+729	1	boss
+1271	1	kentucky
+2460	1	guest use
+3626	1	epidemic level
+1963	1	lyon
+4520	1	sylacauga
+944	1	warrior
+4953	1	ebro
+16	1	martyrs death
+6	1	shelburne
+1833	1	diva
+1668	1	glass steagall
+4994	1	patton
+3791	1	imaginary
+3698	1	dlc
+625	1	medium conglomerate
+2749	1	environmental protection issue
+4213	1	winfield
+1585	1	piece
+4676	1	shoppe
+980	1	die
+1433	1	scottsdale
+2552	1	massive
+44	1	mins
+4623	1	aps
+3192	1	detection
+3197	1	semester system
+2298	1	certified platinum
+1820	1	lifelong learner
+4866	1	genital
+2781	1	mixed bag
+4179	1	pronoun
+1050	1	knight
+3758	1	loui
+4840	1	nehru
+4290	1	silverdale
+4635	1	sila
+1861	1	hong kong
+4737	1	celina
+4316	1	haleyville
+3216	1	peterdaou
+4465	1	electrotherapy
+654	1	protective sleeve
+913	1	klan
+986	1	love guru
+1993	1	landslide
+4686	1	palatka
+1038	1	casual dining
+1538	1	mozilla opera
+3981	1	jessop
+2136	1	excellent reviews
+91	1	vt
+910	1	unrestricted abortion
+536	1	glare
+4395	1	vp
+30	1	leicester
+3812	1	inspiration
+4497	1	nego
+2256	1	alphabetical order
+3394	1	senate floor
