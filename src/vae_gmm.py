@@ -38,13 +38,13 @@ class VAE_GMM(nn.Module):
         self.word_embedding = self.__initialize_input_embeddings(term2idx, pretrained_models)
 
         # Build the VAE Model.
-        self.enc_layers = NeuralNetwork(self.input_dims, dims['interim'], self.hidden_dims)
-        self.dec_layers = NeuralNetwork(self.hidden_dims, dims['interim'], self.input_dims)
+        self.enc_layers = NeuralNetwork(self.input_dims*3, dims['interim'], self.hidden_dims)
+        self.dec_layers = NeuralNetwork(self.hidden_dims, dims['interim'], self.input_dims*3)
         # Parameters that build \tilde{\mu} AND \log \tilde{\sigma}^2 for the generation/recognition networks.
         self.enc_weights_mean = nn.Parameter(xavier_uniform_(torch.empty(size=(self.hidden_dims, self.hidden_dims))), requires_grad=True)
-        self.dec_weights_mean = nn.Parameter(xavier_uniform_(torch.empty(size=(self.input_dims, self.input_dims))), requires_grad=True)
+        self.dec_weights_mean = nn.Parameter(xavier_uniform_(torch.empty(size=(self.input_dims*3, self.input_dims*3))), requires_grad=True)
         self.enc_weights_log_sigma_sq = nn.Parameter(xavier_uniform_(torch.empty(size=(self.hidden_dims, self.hidden_dims))), requires_grad=True)
-        self.dec_weights_log_sigma_sq = nn.Parameter(xavier_uniform_(torch.empty(size=(self.input_dims, self.input_dims))), requires_grad=True)
+        self.dec_weights_log_sigma_sq = nn.Parameter(xavier_uniform_(torch.empty(size=(self.input_dims*3, self.input_dims*3))), requires_grad=True)
 
     def __initialize_gmm_parameters(self, X, label):
         """ Initialize Gaussian Mixture model params using,
@@ -75,7 +75,7 @@ class VAE_GMM(nn.Module):
     def __initialize_input_embeddings(self, term2idx, pretrained_models):
         """ Build an embedding lookup Table.
         Use pretrained_models if available, else initialize randomly. """
-        input_embeddings = nn.Embedding(len(term2idx), self.input_dims)
+        input_embeddings = nn.Embedding(len(term2idx), self.input_dims*3)
         if pretrained_models['input']:
             input_term_vectors = self.__initialize_embeddings(pretrained_models['input'], pretrained_models['source'], term2idx)
             input_embeddings.load_state_dict({'weight': torch.FloatTensor(input_term_vectors)})
@@ -86,7 +86,7 @@ class VAE_GMM(nn.Module):
     def __initialize_embeddings(self, pretrained_model, source: str, term2idx: Dict[str, int]):
         if not pretrained_model: raise NotImplementedError
         input_dims = pretrained_model.vector_size
-        weights_matrix = np.zeros((len(term2idx), input_dims))
+        weights_matrix = np.zeros((len(term2idx), input_dims*3))
         em, all_tokens = 0, 0
         for term, indx in term2idx.items():
             term = str(term)
@@ -96,17 +96,21 @@ class VAE_GMM(nn.Module):
                 if tterm in pretrained_model:
                     em += 1
                     is_embedding_avail = True
-                    weights_matrix[indx] = pretrained_model[tterm]
+                    # Change
+                    termvec = np.concatenate([pretrained_model[tterm], pretrained_model[tterm], pretrained_model[tterm]])
+                    weights_matrix[indx] = termvec
             else:
                 raise NotImplementedError
             if not is_embedding_avail:
                 tokens_list = word_tokenize(term)
-                vector = np.zeros(input_dims, np.float32)
+                vector = np.zeros(input_dims*3, np.float32)
                 if all(map(lambda z: z in pretrained_model, tokens_list)):
                     all_tokens += 1
                 for tok in tokens_list:
-                    if tok in pretrained_model: current_vec = pretrained_model[tok]
-                    else: current_vec = np.random.randn(input_dims)
+                    if tok in pretrained_model:
+                        # Change
+                        current_vec = np.concatenate([pretrained_model[tok]]*3)
+                    else: current_vec = np.random.randn(input_dims*3)
                     vector += (current_vec/np.linalg.norm(current_vec))
                 vector /= len(tokens_list)
                 weights_matrix[indx] = vector

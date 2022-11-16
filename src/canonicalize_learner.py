@@ -133,11 +133,11 @@ class OpenKGCanonicalization(nn.Module):
             t_clust_probs = e_clust_probs[e_clust_probs.shape[0]//2:, :]
             hrt_probs = [h_clust_probs, r_clust_probs, t_clust_probs]
             '''Removing KGE module'''
-            #if self.kge_algorithm == 'HOLE':
-            #    kbc_loss = self.kge_model.hole_loss(hrt_probs, self.ent_vae.cluster_means, self.rel_vae.cluster_means)
-            #elif self.kge_algorithm == 'TRANSE':
-            #    kbc_loss = self.kge_model.transe_loss(hrt_probs, self.ent_vae.cluster_means, self.rel_vae.cluster_means)
-            #else: raise NotImplementedError
+            if self.kge_algorithm == 'HOLE':
+                kbc_loss = self.kge_model.hole_loss(hrt_probs, self.ent_vae.cluster_means, self.rel_vae.cluster_means)
+            elif self.kge_algorithm == 'TRANSE':
+                kbc_loss = self.kge_model.transe_loss(hrt_probs, self.ent_vae.cluster_means, self.rel_vae.cluster_means)
+            else: raise NotImplementedError
         vae_loss = e_vae_loss + r_vae_loss
         ent_constraint_loss = self.constraint_loss_mse(similar_ent_triples, self.ent_vae.word_embedding)
         rel_constraint_loss = self.constraint_loss_mse(similar_rel_triples, self.rel_vae.word_embedding)
