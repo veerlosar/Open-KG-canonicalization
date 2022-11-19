@@ -24,7 +24,7 @@ class VAE_GMM(nn.Module):
         self.weights = weights
         self.n_clusters = n_clusters
         self.input_dims = dims['input']
-        self.hidden_dims = dims['latent']
+        self.hidden_dims = dims['latent']*3
         # Initialize Cluster MEANS, Cluster LOG SIGMA Squared AND Cluster ASSIGNMENT PRIOR.
         logging.info('Using labels from a serialized HAC clustering to initialize GMMs')
         self.log_pi_c = None
