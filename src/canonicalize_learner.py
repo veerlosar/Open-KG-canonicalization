@@ -10,8 +10,10 @@ import torch.nn as nn
 
 from gensim.models import KeyedVectors
 from torch.utils.data import DataLoader
+from umap import UMAP
 
 from vae_gmm import VAE_GMM
+from vae_gmm2 import VAE_GMM2
 from kge_util import KGEModels
 from canonicalize_ds import BuildDataForCanonicalization
 
@@ -38,8 +40,18 @@ class OpenKGCanonicalization(nn.Module):
         self.n_ent_clusters = n_ent = self.config_params['clusters']['ent']
         self.n_rel_clusters = n_rel = self.config_params['clusters']['rel']
         self.initial_clusters = init_clusters = self.read_initial_clusters()
-        self.ent_vae = VAE_GMM(self.config_params['dims'], n_ent, init_clusters['ent'], self.reg_info, models, self.dataset.ent2id, device)
-        self.rel_vae = VAE_GMM(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.rel2id, device)
+        '''Adding umap instances to pass to VAE_GMMs'''
+        umaps = {
+            768: UMAP(n_components=768, init='random', random_state=0),
+            100: UMAP(n_components=100, init='random', random_state=0),
+            300: UMAP(n_components=300, init='random', random_state=0),
+            384: UMAP(n_components=384, init='random', random_state=0),
+        }
+        self.ent_vae = VAE_GMM(self.config_params['dims'], n_ent, init_clusters['ent'], self.reg_info, models, self.dataset.ent2id, device, umaps)
+        '''Passing triple2id file instead of rel2id'''
+        #self.rel_vae = VAE_GMM(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.rel2id, device)
+        self.rel_vae = VAE_GMM2(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.untriple2relid, device, umaps)
+        ''''''
         # ================== Set Up the KBC Model.
         kge_util_params = self.config_params['kge_util_params']
         self.kge_model = KGEModels(temp=kge_util_params['temp'], n_corruptions=kge_util_params['n_corruptions'], n_ent_clusters=n_ent, n_rel_clusters=n_rel)
@@ -122,11 +134,13 @@ class OpenKGCanonicalization(nn.Module):
             r_vae_loss = self.rel_vae.stage_one_loss(hrt_triples[:, 1], r_clust_probs)
             kbc_loss = 0.
         else:
+            kbc_loss = 0.
             e_vae_loss = self.ent_vae.loss(ent_idxs, e_latent_params, e_out_scores, e_clust_probs, self.train_stage.lower())
             r_vae_loss = self.rel_vae.loss(rel_idxs, r_latent_params, r_out_scores, r_clust_probs, self.train_stage.lower())
             h_clust_probs = e_clust_probs[:e_clust_probs.shape[0]//2, :]
             t_clust_probs = e_clust_probs[e_clust_probs.shape[0]//2:, :]
             hrt_probs = [h_clust_probs, r_clust_probs, t_clust_probs]
+            '''Removing KGE module'''
             if self.kge_algorithm == 'HOLE':
                 kbc_loss = self.kge_model.hole_loss(hrt_probs, self.ent_vae.cluster_means, self.rel_vae.cluster_means)
             elif self.kge_algorithm == 'TRANSE':
