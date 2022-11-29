@@ -169,7 +169,8 @@ class VAE_GMM2(nn.Module):
         log_p = log_exponent + log_det    # mc_samples x batch_size x n_clusters
         log_numerator = log_p + self.log_pi_c.unsqueeze(0).unsqueeze(0)  # mc_samples x batch_size x n_clusters
         log_normalizer = torch.logsumexp(log_numerator, dim=-1, keepdim=True)   # Numerically Stable option: mc_samples x batch_size x 1
-        q_c_given_x = torch.exp(log_numerator - log_normalizer)    # mc_samples x batch_size x n_clusters
+        q_c_given_x = torch.exp(log_numerator - log_normalizer)
+           # mc_samples x batch_size x n_clusters
         return torch.mean(q_c_given_x, dim=0)
 
     def forward(self, batch, mc_samples):
@@ -180,7 +181,7 @@ class VAE_GMM2(nn.Module):
         # Use the Reparametrization trick. eps ~ N(0,1); dims of eps/z_sampled = mc_samples x batch_size x hidden_dims
         eps = torch.randn(mc_samples, batch.size(0), self.hidden_dims).to(device=self.device)
         z_sampled = torch.unsqueeze(z_mean, 0) + torch.unsqueeze(torch.sqrt(torch.exp(z_log_sigma_sq)), 0) * eps
-        q_c_given_x = self.prob_c_given_x(z_sampled)
+        q_c_given_x = torch.clamp(self.prob_c_given_x(z_sampled), min=1e-8, max=1.0)
         out_mean, out_log_sigma_sq = self.decode(z_sampled)  # z_sampled: mc_samples x batch_size x hidden_dims
         latent_params = (z_mean, z_log_sigma_sq)
         out_params = (out_mean, out_log_sigma_sq)
@@ -216,7 +217,7 @@ class VAE_GMM2(nn.Module):
         """ Computes the KL Divergence between the variational posterior and the true posterior. """
         z_mean, z_log_sigma_sq = latent_params
         loss1 = -0.5 * torch.sum(1.+z_log_sigma_sq, dim=-1)     # -0.5*\sum_{j=1}^J (1+\log \tilde{\sigma_j}^2)
-        q_c_given_x = torch.clamp(q_c_given_x, min=1e-20, max=1.0)
+        q_c_given_x = torch.clamp(q_c_given_x, min=1e-8, max=1.0)
         interim = self.log_pi_c.unsqueeze(0) - torch.log(q_c_given_x)
         loss2 = -1. * torch.sum(q_c_given_x * interim, dim=-1)  # -\sum_{c=1}^K \gamma_c \log \frac {\pi_c}{\gamma_c}
         diff = (z_mean.unsqueeze(1) - self.cluster_means.unsqueeze(0))**2

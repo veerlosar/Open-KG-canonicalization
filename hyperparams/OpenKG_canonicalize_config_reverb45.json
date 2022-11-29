@@ -1,13 +1,13 @@
 {
   "batch_size": {
-    "train": 50,
+    "train": 18,
     "eval": 5
   },
   "model_info": {
     "dir": "glove",
     "src": "GLOVE"
   },
-  "working_directory": "data/vae_run/ReVerb45k_hac_OKG_canonicalize_heads/",
+  "working_directory": "data/vae_run_umap/ReVerb45k_hac_OKG_canonicalize_heads/",
   "learning_rate": {
     "stage1": 1e-3,
     "stage2": 1e-4
