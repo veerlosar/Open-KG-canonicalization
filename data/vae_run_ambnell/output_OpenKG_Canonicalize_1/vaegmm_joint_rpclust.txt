@@ -1,0 +1,363 @@
+{"batch_size": {"train": 50, "eval": 5}, "model_info": {"dir": "glove/", "src": "GLOVE"}, "working_directory": "data/vae_run_ambnell/", "learning_rate": {"stage1": 0.001, "stage2": 0.0001}, "eval_per": {"stage1": 10, "stage2": 10}, "loss_weights": {"vae": 1, "kbc": 1, "side_info": 1}, "train_stages": ["stage1", "stage2"], "dims": {"input": 300, "interim": [384], "latent": 100}, "seed": 57, "init_ent_file": "hacft_ent_labels.pkl", "init_rel_file": "hacft_rel_labels.pkl", "clusters": {"ent": 600, "rel": 800}, "reg_info": {"stage1_reg": 0.001, "stage2_reg": 0.001, "mc_samples": 1}, "kge_util_params": {"temp": 0.01, "n_corruptions": 20}, "n_epochs": {"stage1": 50, "stage2": 300}}
+
+Number of Clusters: 360
+42	15	leave for	assume the title of	be a worshipper of	be bear at	be the youngest of	be the sole ruler of	be the antithesis of	be bear	do much for	should have keep	marry	have no answer for	cut	be leave	put up
+626	133	have also be very active in	provide detail information on	be preferred to	be not even mention by	be also resistant to	be originally make of	be name like	will be here for	be dismiss	can also be play on	will also be make available in	be sparse on	be suppose to be better than	be a subset of	is Like	be more ubiquitous than	be much better than	be the next generation of	be a trademark of	only have	preview with	is NOT entitled to	be normally use for	be only about	must be use in	be easier to use than	have a run time of	record live in	be chalk full of	be pump on	be not require to perform	include a handful of	also include	offer many advantage over	be great compare to	box set of	be one hour of	need some sort of	be an alternative for	be the backbone of	will retail for	must be cut in	be provide on	Put Into	have also do work for	be more powerful than	called Simply	back cover	be preferable to	be not far from	should have	IS a little light on	be so much better than	be strictly limited to	do not have this type of	can be deliver anywhere in	include a variety of	be the evolution of	be an assistant coach at	be the normal condition of	be pretty light on	be as beautiful as	have intend to go to	be not compatible with	be compete with	be both on	be not available in	must be playable in	do not have to make	can match the quality of	can be scary for	may not be	will work fine for	be not be strike by	display	do not contain	hit the store on	have save	play well on	be mark for	be not backwards compatible with	include a making of	have a ton of	be clearly better than	have post on	be free upon	be sparse at	be set to be release	will go the way of	do not deteriorate with	make a lot of	be a powerful tool for	be break up into	be pack full of	do not even make	run approximately	be a great addition to	be availabe on	contain a variety of	IS DEAD ON	contain a huge amount of	be already available in	be way beyond	be the new type of	be organize into	have alot of	be used as	draw she to	be identical to	herald a new era of	may start as	will be out	evolve from	copy available on	include sample of	become really	be a new type of	draw from	be ship via	definitely have the feel of	come either as	will soon be available in	receive	go to talk to	be intended for	be release along with	be edit with	is elected a Member of	flip down	do not have	be free of	do not look like	include expand
+595	2	go there for	go to
+544	8	be also fluent in	be a man without	be not next to	be the essence of	now have	dedicate his victory to	be born in	become the champion of
+25	36	was the First Lady of	cross the line first in	be schedule to travel to	do not stop in	will also visit	send troops to	be a legend in	pull troops out of	oppose the war in	be be record in	order the bombing of	come back to	assert to	make an issue of	Is Right on	is elected President of	apologize to	be schedule to include	stop the war in	have come a long way in	be a federal subject of	be presently in	have more success in	should be the next President of	have a limited presence in	was the forty second President of	be a part of	be bid for	be not go to do anything for	should not be the president of	never invade	have not be president for	be a resident of	be a river in	still be not in	be schedule to visit
+675	3	end the first quarter on	will be induct in	joined the Council on
+247	5	go without	have to get rid of	be without	make a pass to	go right to
+27	6	have raise money for	be raise by	have take a liking to	be raise money for	be the biggest name in	withdraw his support for
+1	95	have go from	do not go to	end with	may take	find for	serve with	will start at	hold out	lie about	win in	could have be	be the friend of	move against	be endorse by	will serve as	can only move on	know about	travel to	already be on	serve in	should pick	here make for	be try for	be raise in	win	be now head to	be head to	say during	be focus on	say this on	be the man of	may take up to	will speak for	set up	be good on	will name	give some advice to	win for	say after	be just leave of	pick up	be not go to be	have win	run through	come out on	vote with	have be go for	be elect for	can be break in	say at	be win on	be already out of	be very popular over	have come into	be go	be run out of	now run	head to	appear in	be a son of	should go for	then return to	will hold over	speak for about	be release for	be campaigning in	will fly to	leave	win with	say of	be play with	have now win	be at	win by	will win	say from	be win in	will then fly to	could have have	be head for	do serve	have win at	run	will now go to	be also in	say on	be bring out of	do vote in	should know about	be play	come out to	be create	play before	be put into	have come out on
+148	21	also have a table of	have a command of	be mull over	do not do away with	can be in	do not dictate	be update in	be added to	be present in	cannot exist without	be not just the result of	be not a synonym for	eventually retire to	be similar to	have been in	be generally concentrate in	be not always kind to	do not rule out	can be present in	can be similar to	do not support
+501	46	do not happen by	be the result of	be closely related to	may be take with	exist in	be only good up to	be pick up on	be not know with	be the parent company of	be know as	should win in	be high on	go off for	should not be bet by	be directly behind	do the same thing in	do not need to be	be far cheaper than	do not have to be just	be gain	be set in	will be use to represent	have become of	be in	speak to	have come out	be the largest landlord in	have be a friend for	be bear on	be pick	do not happen in	be not a change of	work at	be pick for	have read	seem to do	be not swell by	have be live for	pick up on	stay on	single to	be popular in	can be a bit of	have now be move to	have take	have be dispatch to
+732	1	be not
+400	3	patrol in	do not fire	be fully stocked with
+293	263	get his share of	be move into	be right for	have play in	be grounds for	rub shoulder with	do before	Is Not	hit on	give the order of	should arrive in about	play for	only come through	could be	never do thing by	heap praise on	care nothing for	be about make	only vote for	tell voter in	come as	do not really like	Was a man with	leave in	run on	arrive in	pick	be arrange in	be score with	will have be win by	hit by	have the same type of	do not mention	do play in	be back	be a big opponent of	decide against	serve on	be crucial on	really do	do go to	be a form of	would be run for	begin after	barely speak to	be run for	be heap on	hang out with	have endorse	can go to	be reportedly in	will appear over	be recognize as	be once call	go through	measure approximately	be find not guilty of	should not be divide into	be phenomenal on	be about to leave	is still the King of	be campaigning for	be promote to	expand the boundary of	also commit	be pass by	be influential on	be make from	come up on	be too much of	be go to	live in	be call by	be free to	be refer to	speak at	once say to	call	will have	do nothing against	may have reason for	be seat next to	address	have be go on for	have go to	can lead to	lie for	should be make	bind on	have yet to endorse	never catch	tell reporter at	start off as	be burst with	be the undisputed king of	be a lot of	take the oath of	may evolve into	report to	come from	take over in	live on	be hold to	introduce	be make up of	can take on	should run for	be an outspoken opponent of	be not stand for	will now be know as	be crap on	be currently in	fly out to	be head of	do take	be much more than	will always be	be call on	have be around for	show the shape of	will be back	have high hope for	hold up	begin his second term in	be elect to	be the currency of	always have his eye on	serve during	still rule on	cannot serve as	be so much more than	hold over	provide	may be spill by	can result in	complain about	seem to have	come up with	make right in	be take to	seem to be of	try to do	will come over	be build	be come to	should have be try for	be more than	really be stranger than	make for	stay out of	be not for	start for	move into	say this of	be make out of	be try to be	be not as simple as	have a variety of	also take	hold more than	be not locate	play	have be make into	then move	move back to	be see in	do not win	be always stranger than	reduce the size of	be address as	go	speak out for	go back to	be go on on	get away with	have be name	work in	be messier than	be the head of	run up to	be king of	have now be return to	be full of	be likely the son of	be obsess with get	be a cousin of	have leave	be once head of	put to	be program by	speak about	be hold	lose the case on	could have	be phenomenal for	be a valuable commodity on	be lie on	own	deliver a lecture in	could not be hear by	do not salute	be afraid of	have fun in	be approve by	be the king of	be link to	already have	vote against	run over	add on	say with	feed on	have lots of	be more fun than	can sell on	IS indeed	be now very close to	will do anything for	sit next to	come on	come to	come in to	pass out of	is FAR more entertaining than	be comprised of	be use by	speak in	stand on	appear on	work for	take care of	also be a member of	have come to	lie about have	ride to	will last for up to	have be around	have take over for	be an automotive brand of	be protect in	will play at	be also a member of	begin with	stay in	be just like	be put in	have appear on	be far more complicated than	have be name president of	be back at	be also influential on	be a great symbol of	be pregnant during	charge at	be get out of	can be on	pass the torch to	be give advice to	have come	make in	have a vision for	be divide into	go on
+277	1	be of
+56	8	could take up to	never serve in	always look great in	Has Never Had	have plenty of	will be teach by	be use in make	be certainly back in
+484	5	be much like	be locate in	be a city in	be a writer at	be a city locate in
+504	20	can exist on	should be	use pulse of	be reborn on	be include up to	be very difficult on	could not survive on	have emerge on	do not exist on	begin to imitate	would not be possible on	continue to be	have already begin on	exist on	usually involve	arise on	be limited to	do exist on	continue after	only exist on
+397	4	be no safer than	be restricted to	be significantly safer than	contain a small amount of
+741	1	be affect
+221	99	connect with	have an enrollment of over	still have	just get	get off to	have be schedule to begin	be re elected	have never be on	be as bad as	be never in	be later treat for	take office in	will speak on	be inaugurate for	also have	appear as	be still in	have no intention of run for	sign in to	can win	get under	win among	grant clemency to	leads Obama among	be a symbol of	do very well as	be ready to be	tell a crowd in	be actually a series of	only get	be the best choice for	demand the extradition of	be not the first woman to run for	do play	be then governor of	be hold forth on	have be vote for	be also	renege on	be unfit to be	write of	refer to	win nomination for	appoint she ambassador to	subsequently become	be with	be help	talk to	draw support from	be no better than	be supporter of	be a value of	be re elected for	win with only	should still be	be very good in	once say of	tell cheer supporter in	can now get	have an affair with	be inaugurate	have talk about	be censure by	be lead in	will remain	include cast	be still	never have	will pick	be elect	do a good job as	relocate to	be not fit to be	should remain as	run for	get to be	be still before	have not enter	be successful as	lose	be the candidate for	announce his candidacy for	be more concerned with	will never be	have a history with	might take on	be actually help	be already	fool around with	be ask about	be reach out to	be campaign against	be get	also lead among	elect to	is President of	have be marry	also have the support of	win on
+298	43	may be out of	escape to	may have be	be then defeat by	be the president of	refuse entry to	be to lead	was elected President of	move his headquarters to	should be take with	complete his elementary education in	apply for	can take	elected President of	turn his back on	have be the darling of	be very much afraid of	have a particular interest in	never do anything in	apply to	be something of	be take	be president of	be made in	continue for	be the president for	be finally go to	will be assign	be currently before	will apply to	still love to	should be take before	have concert in	had been President for	can be add to	can be give as	is now the President of	do the right thing for	be the reincarnation of	be a keen advocate of	be there to take	be president for	be always up for
+557	1	be on
+489	179	have enough for	lead among	be married to	have admit	need the help of	remain second in	would still be in	be strike at	be just out of	be responsible for	be bring by	be a senator for	have a good standard of	tell reporter in	also go after	be the wife of	be respond to	be the second lead cause of	advance to	have not be charge with	be a contribute factor in	give a lot of	add insult to	route	have to deal with	disrespect	improvise on	apologise to	compromise with	have magic in	still retain	do not use	also institute	do not vote on	do not start	have be a strong supporter of	work briefly in	appointed Secretary of	record for	be rumor for	raise a number of	is a Democrat from	Has Strong Lead In	sail for	can mean a lot of	be slain in	be often a factor in	test in	win eight of	insist on	won the Democratic primary in	do have	be not be worsen by	enter the office of	lack the charisma of	have disgrace	choose not to take	wins Democratic primary in	try to get	be not yet in	compared Obama to	net about	have take the lead in	have his share of	would be liable to	is currently attending the University of	be a gift to	have kind word for	aspire to	be swear into	be accuse of	do not give a damn about	could have take	have no plan for	also come from	belong in	speak of	make call to	committed the United States to	should be in	do not commit	come third in	do not have better	victorious in	become minister to	IS OUT OF	place third in	have a total of	move quickly on	be never far from	is NOT running for	touch on	left Hollywood for	give up	condemn the attack in	only screw	will vary accord to	be guilty of	think for	place third behind	settle out of	do not name	have make inroad in	be convict of	have observer status on	stand for	be no stranger to	be the subject of	want to offer	begin his career on	will be	will be in	assume the command of	would be in	be shroud in	go on to win	is a United States senator from	be never convict of	cannot win on	also lose	may have leave	split with	do in	be still represent in	have attitude in	be never charge with	be a style of	be a community of	have little access to	slideshow with	be right next door to	side with	also concentrate on	have lost	have commit	may win on	would have	Never liked	have wait for	spend more time in	can not operate in	check into	would be	be the candidate of	be smash in	may have ton of	be the chief executive of	also remain at	have never be convict of	have long be a lightning rod for	be go to win	also meet with	need help at	be not convict of	have spend eight year in	hit back	apologize for	spent Monday in	screw up	become an aide to	have be deploy by	win the governorship of	never apologize for	bounce back in	become the governor of	file for	never do anything on	be follow by	do nothing in	win two thirds of	be governor of	also take aim at	also contribute substantially to	have grounds for	refuse to answer	stick around for	be disbar for	will check with	have a degree from
+124	40	be wrong about	turn his back to	should win	head out on	already have an office in	WAS wrong on	move to	be all about	be a small town just outside	would go to	be enemy of	include	just care about	open a law office in	be ahead by	be know in	maintain an office in	meet in	graduate from	be right on	head off for	be initially oppose to	do a lot of	finish with	start in	sail to	save the people of	will have be knit by	be a suburb of	will travel to	previously be in	have cancel his trip to	sell his share in	only care about	eventually take	finish in	still lead by	move in	be study at	land in
+65	52	would be much better than	lavish praise on	write to	have be campaign hard for	will campaign in	have capitulate to	also refer to	might pick	then agree with	be far more effective than	have to keep up with	say about	say nothing about	be down to	agree with	be good for	have more experience than	be acquit in	be not remove by	do not speak during	lose to	be the opposite of	lend support to	have more delegate than	be not do with	be funnier than	have something on	will lose in	may be right about	be not on	blow out	cannot save	remain in	get his start with	urge support for	should remain in	will need	be also up for	be acquit by	be campaign with	campaign for	will remain in	be eventually acquit by	be find not guilty by	stand up for	be not convict by	will vote	focus on	vow to support	will also be on	be acquit of	will never beat
+109	8	make comeback in	win big in	have not yet win	said In	slam	be never offer	have politicize	also win
+445	88	be only after	be the kiss of	be collect with	be not limited to	be promise	may have a lot of	double the size of	be indeed stranger than	be report back to	will be there at	can wait for	offer a master 's degree program in	be wring	do not walk on	enrol at	be now split into	contain the power of	be truly	get accuse of	rock out to	could have kill	file a lawsuit against	have a minor in	would have no problem with	threaten	may be reduce to	will not be see by	has its own Hall of	enhance use	should win the Nobel prize for	may have be a lot of	order the destruction of	occur behind	be pull	be here	go to to	even have	can make a difference in	win re election to	be once in	be meld with	tend to get	do not match	be not prosecute for	would emerge from	have be pay for	have various way of	be not much of	log with	need a lot of	always trump	have be deny	should be make available to	be sold by	be second in	be truly stranger than	need some kind of	can be drop on	offer graduate degree in	be a founding member of	enrol in	be the basic building block of	be reappoint by	will be limited to	just do not have	study alongside	can get away with	be too complex for	May Be	give money to	be far more interesting than	would say	be build a plant in	be formulate with	write a paper in	start to make	provide peace of	still face a lot of	Annealed	be clearly	praise	add visual interest to	fail to deal with	Will Not Be	be now list under	would eliminate	be offer in	be the action of
+779	130	will have not run	can talk	serve two term as	re elected	announce for	can cause	have the element of	publish	may follow	be cause by	will be head for	be cut to	Did n't Pay for	lie on	be involve in	direct towards	became the Democratic nominee for	be a perfect example of	say recently of	stay at	reelect	have never like	be listen to	be become	can be classify by	has NO RIGHT to being in	can be cut into	cause by	be publish by	should be take after	call on	bid farewell to	elect	have sign with	be report with	declare his candidacy for	will change over	be protect by	be the first winner of	send	be like	could not get	will be sent to	be accuse of rape	be talk to	be a perfect case in	re elected as	become	be blind to	be harmful to	be good friend with	be a top killer of	call for	live down	currently live in	be deliver	be a friend of	do not know the definition of	will start	actually like	have previously work for	be develop in	be remove after	be need in	steal from	die of	arrive to	be a way of	can become	can get out of	will be like	be the third of	also have harsh word for	have just be elect	endorse	do with	give his inaugural address on	have his way with	be worse than	be worried about	be more like	should be more like	listen to	will pale in	has passed the House of	have decide to run for	be never like	die on	be cause	be the diametric opposite of	have just become	have be elect	wins the Republican nomination for	be a former employee of	be not run for	must return to	have be sign by	be only to be use in	be one of	be a regular customer of	can affect all type of	be much bigger than	start	work with	lost the Democratic nomination to	easily defeat	display at	do follow	submit his proposal to	be live	could not get along with	later become	be quite	assume his new position on	be going to	kill	be then	borrow heavily from	be too much for	be always	need	pass at	be forbid by	will have amputate	be gear up for	announce run for	have work for	be inaugurate as	get blow by	help defeat
+292	5	say in	win both state in	told Time in	form an exploratory committee in	drop out on
+225	26	be condescend to	be smarter than	be not an agent of	have always be about	open the way for	have more than	recall say to	be cleverer than	be to	may be punishable by	be better than	be able to defeat	turn on	be rip on	make superb use of	have be a household name for	have warm to	will defeat	be a household name in	be preoccupy with	can be connect on	pave the way for	be little different from	be elect base on	write a note for	sign the bill into
+190	9	be a study in	earn his degree from	play football for	was the President of	roam the hall of	stump in	do lose	include technique in	have accept the presidency of
+707	46	be still president of	be educate in	is no longer the President of	have make its mark in	had just been elected President of	take a special interest in	quit in	have happen in	occur across	send military aid to	be assemble in	remain highest in	be a common disease in	be manufactured in	become president of	was not only the President of	lead the invasion of	is Not a Disease of	worry about	is the current President of	order an attack on	be the former president of	focus overwhelmingly on	is a former President of	Does n't Understand	has just become President of	pay a visit to	happen in	be visit	become available in	have factory in	be currently president of	is the elected President of	also attack	mob in	be an endemic disease in	was still President of	elect president of	remain president of	be the largest manufacturer in	was appointed Chief Justice of	had been re elected President of	want to overthrow	be reelect president of	became President of	will no longer be President of
+120	13	be point to	defeat	will say anything to get	kill for	be the second with	be then interrupt by	be soft on	be for	actually win	be schedule to be sentence on	work hard for	have miss a total of	have a long history of
+666	5	believe in	be introduce by	hold rally in	be bizarre for	hold a rally in
+87	87	set for	run only	build for	come into	have sell	have now sell over	be only available in	work as	close on	will be available only in	start out with	now work in	will close at	last for	come out in	be now available for	will be available through	be now available only on	be put on	be sell for	will be available from	have just go on	be available in	will play on	will come out in	be great for	be only available for	will arrive in	can be use on	be available to	will be available on	will be order for	be available now on	be available now in	be then play for	be be release by	be run over by	will only be available for	run for about	be win with	be already in	set with	be come in	can be order through	will remain for	have come of	will be available in	read in	have be put on	will be release	run to	have change	run in	be available for	write	be available on	be divide in	can be divide into	be set up with	come out	set on	be set with	will be ready by	be also on	be right about	can run over	can be read in	come in	can be better than	can only be play on	retire from	come with	do work in	work from	will be release at	be write about	be only available at	be only available to	run about	have go into	come out of	run into	be then divide into	will also be available for	have be set	will run	be right in
+519	6	be a system on	have stop on	be otherwise	have two set of	could take	be still fully in
+469	11	be not a loss of	be not just about	be almost entirely about	be out of	should always take	be not loss of	be fundamentally about	be approximately	be not the loss of	be rarely a one off	be entirely about
+376	9	win the majority of	prove a disaster for	be a weekly columnist for	be better for	tell	have be defer by	be extremely popular with	be not bring	be back by
+160	97	be not the only one on	be unemploy for	be fine for	scorch	keep look for	mean keep	be always funnier than	be not a man of	can also occur without	feel like	recently publish a book on	differ on	be more than just	love to	will forever be link to	should not be	be bore at	be a painting of	be a former professor of	do the same to	be out there in	be currently base in	be not at	be offer a job with	have hail this as	be fine as	oppose	will leave office in	assume office as	beat	have graduate from	have come along	be more complicate than	never visit	be quite an important part of	be a former director of	have prevail over	make a campaign stop in	be not the final word in	be a federal prosecutor for	admit to use	be appoint chief justice of	may be the toast of	be always a big hit at	be a waste of	be often of	do not go away with	have location in	play a lot of	have be there for	apparently like	be a measure of	can be modify via	rarely have	be also currently work on	may be keep at	have an office in	is an American company based in	is the King of	do not get along well with	sent his Secretary of	be also deeply commit to	would be an awesome name for	be hard on	have never set foot in	be truly like	feel through	be a part time resident of	be measure in	escalate over	must have	do not suffer	have a passion for	die cast	have a few idea for	be also afraid of	is a South Korean manufacturer of	may be mixed with	be a major threat to	be north of	prepare to invade	last anywhere from	have already serve	have also appear on	be a problem for	can be fully charge in	offer a large collection of	be race	be a sorry excuse for	be not all about	intervene for	publishes Catalogue of	have let	has come a LONG way in	offer a view of	be a graduate of	have a good number of
+383	12	be impeach in	refuse to sign	be impeach for	be impeach	leave office in	has been MIA for	have demand	be rediscover by	do deal with	state in	may still have	be just
+798	18	begin in	remain as	retire to	always have	be president during	will focus on	campaign in	vote for	will die in	die in	will answer to	begin at	will introduce	campaign on	will vote for	have be focus on	have pass	also do
+306	7	will quickly follow	later follow	have be inhale by	can be turn into	have be on	be there for	have not follow
+460	4	too receive	receive only	have receive	receive just
+238	32	may also lead to	be a good judge of	be from	be live in	be a reaction of	be the man from	be possible with	take the place of	be not in	have live in	cover in	do not substitute for	support	be indeed from	be just kind of	be one form of	also come in	leave a trail of	be a threat to	can also progress to	be prepare for	be the willful infliction of	be not a substitute for	have the support of	can vary	be raise	often lead to	have some kind of	have a lot of	be a man of	love	can be one of
+449	23	back	be work toward	be close to	return to	have return with	be move back to	have be meet for	be put to	was President of	have be add by	fly to	be interested in	will visit	be a town locate in	give up on	fly in on	have visit over	be dangerous to	be wrong on	have move to	mess up in	be elect president of	be more dangerous than
+330	6	do not necessarily indicate	have have	should only be use to treat	have suffer	may produce	may lead to
+366	20	be blacker than	make the same mistake as	be the second come of	be not speak for	be different from	be put his faith in	do not report to	will definitely vote for	give way to	be all in for	still have to go to	can not get	do not pass	say vote for	lend his support to	HAS been campaigning for	be also think	would lose to	be reject in	be different than
+98	12	said Monday in	be favor by	lead in	declare at	will likely win	say yesterday at	have have close tie to	be favor in	begin his career in	fairground in	study at	tell supporter in
+257	19	make a run for	should be on	have be publicize by	be look to make	be due to visit	sign the protocol in	have already be to	may be anywhere on	become famous with	grill on	may win	can be discharge in	have long standing tie to	sell out to	give to	put into	do a hell of	do not own	will not be go to
+333	5	talk of	would jump for	turn serious for	be deep in	join force in
+525	9	have warn	be a force of	say accord to	Takes on	do okay on	be okay i	actually be on	chat about	recently appear on
+176	2	be a matter of	do the same for
+81	31	north korea	be the theme of	was elected Governor of	be think to occur in	be geographical in	won the Golden Globe for	be grow up in	be not appropriate for	have research program in	be the most powerful man in	always come as	could not go to	be pretend to	be be view as	be not re elected in	slow by	give a speech to	be cripple by	have choose	be scarce in	be mediocre at	be an epic of	include print	will be the next senator from	also be responsible for	win the popular vote in	Look Like	be unavailable for	be currently locate in	be a summons to	immediately begin work on
+285	6	have a hatred for	use the language of	call a council of	take away	be currently speak in	also appoint
+514	2	be still a bit of	be hooked on
+308	21	be now	will do	will perform work by	last approximately	be up for	correct in	cannot run for	be appoint to	be a special class of	fall into	will extend to	be schedule to speak at	do not come without	is the Father of	apply to lower	be not grounds for	appoint the head of	be be amass by	extend to	be presently headquarter in	be handle through
+760	4	IS a hawk on	journey to	make fund available for	also have success in
+398	7	be first use for	do the same thing for	will be cover	set of	do the same thing with	can be use to watch	cover of
+274	4	be correct on	do not sound like	be also create by	have also be reduce in
+53	28	double to	just cannot catch	be ninth in	may have be to	never get	lead the league in	missed a LOT of	have set record for	have be bad for	excel on	would hold on for	bolt to	be not far away from	have like	triple to	be typically	be go straight to	sell fewer than	have the worst record in	be primarily through	be try to win	have the second best record in	would then have	ground out to	accuses Obama of	could win	will never win	have pitch
+529	1	have never play in
+402	3	make an appearance on	can be plot use	show up on
+6	16	be name for	have be brief on	answer a question from	run off	be name after	get	be warn in	start with	have take over	run as	say to	have be know as	will take	be name	be very weak on	write in
+468	7	south carolina	begin work for	is Hot for	have sex with	be a real piece of	is a Greek word for	press for
+149	3	be only	embrace a wide range of	be allergic to
+677	3	win election to	win the election on	win re election with
+703	7	now own	be under	have be a bit of	be a close friend of	turn to	have the inside track on	Also contains
+412	7	must accept	be electroplate in	do not always follow	give so much to	be imitate	be engineer in	be remove prior to
+417	4	also feature	be ineligible to run for	beget	should be treat as
+276	3	swing into	be associate with	have already take
+331	13	be next at	reach	be already short of	be a wonderful place to	also have lose	be a heavy contributor to	be imprison for	only lose	be a jewel of	have be home to	lead an army of	be next in	have be my friend for
+552	4	read by	be read	be the pride of	be now be publish in
+492	3	have make no mention of	have be there	explain to
+491	4	blame	prefer	sandbag	enlist in
+132	7	never mention	take a ship to	also love	be up to	have a girlfriend in	buy a control interest in	take aim at
+790	22	be a case in	mount an expedition to	include in	grow up in	won Ohio by	apply across	use to go to	cancel his visit to	make another visit to	pass away in	send federal troops to	be sort of	spend his childhood in	have this sort of	make a visit to	tell a news conference in	always involve	also send troops to	be a great case in	have a farm in	often mean	be able to travel to
+434	1	be a republican in
+569	14	be extremely important in	agree to release	often occur in	be often	may also be	rarely discover	also increase with	also run for	sell his patent to	take many form in	also run in	say stay in	affect every aspect of	will help lose
+724	7	name secretary of	is Secretary of	be a bird of	become secretary of	carry only	will be the new Secretary Of	gain ground in
+555	10	be fighting for	be hurt	be not an asset to	meet with	have be marry with	make a video about	may have be a man of	be press hard for	will be a huge asset to	would be better than
+786	2	will be too old in	has been a US senator for
+161	16	be right there in	be film from	fall to	be a private coeducational research university locate in	be a private university locate in	be a common threat to	was a Governor of	be not a matter of	have join	be a spoof of	be home to	be not cut	be a private research university locate in	tell student at	be home for	end the season with
+226	6	win the race for	raise fund in	be now in	be up	give head in	ban smoking in
+550	1	look better on
+249	1	will have be maintain by
+528	1	need to get
+175	5	lavish attention on	again host	shoot to	place the blame squarely on	still blame
+300	1	run a campaign of
+145	2	be a little short on	be conveniently locate near
+335	2	be part of	also buy
+635	6	be probably better know for	be probably best know for	also gain	be the author of	be probably best known for	be best know for
+262	4	take a photo of	be beloved by	take the picture of	do well in
+55	3	be still work on	spend she day in	be still work in
+567	3	be the agent of	can be be by	have not ask for
+265	5	is the first Rule of	be therefore a bit of	be impeach by	Would Crack Down on	have moment of
+222	3	be hardly	crack down on	be the right kind of
+394	2	rule for	be a city fill with
+570	12	should have go to	be made of	go on in	also own	be generally available in	be also available in	be assume to	be swear in on	be use instead of	have be	put on	be made for
+34	3	represent a new breed of	be so	remain popular among
+107	3	yell at	be bear near	often grow in
+694	1	receive million of
+84	2	be employ as	practice law in
+80	11	be the second richest man in	be also from	have return from	pass over to	should stay away from	be now consider	bring focus to	spend many year in	need to go back to	be originally from	be no friend of
+345	2	be curse with	take a pragmatic approach to
+245	2	bring a message of	address supporter in
+328	1	sit in
+523	1	can be Secretary of
+546	1	be elect governor of
+232	4	be back home in	be a town in	also reside in	be the county seat of
+201	29	may be fill at	be assume to have	appear in later	be usually locate	be over	utterly destroy	usually operate in	finally say	be closer in	be cover with	continue in	be use	hit like	come complete with mount	be advise to wear	be mount on	may be order upon	remove from	be usually in	be available upon	stick in	be aboriginal for	be put together in	use for	be perfect for	use	use to be	be fill with	make of reinforce
+309	6	have plant in	do not make a lot of	also have plant in	be a group of	hope to sell	have load of
+407	4	be reduce to	be also a big advocate of	do not imply	be a two way exchange of
+282	4	have the power to change	be about change	have come back to	be call the word of
+763	13	order the execution of	be commander of	become commander of	appeal to	forget to tell	assume power in	be a village in	be situate on	command the troops in	be the worshiper of	be the commander of	be consecrate	offer protection to
+327	5	have reach the pinnacle of	will disintegrate in	deserve a lot of	be not intend to replace	dissolve in
+313	1	be blackmail
+392	3	remain head of	be plan	be certainly not like
+321	1	be active in
+422	2	do not serve in	have a few choice word for
+728	4	rely on	understand the importance of	be definitely a problem in	give ammunition to
+310	5	do not believe in	want to leave	want to play with	come out slightly ahead of	be an illusion of
+351	3	be owner of	get close to	be the owner of
+253	2	be use heavily in	be select to go to
+708	6	have give his full backing to	ride off to	be the fuel of	received the Medal of	prepare for	be ride
+565	3	be the top choice among	can flourish on	have be document for
+202	1	tell the audience of
+426	3	be make to order for	be determine to have	do not lie to
+480	2	have long realize the importance of	recognize the importance of
+684	5	debut on	review for	entered West Point in	be broadcast on	take effect in
+423	4	have be consider	have a history of	can also be a cause of	be contribute by
+494	1	be baptize
+105	16	do lot of	do a couple of	ask a variety of	be deliver to	take the lead in	be a major general in	be also a supporter of	sigh in	have have a lot of	be also important for	become a member of	be claim	will be deliver to	have high potential for	be haul into	have a high potential for
+213	3	be not the only part of	span a range of	be the picture of
+138	19	became Emperor of	be back from	discuss different kind of	triumphantly enter	made Christianity the official religion of	become the sole emperor of	found the city of	march on	have a vision of	lose the championship to	manufacture in	will rise in	be the emperor of	become emperor of	lift off from	issued the Edict of	have dominate in	have no power over	attend a private school in
+102	10	say a great deal about	Is Wanted In	be then send to	too be bear in	be not bear in	make an alliance with	open in	be bear in	spend some time in	be then king of
+17	2	be prone to	be a native of
+281	8	have a good understanding of	be convert to	never convert to	reign in	convert to	define	never understand	have not convert to
+26	4	be compare to	send letter to	be a contemporary of	be the second son of
+183	2	have interest in	be originally model on
+399	2	be a huge fan of	was the first King of
+441	21	fall sick in	lay siege to	have both type of	finish last season with	rise in	be not build for	die at	may be the best team in	sometimes end in	have jump out to	finish third in	never return to	here be the best in	be bear into	be never	be the son of	be the first man in	beat writer for	have win three in	agree to pay	have lose six in
+125	2	leave to attend	have a rich history of
+83	1	fight his way to
+287	4	pull the plug on	feature a series of	assume control of	end in
+566	3	makes Christianity the official religion of	move the capital to	move the capital of
+63	11	be the queen of	want to make	be the princess of	says Have	be the founder of	become engage on	have invent	be the chair of	be an inventor of	have make little headway in	's The Battle of
+373	3	take control of	tell member of	be the second oldest of
+30	3	pray for	be define	grill
+99	6	walk into	may be move from	meet she future husband in	is a Republican member of	may be present in	have gold in
+231	8	step onto	step out on	step out of	take the first step on	be walk on	be the protector of	set foot on	walk on
+611	2	demote to	be demote to
+164	2	would kill	about be
+194	10	be the only source of	be no paragon of	be equivalent to	be the core of	Is Preached To	be the religion of	be the very foundation of	be the heart of	be the message of	be charge against
+472	1	be sympathetic towards
+689	2	will be release in	be list in
+304	4	have be race for	may have	have be ignore for too	currently reside in
+173	10	give the key to	is Good News for	be the story of	have file a lawsuit against	can be translate into	can save	be not of	be leave to	be later translate into	make nothing of
+100	8	have pride of	do not follow	Is the Key to	be write originally in	be read aloud	be good to very	be funny at	be the center of
+70	12	be life in	be about	be the book of	have be help with	be ready to go back to	be the good news of	first go to	be not a theory about	is the Gospel of	be the power of	is the Word of	be about help
+465	13	develop after	be a professor of	be the gospel of	be not about	consist of	be the very word of	be the word of	do not need	be draw for	be find guilty of	be given to	will win best	contain the story of
+704	1	literally mean
+410	12	mean literally	simply mean	be the point of	is the old English for	just mean	mean simply	always be	be write about in	then become	actually mean	is the Greek word for	will save
+341	7	will be face	be go to lose to	be base in	squeeze	be a team of	be call the book of	do not take
+146	8	preach in	be preach to	have also develop a line of	be convey by	must be share with	be a publishing company base in	go out to	preach to
+181	4	be clearly spell out in	Happened on	reply in	is THE Message of
+259	2	pay tribute to	attribute to
+356	1	contain the word of
+46	10	be put out in	be formatted for	be now available also in	can be order for	make inroad in	has gone Gold in	is available Worldwide for	be freely available in	be create in	include victory over
+283	19	will be the new owner of	have no place in	is the Light of	make a play for	be back to	lead the list with	be a work in	might go	be develop through	do not ruin	be quote as say in	be back on	set his eye on	have be feature on	will form on	is GOOD	do not go out on	acquire	want to own
+511	12	est n	be later take to	begin his musical career in	have many friend in	be the main character in	have have problem with	meet	speed back to	is the Satisfaction of	be head back to	write a bunch of	be nickname
+442	2	is Basis for	give rise to
+673	11	be half in	be supply with	have be produce in	offer a wide choice of	be write in	also provide	will also be release in	can have up to	do not speak a word of	be a bit of	be subtitle in
+49	5	be date back to	hold forth on	be recently interview by	may have be lose to	will also be make available to
+578	2	be all about restore	be a gospel of
+227	5	continue to experience	shake his head in	be found on	pause for	be not without
+5	4	was Governor of	teach at	entered the University of	Narratives as
+450	3	may obscure	should be the spirit of	be apart from
+418	1	be derivative of
+108	2	always influence	vary widely in
+572	33	sound like	be the basis of	have be very good to	be format for	could use	be expect to be available in	will soon be available to	be design for	can be order directly from	can be pre ordered at	include delete	be encode for	be sign by	be cheapest at	tell only	be the way for	tell about	be encode in	will be show in	cut out for	be a fine piece of	will work on	be basically the next generation of	be complete prior to	last about	request by	just need	should be complete by	show up from	be structure into	can be order from	be actually available in	run for approximately
+200	38	be a borough in	make his way to	offer instruction in	Goes to	win the team competition with	do not attack	set course for	invade in	be relatively unknown in	move towards	have be retire for	be convenient to	thrive as	will march on	have a campus in	be found in	do not involve the use of	received Nobel prize for	be a crime of	recall to	be a general of	be found by	be a township in	be a great place for	become the ruler of	first study	bring the war to	be the boyhood home of	be most notable for	march over	be determine to fight	win the championship with	regard this as	be an unincorporated community in	be also a good location for	be allow to remain in	could not conquer	be third with
+14	11	arrive without	announce on	seek the help of	drop to	defeated the University of	have produce a number of	be the oldest of	do not sacrifice	be finally defeat by	be kill in	look at
+20	25	be charter in	be then see on	commit suicide by take	have become	be now face with	win a lot of	flee to	be aware of	point up to	be happy for	have the energy of	give the signal for	have an ample choice of	was the College of	be fresh out of	be the found member of	currently host	be rank	have already win a number of	do not answer for	attended the University of	be relatively close to	be heaven on	top the list of	be home of
+104	3	be not responsible for	pass away from	be found at
+687	1	teach an introductory course on
+217	6	occupy	recall from	assume command in	control much of	be drive from	be closed for
+443	1	highlight in
+103	1	offer two type of
+45	1	offer language instruction in
+8	5	have a brother in	become the new owner in	be a man with	will have be dead for	be the purveyor of
+72	7	be return to	was made Guardian of	be a writer from	continue his research in	do a concert in	be cashing in on	be a supporter of
+170	6	be unstoppable for	line out to	start the game for	be look all over for	dominate as	have look
+512	1	is the Portuguese word for
+251	7	rumble down	look like	be grind	be very	need around	can be manufacture to	be use to kill
+137	30	have one set of	be place	be do	be be use as	use in	return home to take on	have be run for	can launch up to	have be run since	be need on	be often find on	have be set up for	be build into	be suppose to go	have right of	will be judge by	mean point of	have be up for	be place on	run out of	be always in	settle in	have the right of	set up for	be an all around	have be run about	be service by	be keep at	Move on	usually be
+69	3	still need to do	will be to	belong to
+783	1	be fully
+151	2	use a lot of	be low on
+174	9	be the indigestible portion of	find in	be sent to	instead move to	be most successful in	be well establish at	be send to	be first develop in	pass up
+57	1	may pull
+7	6	can be make of	be make	make of	can be	fill with	be back in
+470	3	be great for move	surround	be furnish with
+508	3	stand there	be display in	be a snap on
+428	1	abandon in
+619	2	fire at	can destroy
+591	1	uncover for
+616	1	also require
+446	1	be need to take
+691	1	roll up in
+67	3	recently open a branch in	take place in	have not change since
+361	1	be up on
+115	6	be treat as	have effect similar to	may occur as	be much more complex than	have be compare to	be basically
+792	7	be a great form of	be essential for learn	be the key to	be intrinsic to	be fundamental in	be essential for	often kill
+264	4	be more a matter of	be too strong of	feel a great deal of	have not be much of
+218	2	be a substitute for	may lower
+78	3	be state for	be a professional sport team from	shall be clerk of
+624	2	issue in	be issue in
+401	3	be due in	be now before	be before
+378	15	set from	be also available from	simply stand for	get here	be create for	will soon be available on	be available through	be now be sell in	be not a waste of	be the major shareholder of	be available from	put off for	be used for	be film in	IS AVILABLE ON
+409	8	be pale yellow in	be off white in	edge with	be shades of	be white in	be lay by	be blue in	wrap in
+79	3	be sometimes use as	be not forbid by	be require to purchase
+370	1	be key in
+223	2	slow down	acquire the draft rights to
+62	13	appear in nearly	gain the endorsement of	will forever be	be send overseas for	have confess to	be upstairs in	have captivate	act in	have already implement	be determine to be	be great in	be also interested in	be usually take once
+90	11	be my choice for	take vote away from	would beat	never become	still have feeling for	announce his plan to run for	still like	will perform on	be a concern to	be transport to	turn his sight on
+204	2	can also be apply to	be the difference between
+532	4	have be diagnosed with	be more common in	be very serious in	be not diagnose in
+60	3	do not constitute	can vary by	can be export to
+714	3	be not necessarily restrict to	has a Life Cycle of	be diversify in
+121	2	be treasurer of	take a back seat to
+536	3	have be use to treat	use to increase	use to lower
+128	3	be usually sell in	be a general term for	can fold flat for
+483	4	lead to	do not include	fold out to	open into
+580	4	have be tour	originate in	originally come from	have its origin in
+322	9	be drawn to	welcome submission of	be correspondent for	enjoy the friendship of	be away on	take place among	be late for	be more active than	be popular with
+91	1	be project at
+272	3	be increase by	reflect the balance of	be increase in
+169	15	will miss	be no longer pursue	be impress with	do not really want	have also be link to	be the hottest team in	avoid arbitration with	counter with	may be interested in	will lean heavily on	be show a lot of	be no longer interest in	be lead by	trade for	have sign
+75	1	be go to lose a lot of
+211	4	never stand	be expect to reach	get spank	have not use
+197	2	could stay in	sweep
+590	1	be wear
+212	5	be update	have study a number of	can be loan for	can be hire at	open up a world of
+219	1	get lucky for
+369	1	have develop a passion for
+224	4	lie immediately south of	be also a bit of	be actually more of	is the Native American name for
+509	1	be evaluate
+23	7	be once marry to	keep come up	capture the heart of	be go to marry	be hilarious as	was the Sweetheart of	have just marry
+669	3	also continue in	really be a work of	be an act of
+421	2	be base on	can be use instead of
+305	1	be initially create on
+756	2	would be very difficult for	have other kind of
+113	3	finish his senior season with	be exempt from	should be swallow with
+294	1	be cut back on
+29	2	be governed by	be a citizen of
+592	2	be more of	be a fountain of
+270	8	be not okay with	do occur to	be possible only through	occur in	change the nature of	occur on	can range in	be the misuse of
+425	2	offer lot of	be gonna
+752	5	be force to resign as	be also service by	be just this sort of	cross	descend from
+73	1	carry out
+93	3	be rank first in	be tailor by	be not even close to
+279	2	be require	be sometimes
+735	7	be the other in	be not produce in	be the most common form of	be a big fan of	be the most popular form of	be not the same as	be try to buy
+15	7	be a mixture of	do not accommodate	often contain additive ingredient such as	should be take immediately after	also contain	be summarize in	should be administer with
+77	1	may be preferable for
+318	1	is the Old English for
+638	1	be chairman of
+630	1	be a net gain for
+642	2	be one characteristic of	be a scourge to
+47	39	can now be purchase on	is available NOW at	also control	become available for	can be purchase at	be usually available at	be ready for	be also available on	be also available through	be also now out of	will be available soon on	be also available to view on	can be order at	have purchase	have find	can be purchase through	get release by	will be available for	be now ready for	be also available at	stay available for	be already available for	will purchase	be currently out of	can also be order from	be available at	be available only on	can be purchase from	can also be order	be currently available at	be currently available for	start out in	be purchase from	can also be control by	can be obtain from	be now available on	will feature	be now on	purchase from
+769	1	have a fundraiser for
+147	1	have launch a campaign against
+229	3	should buy	be now out of	just buy
+668	1	host a fundraiser for
+639	1	be owned by
+139	1	have gain control of
+268	17	be most severe in	be generally a disease of	can be fatal to	be find only in	be endemic in	be also know as	be commonly know as	can be prevent through	be very common in	be also call	be a notifiable disease in	be another name for	can also cause	can be prevent by	can usually be diagnose by	be a reportable disease in	can cause prolong
+343	3	be a respiratory infection cause by	be a bacterial infection cause by	be an acute infectious disease cause by
+602	2	be most serious for	can cause death in
+152	1	be underreport in
+386	3	have a great deal of	be cast as	become the undisputed king of
+609	7	rebound for	be extremely active in	led Orlando with	lead the way for	lead the way with	does NOT work for	be a monster on
+354	4	never play in	have lose eight of	have not win	have advantage in
+452	4	find his way back to	have not be long in	be the case in	be a poet in
+21	2	have the authority to issue	be an active participant in
+710	1	be fight
+701	1	be surround by
+444	1	have move back to
+71	2	be a synonym for	convert back to
+388	1	get worse over
+390	2	can take a number of	can take a variety of
+236	2	really be	just be
+405	2	be bright in	do not finish
+195	1	is the County Seat of
+413	1	be interrogate
+86	1	do not represent the majority of
+342	3	may be use for	never pick up	be difficult to get in
+41	1	take the concept to
+574	2	be currently use primarily for	work primarily in
+650	1	should not be lay by
+143	30	will be out in	must be release in	will release on	hit store in	be out on	have also refer to	will be on	be out in	be release in	be schedule to be available in	be schedule to be release in	release in	will be release on	be release	be nice by	be introduce in	be due out in	release	will be out on	will be distribute in	be due to release in	will be obsolete in	will be deliver in	Takes Off in	will take A LOT OF	be set to be release in	be release on	be expect to be release	be due out	be now available in
+242	2	be a natural successor to	be the successor to
+252	3	look great in	be format in	be master in
+705	5	include the trailer for	will be out by	be a handy reference for	be the biggest waste of	be the perfect medium for
+324	3	make a great gift for	be expect to be ready in	be the first of
+162	1	set contain
+59	2	contain	usually contain
+135	9	may have be dead for	wed	also have a very strong need for	be a icon of	includes Making Of	have a fling with	have be naked in	will always look like	can still draw
+563	1	allow
+699	3	feature a plethora of	have a nice mix of	will feature a wide variety of
+718	1	run almost
+19	5	include a collection of	also feature an interview with	include a pair of	box set	include a commentary track by
+136	12	be not the best of	be spread across	be equal to	will receive	can have two kind of	do not begin in	have be out for over	be only in	do not come out until	do not work out of	be lower in	be often sell at
+594	1	be the future of
+696	1	be guarantee for
+488	3	be be sold in	have also be release in	will start show up in
+379	1	copy
+553	1	present a collection of
+89	2	Not Interested In	be consider
+777	2	be just for	have the advantage of
+685	1	mean exchange of
+706	1	also assume
+68	2	continue south to	be build just north of
+561	1	spill at
+33	2	be lighter than	be cheap compare to
+516	1	be classify into
+725	6	be twice president of	establish	was the fifth President of	becomes the fifth President of	was elected the fifth President of	be the fifth president of
+11	1	be best remember for
+598	2	be larger than	be a staple of
+123	1	have a total enrollment of
+447	1	be also effective with
+702	4	could reduce the risk of	reduce the risk of	help reduce your risk of	can contribute to
+95	1	build a variety of
+110	1	be only at
+459	1	offer a case in
+716	1	be hand over to
+337	1	evade capture for
+66	2	do not marry	also sing
+612	1	have inspire generation of
+16	1	be the very definition of
+48	2	lose without	finally marry
+230	1	be an icon of
+406	1	be have
+127	1	will not hold a meeting in
+738	1	be tentatively schedule for
+660	2	may be hold out for	will not rise
+715	3	plan to kill	have shoot	shoot
+130	1	be arrest without
+467	3	be a reality of	be an unfortunate fact of	be an unavoidable fact of
+38	2	be the leader of	have charge of
+797	1	be freeze in
+697	1	really enjoy
+762	1	be rake in
+656	4	be the best center in	be the star for	be go to save	get back on
+10	2	be be assist by	be now in for
+32	2	be a freak of	soar for
+31	2	be a limitless source of	be not like
+301	1	be often stranger than
+350	3	led Sacramento with	lead the team with	lead all scorer with

@@ -34,8 +34,16 @@ class Experiment(object):
 
     def evaluate_clustering(self, ent2truelinks, ent2predlinks, eval_category):
         if not ent2truelinks: return dict()
-        pred_items = set([x[0] for x in ent2predlinks.items()])
-        gold_items = set([self.eval_fn(x[0]) for x in ent2truelinks.items()])
+        #pred_items = set([x[0] for x in ent2predlinks.items()])
+        #gold_items = set([self.eval_fn(x[0]) for x in ent2truelinks.items()])
+        '''Making sure pred and gold have exactly the same entities'''
+        gold_items = {self.eval_fn(x) for x in ent2truelinks.keys() 
+                      if self.eval_fn(x) in ent2predlinks.keys()}
+        pred_items = set(ent2predlinks.keys()).intersection(gold_items)
+        print(f'Len pred: {len(pred_items)}, Len gold: {len(gold_items)}')
+        '''Changing true dict'''
+        ent2truelinks = {ent: link for ent, link in ent2truelinks.items()
+                         if self.eval_fn(ent) in gold_items}
         if self.data_id == 'nell165' and len(pred_items) > len(gold_items):
             ent2predlinks = dict(filter(lambda z: z[0] in gold_items, ent2predlinks.items()))
             pred_items = set([x[0] for x in ent2predlinks.items()])

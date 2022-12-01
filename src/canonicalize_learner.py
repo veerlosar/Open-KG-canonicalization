@@ -42,7 +42,7 @@ class OpenKGCanonicalization(nn.Module):
         self.ent_vae = VAE_GMM(self.config_params['dims'], n_ent, init_clusters['ent'], self.reg_info, models, self.dataset.ent2id, device)
         '''Passing triple2id file instead of rel2id'''
         #self.rel_vae = VAE_GMM(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.rel2id, device)
-        self.rel_vae = VAE_GMM2(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.untriple2relid, device)
+        self.rel_vae = VAE_GMM2(self.config_params['dims'], n_rel, init_clusters['rel'], self.reg_info, models, self.dataset.rel_triple2relid, device)
         ''''''
         # ================== Set Up the KBC Model.
         kge_util_params = self.config_params['kge_util_params']

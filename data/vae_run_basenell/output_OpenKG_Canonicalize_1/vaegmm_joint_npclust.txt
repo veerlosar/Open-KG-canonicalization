@@ -1,0 +1,293 @@
+{"batch_size": {"train": 50, "eval": 5}, "model_info": {"dir": "glove/", "src": "GLOVE"}, "working_directory": "data/vae_run_basenell/", "learning_rate": {"stage1": 0.001, "stage2": 0.0001}, "eval_per": {"stage1": 10, "stage2": 10}, "loss_weights": {"vae": 1, "kbc": 1, "side_info": 1}, "train_stages": ["stage1", "stage2"], "dims": {"input": 300, "interim": [384], "latent": 100}, "seed": 57, "init_ent_file": "hacft_ent_labels.pkl", "init_rel_file": "hacft_rel_labels.pkl", "clusters": {"ent": 300, "rel": 300}, "reg_info": {"stage1_reg": 0.001, "stage2_reg": 0.001, "mc_samples": 1}, "kge_util_params": {"temp": 0.01, "n_corruptions": 20}, "n_epochs": {"stage1": 50, "stage2": 300}}
+
+Number of Clusters: 290
+215	1	fiber
+1	20	weld county	good stuff	red velvet	jeremy paxman	global domination	steve jobs	rachael	charlie bell	henry ford	john watson	steve case	happy man	young girl	jon stewart	kevin martin	information service	arizona science center	chuck knoblauch	rachael ray	richard pryor
+235	1	vlad
+88	2	drug	abuse
+133	2	constantine	constantinople
+37	2	futon	english
+28	2	tank	armour
+229	2	dr	skinner
+44	26	light rail	great deal	pure water	phoenix metropolitan area	budweiser	new york	main street	phoenix sky harbor international airport	credit card	new mexico	nrg energy	high risk	fortune magazine	software architect	parade magazine	capitol hill	karl marx	british columbia	apple ceo steve jobs	full time	far east	daily show	bill gates	goldman sachs	grand canyon national park	ford focus
+31	3	gate	bridge	door
+289	1	bill
+274	1	dvd
+58	8	microsoft corporation	microsoft project	personal computer	dvd talk	windows vista	all star	tom brokaw	ms dos
+239	1	hannibal
+261	1	histogram
+61	4	christ	god	atonement	revelation
+259	1	bindi
+202	1	methuen
+171	1	denali
+34	2	population	total
+66	5	stanford	princeton	harvard university	degree	cambridge
+46	2	phoenix	tempe
+154	1	clerk
+16	8	warren	dickey	warren buffett	wendell	alumnus	beckley	appomattox river	greeley
+45	2	winston churchill	horace
+180	2	appomattox county	virginia
+205	1	tablet
+279	2	canadian rocky	rocky
+14	5	graham	chapman	nelson	wallace	cook
+189	2	location	geography
+185	1	kara
+242	1	identity
+57	11	arizona state	winter park	bay area	metropolitan area	united states	south korea	arizona territory	susquehanna county	salt river	iowa state	san fernando valley
+98	3	character	christian	gospel
+73	6	stage	golf course	start	time	new york time	course
+60	2	content	quality
+241	1	douro
+63	2	india	boman irani
+0	2	maturity	longevity
+23	2	ethanol	sweetener
+41	3	petrol	gas	fuel
+200	1	tesla
+29	7	hand	respect	point	position	existence	moment	view
+32	6	success	opportunity	attention	challenge	focus	surprise
+252	7	radical behaviorism	information technology	natural history	introduction	social security	history	last week
+178	1	romania
+164	1	dracula
+194	3	health	food network	food
+151	4	wright	michael	joel	david
+27	3	meal	drink	dinner
+123	2	italy	milan
+127	8	january	june	april	october	august	uk	july	jan
+30	2	chef	guy
+152	2	washington	seattle
+283	1	fan
+148	2	germany	netherlands
+150	4	thailand	indonesia	malaysia	sarawak
+145	7	vietnam	day	sunday night	year	september	last year	month
+221	1	concrete
+198	2	school	education
+271	1	hrs
+217	2	england	britain
+72	4	body work	steel	steel plate	stainless steel
+184	3	small	great	long
+260	1	rock
+275	3	room temperature	layer	temperature
+67	8	software	programmer	yahoo	computer	hardware	computer programming	desktop computer	capability
+56	3	home	run	farm
+147	5	happiness	mind	sense	thought	truth
+26	3	park	building	railroad
+113	2	charge	mass
+36	2	channel	radio
+256	1	approx
+20	2	pvc	plastic
+240	1	nbc
+254	1	shell
+33	2	comedy	film
+15	3	closet	basement	bed
+292	2	battlefield	battle
+48	3	internet	compuserve	encarta
+291	1	sf
+87	7	bit	quick	job	lot	go	fun	trouble
+19	4	round	half	second	second place
+35	4	fight	combat	attack	enemy
+115	2	hour	minute
+179	2	hacker	geek
+90	4	basic	application	free	base
+11	4	assistance	security	request	protection
+10	3	track	cover	mix
+22	3	liquid	pressure	heat
+100	2	fire	ground
+131	2	brass	piece
+25	3	foundation	science	carnegie mellon
+42	4	life	work	genius	inspiration
+297	1	distance
+78	2	maintenance	utility
+207	1	reptile
+97	3	earth	land	sun
+193	3	waxahachie	shopping spree	maricopa county
+251	1	heathrow
+126	2	address	priority
+65	2	green	color
+55	6	question	fact	reason	way	concern	problem
+258	1	scale
+282	1	damage
+105	2	advantage	control
+6	5	monopoly	stock	demand	issue	sale
+40	2	europe	africa
+18	4	motorcycle	auto	truck	car
+227	1	pt
+172	1	freshwater
+39	2	snow	cloud
+70	7	type	form	number	pair	example	volume	exception
+253	5	man	loser	person	fool	thing
+206	1	ice
+203	1	ft
+153	1	swamp
+89	3	team	game	next season
+92	2	jail	probation
+295	1	cycle
+220	2	witness	death
+232	1	gear
+76	3	arizona state university	california	arizona
+255	1	leg
+137	2	aluminium	aluminum
+268	1	palace
+273	1	plant
+69	3	shape	surface	body
+13	2	high	factor
+190	1	banana
+8	3	elephant	horse	dog
+99	3	china town	china	beijing
+85	2	place	usa
+281	1	ww
+96	1	unit
+285	1	yard
+117	2	child	sister
+121	1	susquehanna
+266	1	punishment
+79	4	president	congress	secretary	chairman
+112	2	car accident	accident
+4	4	money	debt	cash	dollar
+125	2	appearance	legend
+141	2	satan	devil
+81	2	dos	os
+110	6	harvard	campus	university	harvard college	college	oxford university
+264	1	spam
+109	2	ad	ce
+191	1	lakeside
+245	1	charity
+80	3	heaven	darkness	hell
+197	1	pm
+52	3	apple	ibm	microsoft
+93	1	oct
+195	1	loan
+103	2	shoe	toy
+224	1	zhang
+211	2	wizard	wiz
+216	1	oracle
+49	2	omaha	nebraska
+5	2	ceo	businessman
+24	4	state	countrywide	country	independent
+59	3	crime	criminal	police
+208	1	malaria
+149	1	window
+244	1	xbox
+287	1	bug
+247	1	corbis
+119	2	marketer	consumer
+299	1	bush
+136	2	newsweek	interview
+209	1	albuquerque
+64	2	keynote speaker	speaker
+237	1	ipod
+3	3	peru	spain	madrid
+62	4	site	page	blog	online
+298	2	top	box
+278	1	board
+213	1	map
+54	4	employee	business	insurance company	industry
+192	1	garbage
+51	2	corruption	wealth
+204	1	hobby
+286	1	cone
+293	1	poverty
+296	2	berkshire hathaway	leominster
+219	1	scholastic
+290	2	shame	fear
+142	1	einstein
+107	1	mac
+104	1	google
+144	3	oral administration	administration	government
+71	2	tokyo	japan
+212	1	nbr
+214	2	town	county
+272	1	humor
+12	2	table	bar
+102	1	atheist
+122	1	retirement
+248	1	language
+257	1	leon
+95	1	olympic
+234	1	bankruptcy
+263	1	longhorn
+175	1	mtv
+7	2	muse	poetry
+169	1	rsa
+160	1	keyboard
+167	1	mba
+177	2	percent	million
+2	4	atlanta	cleveland	buffalo	detroit
+94	3	title	word	name
+68	2	wear	dress
+249	1	muslim
+128	1	paris
+284	1	hist
+262	1	cross
+134	1	kimberley
+294	1	apax
+75	1	bbc
+108	1	amtrak
+17	2	space	program
+181	1	crete
+74	2	southampton	plymouth
+120	1	atlan
+168	1	mar
+9	4	hartford	georgetown	youngstown	wilmington
+228	1	poll
+163	1	ash
+50	2	member	council
+43	1	water
+155	1	gym
+91	2	sport	golf
+101	2	century	decline
+143	2	baseball	major league baseball
+182	1	tourist
+53	2	city	community
+156	1	bs
+188	1	zone
+210	4	american	south america	white	america
+138	3	part	central	south
+170	1	az
+130	1	amherst
+174	1	mail
+114	4	treatment	patient	treat	prescription
+21	3	metoprolol	acetaminophen	paracetamol
+173	1	patent
+277	1	lactose
+47	2	cancer	chemotherapy
+267	1	constipation
+280	1	vitamin
+276	1	snowflake
+157	1	line
+77	1	weight
+176	2	bacterial infection	cyanuric acid
+158	1	formula
+106	1	martini
+199	1	insulin
+218	1	clay
+146	1	powder
+288	1	breath
+118	1	topeka
+86	1	salt
+196	1	ace
+233	1	concert
+84	1	darwin
+230	2	left center	center
+132	1	purdue
+165	1	citizenship
+166	1	count
+111	2	art	culture
+124	1	fcc
+246	1	cms
+82	2	gold	silver
+269	1	mumbai
+231	1	gene
+140	1	reaction
+243	1	wool
+236	1	silicon
+139	1	average
+135	1	lafayette
+270	1	toronto
+159	1	paradox
+225	1	telescope
+186	1	israel
+162	1	equity
+129	1	glaxo
+187	3	george bush	obama	barack obama
+116	1	bank
+83	1	release

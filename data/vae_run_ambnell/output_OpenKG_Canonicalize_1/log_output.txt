@@ -1,0 +1,9 @@
+INFO:root:[stage2, Epoch: 300, Time: 14.257 sec] Vae LOSS: 58.03064, KBC LOSS: 5.48598, Constraint LOSS: 0.39664, Overall MEAN loss: 63.91326
+Len pred: 132, Len gold: 132
+INFO:root:[stage2-Joint VAE-GMM & KBC-Head ENT Mentions]: GOLD/PRED items: 132/132, GOLD/PRED Clusters: 193/98, Macro F1: 0.4296, Micro F1: 0.8925, Pair F1: 0.7908
+INFO:root:Clusters written to data/vae_run_ambnell/output_OpenKG_Canonicalize_1/vaegmm_joint_npclust.txt
+INFO:root:Clusters written to data/vae_run_ambnell/output_OpenKG_Canonicalize_1/vaegmm_joint_rpclust.txt
+INFO:root:Evaluating on all NP Mentions for ReVerb45K ... 
+Len pred: 2019, Len gold: 2019
+INFO:root:[stage2-Joint VAE-GMM & KBC-All ENT Mentions]: GOLD/PRED items: 2019/2019, GOLD/PRED Clusters: 960/592, Macro F1: 0.5433, Micro F1: 0.7337, Pair F1: 0.294
+INFO:root:Program terminated successfully.

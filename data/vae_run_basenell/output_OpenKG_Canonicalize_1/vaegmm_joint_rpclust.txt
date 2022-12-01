@@ -1,0 +1,186 @@
+{"batch_size": {"train": 50, "eval": 5}, "model_info": {"dir": "glove/", "src": "GLOVE"}, "working_directory": "data/vae_run_basenell/", "learning_rate": {"stage1": 0.001, "stage2": 0.0001}, "eval_per": {"stage1": 10, "stage2": 10}, "loss_weights": {"vae": 1, "kbc": 1, "side_info": 1}, "train_stages": ["stage1", "stage2"], "dims": {"input": 300, "interim": [384], "latent": 100}, "seed": 57, "init_ent_file": "hacft_ent_labels.pkl", "init_rel_file": "hacft_rel_labels.pkl", "clusters": {"ent": 300, "rel": 300}, "reg_info": {"stage1_reg": 0.001, "stage2_reg": 0.001, "mc_samples": 1}, "kge_util_params": {"temp": 0.01, "n_corruptions": 20}, "n_epochs": {"stage1": 50, "stage2": 300}}
+
+Number of Clusters: 183
+203	1	be only at
+61	5	take place in	also offer a wide range of	offer a case in	sit in	is the Satisfaction of
+175	1	be evaluate
+274	2	say in	have be
+58	2	be recently interview by	may have be lose to
+97	30	live in	give billion to	have no involvement with	announce the release of	finish work at	drive	be bear into	say yes to	be only up for	be no longer in	said Thursday in	recognize the importance of	fly out to	be also apply for	sign up	have become of	do not work for	come into	be move	have appear on	jump out of	now have	create	be always on	play	be not leave	be one hell of	rule the world by	work for	should not be divide into
+174	1	be nickname
+298	2	have a high potential for	have high potential for
+50	10	can buy	have more money than	be not interest in	be a river in	be recently in	be bear in	come to	be presently in	be bear at	recently visit
+7	28	be the princess of	be the founder of	be the queen of	have a lot of	show	make a lot of	be the head of	decide to cut	show up at	was most recently President of	be the co founder of	really have only	have high praise for	appear on	be once	do not go out look for	have do a lot for	be an attorney with	be get ready to take on	own a lot of	do not mince	be chairman of	own	is the CEO of	be the chief executive officer of	have always have an interest in	be back at	be the apex of
+3	1	go to talk to
+48	2	be late for	would have be put to
+73	140	meet	may own	retire as	have a goal in	be correct about	do not invent	would have no problem with	have leave	start in	get catch in	be generally create use	be the face of	be found	have not leave	do not create	be head to	will file for	be of	be a sure sign of	cre	is not the King of	also have	be better than	be out at	be build to run	just make	really do	start out in	be currently chairman of	be sold by	be now in	be second with around	count with	unveil	have say about	will go	have always been	be presently headquarter in	be also below	will disintegrate in	open at	will open at	be know to be	have drop to	recently retire from	may have drop out of	be not intend to replace	be load up on	be the owner of	have retire from	offer alternative to	start off as	be formulate with	be no longer an employee of	be another strong point of	come from	have open an office in	is NOT the creator of	is Chairman of	act in	be not about	constantly look for	start	give million to	be not know with	could not stand for	be manage use	have to beg for	should be behind	offer his thought on	be update by	shall be clerk of	will open	completely miss the boat on	should know about	have long admire	is now the Chairman of	go on	be pregnant during	be usually take once	recently speak in	be really	be obsess with	must be	may be reduce to	be quit	be retire from	be also an integral part of	have do the same thing at	be do something for	should stick to	be the most important factor for	give open	come in for	first announce	found	be also on	will face a number of	show up in	be feature	retire in	be the genius behind	be score with	be step down from	own a majority stake in	also retire	predict end of	be none the worse for	discuss the evolution of	never serve	can stop	be leave	say of	be known for	still head	can be break in	be the chairman of	have a variety of	should be make available to	remain the chairman of	be only	leave in	depend on	have a council manager form of	be so much a part of	be also	be first introduce to	be not the sole indicator of	announce as	be the picture of	start at	be really down to	be working on	go on to form	be buy	will help lose	retire from	love	depend much on	come on
+144	2	be bear on	be much better than in
+87	3	be born in	be not	be a student of
+147	3	be first develop in	have be tour	be most successful in
+137	14	have be up for	have be set up for	have be set	be keep at	have be run since	need around	use in	have be run about	can launch up to	be suppose to go	have be live for	be well establish at	arrive in	set up for
+65	5	be grind	be build into	abandon in	uncover for	rumble down
+4	61	be full of	may be preferable for	be always in	be put together in	be in	double to	be made of	will be back	make in	remove from	build for	be fill with	be be view as	have find	be perfect for	be usually in	can run over	use for	be to	last approximately	be pump on	set up	be back in	be assume to have	can not operate in	be not the making of	be like	come complete with mount	make of reinforce	can be make of	run over	be a snap on	be move into	appear in later	be aboriginal for	use a lot of	be usually locate	include print	make of	be available in	be at	must be use in	use	make for	be over	be currently locate in	be make out of	be made for	be mount on	be be use as	have be use in	be low on	single to	usually operate in	utterly destroy	be advise to wear	walk in for	must be cut in	may be fill at	be not for	may be order upon
+116	3	have one set of	can be turn into	be often find on
+279	2	be approximately	be do
+2	2	be service by	be send to
+138	3	stand there	can vary	be never
+81	2	can destroy	fire at
+106	2	have be run for	continue in
+151	4	be very	be hold	look like	be use to kill
+245	1	be fully
+117	4	be fully stocked with	be an all around	do not fire	can be
+216	3	hit like	have the right of	have right of
+76	2	usually be	find in
+93	2	buy for	have be go for
+123	2	be furnish with	be great for move
+69	1	fill with
+79	3	may be move from	be closer in	be not the only part of
+192	2	be on	also require
+297	1	can only move on
+209	1	be display in
+32	2	will be to	belong to
+148	2	still need to do	be there to take
+126	2	be place	be need to take
+275	1	roll up in
+20	3	be need on	may pull	be already out of
+201	1	be still in
+33	1	will be judge by
+204	1	surround
+100	1	be part of
+167	1	Move on
+230	10	have to do with	presently hold the position of	be not your kind of	announce the appointment of	have property in	be go to listen to	be marry on	need to take lesson from	would be make	move to ban
+21	12	be rich for	be an early associate of	be not the same as	do not have	be assume to	act as	be a one of a kind piece of	be invest in	be as creative as	have donate to	donate to	be the most common form of
+128	2	die in	die of
+242	1	be committed to
+131	6	have an estimate net worth of	made Millions of	have ten of	have billion of	can borrow	may be the Prince of
+281	2	also make	be certainly better than
+184	2	make fun of	write an op ed in
+72	20	drop out of	study computer science at	recently speak at	be accept to	be not at	drop to	never graduate from	be still a student at	be not a matter of	be enrolled in	leave	reply to	go back to	will drop out of	do not finish	be admit to	leave for	never finish	speak at	drop out after
+235	13	get lot of	be still on	be list on	may start	is the Prophet of	give his view on	have get a lot of	want to start	be get a lot of	promise to end	have declare war on	be focus on	be measure in
+105	19	be a case in	actually grow up in	travel to	be now very close to	be the other in	be not produce in	spend his early year in	move to	be pass in	be next to	go to	be less in	grow up in	have always be link with	tell reporter in	live here in	can be find for	do not live in	be natural inside
+68	15	be team up with	might still be	be more like	may not be	be schedule to be in	just want to have	turn up the heat on	come over for	Was Impressed With	should be hold at	be go to be on	was Born	should be	do not even have	remain ahead of
+71	5	be still shop for	know a lot about	help she to	be very important to	be a titan of
+46	2	create new kind of	reveal his method of
+22	2	be world champion of	be guilty of
+31	3	Go Back to	also score	have lead to
+296	3	may produce	help fight against	should only be use to treat
+41	6	take the stage on	be typically	dissolve in	do play	have nothing to do with	invent
+276	1	unleash
+159	2	just buy a bunch of	be invited to
+77	2	be probably still in	Comes to
+193	2	be kind of	give birth to
+17	8	be between	can be up to	be up to	help to build	may be keep at	have a long history in	be about	live about
+149	1	even get
+102	3	deliver a speech at	have drop out of	be a freshman at
+295	1	be so much like
+259	1	pressure
+85	4	receive a great deal of	be also attribute to	should be swallow with	should be administer with
+155	15	still pick	name chairman of	be obsessed with	be famous for	have have a moment of	be a big buyer of	be negative on	buy a stake in	is a WORK OF	take a stake in	is Investing in	recently invest in	have million in	do not believe in take	be an array of
+37	1	be still chairman of
+52	4	do deserve	be jealous of	may have a lot of	be also an important component of
+222	3	be a product manager for	then approach	may be
+272	1	be really afraid of
+60	44	be use instead of	also have a handful of	be still free of	be the main game in	be the land of	be also the capital of	will be in	is U of	become capital of	be close behind at	be the capital city of	be the main airport for	be strategically locate between	be the thriving capital of	have so much to offer to	be the capitol of	play a lot of	be rescue from	be the state capitol of	check into	be pay	should burn in	be home to over	be the capital of	be the most populated city in	be the most populous city of	continue to do	be the destination of	may be the largest city in	be now split into	be the state capital of	be the largest city in	become the capital of	be a harbour in	be all about	be also the home of	do not win	be rank	be just	have its share of	be also the largest city in	be the symbol of	have little need for	offer program in
+285	1	have plenty of
+266	2	have a column in	will remain Chairman of
+103	1	do not cause
+1	3	join the board of	have not meet	will only be up for
+237	5	be retire in	be not an excuse for	be exempt from	have stop on	be run by
+246	1	praise
+110	2	have choose	have be educate by
+178	1	call on
+187	1	enrol in
+129	2	have quite a sense of	know the power of
+36	2	give aid to	spend many year in
+280	2	have a really good sense of	do not lie to
+179	1	be take over
+53	1	outdo
+244	1	be larger than
+59	2	be call by	have be welcome to
+183	1	attend
+223	1	will be
+14	3	be host a fundraiser for	include expand	have intend to go to
+166	1	review for
+252	1	Happened on
+55	1	fly in on
+211	1	grill
+196	2	have confess to	line out to
+265	1	be also service by
+16	6	be locate in	be locate on	will land on	be a city in	be county seat of	be the county seat of
+194	5	be a little slower than	be a native of	be more than	also play at	have corporate office in
+283	2	be off to	close back in
+39	4	be the fifth most populous city in	be the seventh largest city in	be the fifth largest city in	be the sixth largest city in
+141	3	deliver a number of	be one hour behind	be also home to
+177	1	be traditionally associate with
+29	5	will be available in	be world famous for	recently pass	be home to	have be develop over
+210	1	maintain office in
+231	1	report between
+63	1	will launch in
+51	2	now have a total of	play the son of
+91	4	be still	be go to be build in	have about	be become
+234	1	be serve by
+238	1	be the principal city of
+90	2	be the most populous city in	may merge
+172	2	is Rising from	rise from
+236	2	be interview by	be support by over
+293	1	do see
+256	1	have a population of
+23	2	have become a beacon of	be a center for
+84	3	carry only	have campus in	have office in
+152	2	begin work on	be have a field day in
+219	1	be a business of
+125	1	be a celebration of
+154	1	can be play for
+119	1	be give the status of
+262	1	have the highest proportion of
+28	1	be name for
+191	10	be the most popular form of	should be take after	should be take immediately after	do not accommodate	be a mixture of	be similar to	should be take before	may be mixed with	can be give as	may be take with
+118	1	should be take with
+113	2	be sometimes	be require
+202	4	be off white in	be blue in	be pale yellow in	be white in
+260	1	often contain additive ingredient such as
+6	2	rarely discover	be out of
+8	4	do not imply	be much like	is the Portuguese word for	be geographical in
+220	1	also contain
+94	2	do not suffer	hold a news conference in
+86	1	have read
+228	1	be summarize in
+43	1	be cover with
+44	3	have a great deal of	become the undisputed king of	be cast as
+62	2	appear in nearly	be great in
+181	1	influence
+169	1	be a contemporary of
+227	1	continue his research in
+47	1	write a paper in
+218	1	have develop a passion for
+206	2	may be anywhere on	return to
+108	1	will be release in
+213	1	do not speak a word of
+189	1	be equal to
+198	1	do not participate in
+111	1	consist of
+161	1	have play in
+38	2	does NOT work for	ground out to
+199	1	be also effective with
+10	1	be a favorite in
+99	2	be hilarious as	be funny at
+186	4	be estimate to be about	be estimate at up to	be estimate at	be around
+142	1	be worth its weight in
+258	1	be blend with
+130	1	be still a bit of
+165	1	assemble
+5	5	do not need	remain on	rarely need	enjoy a number of	say recently in
+134	1	pose on
+287	1	simply demand
+239	1	be definitely
+24	2	have buy a stake in	be no stranger to
+124	3	be set to visit	be bullish on	be the richest man in
+171	1	have expose
+115	1	be addicted to
+42	3	take a pass on	suggest avoid	own a stake in
+0	1	do have
+247	1	invest in
+185	1	comment in
+112	1	be a close friend of
+299	1	despise
+160	1	be support

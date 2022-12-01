@@ -1,0 +1,590 @@
+{"batch_size": {"train": 50, "eval": 5}, "model_info": {"dir": "glove/", "src": "GLOVE"}, "working_directory": "data/vae_run_ambnell/", "learning_rate": {"stage1": 0.001, "stage2": 0.0001}, "eval_per": {"stage1": 10, "stage2": 10}, "loss_weights": {"vae": 1, "kbc": 1, "side_info": 1}, "train_stages": ["stage1", "stage2"], "dims": {"input": 300, "interim": [384], "latent": 100}, "seed": 57, "init_ent_file": "hacft_ent_labels.pkl", "init_rel_file": "hacft_rel_labels.pkl", "clusters": {"ent": 600, "rel": 800}, "reg_info": {"stage1_reg": 0.001, "stage2_reg": 0.001, "mc_samples": 1}, "kge_util_params": {"temp": 0.01, "n_corruptions": 20}, "n_epochs": {"stage1": 50, "stage2": 300}}
+
+Number of Clusters: 587
+67	5	maxentius	constantius chlorus	constantine	maximian	roman
+580	28	scott feldman	charlie bell	chuck	matt murton	larry king	appomattox county	pensacola beach	buzz aldrin	long way	sarah palin	happy man	chris bosh	martin luther king	sleeper sofa	mark pryor	rachael ray	matt clement	tiffeny milbrett	ted turner	brendan canty	mark david chapman	josh fogg	mia hamm	mark twain	jesse jackson	federal emergency management agency	larry king live	jason marquis
+166	2	hm treasury	treasury
+548	1	surf
+4	3	package	delivery	schedule
+485	3	methuen	cambridge	oxford
+594	1	fiber
+209	6	hillary	president	gore	clinton	bush	janet reno
+374	20	jimmy buffett	former president	joe	joe kennedy	carter	hillary clinton	senator hillary clinton	richard pryor	kennedy	president elect obama	bill clinton	dwight howard	president kennedy	george bush	condoleezza rice	ronald reagan	great president	cyanuric acid	george	george iii
+85	7	mason	griffin	dennis	fox news	fox	gannett	bill
+9	13	eisenhower	dwight eisenhower	patton	mckinley	roosevelt	president richard nixon	harry truman	mount mckinley	fdr	nixon	richard nixon	pause	truman
+107	8	business	economic development	news corp	marketing management	bloomberg news	bloomberg	news corporation	employee
+157	3	hannibal	hamilcar barca	carthage
+62	6	jesus christ	jesus	judas	gospel	christ	bible
+454	5	princeton	yale	harvard	princeton university	yale law school
+382	3	rupert murdoch	murdoch	iris murdoch
+73	5	run	fast	pace	drive	quick
+56	4	closed door	gate	front	door
+267	2	board	roundtable
+496	1	douro
+598	1	vlad
+365	3	rocket	vehicle	tank
+566	13	reason	fact	idea	suggestion	long	result	thought	sort	way	possibility	case	time	bad idea
+306	10	chapman university	columbia university	british columbia	northern arizona university	pace university	world trade center	janet jackson	george mason university	jeremy paxman	iowa state
+108	7	mental illness	alcoholism	addiction	depression	obsession	psychosis	illness
+305	5	smoking	drug	alcohol	cocaine	marijuana
+36	4	cook	salt lake city	brewer	mead
+324	2	rope	wire
+583	3	physical	behavior	interaction
+35	3	star wars	star	blazer
+29	17	dodd	james dickey	richardson	wendell	burnett	ross	wallace	john mccain	stevenson	kerry	marshall	matthews	jackson	porter	dean	byrd	howard dean
+84	9	confusion	alternative	contrast	use	comparison	context	common sense	term	sense
+234	6	content	rove	documentation	biography	text	copy
+117	10	steve	neil	michael	alan	alan moore	john edwards	david	mark	robin	chris
+205	3	horace walpole	horace	greeley
+470	1	futon
+222	2	mel	voice
+72	7	climate change	valsalva maneuver	shift	scale	lehigh valley	phase	change
+556	6	barney	jackie	kenny	charlie	rachael	judy
+528	8	big trouble	trouble	little	box	good	steve miller	thing	lot
+131	4	growth	economy	bank	economic
+38	2	population	total
+515	3	rocky	canadian rocky	ridge
+519	1	ski
+571	1	bindi
+525	1	peel
+116	2	denali	mt
+75	5	kimberley	pitt	denali borough	winston churchill	wellington
+345	16	joan crawford	vlad dracul	jason jennings	jeff francis	richard gere	john lennon	shaun livingston	arthur miller	gordon brown	henry miller	steve nash	marilyn monroe	greg norman	jameer nelson	kevin martin	miller
+89	11	service	computer	computer information	wii	microsoft	software	desktop computer	hardware	laptop computer	information	information service
+269	6	iraq study group	boman irani	raja bell	new delhi	hiv aids	san fernando valley
+129	2	keystone	coyote
+106	12	court	importance	account	work	attention	influence	interest	practice	student	life	culture	legacy
+426	2	hyundai	toyota
+102	9	denison	findlay	waxahachie	ruston	chester	penn	warren	denton	morris
+486	5	brian skinner	reed	skinner	dickey	sue
+396	2	edison	tesla
+96	2	matrix	cube
+164	2	pizza	restaurant
+455	1	tablet
+459	1	clerk
+505	2	pertussis	bordetella pertussis
+517	1	kara
+475	1	seizure
+289	4	chuck knoblauch	los angeles clippers	nicolas batum	walnut creek
+468	5	pollard	chapman	lee	morgan	holliday
+130	2	dc	phoenix
+122	18	soviet union	high noon	essex county	north shore	south carolina	bush sr	middle east	south asia	parade magazine	cold war	tony blair	red mountain	imperial war museum	columbus ohio	free trade	press conference	south dakota	middle ages
+98	5	torture	substance abuse	genocide	violence	abuse
+452	2	geography	location
+211	4	revelation	satan	atonement	god
+581	1	earl
+357	2	dvd	vhs
+481	7	pdf file	dvd talk	wide screen	youtube	pdf format	tablet pc	youtube com
+237	5	driver	automobile	truck	trailer	car
+464	2	armstrong	neil armstrong
+121	8	creativity	mind	knowledge	vision	experience	nuance	identity	reality
+513	2	free	open
+8	3	highway	interstate	amtrak
+113	15	san angelo	appomattox river	private life	central intelligence agency	enterprise content management	princeton theological seminary	air force	army reserve	international business	fuel oil	export import bank	conference	american enterprise institute	naval reserve	federal register
+327	3	propane	gasoline	fuel
+317	2	oil	coal
+567	1	audi
+492	5	chechen republic	union	reagan revolution	north american	red velvet
+301	13	monica lewinsky	military science	amare stoudemire	scott podsednik	monica	macomb county	the godfather	gloria estefan	frank capra	santa barbara news press	herman wouk	lorain county community college	karla homolka
+268	6	rush limbaugh	beckley	marion	james monroe	monroe	madison
+573	1	iowa state university
+142	5	ford	hyundai motor company	volkswagen golf	company	brand
+560	28	british sky broadcasting	todd stern	crude oil	larry bigbie	george washington university	la quinta	new york state	texas city	easy rider	huston street	richie mccaw	robert rubin	liver damage	network centric warfare	gulf breeze	joe beimel	history channel	henrico county	laura bush	new york time	blu ray disc	cape canaveral	mario cuomo	fidel castro	new york city	santa barbara	new york area	kaiser family foundation
+181	4	piano	string	quartet	flute
+565	1	histogram
+184	5	cindy	janelle	heidi	marilyn	rebecca
+333	1	chamber
+511	1	discharge
+401	1	pic
+100	4	sun	land	earth	moon
+152	3	fraud	theft	corruption
+76	9	la grange	oak hill	shaky ground	main street	chapel hill	real life	home	park avenue	hill
+79	5	nicomedia	pope	antioch	athanasius	constantinople
+414	1	unc
+293	2	montgomery	selma
+66	2	cool	hot
+584	11	america	united nations	usa today	american	baseball	united states supreme court	usa	united states	american history	south america	latin america
+375	12	april	dec	february	january	october	jan	december	august	june	march	september	july
+224	2	hockey	soccer
+97	7	responsibility	intervention	policy	assistance	defense	security	foreign policy
+90	5	option	choice	priority	first choice	great choice
+321	5	sport	golf	team	fight club	club
+52	5	next season	attendance	capitol hill	red sox	season
+373	6	year	last year	date	day	john kerry	month
+348	6	price	market	cost	demand	low cost	consumer
+10	9	matter	mass communication	communication	medium	light	material	base	charge	mass
+243	4	silver	gold	silver city	copper
+536	4	love	stranger	kiss	dream
+193	4	american red cross	track	road	cross
+63	7	rochester	smithsonian	georgetown	arizona state university	new brunswick	georgetown university	buffalo
+476	2	pennsylvania	ohio
+256	11	area	new jersey	border	south	northeast	western	field	east	west	rhode island	region
+203	8	senator barack obama	barack obama	assembly	barack	president obama	weld county	senator obama	obama
+387	5	argument	proof	answer	question	statement
+70	5	treason	felony	conviction	perjury	trial
+283	7	law	office	retirement community	federal office	post	job	retirement
+274	2	saint	st
+508	3	power	advantage	control
+61	4	crowd	scene	shot	fire
+543	3	village	city	town
+198	5	sussex	dee brown	new hampshire	maine	grafton
+593	8	opposite	point	vista	view	distance	side	left side	west point
+562	3	white house	black	white
+54	5	plan	upgrade	fund	funding	government
+239	3	sex scandal	scandal	affair
+183	4	nomination	vote	candidate	compromise
+595	2	asia	africa
+493	10	congress	former president bill clinton	gov	washington	state	washington state	republican congress	secret service	pf	constitutional law
+221	4	new york	manhattan project	building	new
+53	7	tucson	california	southern california	idaho	oregon	arizona	bakersfield
+179	15	failure	activity	surge	situation	energy	exposure	impact	action	response	factor	concern	potential	reaction	effect	threat
+503	3	mail	email	internet
+388	3	robbery	murder	crime
+43	9	standard	complete	arrangement	set	section	part	form	exception	entry
+355	6	arizona republic	fredericksburg	charleston	lexington	virginia	west virginia
+488	1	citizenship
+391	2	brooklyn	harlem
+189	3	apology	commentary	full time
+2	4	partnership	agreement	contract	consortium
+312	4	greensburg	fayetteville	spartanburg	asheville
+434	7	chance	fear	opportunity	hope	promise	tomorrow	reward
+369	3	castle	palace	house
+51	2	fundraiser	ticket
+286	4	force	commander	military	guard
+99	3	card	appeal	suit
+81	4	representative	governor	delegate	superdelegate
+120	3	soldier	aide	command
+182	4	tokyo	japan	japanese	kaz matsui
+588	3	health care	care	health
+148	6	heartbeat	pressure	blood	blood pressure	high blood pressure	breath
+86	8	iran	afghanistan	baghdad	saddam hussein	kuwait	iraq war	taliban	afganistan
+597	1	missile
+279	4	ww	war department	world	war
+16	11	lost	olympic	second	half	final	fall	break	performance	start	autumn	end
+206	3	worldwide	worldwide release	release
+463	4	commission	committee	senate committee	senate judiciary committee
+432	1	vp
+80	7	heart attack	success	comeback	breakthrough	disappointment	surprise	hiatus
+208	3	liberal	party	conservative
+210	5	miami	orlando	milwaukee	florida	fl
+416	1	ny
+437	2	paris	france
+568	4	pair	long time	close	small
+491	4	austin	virgin	peter lawford	texas
+431	4	ghana	somalia	china	nigeria
+521	4	television	tv	reporter	radio
+266	6	school	high school	law school	law firm	thomas jefferson	primary
+39	5	kosovo	serbia	croatia	belgrade	romania
+110	22	best buy	sister souljah	last week	big time	bin laden	major league baseball	past	fresh water	second place	al gore	second term	quiet life	mixed bag	long beach	course	rudy giuliani	next week	car racing	jon udell	daily show	national basketball association	time magazine
+17	3	royal	king	queen
+215	3	aug	feb	oct
+141	4	parole	prison	probation	jail
+45	9	detroit	chicago	pittsburgh	boston	philadelphia	atlanta	orlando magic	houston	philly
+14	7	bloomsburg	concord	williamsburg	uniontown	bridgeport	springfield	nashua
+133	2	treaty	peace
+6	13	iowa	tennessee	missouri	minnesota	iowa city	western iowa	lafayette	illinois state university	macon	kentucky	indiana	illinois	mississippi
+95	8	recognition	freedom	respect	unity	anger	national capital	independence	national unity
+155	2	kashmir	india
+442	9	abc news	social network	far east	good thing	mtv news	wall street	good news	daily news	wall
+392	1	msm
+576	8	national	university	degree	oberlin college	junior	college	university college	national university
+118	2	line	poverty
+37	5	show	nbc	abc	episode	documentary
+439	2	israel	syria
+377	4	justice	criminal justice	gender justice	supreme court
+257	7	state senate	state senator	democrat party	senator	democrat	republican	senate
+368	3	research	technology	feasibility
+139	7	natural history	wild country	western conference	great deal	west coast	history	world war ii
+127	3	island	sea	shipping
+172	7	majority	movement	youth	leadership	team leader	majority leader	leader
+360	2	paula	lori
+310	7	lung cancer	whooping cough	pain relief	food poisoning	heart failure	congestive heart failure	fever pitch
+397	4	vietnam	south vietnam	saigon	vietnam war
+261	5	great	president bush	vice president	presidency	task force
+331	2	kyoto	kyoto protocol
+533	1	telegraph
+82	5	topic	contention	debate	discussion	controversy
+465	1	fort
+227	3	pa	va	mo
+300	2	turkey	ankara
+277	5	destiny	monster	soul	hell	heaven
+252	2	sc	nc
+27	3	vacation	disneyland	honeymoon
+158	6	origin	nba title	word	order	title	name
+111	6	child	young child	birth	woman	marriage	infant
+421	4	fatigue	pain	symptom	constipation
+570	4	boxing day	fight	kite runner	iraq
+188	3	newsday	cnn	msnbc
+278	5	midwest league	christian	pass christian	corpus christi	monroe doctrine
+136	5	capability	effectiveness	target	nuclear weapon	new vision
+367	3	ireland	dublin	limerick
+563	1	category
+240	6	baptist	church	southern baptist	catholic	presbyterian	protestant
+13	4	language development	speech	foreign language	language
+177	2	percent	million
+544	5	republican john mccain	ross perot	trent lott	ariel sharon	single mother
+302	2	borrego	santa
+132	3	graduate	graduation	graduate student
+282	5	touch	position	hand	face	moment
+407	4	new mexico	cuba	peru	mexico
+55	5	interview	wall street journal	coulter	radio interview	report
+253	4	dole	mcain	mcgovern	mccain
+150	7	chocolate	drink	food	chicken	food network	milk	plant food
+535	2	adultery	rape
+271	2	stag	horse
+449	1	donor
+291	4	conscience	faith	virtue	grace
+160	5	editorial	fox tv	news	newspaper	journalist
+214	3	charlotte	raleigh	providence
+105	3	monday	pm	tuesday
+126	4	exercise	dependence	individual	person
+263	3	hair	nose	eye
+249	2	decomposition	element
+225	5	pyongyang	mr bush	south korea	korea	congo
+233	2	michigan	duluth
+44	12	community reinvestment act	african american	key west	united states military academy	news conference	scottish executive	new york daily news	al qaeda	bay area	little rock	american culture	fleetwood mac
+362	4	arafat	hamas	barak	yasser arafat
+199	3	ac motor	shock	whiplash
+93	4	plot	killer	revenge	boss
+280	2	impulse	risk
+7	3	metal	roll	hip
+366	6	search engine optimization	search	error	problem	heart problem	calculated risk
+173	4	star trek	hue	color	full color
+140	3	moscow	poland	russia
+213	7	death	incident	tragedy	dead	death sentence	accident	suicide
+248	2	favor	cloture
+78	2	sex	adult
+412	3	top	hit	big hit
+316	2	campus	downtown
+149	4	uganda	haiti	guyana	rwanda
+11	3	weight	minimum	meter
+389	1	wto
+554	1	andrea
+395	4	thailand	singapore	malaysia	indonesia
+311	2	oklahoma city	oklahoma
+212	1	disgrace
+371	3	address	request	message
+438	6	offer	hold	lead	bring	help	draw
+596	1	yes
+23	4	abilene	texarkana	waco	topeka
+218	3	teller	victor	eugene
+350	2	muslim	islam
+30	2	act	amendment
+187	4	oral administration	administration	education	academic department
+292	4	facebook	guide	online	blog
+241	4	best	picture	buy	award
+346	3	nation	country	national league
+24	3	punch	basket	ball
+242	2	hermitage	honor
+490	1	uniform
+522	2	right field	right
+411	4	last meeting	member	meeting	invitation
+68	6	advance	battlefield	strategy	campaign	enemy	attack
+404	1	ap
+146	5	universal	existence	nature	evolution	continuum
+378	2	terrorist	terrorism
+165	2	hour	minute
+335	1	sen
+471	4	senior	staff	senior adviser	chief
+88	8	young man	guess	liar	fun	joke	loser	stuff	fool
+516	1	slavery
+440	3	genius	personality	talent
+101	2	genesis	ark
+308	2	farmer	farm
+83	5	the beatles	rock band	hardcore punk	label	record
+32	10	legend	hero	character	theme	archetype	inspiration	book	epic	news story	story
+226	2	council	mayor
+196	2	hawk	eagle
+372	2	terre	la
+287	3	palate	lesson	beginner
+270	4	paul	martin	number	kevin johnson
+201	7	ubaldo jimenez	leandro barbosa	san carlos	san jose	san bernadino	san juan	san diego
+258	4	vancouver	kelowna	toronto	edmonton
+482	4	money	pay	credit	fee
+28	2	colorado	nevada
+103	3	county	driver seat	seat
+349	2	pt	rep
+47	7	saturday night live	christmas	sunday evening	sunday night	candle	last night	night
+92	6	site	homepage	press release	official website	archive	page
+15	4	xian	beijing	hong kong	china town
+506	1	accra
+26	6	ignorance	guilt	silence	man	truth	witness
+545	1	oprah
+323	1	family
+298	5	chemotherapy	surgery	patient	diagnosis	heart surgery
+238	6	carnegie mellon	high quality	teenager	prez	young girl	civil war
+304	1	aphid
+352	2	leather	clothing
+370	3	georgia	alabama	nashville
+123	3	dr	scientist	doctor
+393	1	race
+247	3	intern	hospital	rehabilitation
+236	3	columbia	alberta	canada
+433	4	braveheart	director	movie	film
+34	2	concrete	interior
+163	2	cia	fbi
+557	1	catalyst
+20	6	bird	cat	potter	mouse	dog	elephant
+579	1	alps
+534	1	offense
+487	1	poll
+406	8	plane crash	red herring	big fish	bedding	pure water	ice	gw bush	los angeles
+467	2	training	combat
+436	1	nambla
+195	2	sarawak	aceh
+202	1	momentum
+112	6	baby girl	watch	toy	boy	baby	father
+418	3	philip	edward	john
+501	1	cole
+77	4	right center	library	left center	center
+264	2	battle	victory
+574	5	birmingham	cardiff	manchester	london	east london
+168	2	secret	secrecy
+231	2	water	water ice
+569	2	production	manufacturing
+326	3	greece	greek	crete
+315	3	damage	loss	injury
+69	2	katrina	pascagoula
+514	1	gettysburg
+71	4	germany	hitler	berlin	german
+169	8	first place	table	grand	place	last place	first time	round	row
+498	2	gibraltar	malta
+115	7	bacterial infection	heart disease	disease	cancer	cholera	vitamin	pneumonia
+564	3	taxation	insurance	investment
+340	7	netherlands	kingdom	europe	australia	great britain	new zealand	britain
+330	2	capt	captain
+144	4	casper	teddy	twitter	dee
+379	3	son	dad	brother
+135	1	clandestine operation
+21	6	sicily	rome	palermo	italian	italy	milan
+390	2	bus	station
+94	2	division	general
+262	5	navy	marine	continental army	continental	army
+489	2	macs	mac
+572	1	keyser
+408	1	gut
+41	3	apollo	program	mission
+499	3	caesar	augustus	augustus caesar
+175	3	american family	hollywood	broadway
+104	3	christianity	judaism	religion
+162	4	trip	reach	travel	snow
+170	2	sting	poison
+448	1	alba
+443	2	transylvania	moravia
+3	6	song	live	tribute	muse	concert	soundtrack
+469	1	mint
+380	2	empire	rule
+59	8	room	sofa	mattress	sofa bed	bed	room temperature	double bed	closet
+217	3	flight	plane	jet
+138	2	temple	susa
+361	1	dictator
+494	1	tension
+402	1	illyricum
+290	1	fausta
+125	2	crispus	apax
+230	3	supplement	edition	volume
+450	1	goth
+33	6	astronomy	mathematics	physics	math	philosophy	real
+285	1	ad
+190	2	abram	abraham
+447	1	luke
+159	4	politician	critic	scholar	phd
+228	2	arabic	hebrew
+456	3	human	mankind	humanity
+109	4	pride	beauty	joy	awesome
+444	4	century	early	decade	arrival
+272	3	artist	art	art school
+124	4	relationship	friend	friendship	intimacy
+254	2	dylan	elvis
+427	2	jews	jew
+473	1	ft
+220	3	trumbull county	monroe county	mercer county
+191	3	cinema	entertainment	theater
+461	6	application	top priority	third base	basic	model	component
+591	1	suzuki
+185	4	heating	gas	heat	liquid
+578	1	pentagon
+309	1	isg
+550	2	scotland	england
+334	1	krakow
+313	4	perth	melbourne	sydney opera house	sydney
+549	2	spanish	spain
+424	1	map
+537	1	dracula
+1	2	armour	rifle
+223	4	steel plate	steel	brass	stainless steel
+531	1	swamp
+429	1	cycle
+587	1	layer
+143	2	gear	rear
+19	2	unit	shell
+329	1	yard
+510	2	leg	foot
+435	2	privacy	protection
+87	4	foam	aluminum	plastic	pvc
+48	5	piece	hole	flat	spot	ground
+497	1	bodywork
+176	2	tree	plant
+216	4	type	shape	pattern	body
+403	1	hrs
+500	2	high	level
+114	2	cotton	banana
+154	3	cover	booklet	bonus
+251	5	rock	dance	style	rock music	music
+147	2	approx	square
+430	2	comedy	drama
+50	3	fantasy	fiction	sf
+167	2	blogger	hacker
+526	3	foundation	society	association
+398	3	joe dimaggio	stage	role
+276	2	storage	maintenance
+518	1	reptile
+359	1	heathrow
+74	5	gray	green	purple	grey	red
+40	5	purchase	chain	discount	sale	stock
+235	2	weather	cloud
+383	2	spirituality	meditation
+186	2	crisis	issue
+259	2	obesity	diabetes
+250	3	united kingdom	uk	bbc
+582	2	chairman	executive
+558	4	world series	adventure	feature	series
+161	1	parliament
+246	2	wantagh	wale
+480	1	closure
+207	2	master	knight
+303	2	labor	labour
+541	1	sec
+294	2	branch	authority
+341	2	poetry	literature
+384	1	necklace
+232	2	quality	sound
+353	1	po
+428	2	jordan	joel
+57	3	directv	mobile	provider
+415	1	rcaf
+546	1	naacp
+453	4	nba	lakers	nba championship	championship
+445	1	romney
+592	1	age
+31	2	average	size
+260	2	professor	faculty
+419	3	competition	win	challenge
+553	2	folder	file
+281	5	advertisement	advertising agency	photo gallery	paper	print
+5	2	copyright	patent
+410	2	plugin	download
+153	5	play	score	video	game	video game
+180	6	creation	regeneration	innovation	rebirth	progress	generation
+284	2	english	french
+483	1	formula
+539	1	printer
+542	2	digital distribution	distribution
+399	2	gp	ps
+12	3	photo	gallery	image
+417	2	dutch	holland
+552	1	stroke
+590	3	meal	dinner	lunch
+194	2	guy	chef
+197	2	myspace	fan
+512	1	oriole
+322	2	class	elite
+472	2	clay	wood
+575	2	finland	sweden
+336	1	darwin
+376	2	cabinet	resignation
+495	1	alaska
+288	1	windows vista
+540	1	mumbai
+145	1	lady
+128	2	costume	designer
+58	3	loft	store	walmart
+457	1	al
+178	2	operation	logistic
+356	1	kia
+538	1	mar
+219	1	wave
+530	1	universe
+502	1	enigma
+409	2	peach	strawberry
+423	3	spring	summer	winter
+192	2	luxury	saloon
+462	1	inch
+507	3	astronaut	nasa	space
+425	1	xbox
+386	3	prescription	treatment	treat
+245	2	martini	pepperoni
+319	3	acetaminophen	paracetamol	metoprolol
+477	1	lactose
+364	1	snowflake
+91	1	insulin
+134	2	powder	salt
+385	2	flavor	sweetener
+585	2	press	journal
+137	2	oj	ee
+296	2	google	yahoo
+60	2	ace	hustler
+589	1	wsj
+586	2	guilford	fairfax
+559	1	fame
+338	2	vaccine	vaccination
+509	3	animation	wiz	studio
+527	1	anguilla
+466	1	rn
+25	2	balm	sand
+479	1	inferno
+46	3	microbiology	biology	physiology
+244	2	chatham	amherst
+0	4	device	remote	alarm	timer
+354	1	ovid
+347	1	ns
+307	1	divorce
+339	2	bend	loop
+420	1	bankruptcy
+504	2	miscarriage	pregnancy
+529	1	count
+599	1	wildlife
+119	2	classroom	instruction
+171	2	amazon	amazon com
+275	4	disc	cd	compact disc	disk
+297	3	version	preview	format
+22	2	pc	videogame
+151	2	dvd player	screen
+523	1	menu
+255	1	anastacia
+49	4	netflix	ebay	paypal	auction
+204	2	segment	insert
+400	1	cpl
+229	2	urdu	hindi
+320	1	grammy
+458	2	park	recreation
+332	1	dd
+446	1	euro
+265	2	toshiba	sony
+555	1	nab
+342	1	ld
+451	1	guam
+174	2	pal	chip
+156	2	chemical	benzene
+64	2	dna	cell
+200	1	wikipedia
+520	2	diarrhea	diarrhoea
+363	1	haydn
+422	1	guitar
+314	1	hist
+547	1	goddess
+65	1	purdue
+413	1	volt
+343	1	shaq
+474	1	rondo
+295	1	scully
+273	1	pitch
+318	1	crm
+328	1	ebro
+381	1	tb
+394	1	hike
+325	2	superman	batman
+18	1	magic
+460	1	hobby
+561	1	earthquake
+532	1	cr

@@ -1,0 +1,2020 @@
+2019
+constantine	0
+mia hamm	1
+treasury	2
+surf	3
+delivery	4
+methuen	5
+fiber	6
+clinton	7
+bill clinton	8
+bill	9
+dwight eisenhower	10
+eisenhower	11
+marketing management	12
+hannibal	13
+gospel	14
+princeton	15
+princeton university	16
+iris murdoch	17
+murdoch	18
+pace	19
+scott feldman	20
+gate	21
+roundtable	22
+douro	23
+appomattox county	24
+vlad	25
+tank	26
+time	27
+pace university	28
+addiction	29
+drug	30
+mead	31
+wire	32
+interaction	33
+blazer	34
+wallace	35
+contrast	36
+content	37
+robin	38
+horace walpole	39
+horace	40
+futon	41
+mel	42
+valsalva maneuver	43
+rachael	44
+rachael ray	45
+jeremy paxman	46
+steve miller	47
+growth	48
+population	49
+rocky	50
+ski	51
+bindi	52
+peel	53
+denali	54
+denali borough	55
+vlad dracul	56
+information service	57
+boman irani	58
+coyote	59
+life	60
+hyundai	61
+ruston	62
+dickey	63
+tesla	64
+cube	65
+pizza	66
+tablet	67
+clerk	68
+rupert murdoch	69
+pertussis	70
+richard pryor	71
+obsession	72
+jimmy buffett	73
+kara	74
+seizure	75
+chuck knoblauch	76
+chapman	77
+hm treasury	78
+charlie bell	79
+phoenix	80
+red mountain	81
+abuse	82
+location	83
+mark pryor	84
+atonement	85
+warren	86
+earl	87
+dvd	88
+tablet pc	89
+james dickey	90
+car	91
+neil armstrong	92
+neil	93
+armstrong	94
+identity	95
+open	96
+interstate	97
+fuel oil	98
+fuel	99
+oil	100
+audi	101
+chechen republic	102
+frank capra	103
+enterprise content management	104
+james monroe	105
+monroe	106
+iowa state university	107
+iowa state	108
+hyundai motor company	109
+gulf breeze	110
+dvd talk	111
+beckley	112
+quartet	113
+histogram	114
+marilyn monroe	115
+marilyn	116
+canadian rocky	117
+chamber	118
+richie mccaw	119
+discharge	120
+greeley	121
+pic	122
+sun	123
+karla homolka	124
+mark david chapman	125
+skinner	126
+theft	127
+red velvet	128
+dwight howard	129
+real life	130
+kevin martin	131
+constantinople	132
+george mason university	133
+unc	134
+selma	135
+hot	136
+america	137
+august	138
+tiffeny milbrett	139
+soccer	140
+policy	141
+option	142
+door	143
+sport	144
+season	145
+day	146
+cost	147
+charge	148
+essex county	149
+light	150
+copper	151
+love	152
+president	153
+year	154
+howard dean	155
+track	156
+john kerry	157
+georgetown	158
+pennsylvania	159
+rhode island	160
+gore	161
+obama	162
+question	163
+perjury	164
+federal office	165
+st	166
+control	167
+february	168
+shot	169
+office	170
+town	171
+experience	172
+sussex	173
+bush	174
+opposite	175
+united states	176
+white house	177
+government	178
+affair	179
+law	180
+vote	181
+new hampshire	182
+change	183
+usa	184
+africa	185
+mason	186
+congress	187
+new york	188
+todd stern	189
+california	190
+response	191
+internet	192
+crime	193
+sense	194
+standard	195
+west virginia	196
+citizenship	197
+bloomberg news	198
+washington	199
+harlem	200
+barack obama	201
+apology	202
+fox news	203
+agreement	204
+spartanburg	205
+nixon	206
+hope	207
+house	208
+fundraiser	209
+military	210
+suit	211
+hillary	212
+governor	213
+former president	214
+aide	215
+japan	216
+health care	217
+jackson	218
+judy	219
+heartbeat	220
+saddam hussein	221
+missile	222
+war	223
+half	224
+release	225
+jan	226
+committee	227
+janet jackson	228
+vp	229
+heart attack	230
+board	231
+liberal	232
+george bush	233
+new york city	234
+florida	235
+ny	236
+united nations	237
+george iii	238
+france	239
+long time	240
+texas	241
+china	242
+television	243
+high noon	244
+school	245
+serbia	246
+bin laden	247
+king	248
+aug	249
+foreign policy	250
+jail	251
+reagan revolution	252
+hockey	253
+economic development	254
+business	255
+philadelphia	256
+uniontown	257
+treaty	258
+western iowa	259
+kosovo	260
+iowa	261
+view	262
+independence	263
+sex scandal	264
+compromise	265
+india	266
+prison	267
+conservative	268
+wall street	269
+power	270
+msm	271
+university college	272
+poverty	273
+kashmir	274
+rudy giuliani	275
+nbc	276
+cocaine	277
+complete	278
+asia	279
+israel	280
+supreme court	281
+democrat	282
+research	283
+new delhi	284
+world war ii	285
+democrat party	286
+thing	287
+sea	288
+carter	289
+monica	290
+georgetown university	291
+majority	292
+paula	293
+food poisoning	294
+laura bush	295
+vietnam	296
+idaho	297
+vice president	298
+gordon brown	299
+kyoto protocol	300
+telegraph	301
+contention	302
+daily show	303
+fort	304
+senate	305
+work	306
+pa	307
+price	308
+legacy	309
+pain relief	310
+ankara	311
+satan	312
+va	313
+taliban	314
+heaven	315
+nc	316
+vacation	317
+presidency	318
+word	319
+woman	320
+indiana	321
+symptom	322
+iraq	323
+cnn	324
+republican	325
+senator	326
+case	327
+peace	328
+fdr	329
+treason	330
+midwest league	331
+effectiveness	332
+trial	333
+dublin	334
+monica lewinsky	335
+john mccain	336
+category	337
+unity	338
+responsibility	339
+proof	340
+controversy	341
+southern baptist	342
+thomas jefferson	343
+fidel castro	344
+free trade	345
+good thing	346
+usa today	347
+speech	348
+energy	349
+majority leader	350
+reporter	351
+action	352
+april	353
+home	354
+communication	355
+percent	356
+statement	357
+single mother	358
+party	359
+second	360
+santa	361
+graduation	362
+hand	363
+new mexico	364
+leadership	365
+al gore	366
+rush limbaugh	367
+trouble	368
+coulter	369
+mccain	370
+oregon	371
+middle east	372
+chicken	373
+gender justice	374
+shaky ground	375
+hiv aids	376
+rape	377
+salt lake city	378
+point	379
+harvard	380
+big trouble	381
+church	382
+stag	383
+martin luther king	384
+dole	385
+donor	386
+state	387
+new york time	388
+kaiser family foundation	389
+faith	390
+jesse jackson	391
+court	392
+former president bill clinton	393
+news	394
+raleigh	395
+pm	396
+term	397
+state senator	398
+penn	399
+larry king	400
+constitutional law	401
+saint	402
+soldier	403
+person	404
+tv	405
+somalia	406
+buffalo	407
+virgin	408
+mtv news	409
+kentucky	410
+hair	411
+decomposition	412
+senate committee	413
+congo	414
+duluth	415
+al qaeda	416
+january	417
+arafat	418
+ted turner	419
+oxford	420
+whiplash	421
+boss	422
+radio interview	423
+big time	424
+risk	425
+american	426
+great president	427
+driver	428
+roll	429
+dean	430
+breakthrough	431
+high school	432
+microsoft	433
+concord	434
+virginia	435
+restaurant	436
+mr bush	437
+care	438
+problem	439
+history	440
+hue	441
+moscow	442
+alan	443
+marijuana	444
+superdelegate	445
+world	446
+murder	447
+kerry	448
+advantage	449
+charleston	450
+death	451
+mario cuomo	452
+favor	453
+primary	454
+sex	455
+yasser arafat	456
+ohio	457
+pittsburgh	458
+south	459
+greg norman	460
+top	461
+yale	462
+genocide	463
+fleetwood mac	464
+opportunity	465
+college	466
+debate	467
+campus	468
+fire	469
+rwanda	470
+republican john mccain	471
+weight	472
+wto	473
+union	474
+andrea	475
+african american	476
+malaysia	477
+mexico	478
+oklahoma	479
+employee	480
+disgrace	481
+south carolina	482
+delegate	483
+address	484
+june	485
+little rock	486
+southern california	487
+help	488
+msnbc	489
+pass christian	490
+yes	491
+senate judiciary committee	492
+maine	493
+economy	494
+barak	495
+interview	496
+texarkana	497
+job	498
+eugene	499
+afghanistan	500
+muslim	501
+act	502
+chapman university	503
+education	504
+larry king live	505
+blog	506
+hell	507
+richardson	508
+afganistan	509
+best	510
+country	511
+export import bank	512
+punch	513
+computer	514
+honor	515
+senator barack obama	516
+bush sr	517
+uniform	518
+abc news	519
+right	520
+uganda	521
+meeting	522
+wall street journal	523
+attack	524
+nashua	525
+dodd	526
+secret service	527
+ap	528
+trent lott	529
+robert rubin	530
+republican congress	531
+nature	532
+terrorist	533
+thailand	534
+minute	535
+sen	536
+senior adviser	537
+golf	538
+pope	539
+pitt	540
+guess	541
+lorain county community college	542
+barack	543
+liar	544
+ross	545
+slavery	546
+talent	547
+haiti	548
+federal register	549
+road	550
+new vision	551
+success	552
+part	553
+mind	554
+law school	555
+president bush	556
+ark	557
+farmer	558
+last week	559
+ball	560
+record	561
+news story	562
+advance	563
+mayor	564
+hawk	565
+terre	566
+asheville	567
+white	568
+matthews	569
+climate change	570
+lesson	571
+partnership	572
+bloomsburg	573
+thought	574
+paul	575
+waco	576
+yale law school	577
+san juan	578
+pyongyang	579
+front	580
+joke	581
+line	582
+findlay	583
+touch	584
+toronto	585
+credit	586
+sister souljah	587
+happy man	588
+michigan	589
+nevada	590
+cool	591
+baptist	592
+indonesia	593
+chance	594
+greensburg	595
+new york state	596
+county	597
+terrorism	598
+text	599
+rochester	600
+rep	601
+sunday evening	602
+site	603
+condoleezza rice	604
+disappointment	605
+hong kong	606
+attendance	607
+conference	608
+accra	609
+man	610
+assembly	611
+oprah	612
+air force	613
+child	614
+money	615
+family	616
+byrd	617
+heart surgery	618
+campaign	619
+prez	620
+macon	621
+suggestion	622
+gov	623
+aphid	624
+leather	625
+ford	626
+georgia	627
+xian	628
+ghana	629
+doctor	630
+race	631
+intern	632
+alberta	633
+state senate	634
+director	635
+press release	636
+pollard	637
+mcain	638
+vancouver	639
+interior	640
+cia	641
+black	642
+brooklyn	643
+great choice	644
+hamas	645
+catalyst	646
+reason	647
+dog	648
+adultery	649
+scandal	650
+park avenue	651
+kyoto	652
+corpus christi	653
+alps	654
+movement	655
+mass	656
+news conference	657
+offense	658
+representative	659
+sc	660
+ross perot	661
+janet reno	662
+cat	663
+poll	664
+arizona state university	665
+sarah palin	666
+george washington university	667
+gw bush	668
+fact	669
+concern	670
+leader	671
+combat	672
+oct	673
+new york daily news	674
+nambla	675
+mcgovern	676
+honeymoon	677
+aceh	678
+exception	679
+john edwards	680
+ridge	681
+jesus	682
+fl	683
+second term	684
+tokyo	685
+pay	686
+san angelo	687
+south dakota	688
+lafayette	689
+colorado	690
+oklahoma city	691
+momentum	692
+father	693
+edward	694
+community reinvestment act	695
+tennessee	696
+protestant	697
+cole	698
+fool	699
+lehigh valley	700
+houston	701
+latin america	702
+new jersey	703
+center	704
+press conference	705
+victory	706
+law firm	707
+chocolate	708
+fayetteville	709
+baghdad	710
+kelowna	711
+bloomberg	712
+candidate	713
+manchester	714
+secret	715
+roosevelt	716
+hillary clinton	717
+south asia	718
+fraud	719
+robbery	720
+entry	721
+dec	722
+private life	723
+lot	724
+daily news	725
+monster	726
+richard gere	727
+senator obama	728
+fbi	729
+water	730
+manufacturing	731
+richard nixon	732
+greece	733
+cuba	734
+injury	735
+katrina	736
+schedule	737
+iraq war	738
+network centric warfare	739
+gettysburg	740
+feb	741
+war department	742
+denison	743
+abilene	744
+germany	745
+denton	746
+place	747
+gibraltar	748
+cold war	749
+west point	750
+civil war	751
+intervention	752
+heart disease	753
+columbia university	754
+highway	755
+vietnam war	756
+national unity	757
+united states military academy	758
+voice	759
+scientist	760
+truman	761
+korea	762
+investment	763
+harry truman	764
+europe	765
+montgomery	766
+captain	767
+teddy	768
+command	769
+berlin	770
+commander	771
+son	772
+silver	773
+columbia	774
+patton	775
+south vietnam	776
+providence	777
+clandestine operation	778
+sicily	779
+kennedy	780
+reed	781
+film	782
+station	783
+presbyterian	784
+stevenson	785
+general	786
+winston churchill	787
+marine	788
+heidi	789
+congestive heart failure	790
+la	791
+london	792
+mac	793
+keyser	794
+gut	795
+mt	796
+team	797
+hitler	798
+club	799
+justice	800
+syria	801
+position	802
+britain	803
+rome	804
+milan	805
+maximian	806
+vision	807
+christian	808
+apollo	809
+augustus	810
+hollywood	811
+christianity	812
+reach	813
+athanasius	814
+maxentius	815
+sting	816
+poland	817
+alba	818
+moravia	819
+tribute	820
+nose	821
+west	822
+nicomedia	823
+hermitage	824
+battle	825
+mint	826
+carthage	827
+empire	828
+sofa bed	829
+italy	830
+seat	831
+assistance	832
+jesus christ	833
+answer	834
+flight	835
+east	836
+september	837
+revelation	838
+corruption	839
+christ	840
+temple	841
+dictator	842
+tension	843
+illyricum	844
+constantius chlorus	845
+caesar	846
+fausta	847
+john	848
+greek	849
+dc	850
+crispus	851
+volume	852
+goth	853
+second place	854
+paris	855
+practice	856
+long	857
+math	858
+god	859
+first choice	860
+truth	861
+good news	862
+ad	863
+abraham	864
+abram	865
+bible	866
+luke	867
+turkey	868
+scholar	869
+mark	870
+hebrew	871
+mankind	872
+joy	873
+century	874
+religion	875
+art	876
+kingdom	877
+long way	878
+message	879
+youth	880
+relationship	881
+reality	882
+elvis	883
+culture	884
+grace	885
+dead	886
+jews	887
+western	888
+lost	889
+behavior	890
+book	891
+information	892
+ft	893
+judas	894
+foreign language	895
+consortium	896
+mercer county	897
+damage	898
+carnegie mellon	899
+british columbia	900
+company	901
+theater	902
+number	903
+fund	904
+judaism	905
+model	906
+earth	907
+suzuki	908
+course	909
+room	910
+princeton theological seminary	911
+international business	912
+last year	913
+boston	914
+national university	915
+arabic	916
+final	917
+academic department	918
+national capital	919
+madison	920
+philosophy	921
+jet	922
+gas	923
+president obama	924
+president elect obama	925
+central intelligence agency	926
+nuclear weapon	927
+defense	928
+surge	929
+pentagon	930
+show	931
+isg	932
+iraq study group	933
+nigeria	934
+england	935
+krakow	936
+iran	937
+perth	938
+spain	939
+gold	940
+map	941
+appomattox river	942
+surprise	943
+romania	944
+dracula	945
+fun	946
+farm	947
+ice	948
+great	949
+armour	950
+security	951
+stainless steel	952
+swamp	953
+next season	954
+probation	955
+sunday night	956
+closet	957
+cycle	958
+application	959
+demand	960
+witness	961
+layer	962
+truck	963
+gear	964
+ww	965
+unit	966
+yard	967
+degree	968
+month	969
+way	970
+hardware	971
+concrete	972
+leg	973
+protection	974
+aluminum	975
+ground	976
+palace	977
+bodywork	978
+plant	979
+waxahachie	980
+battlefield	981
+priority	982
+request	983
+shape	984
+hrs	985
+type	986
+high	987
+banana	988
+horse	989
+enemy	990
+brass	991
+china town	992
+cover	993
+main street	994
+steel	995
+rock	996
+capability	997
+building	998
+radio	999
+approx	1000
+steel plate	1001
+plastic	1002
+shell	1003
+comedy	1004
+sf	1005
+hour	1006
+hacker	1007
+liquid	1008
+foundation	1009
+distance	1010
+pvc	1011
+stage	1012
+maintenance	1013
+reptile	1014
+pressure	1015
+land	1016
+heathrow	1017
+green	1018
+fight	1019
+pure water	1020
+round	1021
+scale	1022
+sale	1023
+pt	1024
+moment	1025
+fresh water	1026
+cloud	1027
+pair	1028
+great deal	1029
+base	1030
+pdf format	1031
+association	1032
+graduate student	1033
+world trade center	1034
+right center	1035
+beijing	1036
+north shore	1037
+rehabilitation	1038
+disease	1039
+spirituality	1040
+issue	1041
+choice	1042
+form	1043
+influence	1044
+diabetes	1045
+alcohol	1046
+patient	1047
+illness	1048
+cambridge	1049
+united kingdom	1050
+chapel hill	1051
+bus	1052
+uk	1053
+great britain	1054
+executive	1055
+amendment	1056
+october	1057
+car racing	1058
+first time	1059
+series	1060
+grand	1061
+east london	1062
+parliament	1063
+wale	1064
+medium	1065
+scottish executive	1066
+editorial	1067
+facebook	1068
+force	1069
+conviction	1070
+shipping	1071
+closure	1072
+master	1073
+end	1074
+flat	1075
+labor	1076
+material	1077
+software	1078
+sec	1079
+branch	1080
+account	1081
+string	1082
+literature	1083
+order	1084
+side	1085
+necklace	1086
+sound	1087
+hole	1088
+foot	1089
+peru	1090
+rope	1091
+metal	1092
+supplement	1093
+po	1094
+result	1095
+charlotte	1096
+jordan	1097
+chris bosh	1098
+nicolas batum	1099
+los angeles clippers	1100
+mobile	1101
+president richard nixon	1102
+alabama	1103
+right field	1104
+documentary	1105
+soviet union	1106
+division	1107
+pain	1108
+full time	1109
+junior	1110
+illinois	1111
+rcaf	1112
+jackie	1113
+naacp	1114
+championship	1115
+lee	1116
+email	1117
+loss	1118
+illinois state university	1119
+romney	1120
+silver city	1121
+birmingham	1122
+lori	1123
+page	1124
+element	1125
+rule	1126
+age	1127
+size	1128
+average	1129
+lung cancer	1130
+smoking	1131
+milk	1132
+service	1133
+accident	1134
+professor	1135
+challenge	1136
+pdf file	1137
+file	1138
+theme	1139
+paper	1140
+copyright	1141
+download	1142
+video	1143
+context	1144
+creation	1145
+french	1146
+hold	1147
+formula	1148
+spanish	1149
+printer	1150
+video game	1151
+digital distribution	1152
+foam	1153
+italian	1154
+federal emergency management agency	1155
+ps	1156
+print	1157
+weather	1158
+image	1159
+social network	1160
+training	1161
+blogger	1162
+german	1163
+area	1164
+game	1165
+individual	1166
+dutch	1167
+music	1168
+contract	1169
+missouri	1170
+castle	1171
+royal	1172
+blood	1173
+high blood pressure	1174
+blood pressure	1175
+bed	1176
+double bed	1177
+bedding	1178
+mattress	1179
+cotton	1180
+set	1181
+continental	1182
+sleeper sofa	1183
+plane crash	1184
+stroke	1185
+phase	1186
+david	1187
+dinner	1188
+health	1189
+chef	1190
+fan	1191
+food network	1192
+cook	1193
+parade magazine	1194
+importance	1195
+apax	1196
+bbc	1197
+muse	1198
+milwaukee	1199
+birth	1200
+jason marquis	1201
+larry bigbie	1202
+world series	1203
+matt murton	1204
+red sox	1205
+score	1206
+break	1207
+joe kennedy	1208
+kaz matsui	1209
+destiny	1210
+huston street	1211
+fever pitch	1212
+oriole	1213
+matt clement	1214
+miller	1215
+brewer	1216
+scott podsednik	1217
+win	1218
+real	1219
+error	1220
+tucson	1221
+holliday	1222
+class	1223
+casper	1224
+joe beimel	1225
+purple	1226
+ticket	1227
+jason jennings	1228
+josh fogg	1229
+jeff francis	1230
+national league	1231
+last night	1232
+baseball	1233
+major league baseball	1234
+shift	1235
+philly	1236
+ubaldo jimenez	1237
+hit	1238
+possibility	1239
+first place	1240
+arizona	1241
+burnett	1242
+san diego	1243
+last place	1244
+wild country	1245
+wood	1246
+finland	1247
+south america	1248
+natural history	1249
+far east	1250
+darwin	1251
+sarawak	1252
+origin	1253
+cabinet	1254
+alaska	1255
+mount mckinley	1256
+transylvania	1257
+windows vista	1258
+michael	1259
+mumbai	1260
+mckinley	1261
+senior	1262
+lady	1263
+booklet	1264
+south korea	1265
+designer	1266
+feasibility	1267
+loft	1268
+toyota	1269
+market	1270
+detroit	1271
+calculated risk	1272
+palate	1273
+genesis	1274
+al	1275
+logistic	1276
+kia	1277
+role	1278
+little	1279
+retirement community	1280
+mar	1281
+travel	1282
+ac motor	1283
+friend	1284
+edison	1285
+george	1286
+baby girl	1287
+belgrade	1288
+humanity	1289
+croatia	1290
+plugin	1291
+creativity	1292
+physics	1293
+young man	1294
+patent	1295
+competition	1296
+early	1297
+wave	1298
+universe	1299
+failure	1300
+appeal	1301
+san carlos	1302
+heart failure	1303
+enigma	1304
+idea	1305
+hiatus	1306
+soul	1307
+peach	1308
+mark twain	1309
+funding	1310
+brand	1311
+spot	1312
+winter	1313
+recognition	1314
+village	1315
+saloon	1316
+impact	1317
+gallery	1318
+entertainment	1319
+square	1320
+level	1321
+inch	1322
+color	1323
+steve	1324
+loser	1325
+decade	1326
+progress	1327
+space	1328
+food	1329
+xbox	1330
+amtrak	1331
+box	1332
+chain	1333
+lunch	1334
+treat	1335
+piece	1336
+tuesday	1337
+pepperoni	1338
+big hit	1339
+dee	1340
+personality	1341
+stock	1342
+meal	1343
+prescription	1344
+paracetamol	1345
+netherlands	1346
+lactose	1347
+room temperature	1348
+chemotherapy	1349
+administration	1350
+constipation	1351
+consumer	1352
+vitamin	1353
+program	1354
+oral administration	1355
+snowflake	1356
+metoprolol	1357
+acetaminophen	1358
+small	1359
+cyanuric acid	1360
+desktop computer	1361
+martini	1362
+insulin	1363
+clay	1364
+treatment	1365
+powder	1366
+bacterial infection	1367
+breath	1368
+topeka	1369
+sweetener	1370
+joel	1371
+table	1372
+salt	1373
+name	1374
+chief	1375
+million	1376
+close	1377
+santa barbara news press	1378
+news corp	1379
+melbourne	1380
+journal	1381
+myspace	1382
+alan moore	1383
+gannett	1384
+oj	1385
+fox	1386
+ariel sharon	1387
+star	1388
+newsday	1389
+fox tv	1390
+australia	1391
+newspaper	1392
+buy	1393
+olympic	1394
+news corporation	1395
+north american	1396
+big fish	1397
+directv	1398
+revenge	1399
+tony blair	1400
+hill	1401
+yahoo	1402
+russia	1403
+conscience	1404
+alternative	1405
+american enterprise institute	1406
+watch	1407
+catholic	1408
+politician	1409
+sydney opera house	1410
+charlie	1411
+advertisement	1412
+jon udell	1413
+journalist	1414
+senator hillary clinton	1415
+hero	1416
+rove	1417
+labour	1418
+jew	1419
+hustler	1420
+wsj	1421
+fairfax	1422
+post	1423
+fame	1424
+british sky broadcasting	1425
+the godfather	1426
+bordetella pertussis	1427
+whooping cough	1428
+infant	1429
+pneumonia	1430
+vaccination	1431
+baby	1432
+killer	1433
+new zealand	1434
+vaccine	1435
+human	1436
+adult	1437
+past	1438
+minnesota	1439
+threat	1440
+young child	1441
+wendell	1442
+san fernando valley	1443
+toy	1444
+concert	1445
+wiz	1446
+bridgeport	1447
+abc	1448
+soundtrack	1449
+pascagoula	1450
+broadway	1451
+herman wouk	1452
+time magazine	1453
+hip	1454
+walnut creek	1455
+kuwait	1456
+gloria estefan	1457
+key west	1458
+clothing	1459
+anguilla	1460
+mississippi	1461
+wantagh	1462
+nashville	1463
+song	1464
+english	1465
+capitol hill	1466
+los angeles	1467
+report	1468
+hospital	1469
+west coast	1470
+brother	1471
+kimberley	1472
+insurance	1473
+december	1474
+morgan	1475
+last meeting	1476
+commission	1477
+task force	1478
+taxation	1479
+bank	1480
+cancer	1481
+red	1482
+regeneration	1483
+rebirth	1484
+red herring	1485
+epic	1486
+rn	1487
+sand	1488
+inferno	1489
+biography	1490
+live	1491
+story	1492
+bird	1493
+downtown	1494
+physiology	1495
+roman	1496
+new york area	1497
+augustus caesar	1498
+chatham	1499
+alarm	1500
+ovid	1501
+exposure	1502
+folder	1503
+ns	1504
+matter	1505
+la grange	1506
+limerick	1507
+middle ages	1508
+critic	1509
+argument	1510
+rear	1511
+privacy	1512
+anger	1513
+marriage	1514
+psychosis	1515
+divorce	1516
+freedom	1517
+factor	1518
+impulse	1519
+silence	1520
+bend	1521
+substance abuse	1522
+dependence	1523
+alcoholism	1524
+ignorance	1525
+confusion	1526
+nation	1527
+society	1528
+existence	1529
+american family	1530
+national	1531
+boy	1532
+closed door	1533
+physical	1534
+torture	1535
+drama	1536
+fatigue	1537
+bankruptcy	1538
+bad idea	1539
+depression	1540
+victor	1541
+pregnancy	1542
+felony	1543
+fear	1544
+northeast	1545
+violence	1546
+bring	1547
+staff	1548
+mental illness	1549
+situation	1550
+provider	1551
+continuum	1552
+attention	1553
+miscarriage	1554
+pattern	1555
+use	1556
+liver damage	1557
+exercise	1558
+bay area	1559
+character	1560
+count	1561
+geography	1562
+cloture	1563
+death sentence	1564
+invitation	1565
+cross	1566
+bakersfield	1567
+trumbull county	1568
+army	1569
+strategy	1570
+criminal justice	1571
+evolution	1572
+new brunswick	1573
+capt	1574
+macomb county	1575
+griffin	1576
+dr	1577
+drink	1578
+new	1579
+columbus ohio	1580
+united states supreme court	1581
+wildlife	1582
+classroom	1583
+balm	1584
+sue	1585
+continental army	1586
+rifle	1587
+navy	1588
+naval reserve	1589
+good	1590
+barney	1591
+resignation	1592
+long beach	1593
+summer	1594
+santa barbara	1595
+american history	1596
+american red cross	1597
+cholera	1598
+wellington	1599
+amazon com	1600
+purchase	1601
+cd	1602
+amazon	1603
+vhs	1604
+easy rider	1605
+innovation	1606
+next week	1607
+technology	1608
+wide screen	1609
+student	1610
+format	1611
+youtube	1612
+pc	1613
+edition	1614
+march	1615
+walmart	1616
+photo gallery	1617
+dvd player	1618
+fight club	1619
+feature	1620
+spring	1621
+rebecca	1622
+version	1623
+menu	1624
+worldwide	1625
+anastacia	1626
+fall	1627
+netflix	1628
+style	1629
+arrival	1630
+guilford	1631
+awesome	1632
+title	1633
+upgrade	1634
+insert	1635
+package	1636
+search	1637
+store	1638
+section	1639
+singapore	1640
+martin	1641
+free	1642
+photo	1643
+heat	1644
+kenny	1645
+region	1646
+sydney	1647
+high quality	1648
+monday	1649
+copy	1650
+universal	1651
+loop	1652
+night	1653
+northern arizona university	1654
+bonus	1655
+effect	1656
+discussion	1657
+remote	1658
+cpl	1659
+language	1660
+faculty	1661
+july	1662
+hindi	1663
+ee	1664
+ebay	1665
+fast	1666
+flavor	1667
+movie	1668
+dennis	1669
+wall	1670
+quality	1671
+cardiff	1672
+fee	1673
+official website	1674
+vista	1675
+mail	1676
+disc	1677
+plot	1678
+best buy	1679
+biology	1680
+star wars	1681
+christmas	1682
+dream	1683
+documentation	1684
+instruction	1685
+japanese	1686
+autumn	1687
+homepage	1688
+beginner	1689
+storage	1690
+saigon	1691
+target	1692
+mixed bag	1693
+dance	1694
+discount	1695
+screen	1696
+library	1697
+blu ray disc	1698
+grammy	1699
+park	1700
+dd	1701
+trailer	1702
+drive	1703
+urdu	1704
+youtube com	1705
+euro	1706
+videogame	1707
+potential	1708
+offer	1709
+piano	1710
+scene	1711
+preview	1712
+compact disc	1713
+brendan canty	1714
+sony	1715
+pause	1716
+performance	1717
+commentary	1718
+animation	1719
+imperial war museum	1720
+basic	1721
+nab	1722
+online	1723
+boxing day	1724
+google	1725
+wii	1726
+ld	1727
+meditation	1728
+sweden	1729
+queen	1730
+guam	1731
+kite runner	1732
+disk	1733
+stuff	1734
+macs	1735
+component	1736
+ireland	1737
+border	1738
+holland	1739
+worldwide release	1740
+guide	1741
+archive	1742
+pal	1743
+toshiba	1744
+paypal	1745
+tomorrow	1746
+history channel	1747
+luxury	1748
+episode	1749
+timer	1750
+canada	1751
+comparison	1752
+quick	1753
+cinema	1754
+production	1755
+chicago	1756
+distribution	1757
+intimacy	1758
+press	1759
+operation	1760
+play	1761
+mouse	1762
+laptop computer	1763
+device	1764
+atlanta	1765
+advertising agency	1766
+rock band	1767
+rock music	1768
+hardcore punk	1769
+chemical	1770
+diagnosis	1771
+obesity	1772
+reward	1773
+common sense	1774
+dna	1775
+gasoline	1776
+smithsonian	1777
+draw	1778
+auction	1779
+field	1780
+edmonton	1781
+miami	1782
+orlando	1783
+mathematics	1784
+interest	1785
+language development	1786
+reaction	1787
+minimum	1788
+member	1789
+moon	1790
+guyana	1791
+astronomy	1792
+cape canaveral	1793
+nasa	1794
+phd	1795
+chairman	1796
+islam	1797
+buzz aldrin	1798
+chuck	1799
+university	1800
+eagle	1801
+trip	1802
+wikipedia	1803
+search engine optimization	1804
+san jose	1805
+gp	1806
+picture	1807
+award	1808
+nomination	1809
+texas city	1810
+crude oil	1811
+water ice	1812
+heating	1813
+left side	1814
+mo	1815
+benzene	1816
+propane	1817
+coal	1818
+volkswagen golf	1819
+keystone	1820
+palermo	1821
+la quinta	1822
+retirement	1823
+topic	1824
+monroe doctrine	1825
+williamsburg	1826
+henrico county	1827
+washington state	1828
+oberlin college	1829
+fredericksburg	1830
+marshall	1831
+guy	1832
+monroe county	1833
+oak hill	1834
+teller	1835
+iowa city	1836
+microbiology	1837
+astronaut	1838
+archetype	1839
+military science	1840
+manhattan project	1841
+mass communication	1842
+genius	1843
+diarrhea	1844
+plant food	1845
+diarrhoea	1846
+automobile	1847
+date	1848
+borrego	1849
+vehicle	1850
+pensacola beach	1851
+friendship	1852
+total	1853
+council	1854
+haydn	1855
+guitar	1856
+morris	1857
+hist	1858
+scotland	1859
+mission	1860
+braveheart	1861
+army reserve	1862
+knight	1863
+respect	1864
+joe dimaggio	1865
+president kennedy	1866
+ronald reagan	1867
+flute	1868
+goddess	1869
+henry miller	1870
+suicide	1871
+joe	1872
+crowd	1873
+surgery	1874
+sofa	1875
+artist	1876
+arthur miller	1877
+peter lawford	1878
+joan crawford	1879
+legend	1880
+generation	1881
+beauty	1882
+kiss	1883
+card	1884
+crisis	1885
+candle	1886
+computer information	1887
+guilt	1888
+amherst	1889
+heart problem	1890
+american culture	1891
+left center	1892
+purdue	1893
+ace	1894
+snow	1895
+quiet life	1896
+city	1897
+weld county	1898
+sort	1899
+chip	1900
+volt	1901
+low cost	1902
+young girl	1903
+amare stoudemire	1904
+shaq	1905
+guard	1906
+shaun livingston	1907
+lexington	1908
+nba	1909
+western conference	1910
+rondo	1911
+nba championship	1912
+raja bell	1913
+dee brown	1914
+row	1915
+lead	1916
+porter	1917
+marion	1918
+austin	1919
+steve nash	1920
+run	1921
+rocket	1922
+nba title	1923
+lakers	1924
+basket	1925
+kevin johnson	1926
+brian skinner	1927
+arizona republic	1928
+start	1929
+leandro barbosa	1930
+strawberry	1931
+pf	1932
+poetry	1933
+driver seat	1934
+john lennon	1935
+parole	1936
+the beatles	1937
+incident	1938
+shock	1939
+scully	1940
+third base	1941
+springfield	1942
+pitch	1943
+crm	1944
+san bernadino	1945
+chester	1946
+dylan	1947
+comeback	1948
+crete	1949
+antioch	1950
+virtue	1951
+pride	1952
+tree	1953
+adventure	1954
+elephant	1955
+philip	1956
+arrangement	1957
+plane	1958
+eye	1959
+ebro	1960
+team leader	1961
+tb	1962
+plan	1963
+hamilcar barca	1964
+full color	1965
+hike	1966
+cindy	1967
+face	1968
+malta	1969
+poison	1970
+batman	1971
+dad	1972
+island	1973
+secrecy	1974
+teenager	1975
+chris	1976
+segment	1977
+susa	1978
+costume	1979
+elite	1980
+orlando magic	1981
+magic	1982
+national basketball association	1983
+twitter	1984
+authority	1985
+superman	1986
+jameer nelson	1987
+fiction	1988
+activity	1989
+nuance	1990
+hobby	1991
+graduate	1992
+body	1993
+matrix	1994
+knowledge	1995
+promise	1996
+fantasy	1997
+potter	1998
+top priority	1999
+star trek	2000
+label	2001
+recreation	2002
+grafton	2003
+gray	2004
+grey	2005
+studio	2006
+art school	2007
+janelle	2008
+inspiration	2009
+economic	2010
+tragedy	2011
+disneyland	2012
+saturday night live	2013
+stranger	2014
+earthquake	2015
+cr	2016
+cell	2017
+meter	2018

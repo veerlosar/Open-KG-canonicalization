@@ -1,0 +1,636 @@
+635
+fiber	0
+information service	1
+vlad	2
+drug	3
+constantine	4
+rachael ray	5
+rachael	6
+futon	7
+tank	8
+skinner	9
+bill gates	10
+gate	11
+bill	12
+dvd	13
+dvd talk	14
+hannibal	15
+histogram	16
+atonement	17
+bindi	18
+methuen	19
+denali	20
+jeremy paxman	21
+population	22
+princeton	23
+phoenix	24
+clerk	25
+greeley	26
+horace	27
+appomattox county	28
+tablet	29
+rocky	30
+canadian rocky	31
+richard pryor	32
+wallace	33
+dickey	34
+location	35
+kara	36
+identity	37
+iowa state	38
+gospel	39
+chuck knoblauch	40
+kevin martin	41
+time	42
+content	43
+red velvet	44
+beckley	45
+douro	46
+boman irani	47
+longevity	48
+ethanol	49
+fuel	50
+tesla	51
+warren buffett	52
+warren	53
+chapman	54
+charlie bell	55
+total	56
+point	57
+windows vista	58
+surprise	59
+history	60
+romania	61
+dracula	62
+abuse	63
+constantinople	64
+food network	65
+david	66
+dinner	67
+health	68
+italy	69
+august	70
+view	71
+chef	72
+washington	73
+fan	74
+cook	75
+parade magazine	76
+germany	77
+thailand	78
+month	79
+main street	80
+concrete	81
+school	82
+hrs	83
+britain	84
+steel	85
+long	86
+rock	87
+layer	88
+hand	89
+capability	90
+degree	91
+position	92
+farm	93
+thought	94
+building	95
+charge	96
+radio	97
+approx	98
+great	99
+steel plate	100
+plastic	101
+nbc	102
+shell	103
+comedy	104
+closet	105
+battle	106
+internet	107
+sf	108
+fun	109
+half	110
+combat	111
+hour	112
+hacker	113
+application	114
+day	115
+request	116
+cover	117
+liquid	118
+ground	119
+brass	120
+foundation	121
+year	122
+work	123
+vietnam	124
+distance	125
+pvc	126
+stage	127
+maintenance	128
+reptile	129
+pressure	130
+land	131
+waxahachie	132
+heathrow	133
+priority	134
+green	135
+fight	136
+pure water	137
+round	138
+way	139
+scale	140
+damage	141
+control	142
+sale	143
+africa	144
+january	145
+car	146
+truck	147
+stainless steel	148
+pt	149
+moment	150
+freshwater	151
+cloud	152
+september	153
+pair	154
+great deal	155
+base	156
+person	157
+ice	158
+armour	159
+security	160
+ft	161
+fire	162
+swamp	163
+next season	164
+probation	165
+sunday night	166
+cycle	167
+demand	168
+witness	169
+team	170
+gear	171
+mass	172
+california	173
+leg	174
+protection	175
+aluminum	176
+palace	177
+body work	178
+plant	179
+battlefield	180
+computer	181
+shape	182
+minute	183
+type	184
+high	185
+door	186
+banana	187
+horse	188
+enemy	189
+china town	190
+place	191
+gas	192
+ww	193
+unit	194
+yard	195
+hardware	196
+child	197
+susquehanna	198
+susquehanna county	199
+punishment	200
+science	201
+john watson	202
+secretary	203
+cambridge	204
+radical behaviorism	205
+car accident	206
+dollar	207
+appearance	208
+satan	209
+os	210
+harvard	211
+spam	212
+ce	213
+lakeside	214
+charity	215
+mind	216
+hell	217
+personal computer	218
+seattle	219
+compuserve	220
+pm	221
+jan	222
+microsoft	223
+ibm	224
+oct	225
+quick	226
+number	227
+example	228
+jail	229
+loan	230
+harvard college	231
+shoe	232
+zhang	233
+wizard	234
+harvard university	235
+microsoft corporation	236
+oracle	237
+omaha	238
+guy	239
+nelson	240
+ceo	241
+software	242
+genius	243
+henry ford	244
+programmer	245
+monopoly	246
+independent	247
+run	248
+track	249
+criminal	250
+shopping spree	251
+malaria	252
+window	253
+xbox	254
+bug	255
+trouble	256
+corbis	257
+daily show	258
+computer programming	259
+apple	260
+college	261
+marketer	262
+geek	263
+bed	264
+ad	265
+surface	266
+bush	267
+interview	268
+albuquerque	269
+india	270
+god	271
+south korea	272
+keynote speaker	273
+ipod	274
+steve case	275
+information technology	276
+dos	277
+course	278
+peru	279
+page	280
+top	281
+steve jobs	282
+money	283
+winston churchill	284
+congress	285
+beijing	286
+board	287
+newsweek	288
+map	289
+industry	290
+full time	291
+garbage	292
+stock	293
+bit	294
+wealth	295
+encarta	296
+hobby	297
+university	298
+attention	299
+problem	300
+cash	301
+loser	302
+speaker	303
+microsoft project	304
+heaven	305
+earth	306
+accident	307
+october	308
+cone	309
+apple ceo steve jobs	310
+poverty	311
+fool	312
+truth	313
+oxford university	314
+berkshire hathaway	315
+scholastic	316
+challenge	317
+china	318
+fear	319
+einstein	320
+mac	321
+software architect	322
+ms dos	323
+business	324
+basic	325
+google	326
+government	327
+japan	328
+last week	329
+nbr	330
+england	331
+town	332
+humor	333
+bar	334
+atheist	335
+lot	336
+existence	337
+retirement	338
+corruption	339
+thing	340
+reason	341
+language	342
+ford focus	343
+respect	344
+chairman	345
+leon	346
+carnegie mellon	347
+mix	348
+education	349
+olympic	350
+karl marx	351
+channel	352
+bankruptcy	353
+christian	354
+longhorn	355
+mtv	356
+debt	357
+yahoo	358
+poetry	359
+rsa	360
+country	361
+blog	362
+second place	363
+keyboard	364
+mba	365
+job	366
+life	367
+wright	368
+percent	369
+darkness	370
+happy man	371
+new york time	372
+box	373
+global domination	374
+basement	375
+drink	376
+elephant	377
+address	378
+buffalo	379
+july	380
+word	381
+campus	382
+businessman	383
+wear	384
+devil	385
+online	386
+second	387
+new mexico	388
+inspiration	389
+stanford	390
+muslim	391
+paris	392
+hist	393
+cross	394
+christ	395
+young girl	396
+kimberley	397
+man	398
+june	399
+apax	400
+bbc	401
+muse	402
+million	403
+amtrak	404
+arizona	405
+maricopa county	406
+tempe	407
+april	408
+usa	409
+united states	410
+arizona state university	411
+arizona science center	412
+sun	413
+county	414
+grand canyon national park	415
+virginia	416
+program	417
+atlanta	418
+employee	419
+crete	420
+attack	421
+golf course	422
+title	423
+plymouth	424
+police	425
+home	426
+atlan	427
+mar	428
+georgetown	429
+sister	430
+phoenix sky harbor international airport	431
+crime	432
+phoenix metropolitan area	433
+poll	434
+ash	435
+member	436
+water	437
+gym	438
+arizona territory	439
+golf	440
+death	441
+decline	442
+auto	443
+arizona state	444
+british columbia	445
+sport	446
+hartford	447
+youngstown	448
+state	449
+major league baseball	450
+light rail	451
+tourist	452
+opportunity	453
+body	454
+community	455
+last year	456
+metropolitan area	457
+good stuff	458
+century	459
+bs	460
+assistance	461
+space	462
+zone	463
+free	464
+start	465
+heat	466
+city	467
+food	468
+winter park	469
+park	470
+white	471
+central	472
+salt river	473
+az	474
+wilmington	475
+council	476
+dr	477
+amherst	478
+new york	479
+weld county	480
+mail	481
+appomattox river	482
+meal	483
+prescription	484
+color	485
+paracetamol	486
+patent	487
+netherlands	488
+lactose	489
+room temperature	490
+chemotherapy	491
+administration	492
+detroit	493
+constipation	494
+consumer	495
+vitamin	496
+treat	497
+malaysia	498
+oral administration	499
+snowflake	500
+line	501
+metoprolol	502
+acetaminophen	503
+weight	504
+part	505
+small	506
+cyanuric acid	507
+desktop computer	508
+formula	509
+martini	510
+exception	511
+insulin	512
+piece	513
+clay	514
+treatment	515
+powder	516
+patient	517
+bacterial infection	518
+site	519
+breath	520
+topeka	521
+sweetener	522
+joel	523
+table	524
+salt	525
+name	526
+ace	527
+snow	528
+san fernando valley	529
+toy	530
+wendell	531
+film	532
+concert	533
+wiz	534
+jon stewart	535
+far east	536
+darwin	537
+south america	538
+indonesia	539
+sarawak	540
+natural history	541
+left center	542
+purdue	543
+bay area	544
+character	545
+citizenship	546
+factor	547
+count	548
+geography	549
+volume	550
+english	551
+sense	552
+tokyo	553
+culture	554
+baseball	555
+fact	556
+game	557
+center	558
+capitol hill	559
+fcc	560
+dog	561
+cms	562
+south	563
+spain	564
+gold	565
+form	566
+michael	567
+mumbai	568
+temperature	569
+gene	570
+maturity	571
+concern	572
+reaction	573
+wool	574
+legend	575
+aluminium	576
+uk	577
+question	578
+quality	579
+issue	580
+silicon	581
+average	582
+success	583
+insurance company	584
+lafayette	585
+happiness	586
+petrol	587
+focus	588
+toronto	589
+fortune magazine	590
+paradox	591
+art	592
+goldman sachs	593
+nebraska	594
+budweiser	595
+motorcycle	596
+telescope	597
+all star	598
+nrg energy	599
+israel	600
+introduction	601
+shame	602
+bridge	603
+social security	604
+high risk	605
+alumnus	606
+silver	607
+utility	608
+credit card	609
+revelation	610
+madrid	611
+milan	612
+graham	613
+american	614
+equity	615
+glaxo	616
+america	617
+countrywide	618
+advantage	619
+barack obama	620
+bank	621
+go	622
+tom brokaw	623
+railroad	624
+george bush	625
+president	626
+europe	627
+obama	628
+dress	629
+cleveland	630
+leominster	631
+southampton	632
+release	633
+cancer	634

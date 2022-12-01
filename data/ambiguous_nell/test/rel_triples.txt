@@ -1,0 +1,3259 @@
+3258
+male	be bear at	city
+female	be an assistant coach at	sportsteam
+female	go to	university
+female	be born in	female
+female	be the essence of	personus
+female	be a legend in	country
+female	will be induct in	month
+female	make a pass to	athlete
+female	be the biggest name in	sport
+person	now run	academicfield
+person	be mull over	agriculturalproduct
+person	be in	visualizableobject
+sport	be not	sport
+sport	patrol in	fish
+musicalbum	may take up to	musicfestival
+musicalbum	charge at	agriculturalproduct
+musicalbum	be of	visualizableobject
+musicalbum	could take up to	musicfestival
+geopoliticallocation	be a city in	county
+geopoliticallocation	be locate in	county
+geopoliticallocation	be a city locate in	county
+food	use pulse of	visualizablething
+food	be no safer than	chemical
+food	be affect	emotion
+city	run for	person
+politicianus	be president for	year
+politicianus	once say to	politicianus
+city	be on	sport
+city	be follow by	politicianus
+city	will travel to	city
+city	will campaign in	stateorprovince
+city	also win	stateorprovince
+city	say of	politicianus
+city	be all about	city
+city	campaign for	politician
+politicianus	be run for	person
+city	be respond to	musicsong
+city	be guilty of	crimeorcharge
+politicianus	would eliminate	governmentorganization
+politicianus	be going to	person
+politicianus	be not run for	person
+politicianus	be get out of	transportation
+city	say in	month
+city	do have	musicalbum
+city	be not yet in	visualizablescene
+politicianus	come to	geopoliticallocation
+city	be the candidate of	musicalbum
+city	be lead in	county
+city	be not the first woman to run for	person
+city	write a note for	agent
+city	have be a household name for	year
+politicianus	be a study in	geometricshape
+politicianus	be currently president of	country
+city	side with	politicianus
+politicianus	is a former President of	country
+politicianus	reduce the size of	geopoliticallocation
+politicianus	lie about have	televisionshow
+city	sign the bill into	agent
+city	actually win	product
+city	was the forty second President of	country
+city	win	stateorprovince
+politicianus	believe in	agent
+politicianus	was not only the President of	country
+politicianus	turn his back on	continent
+city	leave	trainstation
+politicianus	become	person
+city	assume the command of	visualizablescene
+city	will name	politicianus
+city	do nothing in	bodypart
+politicianus	Does n't Understand	economicsector
+city	be never convict of	crimeorcharge
+city	be still in	trainstation
+politicianus	be reelect president of	country
+city	be right in	televisionstation
+city	have two set of	automobilemaker
+politicianus	be out of	transportation
+city	will win	stateorprovince
+politicianus	speak about	politicsissue
+city	tell	newspaper
+politicianus	travel to	visualizablescene
+politicianus	may be the toast of	park
+politicianus	pass the torch to	politicianus
+city	have demand	book
+politicianus	appear on	blog
+politicianus	campaign in	city
+city	be as bad as	person
+politicianus	must return to	room
+city	be at	jobposition
+politicianus	speak out for	politicianus
+city	later follow	clothing
+city	be still	person
+city	have receive	product
+politicianus	speak to	female
+politicianus	be give advice to	politicianus
+city	be re elected	person
+politicianus	be more than	jobposition
+politicianus	remain president of	country
+city	be then interrupt by	jobposition
+politicianus	support	politicianus
+city	cannot win on	politicsissue
+politicianus	be president of	country
+city	be a value of	person
+politicianus	be a regular customer of	person
+city	said In	musicalbum
+politicianus	have live in	visualizablescene
+city	have make inroad in	visualizablescene
+politicianus	need	person
+city	will visit	country
+city	be point to	weapon
+city	do not go to	sociopolitical
+politicianus	be once in	sportsgame
+city	be disbar for	crimeorcharge
+city	state in	book
+city	be inaugurate	person
+politicianus	be pass by	professionalorganization
+politicianus	call	celebrity
+city	could have be	politicaloffice
+politicianus	have have	disease
+city	victorious in	stateorprovince
+city	write to	politician
+politicianus	have just become	person
+city	already be on	visualizablething
+politicianus	have the support of	geopoliticallocation
+politicianus	give way to	politician
+city	lead in	university
+politicianus	May Be	stateorprovince
+city	appoint she ambassador to	person
+politicianus	be worse than	person
+city	be rumor for	musicalbum
+city	have take the lead in	stateorprovince
+city	be due to visit	company
+politicianus	have an office in	park
+politicianus	come on	visualizablething
+politicianus	apparently like	movie
+politicianus	be visit	school
+city	order the bombing of	country
+politicianus	come from	emotion
+politicianus	be obsess with get	personnorthamerica
+politicianus	should be make	televisionstation
+city	will speak on	date
+city	talk of	emotion
+politicianus	come in to	visualizablescene
+politicianus	do okay on	website
+politicianus	stay out of	televisionshow
+politicianus	do the same for	criminal
+politicianus	have yet to endorse	politicianus
+city	have a long history of	sport
+city	also concentrate on	academicfield
+politicianus	Has Never Had	clothing
+city	tell a crowd in	person
+city	move to	city
+city	north korea	televisionshow
+city	demand the extradition of	personnorthamerica
+city	is a United States senator from	visualizablescene
+city	be right on	city
+city	be rip on	agent
+politicianus	do not win	stateorprovince
+politicianus	call for	agent
+city	have more than	agent
+politicianus	be currently speak in	sociopolitical
+city	win with	personasia
+city	sail for	visualizablescene
+politicianus	is no longer the President of	country
+city	insist on	skyscraper
+politicianus	have be the darling of	country
+city	should be in	visualizablescene
+city	lead among	nongovorganization
+politicianus	own	drug
+politicianus	elect	person
+city	receive just	product
+city	get to be	person
+city	study at	university
+city	focus on	politicsissue
+city	condemn the attack in	stateorprovince
+politicianus	rub shoulder with	politicianus
+city	say on	publication
+politicianus	be hooked on	drug
+politicianus	speak in	musicinstrument
+city	be campaigning in	stateorprovince
+city	have already be to	company
+city	be better than	agent
+city	fly to	country
+politicianus	be different from	politician
+city	do not have better	academicfield
+city	head to	stateorprovince
+politicianus	be appoint to	governmentorganization
+politicianus	have just be elect	person
+city	win for	newspaper
+city	be elect	person
+city	make fund available for	museum
+politicianus	serve during	militaryconflict
+city	do the same thing with	politicalparty
+politicianus	be a lot of	musicsong
+city	be very popular over	landscapefeatures
+city	do not sound like	musician
+city	lie about	personcanada
+politicianus	earn his degree from	university
+city	never get	sportsteamposition
+politicianus	be campaigning for	politicianus
+politicianus	give his inaugural address on	person
+politicianus	be right for	agent
+politicianus	be worried about	person
+politicianus	be like	disease
+politicianus	be seat next to	politicianus
+politicianus	have never play in	stateorprovince
+city	have little access to	visualizablething
+politicianus	would be run for	politicaloffice
+politicianus	lend his support to	politician
+city	committed the United States to	televisionshow
+city	be no better than	agent
+city	have be defer by	newspaper
+politicianus	begin his second term in	visualizablescene
+city	be still fully in	politicsblog
+city	be never in	person
+politicianus	show up on	publication
+politicianus	tell voter in	stateorprovince
+politicianus	have endorse	politicianus
+politicianus	have pass	politician
+city	be name after	city
+city	be a real piece of	profession
+city	may win	company
+city	be correct on	musician
+city	will remain in	politician
+city	be soft on	drug
+politicianus	be also think	automobilemodel
+politicianus	escape to	continent
+city	be a gift to	nongovorganization
+city	have to deal with	physiologicalcondition
+city	be schedule to travel to	city
+city	be wrong about	city
+politicianus	address	stateorprovince
+city	graduate from	city
+city	be censure by	person
+city	route	terroristorganization
+city	recall say to	agent
+politicianus	be come to	stateorprovince
+city	head out on	movie
+city	have disgrace	jobposition
+city	put into	company
+city	win among	person
+politicianus	be also in	stateorprovince
+politicianus	be only	mollusk
+city	oppose the war in	country
+city	be not re elected in	stateorprovince
+city	be also	person
+city	would have	visualizablething
+politicianus	be a man of	river
+politicianus	be the diametric opposite of	person
+city	win re election with	product
+politicianus	will no longer be President of	country
+city	be supporter of	person
+city	be still represent in	sportsleague
+city	have the inside track on	geometricshape
+politicianus	be not the only one on	book
+politicianus	admit to use	drug
+politicianus	be not the final word in	website
+city	be more concerned with	person
+politicianus	be afraid of	politicianus
+city	be the second with	product
+city	win in	personasia
+city	join force in	emotion
+politicianus	be not in	emotion
+city	sell out to	company
+politicianus	must accept	politicsissue
+politicianus	has just become President of	country
+politicianus	campaign on	agent
+city	be not convict of	crimeorcharge
+city	is NOT running for	visualizablescene
+politicianus	be live	book
+city	be the subject of	nondiseasecondition
+politicianus	be the reincarnation of	politicianus
+politicianus	care nothing for	personnorthamerica
+city	be impeach in	room
+city	stand for	politicsissue
+city	do a lot of	coach
+city	be smash in	stateorprovince
+city	already have an office in	city
+city	give a lot of	academicfield
+politicianus	be full of	politicsissue
+city	will be	jobposition
+city	say to	website
+politicianus	be ineligible to run for	politicaloffice
+politicianus	was elected President of	country
+city	be associate with	muscle
+city	be schedule to be sentence on	drug
+city	win the majority of	newspaper
+politicianus	work at	website
+politicianus	will be sent to	person
+city	win big in	stateorprovince
+city	be the man of	academicfield
+politicianus	continue to be	politicianus
+city	cannot save	politician
+city	have more delegate than	politician
+city	be next at	geometricshape
+city	refer to	person
+city	be read	automobilemaker
+politicianus	always have his eye on	jobposition
+politicianus	withdraw his support for	female
+city	will likely win	university
+city	explain to	time
+city	be raise by	female
+city	be convict of	crimeorcharge
+politicianus	still love to	country
+city	advance to	personmexico
+politicianus	announce run for	person
+politicianus	kill	person
+politicianus	speak at	musicalbum
+city	be a senator for	visualizablescene
+city	won the Democratic primary in	stateorprovince
+city	be to	agent
+politicianus	have never be on	journalist
+city	would be in	musicalbum
+city	sandbag	organization
+politicianus	hit on	biotechcompany
+city	have now win	stateorprovince
+city	be ready to be	person
+politicianus	only vote for	politicianus
+politicianus	will vote for	politician
+politicianus	will definitely vote for	politician
+city	pave the way for	agent
+politicianus	have come to	stateorprovince
+city	be good on	politicsissue
+city	IS a hawk on	museum
+politicianus	have a passion for	meat
+politicianus	use the language of	sociopolitical
+politicianus	be the president for	year
+city	have talk about	disease
+politicianus	be need in	museum
+politicianus	go back to	visualizablescene
+city	be cleverer than	agent
+city	then return to	visualizablescene
+politicianus	be about to leave	visualizablescene
+city	touch on	politicsissue
+city	should still be	person
+city	form an exploratory committee in	month
+city	have not yet win	stateorprovince
+city	have be campaign hard for	politician
+city	be not far from	biotechcompany
+city	be ahead by	city
+city	be impeach for	crimeorcharge
+politicianus	deliver a lecture in	visualizablescene
+city	only get	product
+city	say from	trainstation
+city	have a girlfriend in	trainstation
+city	declare at	university
+politicianus	use to go to	city
+city	might pick	politician
+city	be not convict by	politician
+city	be a republican in	mammal
+city	split with	airport
+politicianus	agree to release	protein
+city	become secretary of	building
+politicianus	beat	airport
+city	be endorse by	politicsblog
+city	say at	nongovorganization
+politicianus	may have be a man of	female
+city	compared Obama to	politicianus
+city	be not do with	politician
+city	settle out of	governmentorganization
+city	be the wife of	politicianus
+city	will not be go to	company
+city	have spend eight year in	trainstation
+politicianus	make a video about	female
+politicianus	Takes on	website
+city	be swear into	visualizablescene
+politicianus	be schedule to speak at	stateorprovince
+politicianus	actually like	person
+city	wins Democratic primary in	stateorprovince
+city	have enough for	bodypart
+politicianus	be the man from	emotion
+city	too receive	product
+politicianus	be from	emotion
+city	would go to	city
+city	has been a US senator for	year
+politicianus	do not pass	politician
+city	was a Governor of	building
+politicianus	be a former professor of	academicfield
+city	may have ton of	musicalbum
+city	have something on	politician
+politicianus	announce for	person
+city	prove a disaster for	newspaper
+city	be elect president of	country
+politicianus	be now in	trainstation
+politicianus	do not salute	politicsissue
+city	will be the new Secretary Of	building
+politicianus	have already serve	year
+city	be actually help	person
+politicianus	look better on	museum
+politicianus	have graduate from	university
+city	be not fit to be	person
+city	lose	person
+city	mess up in	country
+city	head off for	city
+politicianus	start to make	televisionstation
+city	should be on	company
+politicianus	may have be a lot of	musicsong
+city	tell supporter in	university
+politicianus	have plenty of	personalcareitem
+city	may win on	musicalbum
+city	have never be convict of	crimeorcharge
+city	will have be maintain by	chemical
+politicianus	be indeed from	emotion
+city	need to get	bacteria
+politicianus	be refer to	politicalparty
+politicianus	have never set foot in	river
+politicianus	could have kill	personnorthamerica
+politicianus	make a visit to	city
+politicianus	fail to deal with	terroristorganization
+politicianus	will leave office in	month
+city	again host	scientist
+city	have not be president for	year
+politicianus	be a friend of	person
+politicianus	win re election to	jobposition
+politicianus	have hail this as	coach
+city	be study at	city
+city	be later treat for	person
+city	be accuse of	crimeorcharge
+politicianus	reelect	person
+politicianus	should run for	person
+city	say during	bedroomitem
+city	screw up	musicalbum
+politicianus	have decide to run for	person
+city	tell reporter in	visualizablescene
+politicianus	be too much of	boardgame
+politicianus	pass out of	professionalorganization
+city	fool around with	person
+politicianus	be call on	river
+city	have long be a lightning rod for	nondiseasecondition
+city	announce his candidacy for	person
+city	take office in	person
+politicianus	be not much of	jobposition
+city	have warm to	agent
+city	also refer to	politician
+politicianus	endorse	person
+politicianus	run a campaign of	emotion
+city	be very weak on	website
+city	be unfit to be	person
+politicianus	be put his faith in	politician
+city	still lead by	city
+city	need some sort of	videogame
+city	be extremely popular with	newspaper
+city	start in	school
+politicianus	order the destruction of	biotechcompany
+city	be back by	newspaper
+city	said Monday in	university
+city	be a little short on	restaurant
+city	blame	organization
+politicianus	is the elected President of	country
+city	be a community of	academicfield
+city	should not be the president of	country
+city	should be the next President of	country
+politicianus	may have a lot of	musicsong
+city	be part of	male
+city	defeat	airport
+politicianus	cancel his visit to	city
+politicianus	be able to travel to	city
+city	work briefly in	visualizablescene
+city	come back to	country
+politicianus	provide	politicianus
+city	also lose	stateorprovince
+city	also gain	election
+politicianus	is the King of	location
+city	do not stop in	country
+politicianus	can get away with	crimeorcharge
+city	start with	website
+city	sail to	city
+politicianus	be the kiss of	musicartist
+city	apologise to	politicianus
+city	do vote in	politicsblog
+city	win the governorship of	visualizablescene
+city	have win	governmentorganization
+city	remain in	visualizablescene
+city	lavish attention on	scientist
+politicianus	take a special interest in	continent
+city	be acquit of	crimeorcharge
+city	do well in	geopoliticallocation
+city	hit back	musicalbum
+politicianus	will forever be link to	athlete
+politicianus	make an appearance on	publication
+politicianus	scorch	blog
+city	test in	stateorprovince
+city	connect with	person
+city	come out on	website
+politicianus	be a graduate of	agent
+city	do not give a damn about	crimeorcharge
+politicianus	rock out to	musicartist
+city	also have	politicsissue
+politicianus	give head in	trainstation
+city	would be much better than	politician
+city	do not speak during	female
+city	be play with	planet
+city	swing into	muscle
+politicianus	would be better than	female
+politicianus	heap praise on	politicianus
+city	be not go to do anything for	country
+city	have lost	physicsterm
+city	give to	company
+politicianus	would lose to	politician
+politicianus	never catch	personnorthamerica
+politicianus	be reportedly in	politicsblog
+city	have have close tie to	university
+city	have be deploy by	stateorprovince
+politicianus	chat about	website
+city	be eventually acquit by	politician
+city	lost the Democratic nomination to	politician
+city	be married to	mldataset
+city	also have the support of	person
+city	be beloved by	astronaut
+politicianus	declare his candidacy for	person
+city	have cancel his trip to	city
+politicianus	be popular in	country
+city	journey to	museum
+city	have sex with	profession
+city	be try for	crimeorcharge
+politicianus	also commit	crimeorcharge
+city	talk to	scientist
+city	leave office in	book
+city	only care about	city
+politicianus	will introduce	politician
+politicianus	take over in	stateorprovince
+politicianus	become president of	country
+city	run as	newspaper
+city	leads Obama among	person
+city	still retain	jobposition
+city	win eight of	governmentorganization
+city	lose to	politician
+city	be pretend to	physicalaction
+city	drop out on	month
+city	spend she day in	city
+politicianus	be back	politicianus
+politicianus	say vote for	politician
+politicianus	be see in	geopoliticallocation
+politicianus	get accuse of	crimeorcharge
+city	be successful as	person
+city	be move back to	country
+politicianus	pay a visit to	country
+city	blow out	politician
+city	be the agent of	plant
+politicianus	say accord to	website
+city	be very good in	female
+politicianus	would say	musicartist
+politicianus	would emerge from	governmentorganization
+politicianus	have be dispatch to	stateorprovince
+city	win nomination for	person
+politicianus	ride to	visualizablescene
+politicianus	be go to	trainstation
+city	be preoccupy with	agent
+city	aspire to	jobposition
+city	only screw	personcanada
+politicianus	have a vision for	politicianus
+politicianus	Did n't Pay for	person
+city	win with only	product
+city	do a hell of	company
+politicianus	do not know the definition of	person
+city	IS OUT OF	visualizablescene
+city	previously be in	city
+politicianus	order an attack on	country
+city	pick up	jobposition
+city	also be responsible for	stateorprovince
+city	be never offer	personnorthamerica
+politicianus	have be name president of	sportsteam
+city	do in	stateorprovince
+city	be still work on	blog
+politicianus	can go to	musicalbum
+city	will pick	male
+city	have be there	year
+politicianus	be reject in	politician
+city	be elect for	bodypart
+politicianus	go to to	musicalbum
+politicianus	also attack	country
+city	will never be	person
+city	be dangerous to	country
+city	be mediocre at	programminglanguage
+city	have visit over	country
+city	give a speech to	governmentorganization
+politicianus	could take	beverage
+city	Would Crack Down on	visualizableobject
+city	be the right kind of	personus
+politicianus	be not a man of	bridge
+city	refuse to sign	book
+city	be campaign against	organization
+politicianus	stump in	university
+politicianus	be a case in	city
+politicianus	be bear on	month
+politicianus	be phenomenal on	musicfestival
+city	urge support for	politicianus
+politicianus	do the right thing for	country
+politicianus	be not an asset to	female
+politicianus	never serve in	clothing
+politicianus	get away with	crimeorcharge
+city	rule for	year
+politicianus	also love	movie
+city	gain ground in	building
+politicianus	be made of	company
+politicianus	remain popular among	newspaper
+city	place third in	stateorprovince
+city	turn on	agent
+city	compromise with	artery
+city	be schedule to visit	country
+politicianus	be hurt	female
+city	should remain as	person
+city	set up	perceptionaction
+politicianus	live in	emotion
+city	answer a question from	website
+politicianus	became the Democratic nominee for	person
+city	accuses Obama of	sportsteamposition
+city	is a Democrat from	visualizablescene
+city	have come out on	website
+city	then agree with	politician
+city	disrespect	governmentorganization
+city	say stay in	protein
+politicianus	yell at	politicianus
+politicianus	be all in for	politician
+city	turn to	ceo
+politicianus	work with	governmentorganization
+politicianus	be a force of	website
+city	grant clemency to	person
+city	will lose in	stateorprovince
+city	win the popular vote in	stateorprovince
+city	do deal with	book
+city	back	country
+city	speak for about	visualizablething
+city	be smarter than	agent
+politicianus	be inaugurate as	person
+politicianus	complain about	jobposition
+city	will serve as	jobposition
+city	be play	sport
+city	speak of	academicfield
+politicianus	be talk to	person
+politicianus	say recently of	person
+politicianus	be okay i	website
+city	return to	country
+politicianus	is now the President of	country
+politicianus	receive million of	product
+politicianus	represent a new breed of	newspaper
+politicianus	be not for	politicianus
+city	be just	book
+politicianus	will be a huge asset to	female
+city	once say of	city
+city	apologize for	musicartist
+politicianus	have a lot of	emotion
+city	be not an agent of	agent
+city	send troops to	country
+city	should pick	politicianus
+city	win the election on	agent
+politicianus	double the size of	governmentorganization
+city	be run out of	bakedgood
+politicianus	do lose	university
+city	be go to win	stateorprovince
+city	finish with	city
+city	be not bring	newspaper
+city	never invade	country
+city	have his share of	eventoutcome
+city	eventually take	bodypart
+politicianus	seem to be of	stateorprovince
+politicianus	go there for	university
+city	also take aim at	politicianus
+city	have a history with	person
+city	be employ as	farm
+city	bring focus to	continent
+city	be under	geometricshape
+politicianus	be here	televisionshow
+politicianus	be curse with	scientist
+politicianus	have the same type of	politicsblog
+politicianus	have leave	visualizablescene
+city	appear in	geopoliticalorganization
+city	be warn in	website
+politicianus	listen to	person
+politicianus	be involve in	personasia
+politicianus	be accuse of rape	person
+city	refuse to answer	musicsong
+city	be bring by	politicaloffice
+city	be rediscover by	animal
+city	do not vote on	politicianus
+city	be focus on	politicsissue
+city	turn his back to	city
+politicianus	be a federal prosecutor for	year
+city	could have take	boardgame
+city	press for	profession
+city	should stay away from	continent
+city	be not go to be	politicaloffice
+city	be deep in	emotion
+city	be name	time
+city	write of	person
+city	be reach out to	person
+city	be raise in	politicsissue
+city	stick around for	bodypart
+city	vow to support	politician
+politicianus	be a big opponent of	televisionshow
+politicianus	be an outspoken opponent of	televisionshow
+politicianus	be very much afraid of	radiostation
+city	have a degree from	sportsteam
+politicianus	die in	politician
+city	be a town locate in	country
+city	address supporter in	river
+city	could not go to	geopoliticalorganization
+city	sit in	terroristorganization
+politicianus	be become	female
+politicianus	hold rally in	agent
+city	be down to	politician
+city	cross the line first in	country
+city	was President of	country
+politicianus	get his share of	crimeorcharge
+city	be no friend of	continent
+politicianus	be a perfect case in	city
+politicianus	also do	writer
+city	have be brief on	website
+city	still blame	scientist
+city	place the blame squarely on	scientist
+politicianus	be not prosecute for	crimeorcharge
+politicianus	can be Secretary of	building
+city	will fly to	stateorprovince
+politicianus	be sort of	city
+city	stop the war in	country
+politicianus	be raise	religion
+city	should win	university
+city	Is Right on	country
+politicianus	vote for	politician
+city	will also visit	country
+city	may still have	book
+city	be favor in	university
+city	be elect governor of	stateorprovince
+city	be a town in	county
+politicianus	do nothing against	sociopolitical
+politicianus	live down	personcanada
+city	draw support from	person
+city	was the First Lady of	country
+city	lend support to	politicianus
+city	have not follow	clothing
+city	have no intention of run for	person
+city	do not use	musicsong
+city	also meet with	jobposition
+city	say this on	dayofweek
+city	pull troops out of	country
+politicianus	never visit	room
+city	still have	musicalbum
+politicianus	sit next to	politicianus
+city	have miss a total of	product
+city	be condescend to	astronaut
+politicianus	be something of	mountain
+politicianus	always look great in	clothing
+politicianus	lie on	museum
+politicianus	arrive in	city
+politicianus	be finally go to	country
+city	be funnier than	politician
+politicianus	be a sorry excuse for	male
+city	be the friend of	politicsissue
+city	is elected a Member of	programminglanguage
+politicianus	ban smoking in	trainstation
+city	be use	city
+city	bounce back in	stateorprovince
+city	be far more effective than	politician
+city	spend more time in	stateorprovince
+city	do not name	politicianus
+city	will be too old in	year
+city	also remain at	trainstation
+city	be back home in	county
+politicianus	do not make a lot of	company
+city	go on to win	bodypart
+city	be hardly	personus
+politicianus	be a perfect example of	personus
+city	win on	agent
+city	come third in	stateorprovince
+city	be there for	clothing
+politicianus	do the same thing in	city
+city	have be add by	organization
+politicianus	was still President of	country
+city	be never charge with	crimeorcharge
+city	kill for	food
+city	make call to	governmentorganization
+politicianus	be prepare for	medicalprocedure
+city	vote with	stateorprovince
+city	receive only	product
+city	would still be in	trainstation
+city	apologize to	continent
+politicianus	HAS been campaigning for	politician
+politicianus	come out to	website
+city	be hold forth on	person
+city	Never liked	politicianus
+city	raise a number of	trainstation
+politicianus	be address as	jobposition
+city	can be be by	insect
+city	have be inhale by	clothing
+city	have be publicize by	company
+politicianus	have be marry with	female
+city	be also a big advocate of	politicsissue
+city	land in	city
+politicianus	be likely the son of	visualizableobject
+city	have make no mention of	race
+city	name secretary of	building
+city	have come back to	bacteria
+city	command the troops in	person
+city	is currently attending the University of	stateorprovince
+politicianus	be a great case in	city
+politicianus	deserve a lot of	crimeorcharge
+city	maintain an office in	park
+politicianus	have be sign by	person
+city	get	newspaper
+city	is elected President of	country
+city	can win	university
+politicianus	have this sort of	academicfield
+city	begin his career in	university
+city	sign in to	agent
+city	renege on	person
+politicianus	cannot serve as	politicaloffice
+city	think for	personmexico
+city	try to get	personnorthamerica
+city	tell cheer supporter in	person
+city	will never beat	politician
+politicianus	will be head for	person
+politicianus	be currently in	governmentorganization
+politicianus	make another visit to	city
+city	appointed Secretary of	visualizablescene
+city	be blackmail	organization
+politicianus	appoint the head of	professionalorganization
+city	have a total of	jobposition
+politicianus	be fighting for	female
+politicianus	love	color
+city	will vote	politician
+city	be campaign with	politician
+city	would be	politicsissue
+city	be able to defeat	agent
+city	have attitude in	trainstation
+city	never apologize for	musicartist
+politicianus	give money to	terroristorganization
+city	is President of	country
+city	be favor by	hotel
+politicianus	put on	airport
+city	have admit	crimeorcharge
+city	become the governor of	visualizablescene
+city	do a good job as	person
+city	work hard for	city
+politicianus	make the same mistake as	politician
+city	be little different from	agent
+city	have an affair with	person
+city	be cripple by	musicartist
+city	be certainly not like	building
+city	be initially oppose to	city
+politicianus	hold a rally in	attraction
+politicianus	should have go to	company
+city	be create	musicalbum
+politicianus	get blow by	person
+politicianus	also take	bodypart
+city	be win on	musicalbum
+city	be the best choice for	person
+city	be help	organization
+city	say nothing about	politician
+politicianus	file a lawsuit against	stateorprovince
+city	will speak for	visualizablething
+politicianus	has passed the House of	person
+city	will be in	stateorprovince
+politicianus	pick	politicianus
+city	be a son of	geopoliticallocation
+politicianus	be cause	musicalbum
+city	move quickly on	politicsissue
+city	Has Strong Lead In	stateorprovince
+city	need the help of	politicianus
+politicianus	do with	person
+politicianus	be allergic to	animal
+city	know about	terroristorganization
+city	say yesterday at	university
+city	say about	politician
+politicianus	praise	politicianus
+politicianus	lie for	musicalbum
+city	tell student at	university
+politicianus	be the former president of	country
+city	win both state in	month
+city	be elect base on	agent
+city	WAS wrong on	city
+city	would be liable to	crimeorcharge
+city	have magic in	visualizablescene
+city	make superb use of	governmentorganization
+city	may be right about	politician
+city	have grounds for	politicsissue
+politicianus	be impeach by	room
+city	be acquit by	politician
+city	could have have	personnorthamerica
+city	be active in	school
+politicianus	do not serve in	celebrity
+politicianus	do go to	country
+city	have be vote for	time
+city	write in	website
+politicianus	be a founding member of	professionalorganization
+city	get his start with	politician
+city	be not remove by	politician
+city	end with	jobposition
+city	will then fly to	stateorprovince
+politicianus	take care of	politicianus
+city	net about	jobposition
+city	include	city
+city	also go after	personaustralia
+city	be a symbol of	person
+city	have already take	muscle
+city	just care about	blog
+politicianus	be blacker than	politician
+politicianus	be then defeat by	product
+politicianus	win election to	election
+city	have not ask for	plant
+city	be acquit in	politician
+city	be for	product
+city	be the opposite of	politician
+city	choose not to take	bodypart
+city	spent Monday in	stateorprovince
+city	remain second in	stateorprovince
+city	be a small town just outside	city
+city	never have	physicsterm
+politicianus	mob in	country
+politicianus	also own	company
+city	should remain in	politician
+city	be enemy of	city
+politicianus	do the same to	airport
+city	has been MIA for	year
+city	place third behind	personeurope
+politicianus	use	politicsbill
+city	be head for	stateorprovince
+city	have to keep up with	politician
+city	do not commit	crimeorcharge
+city	win two thirds of	politicianus
+city	be not on	politician
+politicianus	grow up in	city
+politicianus	be not stand for	visualizablescene
+city	be impeach	book
+city	will say anything to get	product
+city	give ammunition to	organization
+politicianus	won Ohio by	city
+city	make comeback in	stateorprovince
+politicianus	have be there for	year
+politicianus	raise fund in	stateorprovince
+city	be just leave of	visualizablescene
+city	be an illusion of	agent
+city	have always be about	agent
+city	get close to	river
+city	have no plan for	eventoutcome
+politicianus	is the current President of	country
+city	begin work for	profession
+politicianus	be select to go to	visualizablescene
+city	subsequently become	person
+city	may take	stateorprovince
+politicianus	cannot run for	politicaloffice
+city	prepare for	sociopolitical
+politicianus	prepare to invade	city
+city	is Secretary of	building
+politicianus	be press hard for	female
+city	also lead among	person
+politicianus	have be elect	person
+city	give up on	country
+politicianus	begin in	politician
+politicianus	come as	jobposition
+city	be a resident of	city
+city	meet in	city
+politicianus	be the second come of	politician
+politicianus	have fun in	stateorprovince
+city	may have leave	visualizablescene
+politicianus	will do anything for	politicianus
+city	do not have	programminglanguage
+city	have more experience than	politician
+city	be now head to	stateorprovince
+city	also have success in	museum
+city	have more success in	country
+city	sign the protocol in	company
+politicianus	have go to	politician
+city	do serve	bodypart
+city	save the people of	city
+politicianus	will be there at	stateorprovince
+politicianus	be the top choice among	newspaper
+politicianus	can talk	male
+politicianus	be never like	organization
+politicianus	should have be try for	crimeorcharge
+city	tell the audience of	person
+city	make an issue of	country
+politicianus	have a few choice word for	celebrity
+politicianus	be find not guilty of	crimeorcharge
+politicianus	do not really like	politicianus
+city	have politicize	governmentorganization
+politicianus	be make to order for	journalist
+city	be find not guilty by	politician
+politicianus	do not walk on	chemical
+city	agree with	politician
+city	south carolina	profession
+politicianus	have his way with	person
+city	be wrong on	country
+city	add insult to	bodypart
+city	will defeat	agent
+city	will need	politician
+city	be ask about	person
+city	never do anything on	geopoliticalorganization
+city	do not start	politicsissue
+politicianus	be listen to	time
+politicianus	serve in	militaryconflict
+city	do very well as	person
+politicianus	be more dangerous than	personnorthamerica
+city	also institute	militaryconflict
+politicianus	retire to	city
+politicianus	die on	date
+politicianus	serve two term as	person
+politicianus	re elected as	person
+politicianus	report to	governmentorganization
+politicianus	be put in	street
+politicianus	move his headquarters to	country
+politicianus	take a pragmatic approach to	scientist
+politicianus	be then	person
+politicianus	play football for	university
+politicianus	have a particular interest in	mediatype
+politicianus	decide against	televisionshow
+politicianus	die of	disease
+politicianus	move into	trainstation
+politicianus	have accept the presidency of	university
+politicianus	be a good judge of	emotion
+politicianus	have long realize the importance of	highway
+politicianus	have never like	person
+politicianus	send federal troops to	city
+politicianus	later become	person
+politicianus	start	monument
+politicianus	be a great symbol of	politicalparty
+politicianus	enrol at	sportsteam
+politicianus	meet with	male
+politicianus	have a command of	academicfield
+politicianus	borrow heavily from	person
+politicianus	quit in	country
+politicianus	be the candidate for	person
+politicianus	may have be	organization
+politicianus	recognize the importance of	highway
+politicianus	have be pay for	musicalbum
+politicianus	barely speak to	politicianus
+politicianus	elect to	election
+politicianus	win the race for	trainstation
+politicianus	do not get along well with	city
+politicianus	be promote to	televisionshow
+politicianus	be the first winner of	person
+politicianus	spend his childhood in	city
+politicianus	be truly	politicaloffice
+politicianus	be second in	terroristorganization
+politicianus	entered West Point in	month
+politicianus	assume his new position on	person
+politicianus	play a lot of	sport
+politicianus	remain as	personus
+politicianus	have a history of	disease
+politicianus	be the third of	person
+politicianus	be directly behind	buildingmaterial
+politicianus	had just been elected President of	country
+politicianus	be elect to	bodypart
+politicianus	send military aid to	country
+politicianus	be know as	city
+politicianus	take the oath of	visualizablescene
+politicianus	elected President of	country
+politicianus	be a keen advocate of	mountainrange
+politicianus	submit his proposal to	person
+politicianus	be also deeply commit to	river
+politicianus	lead the invasion of	country
+politicianus	worry about	country
+politicianus	re elected	person
+politicianus	have warn	politicianus
+politicianus	have a farm in	city
+politicianus	do follow	person
+politicianus	have lots of	musicalbum
+politicianus	was the President of	university
+politicianus	had been President for	year
+politicianus	also send troops to	city
+politicianus	roam the hall of	university
+politicianus	give the order of	musicfestival
+politicianus	wins the Republican nomination for	person
+politicianus	became President of	country
+politicianus	be baptize	hospital
+politicianus	be still president of	country
+politicianus	easily defeat	person
+politicianus	be re elected for	election
+politicianus	be president during	scientist
+politicianus	understand the importance of	organization
+politicianus	try to do	musicsong
+politicianus	have be	company
+politicianus	elect president of	country
+politicianus	sent his Secretary of	building
+politicianus	send	animal
+politicianus	have suffer	disease
+politicianus	be the president of	country
+politicianus	never mention	city
+politicianus	do before	musicfestival
+politicianus	assume office as	person
+politicianus	say this of	food
+politicianus	make a campaign stop in	model
+politicianus	love to	sport
+politicianus	enrol in	sportsteam
+politicianus	be back at	landscapefeatures
+politicianus	never do anything in	year
+politicianus	Was a man with	bodypart
+politicianus	have be name	stateorprovince
+politicianus	rely on	organization
+politicianus	help defeat	person
+politicianus	become a member of	sportsequipment
+politicianus	also appoint	sociopolitical
+politicianus	want to overthrow	country
+academicfield	span a range of	bodypart
+male	made Christianity the official religion of	city
+male	issued the Edict of	city
+male	make an alliance with	monarch
+male	be prone to	agent
+male	be a worshipper of	person
+male	be the emperor of	city
+male	joined the Council on	month
+male	convert to	religion
+male	be already out of	personalcareitem
+male	send letter to	writer
+male	be leave	person
+male	assume the title of	person
+male	be originally model on	athlete
+male	live on	stateorprovince
+male	ride off to	sociopolitical
+male	be then king of	country
+male	was the first King of	celebrity
+male	never return to	wine
+male	agree to pay	automobilemodel
+male	win by	bodypart
+male	appeal to	person
+male	be convert to	religion
+male	become emperor of	country
+male	die at	militaryconflict
+male	define	religion
+male	leave to attend	geopoliticallocation
+male	be back from	city
+male	be slain in	eventoutcome
+male	fight his way to	blog
+male	never convert to	religion
+male	assume control of	beverage
+male	be a village in	person
+male	be a native of	city
+male	move the capital of	organization
+male	attend a private school in	city
+male	be then send to	country
+male	says Have	company
+male	take control of	person
+male	pray for	personeurope
+male	dedicate his victory to	male
+male	be consecrate	person
+male	be put to	building
+male	do much for	person
+male	be situate on	person
+male	spend some time in	country
+male	fall sick in	militaryconflict
+male	triumphantly enter	city
+male	become the sole emperor of	city
+male	march on	city
+male	be a man without	female
+male	then move	geopoliticallocation
+male	open in	month
+male	never understand	religion
+male	open the way for	crimeorcharge
+male	be not bear in	country
+male	become the champion of	location
+male	makes Christianity the official religion of	organization
+male	leave for	city
+male	walk into	university
+male	be never	jobposition
+male	have both type of	nerve
+male	remain head of	building
+male	be the worshiper of	person
+male	be the youngest of	person
+male	be the protector of	location
+male	have a good understanding of	religion
+male	offer protection to	location
+male	be the son of	militaryconflict
+male	too be bear in	country
+male	demote to	book
+male	marry	person
+male	lay siege to	monarch
+male	about be	journalist
+male	be also fluent in	male
+male	have a vision of	city
+male	have no power over	city
+male	move against	monarch
+male	reign in	religion
+male	be demote to	book
+male	became Emperor of	city
+male	move the capital to	city
+male	order the execution of	person
+male	be no paragon of	religion
+male	be the sole ruler of	person
+male	be sympathetic towards	location
+male	be list in	insect
+male	found the city of	city
+male	assume power in	person
+book	Put Into	televisionshow
+book	have be ignore for too	person
+book	can be translate into	academicfield
+book	be write originally in	male
+book	be the power of	person
+book	consist of	bodypart
+book	be the backbone of	retailstore
+book	be the message of	religion
+book	be life in	person
+book	literally mean	website
+book	always be	publication
+book	be write about	visualartist
+book	develop after	mediatype
+book	be call the book of	musicalbum
+book	be preach to	male
+book	Is Preached To	monarch
+book	is THE Message of	book
+book	mean simply	publication
+book	attribute to	writer
+book	contain the word of	male
+book	make inroad in	country
+book	preach in	company
+book	is the Gospel of	person
+book	is the Word of	person
+book	be given to	personsouthamerica
+book	simply mean	publication
+book	be about	person
+book	is the Light of	website
+book	say a great deal about	time
+book	be later take to	city
+book	is the old English for	publication
+book	can save	nut
+book	give rise to	muscle
+book	mean literally	publication
+book	make nothing of	male
+book	be write in	language
+book	be about change	bacteria
+book	be call the word of	bacteria
+book	be the good news of	person
+book	is Good News for	male
+book	be not of	male
+book	be date back to	newspaper
+book	be clearly spell out in	book
+book	be the only source of	religion
+book	do not need	academicfield
+book	go out to	company
+book	be a gospel of	emotion
+book	be not a theory about	person
+book	be found on	emotion
+book	be equivalent to	religion
+book	be about help	person
+book	actually mean	publication
+book	contain the story of	personsouthamerica
+book	always come as	stateorprovince
+book	be the gospel of	personsouthamerica
+book	Is the Key to	river
+book	just mean	publication
+book	be read aloud	time
+book	have come	visualizablething
+book	Narratives as	university
+book	be the heart of	religion
+book	be the very foundation of	religion
+book	should be the spirit of	profession
+book	have be know as	publication
+book	be all about restore	emotion
+book	be the center of	personcanada
+book	is GOOD	website
+book	be derivative of	insect
+book	always influence	musician
+book	give the key to	male
+book	is Basis for	muscle
+book	be the core of	religion
+book	be a matter of	politicianus
+book	tell about	city
+book	be a summons to	musicartist
+book	have the power to change	bacteria
+book	then become	publication
+book	be the book of	person
+book	preach to	criminal
+book	be the very word of	personsouthamerica
+book	be leave to	male
+book	be ready to go back to	person
+book	be later translate into	male
+book	first go to	person
+book	may be present in	university
+book	will save	book
+book	be the word of	personsouthamerica
+book	be not about	academicfield
+book	have pride of	street
+book	be write about in	book
+book	read by	transportation
+book	be the point of	book
+book	is the Greek word for	publication
+book	do not follow	chef
+book	be apart from	profession
+book	be the story of	male
+university	end the season with	politicsblog
+university	win the championship with	politicsblog
+university	drop to	personmexico
+university	offer instruction in	academicfield
+university	be right there in	university
+university	be a private coeducational research university locate in	university
+university	currently host	geopoliticallocation
+university	have be home to	nut
+university	be fresh out of	trainstation
+university	be third with	city
+university	be not responsible for	disease
+university	fall to	school
+university	be a private university locate in	university
+university	have an ample choice of	geolocatablething
+university	be rank	geometricshape
+university	run	stateorprovince
+university	have join	university
+university	be already short of	professionalorganization
+university	teach an introductory course on	religion
+university	regard this as	model
+university	be heaven on	geometricshape
+university	be home to	university
+university	be closed for	automobilemaker
+university	be most notable for	musicsong
+university	be home of	stateorprovince
+university	highlight in	county
+university	be a private research university locate in	university
+university	offer two type of	room
+university	was the College of	stateorprovince
+university	be charter in	stateorprovince
+university	be also a good location for	academicfield
+university	announce on	person
+university	be a jewel of	street
+university	top the list of	sportsteam
+university	offer language instruction in	language
+university	win the team competition with	city
+university	be relatively close to	visualizablescene
+university	be not cut	politicalparty
+university	defeated the University of	person
+university	be found by	hospital
+university	be a spoof of	university
+writer	will have be dead for	year
+writer	be a professor of	academicfield
+writer	est n	city
+writer	be a writer from	country
+room	have sign with	musicsong
+athlete	start for	stateorprovince
+athlete	start the game for	stateorprovince
+athlete	may be out of	weapon
+athlete	be phenomenal for	stateorprovince
+hallwayitem	be reappoint by	personus
+hallwayitem	will answer to	politicianus
+hallwayitem	have be focus on	politicsissue
+hallwayitem	be not speak for	politician
+hallwayitem	do not report to	politician
+hallwayitem	be a former director of	location
+hallwayitem	be just like	politician
+hallwayitem	differ on	weapon
+hallwayitem	call a council of	sociopolitical
+hallwayitem	tell reporter at	perceptionaction
+hallwayitem	also have harsh word for	person
+hallwayitem	oppose	event
+hallwayitem	be swear in on	company
+hallwayitem	stay at	trainstation
+hallwayitem	focus overwhelmingly on	country
+hallwayitem	is a Republican member of	university
+hallwayitem	also be a member of	terroristorganization
+hallwayitem	refuse entry to	country
+hallwayitem	be also a member of	terroristorganization
+hallwayitem	be the head of	professionalorganization
+hallwayitem	serve on	terroristorganization
+hallwayitem	tell a news conference in	city
+hallwayitem	will be assign	company
+city	be a suburb of	city
+perceptionaction	begin at	stateorprovince
+river	be a river in	country
+river	is the Portuguese word for	color
+county	be name for	river
+journalist	may have be lose to	male
+journalist	be nickname	movie
+clothing	be very	hobby
+clothing	run over	person
+clothing	be often find on	farm
+clothing	be fill with	weatherphenomenon
+clothing	be do	person
+clothing	belong to	drug
+clothing	be not the only part of	academicfield
+clothing	be fully	publication
+clothing	be available in	buildingmaterial
+clothing	be approximately	transportation
+clothing	use a lot of	weapon
+clothing	can not operate in	landscapefeatures
+clothing	will be back	reptile
+clothing	be well establish at	year
+clothing	be pump on	televisionshow
+clothing	be build into	room
+clothing	have be run about	year
+clothing	include print	programminglanguage
+clothing	be always in	scientist
+clothing	be be view as	personeurope
+clothing	will be judge by	organization
+clothing	be be use as	clothing
+clothing	be perfect for	agriculturalproduct
+clothing	may pull	vehicle
+clothing	be back in	sportsequipment
+clothing	must be use in	geopoliticallocation
+clothing	look like	clothing
+clothing	be low on	weapon
+clothing	can launch up to	time
+clothing	be grind	room
+clothing	need around	room
+clothing	be keep at	jobposition
+clothing	have be run for	month
+clothing	have right of	book
+clothing	come complete with mount	musicartist
+clothing	have the right of	book
+clothing	be currently locate in	stateorprovince
+clothing	make of reinforce	buildingmaterial
+clothing	be mount on	bodypart
+clothing	be advise to wear	musicalbum
+clothing	make of	product
+clothing	leave in	bodypart
+clothing	remove from	bodypart
+clothing	surround	attraction
+clothing	find in	country
+clothing	be suppose to go	year
+clothing	be fully stocked with	plant
+clothing	be need on	planet
+clothing	have be live for	year
+clothing	may be fill at	musicalbum
+clothing	last approximately	physiologicalcondition
+clothing	be put together in	visualizablething
+clothing	be a snap on	emotion
+clothing	be place	transportation
+clothing	be usually locate	visualizableobject
+clothing	hit like	agriculturalproduct
+clothing	be an all around	mammal
+clothing	utterly destroy	musicartist
+clothing	can be make of	buildingmaterial
+clothing	Move on	county
+clothing	abandon in	street
+clothing	have be set up for	year
+clothing	be furnish with	bird
+clothing	have be up for	month
+clothing	rumble down	street
+clothing	can be turn into	school
+clothing	be first develop in	country
+clothing	be service by	bone
+clothing	have one set of	island
+clothing	be move into	bodypart
+clothing	can destroy	building
+clothing	be assume to have	visualizablething
+clothing	have be set	mlconference
+clothing	be make out of	buildingmaterial
+clothing	be usually in	buildingmaterial
+clothing	be use to kill	clothing
+clothing	do not fire	animal
+clothing	make for	eventoutcome
+clothing	fire at	building
+clothing	build for	geopoliticallocation
+clothing	must be cut in	sportsgame
+clothing	continue in	celebrity
+clothing	uncover for	room
+clothing	usually be	company
+clothing	have be go for	musicfestival
+clothing	be great for move	bird
+clothing	fill with	chemical
+clothing	may be move from	university
+clothing	set up for	year
+clothing	use in	country
+clothing	be closer in	physicsterm
+clothing	appear in later	visualizablething
+clothing	also require	profession
+clothing	use for	reptile
+clothing	be hold	chemical
+clothing	may be order upon	musicalbum
+clothing	can only move on	automobilemaker
+clothing	be most successful in	country
+clothing	be send to	airport
+clothing	be display in	color
+clothing	be made for	personasia
+clothing	will be to	insect
+clothing	be there to take	disease
+clothing	be need to take	transportation
+clothing	roll up in	continent
+clothing	have be run since	month
+clothing	can run over	visualizableobject
+clothing	stand there	emotion
+clothing	can be	beverage
+clothing	still need to do	disease
+clothing	be over	visualizableattribute
+clothing	usually operate in	visualizableattribute
+clothing	can vary	emotion
+university	be a township in	county
+university	be a borough in	county
+time	be a publishing company base in	person
+time	be now be publish in	transportation
+time	be call by	city
+room	begin his career on	visualizablething
+room	have an enrollment of over	victim
+university	be the found member of	professionalorganization
+university	have a campus in	park
+room	will vary accord to	physicsterm
+room	double to	sportsteamposition
+room	recently open a branch in	city
+clothing	instead move to	country
+sport	get under	book
+sport	be up on	city
+sport	have come a long way in	year
+emotion	be define	governmentorganization
+drug	find for	academicfield
+emotion	have be consider	disease
+emotion	have effect similar to	disease
+emotion	often kill	academicfield
+emotion	have not be much of	emotion
+emotion	can take on	geometricshape
+emotion	be develop through	website
+emotion	be basically	disease
+emotion	be more a matter of	jobposition
+emotion	have be compare to	disease
+drug	be a substitute for	beverage
+emotion	be state for	journalist
+emotion	be treat as	disease
+emotion	be too strong of	company
+politicianus	apply to	publication
+politicianus	currently live in	city
+politicianus	be run over by	visualizableobject
+politicianus	extend to	geopoliticalorganization
+politicianus	be comprised of	bodypart
+politicianus	apply across	city
+politicianus	will apply to	country
+politicianus	be approve by	jobposition
+politicianus	be arrange in	bodypart
+politicianus	will now go to	professionalorganization
+politicianus	be bizarre for	agent
+politicianus	be report with	creativework
+politicianus	take effect in	month
+politicianus	be always up for	country
+politicianus	will now be know as	stateorprovince
+politicianus	will extend to	geopoliticalorganization
+politicianus	issue in	bird
+politicianus	be issue in	bird
+politicianus	still have to go to	politician
+politicianus	have now be return to	professionalorganization
+politicianus	be determine to have	journalist
+politicianus	go through	televisionshow
+politicianus	be divide into	insect
+politicianus	be set in	city
+politicianus	should arrive in about	musicfestival
+politicianus	be before	currency
+politicianus	add on	terroristorganization
+politicianus	be due in	currency
+politicianus	threaten	musicinstrument
+politicianus	will have	bodypart
+politicianus	be publish by	profession
+politicianus	be a waste of	time
+politicianus	be report back to	programminglanguage
+politicianus	will focus on	journalist
+politicianus	debut on	month
+politicianus	actually be on	website
+politicianus	put off for	month
+politicianus	be available for	musicalbum
+politicianus	be broadcast on	month
+politicianus	be currently before	currency
+politicianus	be now before	currency
+politicianus	be still before	currency
+politicianus	say with	musicalbum
+sportsequipment	be remove prior to	visualartist
+sportsequipment	need some kind of	musicartist
+sportsequipment	be remove after	month
+sportsequipment	cover in	buildingmaterial
+sportsequipment	feel through	room
+sportsequipment	will be use to represent	sportsequipment
+sportsequipment	be generally available in	chemical
+sportsequipment	edge with	color
+sportsequipment	be engineer in	geopoliticallocation
+sportsequipment	be far cheaper than	politicsissue
+sportsequipment	can be classify by	weapon
+sportsequipment	be so much more than	software
+sportsequipment	apply for	beverage
+sportsequipment	apply to lower	visualizablescene
+sportsequipment	be require to purchase	profession
+sportsequipment	wrap in	color
+sportsequipment	be electroplate in	geopoliticallocation
+sportsequipment	Annealed	sportsequipment
+sportsequipment	should win the Nobel prize for	academicfield
+sportsequipment	be cut to	animal
+sportsequipment	bind on	bodypart
+sportsequipment	be use in make	clothing
+sportsequipment	be offer in	buildingmaterial
+sportsequipment	can make a difference in	perceptionevent
+sportsequipment	run up to	visualizableobject
+sportsequipment	be manufactured in	country
+sportsequipment	be make from	musicgenre
+sportsequipment	be sometimes use as	product
+emotion	be key in	agent
+emotion	may occur as	disease
+emotion	be intrinsic to	eventoutcome
+emotion	be the key to	eventoutcome
+clothing	return home to take on	company
+clothing	pass up	country
+clothing	slow down	athlete
+clothing	acquire the draft rights to	athlete
+writer	be send overseas for	musicfestival
+writer	never become	person
+writer	have have problem with	city
+writer	have kind word for	politicianus
+writer	was Governor of	university
+writer	speed back to	city
+writer	be a concern to	person
+writer	triple to	sportsteamposition
+writer	be the theme of	musicartist
+writer	pause for	emotion
+writer	entered the University of	university
+writer	run into	musicalbum
+writer	become the new owner in	month
+writer	be a supporter of	country
+writer	continue to experience	emotion
+writer	will run	academicfield
+writer	also run for	room
+writer	take vote away from	person
+writer	announce his plan to run for	person
+writer	serve with	nongovorganization
+writer	still like	person
+writer	gain the endorsement of	professionalorganization
+writer	would beat	person
+writer	have win at	sportsgame
+writer	still have feeling for	person
+writer	stand up for	politician
+writer	teach at	university
+writer	have many friend in	city
+stateorprovince	enhance use	visualizableobject
+stateorprovince	add visual interest to	ceo
+stateorprovince	be the difference between	automobilemodel
+stateorprovince	be possible with	emotion
+stateorprovince	also increase with	food
+stateorprovince	can also be apply to	amphibian
+stateorprovince	be extremely important in	bacteria
+stateorprovince	be just kind of	nondiseasecondition
+male	have be diagnosed with	disease
+male	give up	physiologicalcondition
+agriculturalproduct	can be similar to	agent
+agriculturalproduct	is still the King of	economicsector
+agriculturalproduct	be present in	bodypart
+agriculturalproduct	do not happen by	crimeorcharge
+agriculturalproduct	be protect by	agent
+agriculturalproduct	have prevail over	geometricshape
+agriculturalproduct	be the basic building block of	economicsector
+agriculturalproduct	can vary by	professor
+agriculturalproduct	be crucial on	economicsector
+agriculturalproduct	be a valuable commodity on	economicsector
+agriculturalproduct	can be in	geometricshape
+agriculturalproduct	use to be	televisionstation
+agriculturalproduct	be similar to	blog
+agriculturalproduct	will only be available for	month
+agriculturalproduct	can be a bit of	sportsgame
+agriculturalproduct	can be on	economicsector
+agriculturalproduct	Will Not Be	televisionstation
+agriculturalproduct	can be modify via	landscapefeatures
+agriculturalproduct	do not always follow	musicartist
+agriculturalproduct	still rule on	economicsector
+agriculturalproduct	do not support	website
+agriculturalproduct	be free to	musicsong
+agriculturalproduct	could be	visualizableobject
+agriculturalproduct	be only to be use in	programminglanguage
+agriculturalproduct	has a Life Cycle of	physicalaction
+agriculturalproduct	must have	city
+agriculturalproduct	will appear over	time
+agriculturalproduct	be king of	economicsector
+musicalbum	do not take	street
+agriculturalproduct	be also available in	visualizableobject
+agriculturalproduct	can be export to	profession
+agriculturalproduct	be quite an important part of	company
+agriculturalproduct	be the king of	economicsector
+agriculturalproduct	be the undisputed king of	economicsector
+agriculturalproduct	be crap on	economicsector
+agriculturalproduct	do not need to be	academicfield
+agriculturalproduct	be diversify in	physicalaction
+agriculturalproduct	be contribute by	governmentorganization
+agriculturalproduct	be release for	videogamesystem
+agriculturalproduct	can be present in	magazine
+agriculturalproduct	be sell for	crimeorcharge
+agriculturalproduct	exist in	personnorthamerica
+agriculturalproduct	include technique in	university
+agriculturalproduct	take a back seat to	musicalbum
+agriculturalproduct	be the currency of	economicsector
+agriculturalproduct	can be drop on	visualizablething
+agriculturalproduct	be update in	bodypart
+agriculturalproduct	cannot exist without	geometricshape
+agriculturalproduct	be protect in	musicalbum
+agriculturalproduct	can sell on	economicsector
+agriculturalproduct	be too much for	monument
+agriculturalproduct	will come over	time
+agriculturalproduct	do not dictate	geometricshape
+agriculturalproduct	will be deliver to	personeurope
+agriculturalproduct	will change over	time
+agriculturalproduct	do not have to be just	recordlabel
+agriculturalproduct	do not constitute	profession
+agriculturalproduct	Is Not	televisionstation
+person	will be the next senator from	stateorprovince
+personeurope	publish	placeofworship
+personeurope	publishes Catalogue of	hotel
+drug	may lower	beverage
+drug	use to lower	disease
+drug	use to increase	disease
+furniture	can fold flat for	bedroomitem
+furniture	fold out to	furniture
+furniture	be a general term for	room
+furniture	do not include	furniture
+furniture	be cover with	plant
+furniture	have its origin in	country
+furniture	vary widely in	musician
+furniture	be available upon	musicalbum
+furniture	be usually sell in	room
+furniture	open into	furniture
+furniture	originally come from	country
+furniture	can be deliver anywhere in	biotechcompany
+furniture	originate in	country
+furniture	be place on	website
+furniture	lead to	furniture
+person	was elected Governor of	stateorprovince
+vein	can result in	physiologicalcondition
+person	go to talk to	politicianus
+person	be late for	bakedgood
+person	be the picture of	academicfield
+person	be presently in	country
+person	have appear on	visualizablething
+person	be head to	visualizablescene
+person	be the princess of	company
+person	be bear into	fungus
+person	be recently interview by	newspaper
+person	be bear in	country
+person	be the queen of	company
+journalist	grill	biotechcompany
+journalist	work for	recordlabel
+journalist	have confess to	musicartist
+plant	be project at	geometricshape
+nondiseasecondition	reflect the balance of	planet
+nondiseasecondition	be increase by	planet
+plant	be back to	geometricshape
+movie	will lean heavily on	athlete
+movie	draw she to	stateorprovince
+movie	do not really want	athlete
+movie	trade for	athlete
+movie	be go to lose to	sportsteam
+movie	run through	stateorprovince
+movie	lead the league in	sportsgame
+movie	just cannot catch	musicsong
+movie	be lead by	athlete
+movie	will miss	athlete
+movie	be a team of	musicalbum
+movie	avoid arbitration with	athlete
+movie	be go to lose a lot of	game
+movie	be expect to reach	book
+movie	may have be to	awardtrophytournament
+movie	have also be link to	athlete
+movie	be impress with	athlete
+movie	have sign	athlete
+movie	would hold on for	sportsgame
+movie	have commit	visualizablething
+movie	have come into	visualizablething
+movie	have like	musicartist
+movie	could stay in	city
+movie	be show a lot of	person
+movie	be base in	personcanada
+movie	will be face	sportsteam
+movie	be no longer pursue	athlete
+movie	have set record for	sportsteamposition
+movie	be wear	color
+movie	sell fewer than	sportsgame
+movie	have pitch	musicsong
+movie	could win	awardtrophytournament
+movie	play before	musicartist
+movie	have the second best record in	sportsleague
+movie	get spank	book
+movie	be the hottest team in	sport
+movie	never stand	book
+movie	have the worst record in	sportsleague
+movie	have a limited presence in	country
+movie	have not use	book
+movie	sweep	city
+movie	might go	website
+movie	will start	coach
+movie	put up	city
+movie	have study a number of	invertebrate
+movie	will take	website
+movie	excel on	sportsteamposition
+movie	get lucky for	month
+movie	squeeze	sportsteam
+movie	have be bad for	musicalbum
+movie	be try to win	awardtrophytournament
+movie	should go for	personmexico
+movie	will play at	city
+movie	may be interested in	athlete
+movie	would then have	sportsgame
+movie	be no longer interest in	athlete
+movie	here make for	landscapefeatures
+movie	counter with	athlete
+sport	be originally make of	televisionstation
+sport	manufacture in	city
+writer	spend many year in	continent
+writer	have develop a passion for	museum
+writer	be a contemporary of	writer
+writer	continue his research in	country
+writer	write a paper in	stateorprovince
+clothing	mean point of	book
+agriculturalproduct	single to	sportsteamposition
+agriculturalproduct	be not at	buildingfeature
+mountain	is the Native American name for	mountain
+product	be evaluate	product
+personcanada	be funny at	time
+personcanada	be hilarious as	male
+mountain	offer a view of	mountain
+mammal	also feature	jobposition
+bacteria	be an act of	bacteria
+automobilemaker	be a group of	company
+automobilemaker	be be amass by	visualizablething
+automobilemaker	be made in	country
+automobilemaker	be the largest manufacturer in	country
+automobilemaker	be not forbid by	chemical
+automobilemaker	will always be	automobilemaker
+automobilemaker	be not locate	automobilemaker
+automobilemaker	will be teach by	clothing
+automobilemaker	may be spill by	automobilemaker
+automobilemaker	will have amputate	room
+automobilemaker	be try to be	automobilemaker
+automobilemaker	go	retailstore
+automobilemaker	be an automotive brand of	automobilemaker
+automobilemaker	take aim at	city
+automobilemaker	be take	politicsblog
+automobilemaker	be not swell by	bodypart
+automobilemaker	introduce	musicartist
+automobilemaker	be build a plant in	stateorprovince
+automobilemaker	hope to sell	company
+automobilemaker	could not be hear by	scientificterm
+automobilemaker	will not be see by	automobilemaker
+automobilemaker	do not mention	automobilemaker
+automobilemaker	already have	economicsector
+automobilemaker	buy a control interest in	automobilemaker
+automobilemaker	seem to do	director
+automobilemaker	should not be bet by	automobilemaker
+automobilemaker	be wring	automobilemaker
+automobilemaker	be the parent company of	automobilemaker
+automobilemaker	die cast	model
+automobilemaker	may have reason for	politicsissue
+city	be conveniently locate near	street
+bacteria	would not be possible on	geometricshape
+bacteria	arise on	geometricshape
+bacteria	be base on	chemical
+bacteria	have already begin on	date
+bacteria	do not exist on	geometricshape
+bacteria	could not survive on	geometricshape
+bacteria	exist on	date
+bacteria	be initially create on	date
+bacteria	do exist on	geometricshape
+bacteria	have emerge on	geometricshape
+bacteria	only exist on	geometricshape
+bacteria	be reborn on	geometricshape
+bacteria	can exist on	geometricshape
+bacteria	be very difficult on	geometricshape
+bacteria	would be very difficult for	male
+bacteria	be limited to	geometricshape
+clothing	finish his senior season with	politicsblog
+clothing	be sent to	country
+automobilemaker	be one of	person
+automobilemaker	stand on	legume
+automobilemaker	have a good number of	person
+automobilemaker	be a former employee of	person
+automobilemaker	be unemploy for	time
+automobilemaker	have invent	company
+automobilemaker	would be an awesome name for	plant
+automobilemaker	move back to	visualizablescene
+automobilemaker	come up with	legume
+automobilemaker	have a hatred for	sociopolitical
+automobilemaker	arrive to	city
+automobilemaker	give so much to	physicalcharacteristic
+automobilemaker	complete his elementary education in	country
+automobilemaker	be promise	automobilemodel
+automobilemaker	be burst with	charactertrait
+automobilemaker	first study	academicfield
+automobilemaker	have previously work for	person
+automobilemaker	hold more than	perceptionevent
+automobilemaker	be educate in	continent
+automobilemaker	never do thing by	sportsgame
+automobilemaker	still face a lot of	sportsgame
+automobilemaker	be cut back on	profession
+automobilemaker	will die in	musicalbum
+automobilemaker	hang out with	televisionstation
+automobilemaker	bid farewell to	person
+automobilemaker	steal from	organization
+automobilemaker	hold over	perceptionevent
+automobilemaker	be a citizen of	planet
+automobilemaker	IS indeed	eventoutcome
+automobilemaker	lose the case on	sportsteamposition
+automobilemaker	be currently base in	city
+automobilemaker	have load of	company
+automobilemaker	received Nobel prize for	academicfield
+automobilemaker	go on	musicalbum
+automobilemaker	be also afraid of	plant
+automobilemaker	be good friend with	personus
+automobilemaker	can not get	politician
+automobilemaker	sell his patent to	personeurope
+automobilemaker	be build	musicinstrument
+automobilemaker	take a ship to	city
+automobilemaker	be more of	invertebrate
+automobilemaker	be a fountain of	invertebrate
+automobilemaker	be certainly back in	clothing
+automobilemaker	have work for	person
+automobilemaker	be a measure of	time
+automobilemaker	be gain	mlarea
+automobilemaker	be a part time resident of	location
+automobilemaker	is the Father of	visualizablething
+automobilemaker	run out of	company
+automobilemaker	have reach the pinnacle of	physicalcharacteristic
+automobilemaker	is an American company based in	city
+automobilemaker	be also currently work on	room
+automobilemaker	could not get along with	person
+geometricshape	be high on	personus
+geometricshape	can range in	blog
+geometricshape	have various way of	geopoliticallocation
+geometricshape	be gonna	emotion
+geometricshape	measure approximately	geometricshape
+geometricshape	be develop in	room
+geometricshape	can be fully charge in	room
+geometricshape	be lay by	color
+geometricshape	have a few idea for	sport
+geometricshape	be introduce by	agent
+geometricshape	can be connect on	bodypart
+geometricshape	have be around for	musicalbum
+geometricshape	be a work in	website
+geometricshape	offer lot of	perceptionaction
+geometricshape	keep look for	food
+geometricshape	run on	visualizableobject
+geometricshape	be more powerful than	videogamesystem
+university	be also service by	company
+bakedgood	come out of	geometricshape
+bakedgood	here be the best in	geopoliticallocation
+bakedgood	carry out	visualizableobject
+bakedgood	will be order for	visualizablething
+bakedgood	be fine for	food
+bakedgood	be tailor by	amphibian
+bakedgood	can be cut into	geometricshape
+bakedgood	close on	televisionshow
+bakedgood	make right in	terroristorganization
+bakedgood	be always	coach
+bakedgood	be always a big hit at	river
+bakedgood	be good for	visualizablething
+bakedgood	be deliver	book
+nondiseasecondition	be increase in	continent
+nondiseasecondition	be up	geometricshape
+politicsblog	may be take with	food
+politicsblog	should be take with	food
+politicsblog	be sometimes	product
+politicsblog	will disintegrate in	visualizablething
+politicsblog	be blue in	color
+politicsblog	be off white in	color
+politicsblog	be white in	color
+politicsblog	should be take after	food
+politicsblog	be the most common form of	drug
+politicsblog	can be break in	sportsgame
+politicsblog	be exempt from	perceptionevent
+politicsblog	make in	organization
+politicsblog	should be administer with	food
+politicsblog	often contain additive ingredient such as	drug
+politicsblog	may be keep at	book
+politicsblog	rarely discover	bone
+politicsblog	really do	musicgenre
+politicsblog	should be swallow with	chemical
+politicsblog	be the other in	city
+politicsblog	may produce	disease
+politicsblog	be assume to	product
+politicsblog	should be make available to	economicsector
+politicsblog	be formulate with	agriculturalproduct
+politicsblog	can be give as	food
+politicsblog	be not produce in	city
+politicsblog	be not a matter of	university
+politicsblog	may be preferable for	physiologicalcondition
+politicsblog	be much like	county
+politicsblog	be score with	visualizablething
+politicsblog	may be mixed with	food
+politicsblog	should know about	drug
+politicsblog	should be take immediately after	food
+politicsblog	be sold by	physicsterm
+politicsblog	should not be divide into	bodypart
+politicsblog	be not know with	retailstore
+politicsblog	should be take before	food
+politicsblog	also contain	drug
+politicsblog	be not intend to replace	visualizableobject
+politicsblog	would have no problem with	automobilemaker
+politicsblog	do not accommodate	food
+politicsblog	will help lose	physicsterm
+politicsblog	do not suffer	conference
+politicsblog	be not the same as	drug
+politicsblog	be now split into	geometricshape
+politicsblog	be pregnant during	agriculturalproduct
+politicsblog	may be reduce to	agriculturalproduct
+politicsblog	dissolve in	visualizablething
+politicsblog	have stop on	street
+politicsblog	be pale yellow in	color
+politicsblog	do not lie to	journalist
+politicsblog	be usually take once	musicfestival
+politicsblog	start off as	agriculturalproduct
+politicsblog	should only be use to treat	disease
+politicsblog	have read	room
+politicsblog	be require	product
+politicsblog	be the most popular form of	food
+politicsblog	be summarize in	furniture
+politicsblog	be a mixture of	food
+politicsblog	have a variety of	musicartist
+personaustralia	work from	website
+personaustralia	be the chief executive of	visualizablescene
+personaustralia	is the Old English for	nut
+personaustralia	will check with	jobposition
+nondiseasecondition	be measure in	website
+city	move in	monument
+city	be a weekly columnist for	newspaper
+ceo	be chairman of	publication
+city	have be marry	time
+city	now own	blog
+city	have long standing tie to	company
+ceo	be a net gain for	nongovorganization
+ceo	be a huge fan of	celebrity
+city	make a run for	company
+city	also buy	male
+ceo	be a scourge to	physicalcharacteristic
+city	lavish praise on	politician
+city	have move to	country
+ceo	pull the plug on	beverage
+city	be a close friend of	politicianus
+ceo	make a play for	website
+ceo	be try to buy	politicsblog
+ceo	have give his full backing to	sociopolitical
+city	become famous with	company
+city	be bid for	country
+ceo	have capitulate to	politician
+ceo	have take over	blog
+city	still be not in	country
+ceo	hold forth on	newspaper
+city	grill on	company
+city	also come from	recordlabel
+city	turn serious for	emotion
+ceo	have not convert to	religion
+ceo	be the chair of	company
+city	be already	fish
+city	be the owner of	city
+ceo	have raise money for	female
+ceo	be back on	website
+ceo	be originally from	continent
+ceo	need to go back to	continent
+ceo	be the founder of	company
+city	be get	musicalbum
+city	also control	blog
+ceo	be the antithesis of	person
+ceo	be also from	continent
+ceo	prefer	organization
+city	have be a strong supporter of	personeurope
+ceo	start out in	magazine
+ceo	have a fundraiser for	criminal
+ceo	set his eye on	website
+city	be interested in	country
+ceo	have some kind of	politicalparty
+ceo	want to make	company
+city	want to offer	musicgenre
+ceo	be the major shareholder of	company
+ceo	be ride	musicfestival
+city	be no stranger to	nondiseasecondition
+ceo	be a big fan of	politicsblog
+city	have wait for	bodypart
+city	be look to make	company
+ceo	have make little headway in	company
+ceo	will purchase	website
+city	have be on	clothing
+ceo	be bear	person
+city	be the most powerful man in	musicinstrument
+city	be unavailable for	musicalbum
+city	might take on	person
+city	do not own	company
+ceo	have launch a campaign against	personus
+ceo	should buy	blog
+ceo	host a fundraiser for	politicianus
+city	will be the new owner of	website
+city	relocate to	person
+ceo	have return from	continent
+city	have go from	personeurope
+city	be owned by	publication
+ceo	have gain control of	website
+ceo	have purchase	blog
+city	slam	politicsissue
+city	be the second richest man in	continent
+ceo	be raise money for	politicianus
+city	would jump for	emotion
+ceo	can now get	bacteria
+ceo	acquire	website
+city	told Time in	month
+city	just buy	magazine
+city	will quickly follow	clothing
+ceo	want to own	website
+city	be better for	newspaper
+city	be owner of	blog
+ceo	crack down on	personus
+city	sell his share in	city
+city	be never far from	nondiseasecondition
+city	shoot to	musicalbum
+ceo	have take a liking to	female
+ceo	do not ruin	website
+disease	cause by	bacteria
+disease	be also know as	physiologicalcondition
+disease	be a bacterial infection cause by	bacteria
+disease	be commonly know as	physiologicalcondition
+disease	can be fatal to	personeurope
+disease	be an acute infectious disease cause by	bacteria
+disease	can cause prolong	mollusk
+disease	be also call	physiologicalcondition
+disease	be cause by	bacteria
+disease	be most severe in	personeurope
+disease	can lead to	physiologicalcondition
+disease	can be prevent through	physiologicalcondition
+disease	be a reportable disease in	stateorprovince
+disease	can cause death in	animal
+disease	be most serious for	animal
+disease	be a respiratory infection cause by	bacteria
+disease	also continue in	stateorprovince
+disease	be a common disease in	country
+disease	can be prevent by	musicinstrument
+disease	be an endemic disease in	country
+disease	be find only in	bodypart
+disease	become available in	country
+disease	be underreport in	country
+disease	can usually be diagnose by	mollusk
+disease	be not diagnose in	personmexico
+disease	be generally a disease of	personeurope
+disease	be think to occur in	visualizablething
+disease	is Not a Disease of	country
+disease	be more common in	person
+disease	be another name for	physiologicalcondition
+disease	be endemic in	stateorprovince
+disease	can also cause	musicartist
+disease	be a notifiable disease in	stateorprovince
+disease	be very serious in	person
+comedian	play	geopoliticalorganization
+comedian	have a great deal of	hobby
+comedian	become the undisputed king of	book
+comedian	act in	visualizablething
+comedian	be great in	visualizablething
+comedian	appear in nearly	visualizableobject
+comedian	be cast as	person
+musicsong	can get out of	bone
+musicsong	be a way of	bacteria
+automobilemaker	be still a bit of	visualizablething
+automobilemaker	be presently headquarter in	stateorprovince
+politicianus	will do	musicsong
+politicianus	have also appear on	city
+politicianus	recently appear on	blog
+writer	have be help with	musicalbum
+writer	be return to	city
+writer	be grow up in	geopoliticallocation
+writer	turn his sight on	person
+writer	pay tribute to	writer
+writer	have be feature on	website
+writer	be my choice for	person
+writer	be head back to	city
+writer	be cashing in on	country
+writer	will perform on	person
+writer	be the purveyor of	hobby
+writer	meet	female
+writer	have also develop a line of	clothing
+writer	do a concert in	river
+writer	have file a lawsuit against	male
+writer	begin his musical career in	city
+writer	be not without	emotion
+writer	write a bunch of	musicsong
+model	do not speak a word of	language
+model	make a lot of	televisionstation
+model	take place in	city
+model	will be release in	insect
+physiologicalcondition	be very common in	mammal
+athlete	have play in	game
+athlete	ground out to	personmexico
+athlete	fly out to	visualizablescene
+athlete	line out to	visualizablescene
+athlete	does NOT work for	person
+person	Look Like	personeurope
+person	be quote as say in	website
+person	never play in	game
+person	be the case in	city
+book	must be share with	company
+book	be the religion of	river
+book	be convey by	company
+book	Is Wanted In	country
+book	be a style of	recordlabel
+book	is the first Rule of	musicsong
+geopoliticallocation	be now very close to	city
+geopoliticallocation	now have	male
+person	have the authority to issue	economicsector
+person	have not change since	month
+person	be more active than	person
+person	be put into	governmentorganization
+attraction	have observer status on	terroristorganization
+person	have gold in	university
+attraction	be responsible for	academicfield
+person	be fight	bank
+person	have come out	personasia
+person	be right next door to	trainstation
+city	be a bird of	building
+city	have advantage in	location
+city	is a Greek word for	color
+city	have be a bit of	blog
+city	be an epic of	recordlabel
+city	be with	person
+city	bring a message of	river
+city	is Hot for	profession
+city	will have be knit by	buildingmaterial
+city	have not enter	criminal
+city	have a good standard of	musicalbum
+city	be close to	country
+city	be actually a series of	person
+city	be surround by	planet
+city	also contribute substantially to	crimeorcharge
+city	be a city fill with	bird
+city	be not be worsen by	musicalbum
+mountain	lie immediately south of	hotel
+mountain	be actually more of	winery
+person	be reduce to	politicsissue
+person	be haul into	governmentorganization
+person	be head of	academicfield
+person	be popular with	person
+person	have move back to	attraction
+person	enjoy the friendship of	person
+person	have now be move to	city
+person	be away on	movie
+person	rise in	visualizablething
+person	be compare to	writer
+person	have have a lot of	musicinstrument
+person	be drawn to	person
+person	hold out	island
+person	have not be long in	city
+person	find his way back to	city
+person	hold up	bone
+person	convert back to	chemical
+person	be correspondent for	person
+person	be know in	city
+person	be a poet in	city
+person	give some advice to	jobposition
+crimeorcharge	take the place of	emotion
+crimeorcharge	be the misuse of	blog
+crimeorcharge	is NOT entitled to	geopoliticallocation
+crimeorcharge	be not okay with	person
+crimeorcharge	be fundamentally about	transportation
+crimeorcharge	be almost entirely about	transportation
+crimeorcharge	be a cousin of	crimeorcharge
+crimeorcharge	be forbid by	person
+crimeorcharge	be a threat to	emotion
+crimeorcharge	have be around	musicalbum
+crimeorcharge	get worse over	time
+crimeorcharge	may lead to	disease
+crimeorcharge	be not grounds for	musicsong
+crimeorcharge	take away	sociopolitical
+crimeorcharge	may also be	protein
+crimeorcharge	have no place in	organization
+crimeorcharge	affect every aspect of	bacteria
+crimeorcharge	be not a loss of	transportation
+crimeorcharge	may start as	recordlabel
+crimeorcharge	often grow in	musicalbum
+crimeorcharge	be the normal condition of	geopoliticallocation
+crimeorcharge	should not be	city
+crimeorcharge	be not necessarily restrict to	visualizablething
+crimeorcharge	leave a trail of	emotion
+crimeorcharge	do not necessarily indicate	disease
+crimeorcharge	can affect all type of	person
+crimeorcharge	be the result of	book
+crimeorcharge	be often of	agent
+crimeorcharge	be definitely a problem in	organization
+crimeorcharge	be entirely about	transportation
+crimeorcharge	be not limited to	personmexico
+crimeorcharge	be recognize as	crimeorcharge
+crimeorcharge	fall into	personasia
+crimeorcharge	be to lead	country
+crimeorcharge	be work toward	professionalorganization
+crimeorcharge	be not loss of	transportation
+crimeorcharge	escalate over	time
+crimeorcharge	has NO RIGHT to being in	mlmetric
+crimeorcharge	have be document for	newspaper
+crimeorcharge	can take	street
+crimeorcharge	also run in	protein
+crimeorcharge	be a major threat to	bank
+crimeorcharge	do occur to	book
+crimeorcharge	be the willful infliction of	bodypart
+crimeorcharge	occur behind	buildingfeature
+crimeorcharge	often occur in	protein
+crimeorcharge	be often	protein
+crimeorcharge	can take a number of	geometricshape
+crimeorcharge	be a form of	crimeorcharge
+crimeorcharge	have the element of	personus
+crimeorcharge	can be one of	emotion
+crimeorcharge	can also progress to	emotion
+crimeorcharge	may also lead to	emotion
+crimeorcharge	be grounds for	musicsong
+crimeorcharge	be not just about	transportation
+crimeorcharge	can be discharge in	geopoliticalorganization
+crimeorcharge	go on in	city
+crimeorcharge	often lead to	emotion
+crimeorcharge	can become	person
+crimeorcharge	may evolve into	crimeorcharge
+crimeorcharge	be a contribute factor in	musicartist
+crimeorcharge	should be treat as	crimeorcharge
+crimeorcharge	be make up of	emotion
+crimeorcharge	occur across	country
+crimeorcharge	be generally concentrate in	trainstation
+crimeorcharge	do not substitute for	emotion
+crimeorcharge	be blind to	person
+crimeorcharge	be not a substitute for	emotion
+crimeorcharge	last anywhere from	year
+crimeorcharge	have happen in	country
+crimeorcharge	direct towards	person
+crimeorcharge	be not just the result of	chef
+crimeorcharge	run in	organization
+crimeorcharge	happen in	visualizablescene
+crimeorcharge	can take a variety of	geometricshape
+crimeorcharge	can flourish on	journalist
+crimeorcharge	feed on	crimeorcharge
+crimeorcharge	will last for up to	personmexico
+crimeorcharge	be a reaction of	emotion
+crimeorcharge	be now list under	personasia
+crimeorcharge	feel like	website
+crimeorcharge	do not go away with	food
+crimeorcharge	be harmful to	person
+crimeorcharge	can also be a cause of	disease
+crimeorcharge	be not the loss of	transportation
+crimeorcharge	be a top killer of	person
+crimeorcharge	be rarely a one off	transportation
+crimeorcharge	beget	crimeorcharge
+crimeorcharge	be the action of	buildingfeature
+crimeorcharge	do not come without	musician
+crimeorcharge	occur on	convention
+crimeorcharge	be one form of	perceptionaction
+crimeorcharge	can also occur without	beverage
+crimeorcharge	remain highest in	country
+crimeorcharge	be often a factor in	nondiseasecondition
+crimeorcharge	may follow	person
+crimeorcharge	be more than just	company
+crimeorcharge	do not rule out	visualizablething
+crimeorcharge	continue for	year
+crimeorcharge	be heap on	crimeorcharge
+crimeorcharge	may be punishable by	agent
+crimeorcharge	be link to	physiologicalcondition
+crimeorcharge	be the second lead cause of	musicartist
+crimeorcharge	take many form in	bacteria
+crimeorcharge	have be go on for	musicalbum
+crimeorcharge	do not do away with	visualizablething
+location	be geographical in	musicalbum
+location	do not imply	politicsissue
+location	do play	protein
+location	may be anywhere on	geometricshape
+politicianus	vote against	personnorthamerica
+bacteria	really be	movie
+bacteria	should be	musicsong
+book	Happened on	book
+book	is the Satisfaction of	city
+agent	was appointed Chief Justice of	country
+agent	be bright in	school
+agent	is the County Seat of	county
+agent	enlist in	organization
+agent	always have	academicfield
+agent	have not be charge with	crimeorcharge
+agent	pass at	planet
+agent	take the lead in	academicfield
+agent	do not go out on	website
+agent	do not believe in	animal
+agent	work in	stateorprovince
+agent	be pick for	agent
+agent	want to play with	city
+agent	call on	jobposition
+agent	do not finish	school
+agent	retire from	governmentorganization
+agent	may have	beverage
+agent	be interrogate	time
+agent	write	sportsleague
+agent	attended the University of	stateorprovince
+agent	ask a variety of	musicsong
+agent	be take to	book
+agent	be appoint chief justice of	politicianus
+agent	do a couple of	musicsong
+agent	be also important for	academicfield
+agent	will have be win by	room
+agent	be not be strike by	retailstore
+agent	be once head of	publication
+agent	have be race for	year
+agent	do not represent the majority of	river
+agent	be governor of	stateorprovince
+agent	have also be very active in	visualizablething
+agent	be a major general in	personmexico
+agent	never pick up	weapon
+agent	take the concept to	publication
+agent	work primarily in	food
+agent	be treasurer of	sportsequipment
+agent	have be a friend for	musicalbum
+agent	do lot of	musicsong
+agent	be right about	musicsong
+agent	be the second oldest of	person
+agent	should not be lay by	museum
+agent	tell member of	person
+agent	have become of	food
+agent	be home for	book
+agent	come out slightly ahead of	animal
+agent	sigh in	musicsong
+agent	be claim	musicsong
+agent	currently reside in	company
+agent	eventually retire to	city
+agent	be look all over for	plant
+agent	want to leave	city
+agent	be also a supporter of	governmentorganization
+company	have come of	food
+company	be structure into	bodypart
+company	release	month
+company	be available at	website
+company	be an alternative for	musicinstrument
+company	IS AVILABLE ON	company
+company	be compete with	personus
+company	cover of	movie
+company	come out	crimeorcharge
+company	be now available in	country
+company	stay available for	website
+company	be now available on	website
+company	be the successor to	academicfield
+company	look great in	legume
+company	be a handy reference for	agent
+company	be also available on	website
+company	be a fine piece of	profession
+company	make a great gift for	animal
+company	will be obsolete in	year
+company	come out in	month
+company	will be release at	retailstore
+company	become really	city
+company	will play on	visualizablething
+company	be the perfect medium for	movie
+company	be due out	date
+company	have a ton of	bedroomitem
+company	be release on	month
+company	be now out of	magazine
+company	set contain	female
+company	should have	visualartist
+company	contain	food
+company	be release in	month
+company	be great compare to	personus
+company	will be release	geopoliticallocation
+company	be supply with	language
+company	can be order at	website
+company	be easier to use than	personus
+company	will be available for	website
+company	be sparse on	bedroomitem
+company	be also available through	website
+company	be currently available at	website
+company	will be out in	month
+company	be also available from	company
+company	includes Making Of	celebrity
+company	offer many advantage over	personus
+company	will remain	televisionstation
+company	do not have this type of	sportsgame
+company	will go the way of	personus
+company	be available from	company
+company	can also be order from	website
+company	will work on	food
+company	allow	beverage
+company	IS DEAD ON	musicartist
+company	be half in	language
+company	hit store in	month
+company	slideshow with	recordlabel
+company	can be obtain from	website
+company	be identical to	personus
+company	be the biggest waste of	time
+company	be way beyond	musicartist
+company	will be available soon on	website
+company	is available NOW at	website
+company	be win with	sportsgame
+company	have a run time of	visualizablething
+company	be available on	musicalbum
+company	be up to	automobilemaker
+company	could use	software
+company	will feature a wide variety of	weapon
+company	will be available in	food
+company	be not require to perform	agent
+company	can be purchase through	company
+company	have alot of	scientificterm
+company	do work in	invertebrate
+company	be already in	retailstore
+company	run to	visualizablething
+company	will also be available for	visualizablething
+company	preview with	perceptionevent
+company	be then divide into	biotechcompany
+company	is Like	sportsleague
+company	be freely available in	country
+company	can be better than	visualizableobject
+company	be available to	trainstation
+company	can be order directly from	person
+company	be subtitle in	language
+company	be then play for	visualizablething
+company	run almost	room
+company	be name like	musicinstrument
+company	be divide in	bodypart
+company	will be out on	date
+company	be break up into	personasia
+company	be also resistant to	sportsteam
+company	be release along with	musicinstrument
+company	be schedule to be available in	month
+company	be sign by	architect
+company	be encode for	bodypart
+company	be preferable to	visualizableobject
+company	will be release on	month
+company	box set	book
+company	record live in	biotechcompany
+company	be currently out of	magazine
+company	be availabe on	musicalbum
+company	will be show in	person
+company	include a making of	bedroomitem
+company	contain a huge amount of	scientificterm
+company	be also available at	company
+company	hit the store on	televisionshow
+company	be free upon	musicalbum
+company	be strictly limited to	kitchenitem
+company	be clearly better than	personus
+company	be be release by	musicalbum
+company	be normally use for	visualizableobject
+company	IS a little light on	bedroomitem
+company	tell only	person
+company	will arrive in	invertebrate
+company	can be hire at	invertebrate
+company	be film from	university
+company	will be available from	date
+company	come in	musicsong
+company	set on	visualizablething
+company	do not even make	televisionstation
+company	be now available for	visualizablething
+company	play well on	visualizablething
+company	stick in	eventoutcome
+company	Takes Off in	month
+company	change the nature of	automobilemodel
+company	last about	room
+company	be now on	website
+company	can also be control by	fish
+company	do not come out until	date
+company	can also be play on	videogamesystem
+company	be come in	month
+company	get release by	website
+company	be create for	company
+company	open up a world of	invertebrate
+company	also provide	language
+company	request by	male
+company	be not a synonym for	agriculturalproduct
+company	be already available in	retailstore
+company	be format in	legume
+company	be set to be release in	month
+company	do not contain	mldataset
+company	will release on	month
+company	purchase from	biotechcompany
+company	be introduce in	month
+company	be mark for	bodypart
+company	get here	company
+company	be pretty light on	bedroomitem
+company	be out on	month
+company	be currently available for	website
+company	be already available for	website
+company	will be available on	month
+company	set from	company
+company	will also be release in	language
+company	have be out for over	year
+company	be only about	sportsgame
+company	be more ubiquitous than	personus
+company	can be order from	person
+company	discuss different kind of	room
+company	work as	musicinstrument
+company	be lower in	hotel
+company	be put out in	country
+company	be ready for	website
+company	have save	visualizablescene
+company	can be pre ordered at	personcanada
+company	be out in	month
+company	set with	visualizableobject
+company	be first use for	movie
+company	can be use to watch	movie
+company	now work in	publication
+company	be update	invertebrate
+company	be not available in	retailstore
+company	can now be purchase on	website
+company	run about	room
+company	be ship via	programminglanguage
+company	just need	personafrica
+company	Also contains	geometricshape
+company	be available only on	website
+company	draw from	academicfield
+company	set of	movie
+company	be due to release in	month
+company	will be out by	date
+company	run approximately	visualizablething
+company	also include	geopoliticalorganization
+company	be one hour of	academicfield
+company	cut out for	visualizablething
+company	run only	visualizablething
+company	be only available to	language
+company	be not backwards compatible with	musicinstrument
+company	can be divide into	bodypart
+company	be not a waste of	company
+company	also have a table of	agriculturalproduct
+company	be also a bit of	mountain
+company	be now available also in	country
+company	be master in	legume
+company	be both on	visualizablething
+company	be great for	musicartist
+company	be available now on	company
+company	be pack full of	bedroomitem
+company	be edit with	recordlabel
+company	do not look like	visualizableobject
+company	also feature an interview with	book
+company	can have two kind of	food
+company	be cheapest at	muscle
+company	will be available only in	country
+company	be the future of	furniture
+company	evolve from	musicinstrument
+company	be the first of	insect
+company	do not begin in	city
+company	be only available at	televisionshow
+company	back cover	musicsong
+company	be a bit of	color
+company	will soon be available to	musicsong
+company	be spread across	building
+company	be sparse at	programminglanguage
+company	will start at	stateorprovince
+company	be guarantee for	bacteria
+company	be only available in	language
+company	will soon be available in	retailstore
+company	will also be on	visualizablething
+company	be often sell at	attraction
+company	have be produce in	language
+company	flip down	visualizablething
+company	be not the best of	hotel
+company	be format for	city
+company	come with	musicsong
+company	box set of	personeurope
+company	be expect to be available in	city
+company	be available through	company
+company	can be purchase at	website
+company	will be deliver in	month
+company	can be read in	visualizableobject
+company	include sample of	academicfield
+company	will be ready by	musicalbum
+company	be dismiss	televisionshow
+company	will come out in	month
+company	feature a plethora of	weapon
+company	read in	visualizablething
+company	receive	sportsleague
+company	do not work out of	park
+company	only have	programminglanguage
+company	have also be release in	continent
+company	include a collection of	musicartist
+company	be so much better than	personus
+company	be a subset of	visualizableobject
+company	include victory over	country
+company	be set up with	food
+company	can be order for	country
+company	be free of	visualizableobject
+company	be also now out of	magazine
+company	be the next generation of	musicinstrument
+company	be put on	visualizablething
+company	be also on	geopoliticallocation
+company	set for	musician
+company	definitely have the feel of	musicinstrument
+company	called Simply	musicinstrument
+company	include delete	female
+company	herald a new era of	geopoliticallocation
+company	copy	color
+company	be as beautiful as	musicinstrument
+company	display	visualizablething
+company	present a collection of	museum
+company	contain a variety of	bedroomitem
+company	be basically the next generation of	recordlabel
+company	be be sold in	continent
+company	last for	visualizablething
+company	be actually available in	city
+company	be also create by	musician
+company	will work fine for	visualizableobject
+company	run for approximately	room
+company	will be here for	musicalbum
+company	be used for	company
+company	have find	website
+company	can match the quality of	musicalbum
+company	will also be make available in	academicfield
+company	will feature	publication
+company	be only in	agent
+company	be now ready for	website
+company	will remain for	visualizablething
+company	will be cover	book
+company	be expect to be release	city
+company	usually contain	island
+company	be design for	person
+company	can also be order	location
+company	include a pair of	publication
+company	be the way for	furniture
+company	run for about	visualizablething
+company	include cast	criminal
+company	become available for	website
+company	be the new type of	musicinstrument
+company	have post on	retailstore
+company	have also refer to	company
+company	be intended for	visualizablething
+company	be much better than	braintissue
+company	be the evolution of	musicinstrument
+company	feature a series of	beverage
+company	will retail for	mlconference
+company	will hold over	physiologicalcondition
+company	do not deteriorate with	visualizablething
+company	be now be sell in	city
+company	have be very good to	person
+company	be provide on	musicalbum
+company	be expect to be ready in	drug
+company	can only be play on	visualizableobject
+company	do the same thing for	movie
+company	is available Worldwide for	country
+company	will be out	crimeorcharge
+company	can be loan for	invertebrate
+company	release in	month
+company	have be put on	physicalaction
+company	be be record in	country
+company	include the trailer for	book
+company	copy available on	musicalbum
+company	will start show up in	continent
+company	end in	beverage
+company	be chalk full of	musicinstrument
+company	will be distribute in	month
+company	be only available for	bodypart
+company	come either as	bodypart
+company	be due out in	month
+company	simply stand for	company
+company	be schedule to include	sport
+company	can be use on	consumerelectronicitem
+company	have also be reduce in	musician
+company	sound like	hobby
+company	be a new type of	personafrica
+company	have now sell over	kitchenitem
+company	will be available through	musicinstrument
+company	be still work in	website
+company	be available now in	person
+company	must be release in	month
+company	be formatted for	country
+company	be schedule to be release in	month
+company	be usually available at	website
+company	be a powerful tool for	visualizablething
+company	be a great addition to	televisionshow
+company	will receive	event
+company	has gone Gold in	country
+company	show up from	company
+company	be set with	food
+company	include a handful of	bedroomitem
+company	be not appropriate for	musicartist
+company	offer a wide choice of	language
+company	be a trademark of	biotechcompany
+company	have sell	kitchenitem
+company	can have up to	language
+company	can be order through	bank
+company	be release	month
+company	must be playable in	visualizablething
+company	be set to be release	musicartist
+company	can be purchase from	website
+company	be consider	city
+company	be also available to view on	website
+company	be used as	musicinstrument
+company	be nice by	ceo
+company	start out with	sportsleague
+company	be now available only on	biotechcompany
+company	have change	visualizablescene
+company	will be on	month
+company	be not compatible with	personus
+company	have just go on	visualizablething
+company	be preferred to	personus
+company	have go into	academicfield
+company	include a variety of	bedroomitem
+company	be suppose to be better than	personus
+company	be film in	company
+company	be just for	emotion
+company	have the advantage of	emotion
+company	have a nice mix of	weapon
+company	will also be make available to	journalist
+company	have been in	agriculturalproduct
+company	include a commentary track by	personcanada
+company	be complete prior to	person
+company	will take A LOT OF	time
+company	come into	agent
+company	should be complete by	month
+consumerelectronicitem	provide detail information on	consumerelectronicitem
+consumerelectronicitem	may not be	criminal
+consumerelectronicitem	contain the power of	visualizableobject
+consumerelectronicitem	be a special class of	visualizablething
+clothing	settle in	river
+company	be encode in	city
+sportsequipment	be now	musicinstrument
+sportsequipment	expand the boundary of	musicgenre
+sportsequipment	be influential on	musicgenre
+sportsequipment	be also influential on	musicgenre
+sportsequipment	be pull	televisionshow
+drug	be a synonym for	chemical
+drug	may obscure	profession
+drug	have be use to treat	disease
+bacteria	usually involve	skyscraper
+bacteria	have other kind of	river
+bacteria	just be	book
+bacteria	really be a work of	academicfield
+visualizableobject	be pick up on	time
+visualizableobject	display at	trainstation
+visualizableobject	pick up on	time
+visualizableobject	be win in	geometricshape
+visualizableobject	be purchase from	visualizableattribute
+visualizableobject	be race	time
+visualizableobject	have let	race
+visualizableobject	be otherwise	personalcareitem
+visualizableobject	include in	city
+visualizableobject	stay on	sport
+emotion	be essential for learn	academicfield
+emotion	mean exchange of	invertebrate
+emotion	be essential for	academicfield
+emotion	be a great form of	academicfield
+emotion	be much more complex than	disease
+emotion	be a two way exchange of	politicsissue
+emotion	be one characteristic of	blog
+emotion	be handle through	terroristorganization
+emotion	take place among	person
+emotion	be primarily through	visualizablething
+emotion	occur in	book
+emotion	be fundamental in	academicfield
+emotion	also assume	muscle
+male	be commander of	person
+male	be the first man in	perceptionaction
+male	set foot on	planet
+male	be the commander of	person
+male	stay in	academicfield
+male	lift off from	city
+male	walk on	planet
+city	be the pride of	transportation
+male	take the picture of	astronaut
+male	be walk on	planet
+male	be not next to	meat
+male	received the Medal of	sociopolitical
+male	take a photo of	astronaut
+male	become commander of	person
+male	step out of	agent
+male	step onto	planet
+male	be plan	building
+male	step out on	planet
+male	take the first step on	planet
+company	be equal to	male
+agriculturalproduct	be added to	website
+city	can mean a lot of	musicsong
+agriculturalproduct	be clearly	televisionstation
+clothing	finally say	musicartist
+street	be build just north of	hotel
+street	continue south to	city
+book	will win best	geometricshape
+book	be also up for	visualizablething
+book	have be make into	visualizableobject
+book	will soon be available on	company
+book	lead the list with	website
+river	be strike at	stateorprovince
+room	be good to very	book
+room	slow by	visualizablething
+chemical	spill at	county
+weapon	be lighter than	kitchenitem
+food	will form on	website
+food	be the fuel of	sociopolitical
+chemical	be classify into	person
+food	be currently use primarily for	fungus
+weapon	be restricted to	chemical
+chemical	be use by	geometricshape
+weapon	be cheap compare to	continent
+chemical	be use heavily in	trainstation
+weapon	be only good up to	city
+chemical	be include up to	stateorprovince
+chemical	contain a small amount of	chemical
+weapon	be difficult to get in	street
+food	may be use for	weapon
+chemical	be scarce in	geopoliticalorganization
+chemical	be significantly safer than	chemical
+chemical	can be use instead of	chemical
+automobilemaker	be closely related to	automobilemodel
+automobilemaker	also come in	visualizablething
+country	be a federal subject of	country
+country	be a part of	country
+personafrica	be a writer at	county
+personafrica	pass away in	city
+personafrica	be bring out of	perceptionaction
+personafrica	's The Battle of	company
+mlarea	embrace a wide range of	crustacean
+politician	was the fifth President of	country
+politician	becomes the fifth President of	country
+city	be probably best know for	election
+city	be a natural successor to	university
+city	become minister to	sportsteam
+city	be probably better know for	election
+politician	be the fifth president of	country
+city	be then governor of	person
+politician	be best remember for	election
+politician	establish	country
+city	also reside in	county
+city	enter the office of	politicianus
+politician	was elected the fifth President of	country
+city	fairground in	university
+city	be the author of	election
+city	assert to	country
+city	open a law office in	city
+politician	study alongside	sportsleague
+politician	be quite	person
+city	be best know for	election
+city	lack the charisma of	visualizablescene
+politician	had been re elected President of	country
+city	practice law in	city
+politician	be twice president of	country
+city	be inaugurate for	election
+city	become an aide to	politicianus
+city	be probably best known for	election
+city	be the county seat of	county
+bakedgood	be a staple of	bacteria
+sportsteam	mount an expedition to	city
+sportsteam	be an active participant in	economicsector
+sportsteam	be found at	city
+sportsteam	offer graduate degree in	academicfield
+sportsteam	have research program in	programminglanguage
+university	have produce a number of	astronaut
+sportsteam	be organize into	trainstation
+university	be next in	geometricshape
+sportsteam	have already implement	musicalbum
+sportsteam	have a minor in	academicfield
+sportsteam	has its own Hall of	musicalbum
+university	have a total enrollment of	agent
+university	be a heavy contributor to	governmentorganization
+sportsteam	offer a master 's degree program in	academicfield
+automobilemaker	be an inventor of	company
+time	be also effective with	mammal
+time	be typically	personmexico
+food	can contribute to	disease
+food	help reduce your risk of	disease
+food	could reduce the risk of	disease
+food	be the indigestible portion of	food
+food	reduce the risk of	disease
+food	be found in	plant
+automobilemaker	has come a LONG way in	hotel
+automobilemaker	be gear up for	person
+automobilemaker	have factory in	country
+automobilemaker	have plant in	company
+automobilemaker	is a South Korean manufacturer of	economicsector
+automobilemaker	have make its mark in	country
+automobilemaker	be assemble in	country
+automobilemaker	even have	automobilemodel
+automobilemaker	have location in	city
+automobilemaker	build a variety of	vehicle
+automobilemaker	have high hope for	musicartist
+automobilemaker	have come along	book
+automobilemaker	also have plant in	company
+automobilemaker	be create in	country
+geopoliticalorganization	be north of	visualizablescene
+hallwayitem	can cause	bodypart
+hallwayitem	can be manufacture to	clothing
+hallwayitem	will close at	physiologicalcondition
+hallwayitem	will have not run	emotion
+company	include expand	musicalbum
+publication	review for	month
+food	be only at	room
+food	offer a case in	city
+personaustralia	shall be clerk of	professionalorganization
+musicinstrument	will perform work by	musician
+musicinstrument	have concert in	country
+musicinstrument	will be limited to	geometricshape
+musicinstrument	have also do work for	recordlabel
+visualartmovement	be use instead of	bodypart
+writer	be hand over to	language
+writer	be a man with	park
+writer	be transport to	person
+writer	be the main character in	movie
+writer	be charge against	language
+writer	be find guilty of	crimeorcharge
+writer	be the second son of	writer
+writer	was made Guardian of	country
+writer	evade capture for	year
+writer	be draw for	crimeorcharge
+writer	shake his head in	emotion
+city	record for	musicalbum
+city	improvise on	musicinstrument
+celebrity	do not marry	writer
+person	left Hollywood for	visualizablescene
+celebrity	be not even close to	amphibian
+celebrity	wed	athlete
+celebrity	will always look like	celebrity
+celebrity	can still draw	person
+celebrity	was the Sweetheart of	month
+city	be just out of	academicfield
+celebrity	be lie on	visualizableobject
+celebrity	be once marry to	athlete
+celebrity	have be naked in	movie
+celebrity	may have be dead for	year
+celebrity	have inspire generation of	visualartform
+celebrity	be upstairs in	bedroomitem
+celebrity	have just marry	male
+city	be offer a job with	politicsblog
+city	finish in	street
+celebrity	capture the heart of	country
+celebrity	have a fling with	actor
+celebrity	be the very definition of	book
+celebrity	have captivate	musicalbum
+celebrity	keep come up	male
+celebrity	be a icon of	emotion
+person	finally marry	athlete
+celebrity	also sing	musician
+celebrity	won the Golden Globe for	programminglanguage
+city	file for	musicsong
+celebrity	be go to marry	person
+celebrity	be an icon of	beverage
+celebrity	will forever be	visualizablething
+city	have be schedule to begin	person
+person	meet she future husband in	school
+celebrity	be also interested in	academicfield
+person	feel a great deal of	emotion
+city	be have	disease
+celebrity	be determine to be	visualizablething
+city	just get	city
+celebrity	also have a very strong need for	emotion
+city	immediately begin work on	visualizablething
+clothing	have intend to go to	biotechcompany
+musicinstrument	will not hold a meeting in	month
+person	have choose	musicartist
+city	check into	jobposition
+city	carry only	building
+visualizableobject	be a painting of	organization
+visualizableobject	offer a large collection of	book
+visualizableobject	be tentatively schedule for	musicsong
+visualizableobject	be a system on	product
+visualizableobject	run off	vehicle
+visualizableobject	provide peace of	stateorprovince
+visualizableobject	have be meet for	year
+clothing	be aboriginal for	musicsong
+male	go without	athlete
+male	go right to	athlete
+male	be not far away from	sportsgame
+male	have interest in	athlete
+male	be go straight to	sportsteamposition
+male	may be the best team in	sportsleague
+male	finish third in	sportsgame
+male	do take	automobilemodel
+male	be ninth in	sportsgame
+male	have to get rid of	athlete
+male	have not win	game
+male	lose the championship to	city
+male	cut	athlete
+male	have win three in	geopoliticallocation
+male	finish last season with	sportsgame
+male	bolt to	sportsgame
+male	forget to tell	person
+male	Not Interested In	city
+male	have no answer for	person
+male	lose without	athlete
+male	missed a LOT of	musicalbum
+male	should win in	game
+male	have jump out to	sportsgame
+male	will never win	awardtrophytournament
+male	have lose eight of	game
+male	have lose six in	geopoliticallocation
+male	could not get	sportsequipment
+male	end the first quarter on	event
+male	have a rich history of	eventoutcome
+male	do play in	city
+male	be go	sportsteamposition
+male	should have keep	athlete
+male	be once call	plant
+male	beat writer for	politicsblog
+male	will not rise	reptile
+city	get off to	agent
+male	will rise in	city
+male	be a professional sport team from	city
+male	have dominate in	city
+male	would kill	journalist
+male	be without	athlete
+male	be not build for	bodypart
+male	need help at	stateorprovince
+person	welcome submission of	book
+weapon	be deliver to	clothing
+criminal	become engage on	company
+criminal	belong in	televisionshow
+criminal	be a household name in	agent
+personasia	have shoot	professor
+personasia	shoot	professor
+personasia	plan to kill	professor
+personasia	be up for	crimeorcharge
+personasia	have be deny	crimeorcharge
+personasia	be not even mention by	musicartist
+personasia	be program by	professionalorganization
+person	be arrest without	terroristorganization
+person	come up on	visualizablething
+person	reply in	book
+person	may be hold out for	reptile
+person	have a brother in	city
+drug	have high potential for	crimeorcharge
+drug	have a high potential for	crimeorcharge
+university	be a crime of	politicsissue
+university	be an unfortunate fact of	bacteria
+university	be an unavoidable fact of	bacteria
+university	be a common threat to	politicsblog
+university	do not involve the use of	physicsterm
+university	be now consider	sociopolitical
+university	be a reality of	bacteria
+company	be the basis of	mlmetric
+agriculturalproduct	hit by	politicsblog
+agriculturalproduct	recently publish a book on	company
+agriculturalproduct	be bear near	musicsong
+agriculturalproduct	be not always kind to	hotel
+wine	be make	book
+university	flee to	visualizablescene
+university	appear as	person
+university	be force to resign as	company
+university	lead an army of	male
+university	say after	emotion
+university	be aware of	mlconference
+university	cross	company
+university	recall to	city
+university	be allow to remain in	city
+university	pass over to	continent
+university	point up to	visualizablething
+university	do not answer for	visualizablething
+university	bring the war to	city
+university	recall from	country
+university	be kill in	game
+university	be a great place for	writer
+university	be now face with	musicsong
+university	assume command in	country
+university	seek the help of	person
+university	be the boyhood home of	personus
+university	have charge of	profession
+university	be a general of	city
+university	give the signal for	sportsteamposition
+university	be then see on	geopoliticallocation
+university	move towards	city
+university	be freeze in	emotion
+university	also have lose	bodypart
+university	march over	river
+university	make his way to	city
+university	become the ruler of	city
+university	thrive as	jobposition
+university	really enjoy	sociopolitical
+university	be just this sort of	company
+university	pass away from	disease
+university	be the oldest of	person
+university	Goes to	city
+university	win a lot of	eventoutcome
+university	have be my friend for	year
+university	could not conquer	city
+university	be a wonderful place to	trail
+university	look at	person
+university	occupy	country
+university	be rake in	website
+university	do not sacrifice	person
+university	be happy for	sportsequipment
+university	have already win a number of	eventoutcome
+university	control much of	country
+university	commit suicide by take	musicartist
+university	will march on	city
+university	have become	movie
+university	be determine to fight	city
+university	arrive without	person
+university	be drive from	country
+university	have be retire for	year
+university	descend from	company
+university	reach	island
+university	invade in	city
+university	be imprison for	year
+university	be shroud in	terroristorganization
+university	do not attack	city
+university	be convenient to	highway
+university	be the leader of	organization
+university	be finally defeat by	person
+university	have the energy of	musicalbum
+university	only lose	male
+university	set course for	city
+university	be relatively unknown in	male
+university	be an unincorporated community in	county
+athlete	get back on	sport
+athlete	be pick	clothing
+athlete	be now in for	athlete
+athlete	have look	automobilemodel
+athlete	play for	sportsteam
+athlete	rebound for	city
+athlete	be unstoppable for	sportsteam
+athlete	be go to save	sportsleague
+athlete	be the best center in	sportsleague
+athlete	go off for	city
+athlete	be rank first in	amphibian
+athlete	be the star for	sportsteam
+athlete	dominate as	sportsteam
+athlete	be extremely active in	city
+athlete	lead the way for	city
+athlete	be hold to	city
+athlete	lead the way with	visualizablething
+athlete	soar for	movie
+athlete	be a freak of	website
+athlete	be be assist by	athlete
+athlete	could have	musicfestival
+athlete	be a monster on	sportsteamposition
+athlete	led Orlando with	city
+furniture	have be tour	country
+musicsong	be always stranger than	musicalbum
+musicsong	be not a change of	braintissue
+musicsong	be go on on	geometricshape
+musicsong	be truly like	farm
+musicsong	be much more than	academicfield
+musicsong	intervene for	time
+musicsong	be not like	movie
+musicsong	really be stranger than	musicalbum
+musicsong	be more like	school
+musicsong	just do not have	musicartist
+musicsong	can be scary for	biotechcompany
+musicsong	have take	transportation
+musicsong	do not have to make	televisionstation
+bacteria	continue after	musicartist
+musicsong	be out there in	artery
+musicsong	be hard on	emotion
+musicsong	have moment of	book
+musicsong	be far more interesting than	musicalbum
+musicsong	will be like	movie
+musicsong	be possible only through	book
+musicsong	be about make	agriculturalproduct
+musicsong	be imitate	academicfield
+musicsong	mean keep	city
+musicsong	put to	recordlabel
+musicsong	be much bigger than	person
+musicsong	will pale in	ceo
+musicsong	be meld with	musicsong
+musicsong	be often stranger than	musicalbum
+musicsong	seem to have	geometricshape
+musicsong	should always take	transportation
+musicsong	need a lot of	perceptionaction
+bacteria	begin to imitate	economicsector
+musicsong	tend to get	musicalbum
+musicsong	be always funnier than	book
+musicsong	begin with	city
+musicsong	often mean	skyscraper
+musicsong	only come through	male
+musicsong	can wait for	visualizablething
+musicsong	be too complex for	musicartist
+musicsong	be therefore a bit of	book
+musicsong	always involve	skyscraper
+musicsong	have take over for	academicfield
+musicsong	be shades of	color
+musicsong	do not happen in	room
+musicsong	be indeed stranger than	musicalbum
+musicsong	rarely have	city
+musicsong	should be more like	museum
+musicsong	be bore at	time
+musicsong	be different than	economicsector
+musicsong	be a problem for	model
+musicsong	be not all about	hobby
+musicsong	is FAR more entertaining than	musicalbum
+musicsong	be a limitless source of	hobby
+musicsong	be more fun than	visualizablething
+musicsong	begin after	musicartist
+musicsong	be governed by	planet
+musicsong	be truly stranger than	musicalbum
+musicsong	be only after	musicartist
+musicsong	sometimes end in	nongovorganization
+musicsong	be so	newspaper
+musicsong	be far more complicated than	musicalbum
+musicsong	be messier than	visualizablescene
+musicsong	be larger than	bacteria
+musicsong	have return with	physicsterm
+musicsong	be more complicate than	park
+musicsong	be not as simple as	musicalbum
+musicsong	always trump	musicalbum
+musicsong	be fine as	hobby
+musicsong	be live in	person
+musicsong	log with	visualizableobject
+musicsong	do not match	musicalbum
+ceo	lead the team with	city
+ceo	lead all scorer with	city
+ceo	led Sacramento with	city
+agriculturalproduct	be the largest landlord in	bodypart
+mountain	fly in on	month
+visualartmovement	can be plot use	publication
+visualartmovement	show the shape of	musicinstrument
+visualartmovement	correct in	stateorprovince
+visualartmovement	be collect with	artery
+visualartmovement	can be add to	grain

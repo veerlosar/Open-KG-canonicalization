@@ -1,0 +1,3756 @@
+{"batch_size": {"train": 36, "eval": 5}, "model_info": {"dir": "glove/", "src": "GLOVE"}, "working_directory": "data/vae_run_nell/", "learning_rate": {"stage1": 0.001, "stage2": 0.0001}, "eval_per": {"stage1": 10, "stage2": 10}, "loss_weights": {"vae": 1, "kbc": 1, "side_info": 1}, "train_stages": ["stage1", "stage2"], "dims": {"input": 300, "interim": [384], "latent": 100}, "seed": 57, "init_ent_file": "hacft_ent_labels.pkl", "init_rel_file": "hacft_rel_labels.pkl", "clusters": {"ent": 5000, "rel": 600}, "reg_info": {"stage1_reg": 0.001, "stage2_reg": 0.001, "mc_samples": 1}, "kge_util_params": {"temp": 0.01, "n_corruptions": 20}, "n_epochs": {"stage1": 50, "stage2": 300}}
+
+Number of Clusters: 3753
+3373	1	fiber
+375	7	windows vista	rss feed	third base	ms dos	tablet pc	windows xp professional	information service
+3587	1	vlad
+1118	8	heroin	flagyl	cortisol	drug	acetazolamide	cocaine	hydrocortisone	fluorouracil
+290	5	violence	abuse	domestic abuse	substance	substance abuse
+813	6	constantius chlorus	antiochus iv	columbia	constantine	ashton kutcher	kutcher
+928	8	harley davidson	john cleese	mammal	vanessa hudgens	rachael ray	sybil leek	deryck whibley	ian fleming
+177	5	rachael	amber	coldfusion	laurie	jason
+3588	3	photographer	bikaner	futon
+3512	2	demerol	tank
+149	2	skinner	searle
+3911	3	closed door	door	gate
+1882	11	port huron	port moody	brent cross	udonis haslem	storm lake	sam cooke	east bergholt	mischa barton	loftus road	bill gates	dane cook
+3885	1	bill
+652	2	vhs	dvd
+1762	4	dvd talk	screen	hd dvd	wide screen
+4685	1	hannibal
+4264	1	histogram
+4014	1	atonement
+2609	1	bindi
+2798	1	methuen
+3403	2	brea	denali
+571	4	david duchovny	jeremy paxman	jeremy	jeremy bowen
+2955	1	population
+168	4	princeton	story	princeton university	stanford
+329	7	hotel	auburn	river	nashville	tennessee	tennessee river	phoenix
+4053	1	clerk
+337	1	greeley
+3428	3	peirce	horace	walter
+1082	11	appomattox river	gig harbor	kate moss	sag harbor	quebec city	john fitzgerald kennedy	salt lake	kate hudson	big bear lake	appomattox county	stone town
+3455	1	tablet
+3350	2	canadian rocky	rocky
+1394	20	henry kissinger	vannevar bush	richard morgan	richard ii	kent conrad	sister souljah	flavio briatore	richard daley	richard kelly	richard gere	michelle	tchad	richard petty	president richard nixon	petersen	richard pryor	richard stallman	medici	whitman	warren buffet
+476	10	lewis	colin powell	sarkozy	bullock	maureen dowd	milano	stevenson	clark	chapman	wallace
+4385	1	dickey
+4673	1	obsession
+1306	7	pass christian	christian	rick steiner	legal aid ontario	ross	aaron	location
+3703	1	kara
+874	25	vision	washington state	arizona state university	beijing	herman melville	abc tv	ohio state	community	test	air canada	yale	george washington	american society	identity	western washington	western iowa	mugabe	high quality	central washington	washington national	father	mount washington	society	hague	national city
+4607	3	acda	expressionism	quartet
+1093	17	south	kayah state	morgan freeman	utah state	british columbia	ohio state university	iowa state	chicago	boise state	food network	high	kent state	cross river state	rent	law school	duluth	washington
+3105	2	library	state library
+3200	2	gospel	baptist
+972	27	fat joe	soul	testament	cal ripken jr	new testament	tony gwynn	midian	miramax	tommy lee	jake heggie	jake peavy	mick foley	tony judt	dell inc	cal ripken	johnny cash	bret hart	nicole ritchie	ripken	billy joel	hulk hogan	chuck knoblauch	stan lee	ray nagin	iron man	franklin delano roosevelt	billy ray cyrus
+1095	61	left side	harvard law school	new york stock exchange	kevin martin	carleton university	yale university	howard university law school	boston university	emory university	national university	hofstra university	mcgill university	purdue	nyu	auburn university	ohio university	wesleyan university	georgetown university	dalhousie university	depauw university	cornell university	purdue university	man	george mason university	harvard law	yonsei university	vanderbilt university	adelphi	dartmouth	university college	bucknell university	loyola university chicago	west virginia	howard university	cornell	royal society	chapman university	liberty university	brown university	depauw	washington dc	adelphi university	royal	oxford university	state university	new york university	pace university	washburn university	oakland university	saint petersburg	oregon state university	american university	wesleyan	oregon state	yale law school	left	miami university	wozniak	george washington university	mansfield university	duke university
+221	8	prime time	next year	big time	last week	next week	big show	time	good thing
+505	2	content	material
+394	8	light rail	dip	roll	red velvet	bluest eye	rock band	rock roll	octopi
+231	4	beckley	powell	bagwell	buckley
+3619	6	blois	valdez	douro	cuzco	cocoa beach	oporto
+965	11	sheikh zayed road	sharm el sheikh	jebel ali	abu dhabi	swahili	addis ababa	jawed karim	boman irani	foster city	san jose del cabo	burj dubai
+3640	1	longevity
+2296	1	ethanol
+4245	1	fuel
+852	29	sonia rykiel	neale donald walsch	abou diaby	robert de niro	ken lay	tom udall	erle stanley gardner	amir vahedi	ayn rand	colin meloy	david axelrod	tony blair	sacha baron cohen	mike comrie	lew wallace	selma blair	thomas keating	mike gravel	brad meltzer	david foster wallace	jim morris	kenneth kaunda	colin	spike dudley	mark david chapman	kenneth lay	craig mccaw	henry bolingbroke	yahweh
+1158	2	contrast	comparison
+4079	3	plasma	benq	tesla
+690	5	slovak republic	chechen republic	burkina faso	czech republic	dr congo
+3680	4	schmidt	google	warren buffett	cbs corp
+555	15	rick	michael jackson	jon	ceo	foley	warren	morris	perot	chris	warren sapp	barnett	asa candler	julius caesar	little rock	berry
+612	17	charlie bell	jaap stam	doc holliday	nebraska city	maverick	jim carrey	charlie sheen	barney frank	john travolta	billy corgan	pagani	terry zwigoff	agatha christie	billy wilder	bloomberg television	charlize theron	charlie crist
+4672	2	cairo	annapolis
+3129	1	total
+599	5	murphy	walsh	connelly	point	quinn
+1193	6	david letterman	david brinkley	anjelica huston	tom brokaw	ted koppel	photography
+3173	5	contact	vacuum	optical	motion	angle
+702	4	dusty	agent orange	pitcher	west orange
+353	6	end	step	start	autumn	fall	break
+278	8	rome	roma	roman	italy	italian	jesus christ	augustus	milan malpensa
+4326	1	vitamin
+3599	1	rub
+1224	12	jasmine rice	la mesa	posh spice	mixed bag	extra virgin olive oil	ad hd	fast food nation	red pepper	david mitchell	suncor energy	law firm	fed ex
+1005	3	portugal	tap portugal	spain
+4227	1	oz
+477	2	amy	betty
+908	3	great choice	choice	option
+2715	6	hungary	rumania	austria	united nations	barbara streisand	kyoto
+767	23	sanford	hinesville	maysville	newnan	smithfield	huntersville	wilmette	glenview	mooresville	tuscumbia	huaraz	morrisville	statesboro	statesville	asheboro	cerritos	pikeville	bbq	miamisburg	varginha	alpharetta	ocala	harrisonville
+1251	2	hour	minute
+162	7	cayenne	ranbaxy	gardasil	lunesta	intuit	yandex	smartphone
+4653	1	cook
+3184	3	coachella	stew	chardonnay
+546	5	life	evidence	legacy	captivate	determination
+1861	3	championship	nba championship	world championship
+3084	25	lvov	forest	roth	orange park	kansas city	seat	city	orange	jacksonville	high point	jacksonville beach	tbilisi	presidency	read	salonika	port orange	commerce	lake worth	mayfield	bonita	fort mill	president bush	sumner	vienne	lake forest
+704	19	king crimson	clarence house	chronic fatigue	plug in	deep purple	hayden panettiere	linda sue park	teddy sheringham	roland garros	iron maiden	durham university	new school	shippo	reductil	jeff monson	newell rubbermaid	batesburg	lake placid	home page
+201	7	heart failure	pain relief	congestive heart failure	fever pitch	failure	sick building syndrome	prevacid
+892	4	moscow	nabokov	igor	leningrad
+4341	1	burn
+890	17	lake buena vista	caltech	conversation	national security	safety	homeland security	aviation	conservation	donald judd	telephone	public security	volatile organic compound	security	social security	tsunami	participation	securityfocus
+298	21	henry iv	liam gallagher	kenneth turan	alfred	edward cullen	kateri	journalist	henry james	howard fineman	fanny burney	san diego	king george	lyman wight	milton	king david	taylor swift	william howard taft	robin	edward iii	harriet beecher stowe	king john
+518	10	sienna miller	robert mugabe	zanu pf	new bern	silent spring	benazir bhutto	delhi university	social darwinism	belinda stronach	angela merkel
+415	5	village	rangoon	west	east	town
+352	2	enemy	attack
+1595	12	thorn	torun	year	secret	black boy	intensity	book	month	look	last year	day	april
+1586	4	white	world	rock	surprise
+193	6	ancient history	jude	natural history	natural	history	sony atv music publishing
+896	2	brother	son
+341	5	jaromir jagr	goran ivanisevic	rod blagojevich	carson city	vlad dracul
+923	2	bulgaria	romania
+4166	1	dracula
+4925	1	pitch
+0	10	iran	malaysia	pakistan	kurt vonnegut	afghanistan	kurt	america	south vietnam	good	afganistan
+2585	1	family
+586	13	disease	food poisoning	sickle cell anemia	mental disorder	chickenpox	lyme disease	poliomyelitis	inflammatory bowel disease	west nile virus	result	epstein barr virus	polio	heart disease
+4101	1	adult
+2165	6	glastonbury	pvr	definition	sample	xml	ebook
+3864	6	perjury	verb	misuse	woburn	citrulline	detail
+875	2	crime	criminal law
+2371	3	alcoholism	anxiety	addiction
+519	6	icis	geico	provigil	avandamet	prilosec	physician
+2567	7	constantinople	judy	hussein	islam	white house	muslim	nixon
+478	2	decline	decade
+774	7	attention deficit hyperactivity disorder	attention deficit disorder	avoidant personality disorder	post traumatic stress disorder	attention deficit	illness	mental illness
+3728	2	guam	hawaii
+4795	2	russia	ukrainian
+2922	6	communication	cause	daily	gravity	mass	mass communication
+943	3	hollywood	access hollywood	west hollywood
+236	2	impotence	pain
+1168	13	kelly clarkson	leo	downey	serj tankian	kobe bryant	carter	woodrow wilson	satie	south africa	raikkonen	canadian	blunt	copland
+167	10	south america	united states	current tv	united states postal service	young man	philly	united states military academy	united states supreme court	royal dutch shell	royal caribbean international
+2725	1	burma
+635	1	medicine
+60	2	damage	brain damage
+3012	1	depression
+21	11	pankaj mishra	old delhi	tung chee hwa	sri lanka	west sumatra	west bengal	banja luka	wangari maathai	koh phangan	firenze	thaksin shinawatra
+2536	1	category
+314	4	istanbul	azerbaijan	turkmenistan	uzbekistan
+1214	4	force	western canada	american	canada
+2861	1	poverty
+404	4	teenager	woman	child	eleazar
+1629	5	sandra bullock	baja california	california	californian	southern california
+115	5	pdf	logic	pdf format	portable document format	html
+3282	1	gauteng
+3721	32	artificial intelligence	computational biology	blue note	sage software	david neeleman	vba	operation ivy	virtual private server	santa clara university	configuration	user interface design	jason campbell	digital camera	lisa see	medical physics	melvil dewey	south lake tahoe	all time high	roger moore	personal computer	brad miller	thomas jane	pain killer	vandana shiva	search engine optimization	information technology	civil engineering	keira knightly	temple university	web site	aol search	computer science
+953	3	problem	heart problem	serious problem
+4574	3	armenian	armenia	greece
+1746	5	prison	custody	jail	exile	kevorkian
+560	16	african american	american idol	american red cross	airbus	nico rosberg	specialty	leon	north	industry	american samoa	social network	native son	cross	north american	american gangster	american family
+1630	2	diver	slashdot
+4485	1	ed
+2034	3	hiv	aids	hiv infection
+748	12	combat	charterhouse school	national public radio	county	college	henry vii	school	alabama	high school	lake county	dalton	hotel room
+1911	11	al pitrelli	harvard pilgrim health care	host	kaoru	joe namath	weei	italo calvino	dan marino	medical condition	andrew cogliano	adelaide city centre
+4751	1	individual
+1017	15	agent	reference	reason	thing	thought	costco wholesale	dole	possibility	barak	suggestion	fact	idea	good idea	knowledge	group
+4087	2	factor	big factor
+12	3	simon	daniel	david
+4521	3	dinner	reception	lunch
+805	4	care	public health	health	good health
+499	13	date	june	tuesday	march	december	august	january	february	last tuesday	september	october	july	november
+1030	4	jesus	virginia	view	theodore roosevelt
+4419	6	barrett	chef	jeff jarrett	syd barrett	jean valjean	ming tsai
+2865	1	fan
+1064	8	playboy magazine	time magazine	parade magazine	new england review	forbes magazine	fortune magazine	new york tribune	glamour magazine
+2129	6	german	colombia	nazi germany	germany	west germany	vienna
+577	2	tacoma	seattle
+3256	5	tibet	laos	thai	siam	thailand
+2429	9	wall street	capitol	samoa joe	red oak	west street	main street	weyerhaeuser	website	joe
+2833	1	concrete
+3071	1	hrs
+739	3	britain	great britain	kingdom
+4263	1	steel
+4471	3	long	carolina	south carolina
+2873	1	layer
+92	3	position	hand	moment
+987	4	capability	practice	common	use
+3450	2	input	degree
+1733	5	farmer	farmer market	cattle	grain	farm
+614	6	building	cost	centre	television centre	low cost	trip
+4481	1	charge
+1440	3	radio interview	radio	interview
+3092	2	approx	thursday morning
+888	13	western africa	east africa	south east asia	east asia	southern africa	east anglia	turkey	saint lucia	sub saharan africa	hugo chavez	great	west bromwich albion	southeast asia
+619	5	liar	stainless steel	body work	wrought iron	steel plate
+4759	1	plastic
+1608	4	nbc	npr	abc	new vision
+4153	2	animal	shell
+722	3	audition	comedy	drama
+4095	1	closet
+4955	2	gallipoli	battle
+3942	1	internet
+4279	1	sf
+269	3	fun	joke	hobby
+1828	3	midnight	half	second
+4269	1	hacker
+879	1	application
+246	2	assurant	request
+4313	1	cover
+4941	3	air pollution	chemical	liquid
+4729	1	ground
+4018	1	brass
+1276	4	fsf	foundation	free software foundation	kaiser family foundation
+1620	1	work
+299	9	india	vietnam	indian	age	country	dominican republic	nepal	republic congo	ease
+4526	2	distance	easy
+3307	1	pvc
+94	2	stage	performance
+4327	2	maintenance	profession
+4143	1	reptile
+305	4	pressure	blood pressure	high blood pressure	blood
+407	4	earth science	moon	land	earth
+4856	1	waxahachie
+3001	1	heathrow
+1621	3	top priority	priority	priority mail
+886	4	green river	green	grey	black
+792	5	fight club	boston red sox	heart attack	fight	battle creek
+2237	7	fresh water	ice cream	crystal lake	water ice	ashley tisdale	fountain valley	pure water
+73	1	round
+545	3	guide	way	quick
+3426	1	scale
+2109	4	gaming	control	quebec	birth control
+98	7	mobile	sell	mobil	buy	purchase	million	sale
+4585	6	javier bardem	africa	guatemala	vietnam war	bardem	monument
+2683	4	car	passenger	diesel	truck
+3773	1	pt
+2926	1	freshwater
+3103	1	cloud
+3665	1	pair
+1291	3	good deal	great deal	great neck
+4077	1	base
+4155	13	person	ira	shania twain	cale	hirsch	laozi	natalie	east rutherford	sandra	serena	lao tzu	rutherford	enrico caruso
+2875	1	ice
+3595	1	armour
+4348	1	ft
+397	2	lightning	fire
+3758	1	swamp
+1687	7	joe dimaggio	amare stoudemire	mark mcgwire	season	next season	lou gehrig	big fish
+4842	1	probation
+882	14	night	morning musume	black friday	sunday	saturday night	cbs sunday morning	saturday night live	last night	good friday	dog day afternoon	midnight mass	sunday evening	sunday night	air america
+2729	1	cycle
+340	4	value	demand	market	price
+393	3	silence	witness	proceedings
+143	3	league	team	crew
+3010	1	gear
+4988	1	leg
+3994	1	protection
+324	2	aluminum	aluminium
+4543	1	palace
+766	3	plant	gossip girl	womad
+929	2	advance	battlefield
+880	10	computer	computer programming	desktop computer	computer information	boswell	laptop computer	corporation	laptop	pay	hardware
+392	2	shape	surface
+4280	1	type
+4984	1	banana
+379	4	dog	cat	saunder	horse
+931	43	key west	alor setar	los angeles	florida international university	kansas state	kansas state university	brigham young university	middle tennessee state university	penn state university	ball state university	saint paul	baylor university	michigan state university	pope john paul ii	wake forest	santa monica	wvu	riyadh	south holland	northern arizona university	missouri state university	florida state university	state senator	central washington university	west virginia university	case western university	pensacola	cwru	willamette university	idaho state	western kentucky university	case western reserve university	china town	wake forest university	central michigan university	san francisco state university	washington university	james monroe	louisiana state university	missouri state	mitt romney	idaho state university	ball state
+3626	2	place	street
+147	5	gas city	pa	pennsylvania	gas	ohio
+3946	1	ww
+4191	1	unit
+2787	1	yard
+761	2	susquehanna county	susquehanna
+45	2	punishment	torture
+77	2	fiction	science
+960	10	john knox	john mayer	john newcombe	john bonham	john jay	stuart	john deere	john watson	milan	john hancock
+2436	2	secretary	commerce secretary
+3209	3	oxford	cambridge	cambridge university
+1259	2	radical behaviorism	socialist realism
+785	4	accident	bullet	car accident	incident
+3145	2	peso	dollar
+56	5	feature	appearance	addition	series	paradise
+432	2	satan	devil
+306	5	os	em	opengl	dos	largo
+2322	1	harvard
+3733	1	spam
+4186	1	ce
+2555	2	lakeside	winnemucca
+4206	1	charity
+258	2	reality	mind
+411	5	hell	bingo	angel	vampire	heaven
+3150	1	compuserve
+4449	1	pm
+3063	1	jan
+102	6	microsoft	wordperfect	emc	macintosh	peoplesoft	filemaker
+4985	2	hp	ibm
+598	2	oct	feb
+1088	3	number	height	exception
+1495	4	example	case	sort	form
+3751	1	loan
+270	27	newt gingrich	reed college	barnard college	rhode island college	lorain county community college	hope college	long beach polytechnic high school	state college	bard college	harvard college	concordia college	lacrosse	oberlin college	radcliffe college	trinity college	nazareth college	whittier college	mount holyoke college	haverford college	amherst college	dartmouth college	ricky gervais	middlebury college	brooklyn college	roanoke college	new york state	centenary college
+4645	1	shoe
+1047	2	liu	zhang
+610	3	orlando magic	wizard	magic
+2040	5	macarthur	eisenhower	dwight eisenhower	harvard university	change
+2315	6	mozilla corporation	intel corporation	atari corporation	news corporation	microsoft corporation	oracle corporation
+4380	1	oracle
+3847	1	omaha
+3655	1	guy
+276	25	barack hussein obama	curtis	anderson	nelson	european	scott	sarah jessica	garland	jerome	judy garland	harris	abraham lincoln	martin	enrique iglesias	moore	randall	kerry	pat robertson	clarke	reid	robertson	alan	parker	hayden	campbell
+3574	23	dish network	microsoft office	microsoft excel	microsoft sql server	gameboy	relic entertainment	open source software	microsoft powerpoint	power point	microsoft windows xp	microsoft visual basic	sundance square	microsoft window	microsoft word	microsoft frontpage	microsoft outlook	microsoft outlook express	microsoft project	software	microsoft access	microsoft office powerpoint	microsoft windows vista	microsoft xbox
+261	2	talent	genius
+1518	3	holden	ford	henry ford
+3485	1	programmer
+2780	1	monopoly
+952	2	independent	state
+40	2	drive	run
+4346	5	ju jitsu	track	dance	kayak	sport
+3958	3	criminal	jeffrey skilling	hoover
+350	3	shopping spree	downtown atlanta	dubai waterfront
+3280	1	malaria
+4216	1	window
+835	6	sony playstation	gamecube	xbox	naruto	anachronox	playstation
+2695	1	bug
+579	3	big trouble	trouble	techcrunch
+3189	1	corbis
+636	8	ronald	mccain	nomination	daily show	meg	representative	salt lake city	ronald reagan
+4088	1	apple
+295	2	consumer	marketer
+4829	1	geek
+4857	3	sofa bed	bed	sofa
+3294	2	spider	ad
+791	26	republican	paula abdul	new york city	new york time	tuscon	elizabeth dole	conrad	truman	clinton	port clinton	hillary	richard nixon	mcgovern	plan	paula	hillary clinton	taylor	joe kennedy	ellen	politician	perry	terry mcauliffe	romney	bush	rick ross	jet blue
+3245	1	albuquerque
+865	5	lot	god	revelation	nature	roosevelt
+1128	6	alan moore	south sudan	south lebanon	south india	south ossetia	south korea
+109	3	speaker	keynote speaker	house speaker
+2925	3	mandolin	ipod	usb
+3083	14	dennis hopper	john sculley	katy perry	steve case	steve ballmer	john grisham	steve jobs	ferris bueller	edward hopper	port perry	candace bushnell	john nash	apple ceo steve jobs	steve nash
+870	5	learn	president	past	course	golf course
+906	3	chile	peru	mali
+1826	2	page	article
+4623	1	top
+1283	2	cash	money
+416	3	winston churchill	livingstone	blair
+536	21	public	great president	new york	dean	jimi hendrix	john milton	john kennedy	james bond	congress	iowa city	fitzgerald	clip	felipe massa	christ	friedman	male	ernest hemingway	robert downey jr	heath ledger	dan wheldon	keanu
+4473	1	board
+3079	3	iowa	newsweek	palestine
+4651	1	map
+1780	12	car racing	state farm	far east	bb king	redhat	wii fit	red hat	full auto	yao ming	full time	first time	nl east
+2686	1	garbage
+4914	1	stock
+4533	1	bit
+4158	1	wealth
+3311	1	encarta
+1790	12	colorado state	richie mccaw	lionel messi	sdsu	nicole richie	colorado state university	barber	aniston	richie sambora	san diego state university	lionel richie	university
+1230	2	interest	attention
+4255	1	loser
+3759	1	cone
+44	1	fool
+1981	2	ignorance	truth
+4439	3	berkshire hathaway	hathaway	anne hathaway
+2974	1	scholastic
+1848	2	challenge	competition
+1087	5	christina	taiwan	china	south asia	chinese
+459	8	shame	hunger	ridicule	loud	fear	anger	publicity	grip
+4393	1	einstein
+3544	1	mac
+922	3	careerbuilder	ascential software	software architect
+2320	5	business	fedora	big business	business week	budget
+832	3	network	basic	system
+220	3	government	policy	foreign policy
+588	4	isreal	japanese	japan	long time
+4671	1	nbr
+1056	3	scottish	england	scotland
+4288	1	humor
+3043	1	bar
+2711	1	atheist
+219	1	existence
+1143	3	retirement community	retirement	welfare
+3900	1	corruption
+1136	8	language development	malay	bahasa melayu	language	aramaic	frisian	foreign language	development
+1648	10	grand funk railroad	eastman kodak company	ford motor company	crm	ford focus	british air	ford motor co	gibson guitar corporation	hyundai motor company	grand funk
+746	1	respect
+894	2	executive	chairman
+260	11	double click	time warner	murray	bank america	jenson button	carnegie mellon	doubleclick	john mark	double bed	john mark karr	john major
+3922	1	mix
+841	5	education	waldorf	adult education	school counseling	best buy
+3523	1	olympic
+897	7	cpc	serotonin	thesis	karl marx	amartya sen	salma hayek	bir zeit
+4353	1	channel
+4544	1	bankruptcy
+3804	1	longhorn
+508	2	vh	mtv
+4968	1	debt
+2738	3	yahoo	cbs corporation	yahoo inc
+2229	2	literature	poetry
+2712	1	rsa
+211	3	weblog	livejournal	blog
+1120	9	last place	trier	first place	social	commission junction	second term	second life	second place	grand junction
+2705	1	keyboard
+3867	1	mba
+3593	3	joseph campbell	job	glen campbell
+1185	1	wright
+855	4	percentage	rating	percent	fraction
+660	2	shadow	darkness
+670	21	mt hood	robin hood	tim russert	best new artist	neil stephenson	happy man	soft skull press	little	long beach	aldous huxley	blu ray disc	theo epstein	blu ray	gus van sant	best pop vocal album	neal stephenson	game boy advance	lou reed	dana point	max roach	blake lively
+3638	1	box
+1232	6	global domination	human sexuality	trump organization	american enterprise institute	sas institute	global health
+775	3	basement	room	studio
+709	1	drink
+4323	1	elephant
+3890	1	address
+3467	1	buffalo
+847	3	word	origin	name
+4201	1	campus
+1137	2	businessman	entrepreneur
+4635	1	wear
+2435	1	online
+71	7	puerto vallarta	panama city	plan colombia	panama city beach	new mexico	private life	mexico city
+430	3	inspiration	journey	theme
+3710	1	bangor
+997	8	new england	jack london	east berlin	aroostook county	county clare	eastern illinois	league city	spink county
+417	27	international airport	south san francisco	montreal	thai international	orlando international airport	al jazeera international	kim	cape town	newark liberty international airport	front royal	international data group	phoenix sky harbor international airport	national	san francisco	cindy crawford	model	san francisco international airport	secret service	newark international airport	girl	faculty	international	left field	tokyo international airport	international business	neil	neil finn
+1054	4	avignon	strasbourg	berne	paris
+4724	2	atlanta	maine
+1181	12	hampden	display	coventry	beryllium	appleton	derby	defoe	leominster	laconia	hackney	darlington	telford
+816	8	left center	former president	former president bill clinton	vice president	president elect obama	president kennedy	prentice hall	president elect
+1343	9	mary magdalene	cathy	mary	young	marie	st	katherine	catherine	kathy
+762	15	bryant	cooper	mother	johnston	webb	howard	santa claus	caldwell	beckham	columbia university	cameron diaz	ashley	walker	coastal carolina university	byron
+1774	7	personal information	information theory	service	information	informationweek	geometry	internet information server
+3348	2	image quality	image
+3511	1	hist
+369	2	stone	wood
+2882	4	senator	state senate	senate	congressman
+1211	2	style	instyle
+442	5	chicago blackhawks	milwaukee county	milwaukee	carrboro	detroit
+3784	2	province	java
+493	5	worldwide	worldwide release	release	dc	press release
+254	11	audi	porsche	volvo	benz	infinity	chevrolet	hsv	albi	racer	titan	cup
+4880	1	warwick
+2765	1	zone
+4235	1	ferrari
+1121	5	jerry	tracy	schwartz	larry	minnie
+1330	3	charlotte	young girl	port charlotte
+3444	3	dalai lama	ohio wesleyan university	janya
+3972	1	toy
+3038	1	kimberley
+3837	51	john madden	howard cosell	steve bechler	christianity today	rocky hill	bluff magazine	geri halliwell	pc magazine	mark martin	mark foley	piccadilly circus	tammy duckworth	sky news	yashodhara	san francisco county	vincent lecavalier	lockheed martin	liverpool airport	macromedia dreamweaver	iax	frank frazetta	reed elsevier	scott mcnealy	game informer	kota kinabalu	tenormin	sustainable development	red cross	chris moneymaker	cleveland state university	john johnson	binghamton university	arab news	port arthur	satellite beach	andy bloch	phuket island	roger ebert	richard linklater	emerica	david kernell	hezron	elliott bay	rob patterson	wesley snipes	gary neville	bruce shelley	john mcenroe	texas christian university	sven goran eriksson	petr prucha
+4137	1	discovery
+1610	2	room temperature	temperature
+2998	1	apax
+227	7	wtvj	bbc radio	wwl tv	history channel	british sky broadcasting	nbc news	telstra
+3959	1	bbc
+4020	1	muse
+4244	1	injury
+4360	1	lausanne
+919	4	belgium	netherlands	holland	dutch
+4796	1	cheese
+4705	3	aim	conflict	peace
+566	1	account
+1359	4	part	central	region	area
+725	2	code	instance
+373	3	statement	proof	argument
+1012	4	low	flat	sharp	excellent
+241	6	laguna beach	key biscayne	yuma	altitude	monterey park	redondo beach
+1154	6	australian football league	western australia	australian open	south australia	afl	new zealand
+1516	7	israel	early modern europe	israeli	europe	persia	usa	saddam hussein
+515	5	united kingdom	social class	democrat party	republican party	party
+4811	1	asia
+625	5	martinsburg	lawrenceburg	wismar	livonia	shantaram
+3406	1	amtrak
+583	2	tucson	arizona
+2238	9	columbiana county	hernando county	yavapai county	socorro county	bartow county	hawaii county	alameda county	orange county	maricopa county
+4105	2	tempe	roswell
+1868	7	rbc center	kennedy space center	arizona science center	center city	lincoln center	world trade center	right center
+4739	2	sun	sun city
+611	7	rosa parks	high noon	kitt peak	howard stern	grand canyon national park	todd stern	mount washington alpine resort
+3659	2	program	training
+3764	1	employee
+482	1	crete
+3374	2	nba title	title
+2525	1	plymouth
+4132	1	police
+323	2	store	home
+2638	1	atlan
+4646	2	mar	marbella
+582	40	spencer pratt	sumner redstone	jimmy buffett	oliver wolcott	robert deniro	news story	mccartney	todd helton	ozzy osbourne	samuel beckett	chris wilcox	john wesley	luke scott	helton	harry	john carpenter	jason statham	american history	antioch	romeo and juliet	jen aniston	jeconiah	marvell	jim wright	georgetown	john cheever	hilary	george harrison	jeff beck	benjamin harrison	ridley scott	marvel	lebron james	billy graham	taylor hackford	chris hillman	darwin	wesley	romeo	thomas seymour
+402	2	grandmother	sister
+2584	2	metropolitan area	phoenix metropolitan area
+3794	1	poll
+4619	1	ash
+4250	1	member
+3494	1	water
+3089	1	gym
+372	6	arizona territory	eliza dushku	yellowstone	arizona state	arizona republic	yellowstone national park
+3006	1	golf
+179	3	dead	death	death sentence
+59	3	automobile	auto	sepang
+985	3	connecticut	hartford	bridgeport
+3998	3	youngstown	croton	kalamazoo
+2273	2	baseball prospectus	major league baseball
+4431	1	tourist
+2219	2	opportunity	chance
+4945	1	body
+135	16	eli lilly	orson swindle	alice cooper	lois lowry	restaurant	john lilly	pop art	yolanda king	good stuff	lois duncan	ed orgeron	gwen ifill	wal mart	walmart	orson scott card	moby dick
+345	3	early	today	century
+2623	1	bs
+542	4	intervention	necessity	assistance	support
+3441	1	space
+4983	1	free
+2595	1	inch
+898	2	heat	heating
+1141	3	food	bring	help
+2386	3	winter	winter park	summer
+130	4	mission	recreation	hounslow	park
+2035	4	salt river	mystic river	east river	swan river
+4959	1	az
+1195	6	inquirer	tuscaloosa	scranton	wilmington	corona	brockton
+3685	1	sound
+408	5	boy	council	side	edge	opposite
+4992	1	dr
+4016	1	amherst
+4697	4	chief justice	complaint	chief	judge
+356	5	new hampshire	commonwealth bank	west yorkshire	kent	nh
+523	34	cole county	lassen county	connolly	dare county	cobb county	neosho county	spread	kern county	weld county	macedonian	macomb county	okeechobee county	morris county	mariposa county	glenn county	mercer county	southern oregon	palu	clarion county	bill bradley	millard county	dallas county	emergency	monmouth county	callaway county	pasco county	ty cobb	head	grave	essex county	juneau county	renney	monroe county	swain county
+603	6	marsh	baker	graham	mitchell baker	mitchell	palmer
+1956	4	wireless	email	phone	mail
+3670	2	basket	bowl
+449	2	supreme court	court
+1156	2	toronto	downtown toronto
+1321	4	inheritance	marriage	divorce	gay marriage
+3907	1	skill
+275	2	mckinleyville	extinction
+69	2	first class	class
+3951	1	seal
+2916	5	shrek	motel	soho	pizza	chinatown
+2617	1	suit
+547	14	lawrenceville	douglasville	millburn	plainsboro	ledbury	kishimoto	hackettstown	cheektowaga	mahwah	sylacauga	moncton	oregonian	croydon	bellmawr
+4766	2	hilton	lee
+2668	2	gun	rifle
+4415	2	orphanage	harlem
+4024	2	arabic language	arabic
+4058	1	meal
+391	4	pain medication	treatment	treat	prescription
+3536	2	color	full color
+15	5	paracetamol	nsaid	acetaminophen	ibuprofen	motrin
+4386	1	patent
+3123	1	lactose
+3464	1	chemotherapy
+1772	8	world trade organization	house committee	senate committee	committee	house	administration	senate judiciary committee	package
+4384	2	cholesterol	constipation
+1865	5	clinton administration	bandhavgarh	social security administration	oral administration	ssa
+2655	1	snowflake
+2963	1	line
+585	3	atenolol	propranolol	metoprolol
+2581	3	loss	weight loss	weight
+788	3	close	small business	small
+210	5	nitrofurantoin	cyanuric acid	clomiphene	abu sufyan	cyclobenzaprine
+3039	1	formula
+4122	1	martini
+3678	1	insulin
+4283	4	attic	piece	tile	pocket
+836	7	jon stewart	martha stewart	rod stewart	clay	stewart	tony stewart	jackie stewart
+2812	1	powder
+4953	1	patient
+1077	1	bacterial infection
+4958	1	site
+3713	1	breath
+2511	1	topeka
+3634	1	sweetener
+206	1	joel
+3331	1	table
+2993	1	salt
+4839	1	ace
+349	1	snow
+1025	2	influence	importance
+2159	10	hamid karzai	barry zito	castro valley	san fernando valley	sun valley	happy valley	paradise valley	saint cloud	old town	lehigh valley
+1504	2	berkeley	uc berkeley
+3475	4	braveheart	movie	spider man	film
+4121	1	wendell
+860	2	bartlett	barton
+2880	3	rush	transit	strike
+4405	2	pace	setback
+910	3	promise	hope	return
+4938	1	score
+4154	1	concert
+412	7	actress	goodman	bridget	joanna	joan	picayune	hbv
+4428	1	delay
+3198	1	wiz
+759	4	metabolic syndrome	vulnerability	spectrum	multiple sclerosis
+683	6	nj	new jersey	middle ages	middle east	jersey city	middle earth
+4762	5	seymour	edward	henry	william	henri
+427	9	tomorrow	stranger	professional	wonder	aristotelianism	sunshine	dream	sign	teacher
+797	4	sydney	melbourne	sydney opera house	brisbane
+608	2	hamilton	ramsey
+158	3	indonesia	bahasa indonesia	indonesian
+4146	1	sarawak
+4718	1	twitter
+535	2	game	gamestop
+4493	1	delaware
+3795	2	espn	nfl
+1072	18	craig	gerald	rihanna	reed	fox	craig newmark	brian	george	andrew	john	mike	thomas	james thomas	augustus caesar	wolfe	anthony	ann	josh
+4147	2	cathode	meridian
+605	11	michael ondaatje	bay area	la junta	la quinta	palm bay	port vila	ismael	san pedro	santa catalina island	san salvador island	el sobrante
+409	2	character	hero
+3474	1	citizenship
+3917	2	count	full count
+1598	1	geography
+4354	1	volume
+4715	1	english
+1209	3	sense	context	common sense
+1650	2	tokyo	osaka
+3258	3	topic	subject	discussion
+3700	1	law
+4937	1	kid
+1421	3	early childhood	jay rockefeller	nelson rockefeller
+4678	3	american culture	music history	culture
+697	4	naaman	cinemanow	haran	alcove
+3822	1	canal
+3873	2	speech	rhetoric
+1010	2	genital herpes	rattlesnake
+556	9	iri	joe beimel	sid meier	messenger	rick salomon	opm	caracalla	rex grossman	eric hinske
+4189	5	linden	beaver	laurel	willow	groton
+989	2	zinc	copper
+667	8	margaret thatcher	phenytoin	lady gaga	margaret mead	santa rosa	spagnuolo	fern	ernest thompson seton
+458	1	church
+3442	2	resignation	decision
+717	3	safari	beetle	rainbow
+268	39	activist	mike hammer	visual kei	wahoo	princess leia	kaz matsui	bell helicopter	upton park	ichiro suzuki	recorded history	ryan seacrest	red dead redemption	point pleasant	vassar college	revolutionary road	jimmy snuka	grover cleveland	nate mclouth	ichiro	russian history	educator	goose creek	daisuke matsuzaka	betty grable	rajon rondo	mahi mahi	tony parker	kei	van halen	mickey mantle	kazuki nakajima	phen fen	carl lumbly	rahul dravid	foldershare	blue velvet	ellen johnson sirleaf	yoko ono	lou piniella
+4396	1	tree
+1465	2	prophet	prophet muhammad
+4667	2	cheetah	ubuntu
+4134	8	miami beach	huntington beach	pennant	fort walton beach	delray beach	daytona beach	pompano beach	myrtle beach
+4707	1	pride
+1020	2	shahjahanabad	shuttlecock
+403	10	new london	manchester	alix	jefferson	birmingham	freeman	boston	queen	hanover	santa
+3016	2	geology	mineralogy
+4990	1	cyclone
+1133	4	countdown	port elizabeth	mail art	wizzair
+4413	1	chain
+2535	1	rainwater
+4688	1	bucharest
+1657	6	david ray griffin	terry riley	jerry rice	jerry west	zach condon	patty griffin
+1596	2	baseball	mlb
+1328	8	victoria park	christopher robin milne	apache maven	palm harbor	melrose park	souda bay	kitty hawk	tug mcgraw
+4006	1	personality
+1101	1	bible
+2300	3	love	bride	kiss
+1058	14	national weather service	national league	indian national congress	national capital	briefly	national basketball association	springfield college	national park	national historic landmark	awakening	country club	basketball	national hockey league	hockey
+893	3	jerusalem	east jerusalem	west jerusalem
+1582	9	alhambra	alicante	methanol	kisumu	shiraz	jaipur	metropolis	valparaiso	shroud
+1229	1	hebrew
+230	2	compact disc	zelnorm
+3809	1	greek
+321	1	right
+4513	1	tampa
+620	2	oregon	route
+4305	1	critic
+485	2	forest park	center
+2455	1	capitol hill
+2244	2	breakthrough	success
+2593	1	fcc
+3568	4	excalibur	menelaus	tennant	macedonia
+680	11	wayne rooney	andy rooney	new yorker	sean casey	bob casey	hannity	tobey maguire	sean connery	acclaim	jerry maguire	thessaloniki
+3509	2	cms	douglas fir
+744	3	web	glove	facebook
+1817	4	tool	opposition	labour	labor
+3943	3	circuit	race	pironi
+4567	1	marine
+4819	1	leukemia
+259	1	sandpoint
+654	2	plaintiff	defendant
+3114	1	idaho
+4835	1	max
+2010	2	apparel	calvin
+2139	3	videogame	physics	real
+330	2	saint joseph	hospital
+1240	2	potential	concern
+3275	1	consortium
+4865	2	oolong tea	white wine
+510	3	arrangement	connection	section
+4124	1	kentucky
+4802	2	columbus	columbus ohio
+3636	3	guitar	bass	lead guitar
+1016	4	andy	nick	phil	alex
+1208	10	dwight howard	joel madden	john elway	hines ward	tim howard	john kerry	john howard	john edwards	ron howard	blake edwards
+3800	2	serious issue	issue
+1437	2	silver	gold
+1023	15	michael	stephen	phillip	aol time warner	foster	peter	porter	dukakis	theresa	philip	james	kelly	wilson	terry porter	austin
+651	3	islamabad	chennai	mumbai
+3087	1	gene
+2879	1	maturity
+502	2	catalyst	reaction
+190	2	cloth	wool
+1252	1	legend
+4383	1	uk
+4059	2	answer	question
+575	1	quality
+3072	1	silicon
+3931	1	average
+280	4	price club	insurance company	free trade	costco wholesale corp
+2400	2	west lafayette	lafayette
+464	3	conscience	virtue	happiness
+328	2	gasoline	petrol
+1791	1	brazil
+3708	1	oil
+85	3	progress	focus	innovation
+209	1	alcohol
+4784	1	aug
+2896	5	emo	reggae	jazz	compilation	kwaito
+1153	3	libya	eu	soviet union
+573	4	lifetime	availability	infant	birth
+1419	2	tv	television
+88	10	victoriano huerta	los angeles clippers	mariano rivera	san antonio	antonio villaraigosa	janet napolitano	rivera	charlie villanueva	felix rodriguez	joaquin phoenix
+315	9	decameron	canary wharf	cape wind	grayson	cape cod	hat	bicycle	solo	cape canaveral
+4112	1	duke
+2943	3	chavez	brad pitt	eleanor roosevelt
+3954	2	sporanox	wig
+4309	1	monitor
+4442	1	production
+4356	1	taliban
+52	13	matt millen	magic johnson	amy winehouse	matt mullenweg	matt kenseth	saxby chambliss	dany heatley	abigail breslin	jamie mcmurray	louisville	jon udell	matt damon	rick hendrick
+3046	1	paradox
+1391	3	art school	art	painting
+954	10	jared bernstein	larry silverstein	liz rosenberg	feinstein	gertrude stein	harvey weinstein	dianne feinstein	goldman sachs	albert einstein	amram
+4859	1	nebraska
+4234	1	target
+1257	2	coal	carbon
+2760	1	budweiser
+1583	1	motorcycle
+3381	12	ross perot	obama	lake city	trenton	mitt	campaign	jack nicholson	thomas jefferson	senator barack obama	senator obama	president obama	barack obama
+217	2	wrigley	dickinson
+4727	2	mn	minnesota
+3679	1	telescope
+3971	2	star	all star
+13	4	firstenergy	classical conditioning	general electric	nrg energy
+3739	2	cnbc	spiegel
+4895	1	introduction
+1686	2	chris bridge	bridge
+741	8	htc magic	sleeper sofa	hybrid synergy drive	high risk	easy rider	west point	hot chip	first choice
+3243	1	alumnus
+3801	1	utility
+1551	13	fannie mae	macquarie	credit card	china construction bank	mastercard	ubs ag	freddie mac	credit	sbi	chase	bertelsmann ag	direct	bank
+639	11	waste management	high fidelity	business performance management	amp	business management	community reinvestment act	enterprise content management	federal emergency management agency	management	pest	coffeyville
+1519	3	barcelona	seville	madrid
+2682	1	equity
+2023	3	gsk	glaxo	glaxosmithkline
+1165	2	countrywide	nationwide
+527	1	advantage
+2417	29	environmental engineering	fertility awareness	white house counsel	moira gunn	central connecticut state	queen christina	ian mcewan	mary jane	ledgewood	stowe school	paul farmer	linda stender	jane goodall	contemplative outreach	marathon county	dirk kempthorne	chek lap kok	evolutionary biology	corriere dello sport	marin mersenne	knott county	social work	realbasic	darvocet	jedidiah morse	columbia business school	herpes simplex	adobe audition	lisa gherardini
+1250	1	go
+171	2	gray	brown
+4683	1	railroad
+1691	7	fl	virginia beach	george bush	pensacola beach	coastal carolina	kevin johnson	western north carolina
+1060	28	legal counsel	columbia college	phyllida lloyd	hampton court	limassol	lake superior	prince george	sonjay dutt	last call	federal law	district attorney	lamoine	hollyhock house	brent barry	federal reserve	white lodge	new westminster	microsoft exchange	oregon city	stamford bridge	federal register	tsinghua university	white house press secretary	federal way	brookfield asset management	late registration	new republic	microsoft office word
+4358	2	cisco	tech
+1427	5	gaza	bet	avi	fatah	hamas
+4878	1	wall
+79	16	jeff gordon	john constable	oak hill	gordon moore	julia margaret cameron	nicholson	edgerrin james	carl everett	avril	gordon ramsay	josh hamilton	cleveland	ryan reynolds	jeff burton	gordon brown	sapphire
+932	4	clothing	leather	length	dress
+2544	8	connie chung	danny strong	ingrid bergman	chico	def	ecology	lennart meri	williston
+3213	1	enigma
+998	2	southampton	wade hampton
+342	18	ani difranco	live aid	trent lott	edgar froese	mendelssohn	developed country	barbara bush	jermaine dupri	west covina	jefferson city	steve austin	southern rock	sabbath	trent reznor	opa locka	electronic music	bossier city	john baldessari
+2935	3	herring	abba	platinum
+2118	3	cancer	diabetes mellitus	diabetes
+758	14	ron dennis	eric ambler	bill gross	bill doolin	mia hamm	scottie pippen	bobby jindal	robbie fowler	john olerud	bill hemmer	tim kaine	arjen robben	land rover	jason jennings
+1479	2	hm treasury	treasury
+2633	2	surf	escondido
+4861	1	delivery
+4247	5	george clinton	bill clinton	chiang kai shek	hillary rodham clinton	senator hillary clinton
+1742	5	network marketing	marketing	yahoo search marketing	affiliate marketing	marketing management
+74	7	george clooney	iris murdoch	hilton hotel	hilary clinton	clooney	johnson	murdoch
+436	7	scott feldman	matthews	phil mickelson	matthew broderick	vince vaughn	randall kenan	chris matthews
+4475	1	roundtable
+1355	4	mead	santee	kellogg	napa
+3993	2	tape	wire
+28	3	interaction	specific gravity	physical
+3757	1	blazer
+49	14	patricia cornwell	theology	keppra	horace walpole	margaret atwood	william safire	william makepeace thackeray	starch	thomas wentworth higginson	birch	jane seymour	cassius	william henry harrison	anthony trollope
+4904	1	mel
+29	3	liver damage	ac motor	valsalva maneuver
+2114	4	mike miller	miller	frank miller	steve miller
+3484	1	growth
+2597	1	ski
+4355	4	gigha	ferguson	peel	thyroid
+1216	3	denali borough	southaven	southampton county
+3508	1	coyote
+4495	1	hyundai
+549	4	fullerton	proquest	ruston	roanoke
+2516	1	cube
+475	33	alaska air	rufus	celebrity	bacall	rafa benitez	courteney cox	couric	mariah carey	sarah michelle gellar	renee zellweger	courtney love	michelle malkin	rupert murdoch	bette midler	rufus wainwright	hillary swank	gingrich	karla homolka	milton friedman	katie couric	keira knightley	lauren bacall	schultz	hilary swank	nick hogan	rafael benitez	nicole kidman	courtney cox	jane fonda	nadine gordimer	monica lewinsky	fonda	perfect blue
+1788	2	pertussis	bordetella pertussis
+65	7	shelterbox	jimmy	johnny	crank	willie	eddie	bob
+1565	1	seizure
+1670	2	york	red mountain
+1032	18	greg biffle	rodeway inn	john mccain	palast	greg palast	teri hatcher	matt blunt	johnson city	ted turner	republican john mccain	green day	clark gable	sam brownback	minka kelly	roy blunt	texas city	john mcain	mark pryor
+2578	1	earl
+1169	18	mason	james dickey	kobe	nicolas sarkozy	downtown phoenix	james garfield	dylan	james madison	east london	james earl ray	solomon	james mcavoy	james blake	malcolm	james taylor	diana ross	james michener	downtown
+1362	2	neil armstrong	armstrong
+3497	2	open source	open
+604	2	interstate	highway
+2388	4	fuel oil	heavy metal	crude oil	escanaba
+2046	11	frank mclaury	kay	roberto mancini	stephen harper	arbuckle	zango	frank sinatra	frank capra	architect	richard burr	harry bertoia
+319	7	republic	edison	main	addison	monroe	john prine	madison
+1482	5	iowa state university	mount mckinley	robin mckinley	mont blanc	william mckinley
+154	6	atlantic city	gulf breeze	gulf coast	adam west	kanye west	world series
+516	3	nigel	roy	clive
+2466	3	marilyn	marilyn monroe	marilyn manson
+2857	1	chamber
+3505	1	discharge
+3841	1	pic
+3775	1	theft
+2013	2	real life	quiet life
+1480	3	brunei	bose	malaya
+1227	4	affair	sex scandal	scandal	squad
+2901	1	unc
+2870	1	selma
+1730	1	hot
+1034	3	pal	hutchinson	goal
+300	2	vote	ballot
+1063	13	dennis rodman	clive bell	jess willard	jeff baker	dick cheney	sloane crosley	cynthia mckinney	nick mason	jane smiley	tiffeny milbrett	al feldstein	rob bell	chuck norris
+443	1	soccer
+2742	1	size
+779	2	tissue	item
+3000	1	glass
+1171	3	silica	limestone	granite
+1265	2	emi	roche
+4742	1	light
+3771	2	howard dean	monica
+2186	13	coalisland	gulf	long island	rock island	efate island	rhode island	rotc	salsette island	staten island	monmouth	muridke	malpensa	stewart island
+4711	1	gore
+4237	2	federal office	office
+4392	1	shot
+2308	1	experience
+1129	1	sussex
+576	3	response	effect	action
+2073	1	standard
+1442	3	bloomberg	bloomberg news	fortune
+3481	1	apology
+354	9	bbc news	yahoo buzz	mtv news	fox news	abc news	kevin federline	cbs news	news	good news
+790	1	agreement
+993	2	spartanburg	huntsville
+3936	1	fundraiser
+1966	2	army	military
+4340	1	governor
+3852	1	aide
+371	2	health care	medical
+4555	1	jackson
+4952	1	heartbeat
+3928	1	missile
+301	2	war department	war
+941	27	hsbc	bofa	ata	peter jackson	company	janet jackson	andrew jackson	vista business	heikki kovalainen	cctv	america online	playtech	lexisnexis	jackson hole	sikorsky aircraft	cingular wireless	amazon	jesse jackson	union carbide	ericsson	prudential	amway	fda	netapp	rachel jackson	clapton	prudential insurance
+3749	1	vp
+4145	2	liberal	conservative
+913	2	florida	miami
+3312	1	ny
+2313	7	george dewey	george orwell	george iii	george soros	george oppen	george miller	george lucas
+39	4	france	french	london	air force
+4862	2	guatemala city	texas
+2201	2	serbia	montenegro
+737	6	chad	osama bin laden	hiv aids	bin laden	iraq study group	al qaeda
+4277	2	king	emperor
+1840	2	reagan revolution	centcom
+1130	6	hongkong	hong kong island	hong kong	economic development	jiang zemin	wen jiabao
+955	4	fort	philadelphia	baltimore	pittsburgh
+811	2	uniondale	uniontown
+3620	1	treaty
+2976	2	kosovo	albania
+1841	6	split	independence	direction	independence day	viscera	conception
+173	4	favor	garner	consideration	compromise
+4626	1	power
+2637	1	msm
+634	2	kashmir	jammu kashmir
+57	3	rudy giuliani	rudolph giuliani	giuliani
+483	2	set	complete
+4226	4	democratic	democrat	democracy	newspaper
+316	1	research
+420	7	hainan	li	zhejiang	henan province	new delhi	long way	zhejiang province
+770	8	brave new world	world war ii	world wide web	ultima iv	third world	first book	sea world	phantasy star universe
+4824	1	sea
+277	9	majority	executive order	scottish executive	majority leader	russell brand	roosevelt field	leader	clear lake	team leader
+1965	6	maple grove	mr bush	cherry hill	gw bush	laura bush	walnut creek
+572	18	news conference	eastern europe	western conference	scsi	western union	puerto rico	press conference	western europe	european union	western	press	air deccan	eastern asia	east europe	western cape	kyoto protocol	conference	union
+1042	2	telegraph	daily telegraph
+1420	3	debate	contention	controversy
+1135	1	ankara
+4789	1	va
+3675	1	nc
+113	2	weekend	vacation
+1160	3	illinois	illinois state university	indiana
+4987	1	symptom
+587	2	kuwait	iraq
+1515	2	msnbc	cnn
+4361	1	fdr
+4779	2	contraband	treason
+1187	2	midwest league	midwest
+380	1	effectiveness
+1149	2	conviction	trial
+497	3	dublin	galway	limerick
+3284	2	national unity	unity
+4763	1	responsibility
+2008	8	jewish	bhakti yoga	christianity	southern baptist	religion	tibetan buddhist	atharva veda	orthodox christianity
+169	17	carlos delgado	lorena ochoa	san pedro sula	leandro barbosa	felipe calderon	san carlos	fidel castro	san miguel	castro	san luis obispo	rio rancho	ubaldo jimenez	miguel cabrera	san leandro	hu jintao	san rafael	jose canseco
+2192	5	chapel hill	anita hill	silver city	fort worth	usa today
+3435	1	energy
+2149	1	reporter
+2494	4	gwen stefani	erykah badu	britney spears	single mother
+4962	1	graduation
+2182	1	leadership
+768	24	nat king cole	jonas salk	josh fogg	dita von teese	lady jane grey	mission san xavier del bac	bmi	john sidney mccain iii	babe ruth	kim jong il	st paul	tony romo	costa del sol	ron paul	mike knuble	roman bednar	body mass index	ryan babel	st joseph	ed wade	al gore	tom delay	marina del rey	man utd
+1656	2	limbaugh	rush limbaugh
+956	24	ann coulter	john ashcroft	ted danson	ed harris	rob portman	doyle brunson	underwood	ashley bryan	anderson cooper	kathleen kennedy townsend	marilynne robinson	mary todd lincoln	mel gibson	pamela anderson	carrie underwood	diane sawyer	peggy noonan	pam anderson	ted waitt	joe henderson	james joyce	coulter	gillian anderson	ashley cole
+4674	1	chicken
+245	3	justice	criminal justice	gender justice
+738	4	adobe lightroom	crowded house	tokio hotel	shaky ground
+165	2	adultery	rape
+4377	1	stag
+438	1	martin luther king
+3555	2	donor	birthday
+873	2	grace	faith
+4770	2	raleigh	richmond
+4944	1	term
+4367	2	penn state	penn
+2017	9	larry sanger	larry mcmurtry	richard brautigan	larry ellison	larry king live	ellison	larry king	larry page	larry bigbie
+422	3	affirmative action	constitutional law	virginia commonwealth university
+558	3	luke skywalker	saint	luke
+3133	1	soldier
+854	2	somalia	sudan
+3069	1	virgin
+3030	1	hair
+4004	1	decomposition
+1591	2	congo	drc
+751	2	arafat	yasser arafat
+4573	1	whiplash
+3566	1	boss
+4464	1	risk
+152	3	taxi driver	driver	driver seat
+312	2	concord	lincoln
+1885	1	hue
+360	2	smoking	marijuana
+695	3	promotion	delegate	superdelegate
+256	2	victim	murder
+876	2	charleston	slidell
+613	8	manu ginobili	mario puzo	mario cuomo	mariane pearl	linda evangelista	kelsey grammer	marian hossa	mario lopez
+4754	1	primary
+4553	1	sex
+235	28	young child	george foreman	daniel craig	william wegman	gerald levin	fox tv	ryan phillippe	gregory crewdson	john phillip	carl levin	robert novak	duke power	dave barry	brian skinner	stephenie meyer	humphrey bogart	baby girl	marion barry	frank lampard	engineering	george macdonald	roger connor	roger craig	greg norman	phillip fulmer	stephen colbert	ronald mcdonald	george michael
+4310	1	genocide
+1947	1	fleetwood mac
+2630	1	rwanda
+2380	1	wto
+3870	1	andrea
+4686	1	mexico
+3877	2	oklahoma	oklahoma city
+4212	1	disgrace
+2564	1	yes
+1038	2	economy	economic
+4434	1	texarkana
+4203	1	eugene
+4825	1	act
+1192	5	richardson	bill richardson	mcain	fisher	vernon
+395	2	best	picture
+920	2	occidental petroleum	export import bank
+4611	1	punch
+4970	1	honor
+1589	7	cedar park	palm desert	walla walla	itta bena	bush sr	coca cola	reston
+4855	1	uniform
+226	3	zambia	zimbabwe	uganda
+828	4	visit	meeting	last meeting	invitation
+1178	6	ellen page	new york area	carey	new york magazine	wall street journal	google checkout
+3962	1	nashua
+3925	2	dodd	christopher dodd
+3875	1	ap
+2321	10	sean hannity	forsyth	robert rubin	robert redford	robert pattinson	robert heinlein	david sifry	henry miller	robert scoble	robert bloch
+3825	1	republican congress
+1395	2	terrorism	terrorist
+4324	1	sen
+902	3	senior	senior adviser	staff
+296	3	pope	gregory	benedict
+4579	1	pitt
+3602	1	guess
+4928	1	barack
+807	2	slave	slavery
+3176	1	haiti
+593	1	road
+3007	1	ark
+3178	1	ball
+4782	1	record
+2643	1	mayor
+4002	2	pravachol	hawk
+2919	1	terre
+2407	3	asheville	charlottesville	manchester city
+763	2	climate change	india habitat centre
+4858	1	lesson
+54	5	contract	extension	partnership	signing	solution
+78	7	troutdale	elkhorn	bloomsburg	germantown	scarsdale	williamsburg	rockaway
+18	2	timothy	paul
+3472	1	waco
+142	5	san jose	san juan	palm os	hwa rang do	san ramon
+4636	1	pyongyang
+4448	1	front
+4749	1	findlay
+4927	1	touch
+982	3	michigan state	lake michigan	michigan
+317	3	colorado	nev	nevada
+1609	5	kitchen confidential	inconvenient truth	cool	variety	comfort inn
+2467	1	greensburg
+121	3	process	copy	text
+1783	2	rochester	durham
+3160	1	rep
+911	2	condoleezza rice	nancy reagan
+687	2	disappointment	london university
+4151	1	attendance
+2799	1	accra
+3805	1	assembly
+4787	1	oprah
+3704	1	byrd
+2945	7	surgery	heart surgery	glen ellyn	massage therapy	prostate cancer	dental surgery	remedial massage
+3100	1	prez
+818	4	fayette	decatur	peanut	macon
+4271	1	gov
+2777	2	aphid	thrips
+4615	2	georgia	ga
+4211	2	luoyang	xian
+700	2	ghana	nigeria
+2588	1	doctor
+4188	1	intern
+830	7	mb	manitoba	ab	alberta	fort saskatchewan	ganga	balak
+8	22	meyer	robert altman	jim jarmusch	clear channel	sylvester stallone	altman	director	sofia coppola	scorsese	mayer	jean paul sartre	leonardo dicaprio	al capone	quentin tarantino	martin scorsese	marlon brando	al pacino	coppola	clint eastwood	stallone	darren aronofsky	the godfather
+199	2	pollard	franklin roosevelt
+2863	3	vancouver	vancouver island	mckinley
+2546	1	interior
+4249	1	cia
+903	2	bronx	brooklyn
+1182	8	park avenue	echo park	asbury park	menlo park	east lansing	grant park	oak park	clifton park
+75	5	apostle paul	baptist press	father divine	church music	corpus christi
+2571	1	alps
+4208	1	movement
+4905	1	offense
+2819	1	sc
+2747	2	janet reno	reno
+47	19	jerry yang	jamie moyer	bryan singer	phil gramm	sarah palin	sarah ferguson	kasey kahne	kim basinger	jamie lynn	bela fleck	linden research	hank aaron	adam sandler	jamie foxx	hank baskett	sarah silverman	bristol palin	kris benson	ben affleck
+691	3	new york daily news	daily news	cbs evening news
+3347	1	nambla
+2124	1	honeymoon
+2769	1	aceh
+267	2	ridge	hill
+2482	10	san bernadino	charaka	van	libertyville	theo walcott	san bruno	san angelo	coldstream	murray hill	sao paulo
+975	9	south bend	arrl	south orange	south dakota state	dan namingha	north shore	south pacific	south dakota	la crosse
+4093	1	momentum
+264	5	roman catholic	protestant	catholic	lutheran	orange city
+2701	1	cole
+291	4	houston	wichita	schertz	harlingen
+570	3	latin america	virgin america	comerica
+1537	1	victory
+273	3	cream	chocolate	candy
+2160	2	oceanside	fayetteville
+4963	1	baghdad
+2956	1	kelowna
+4589	1	candidate
+4453	2	fraud	identity fraud
+2779	1	robbery
+550	1	entry
+4302	1	dec
+83	2	monster	giant
+3326	3	audit	fbi	examination
+529	1	manufacturing
+161	5	panama	benefit	cuba	rice	havana
+3376	2	hurricane katrina	katrina
+2720	1	schedule
+1231	3	cold war	civil war	iraq war
+365	1	network centric warfare
+2914	1	gettysburg
+958	3	greenwood	cecil	denison
+3102	1	abilene
+6	8	mansfield	enfield	denton	florissant	muskegon	broomfield	nutley	sheridan
+4539	1	gibraltar
+686	1	voice
+292	17	will smith	woody	aung san suu kyi	lennox lewis	henrik ibsen	scientist	zachary taylor	richard feynman	fairfax	ray lewis	elie wiesel	kendra wilkinson	geezer butler	mitch kapor	sara taylor	sara hickman	travis taylor
+1761	3	han	korean	korea
+3172	1	investment
+1238	1	harry truman
+1979	5	montgomery county	montgomery blair	winfield	montgomery	poole
+1081	2	capt	captain
+3465	1	teddy
+1675	2	command	commander
+421	4	prague	munich	jericho	berlin
+3719	1	patton
+4809	1	providence
+1074	4	operation	operation iraqi freedom	operation barbarossa	clandestine operation
+1517	5	krasnodar	timbuktu	sicily	sardinia	mongol
+294	6	edward kennedy	kennedy	jolie	robert kennedy	ted kennedy	kennedy center
+22	2	train	station
+781	2	presbyterian	presbyterianism
+3761	1	general
+3221	2	luxor	heidi
+777	3	la	de	aaa
+3855	1	keyser
+4183	1	gut
+745	2	mt	mount
+1219	3	cemetery	hitler	nazis
+4613	1	club
+509	3	lebanon	syria	reconstruction
+257	4	maxentius	maximian	vespasian	worldnetdaily
+3645	1	apollo
+3650	1	reach
+4460	3	athanasius	shigatse	edmond
+4706	2	vegas	sting
+796	4	lithuania	poland	polish	ukraine
+4687	1	alba
+1	2	moravia	bohemia
+3434	1	tribute
+194	2	nose	cheek
+3810	2	nicomedia	zeno
+3726	1	hermitage
+4675	1	mint
+4412	1	carthage
+4404	1	empire
+218	2	fly	flight
+3878	1	temple
+615	2	dictatorship	dictator
+4702	1	tension
+3589	1	illyricum
+9	3	tiberius	caesar	claudius
+3790	1	fausta
+3471	1	crispus
+2679	1	goth
+1845	1	evolution
+457	3	math	principia mathematica	mathematics
+17	3	jacob	abraham	avraham
+4437	1	abram
+3991	1	scholar
+4504	1	mark
+2	6	def jam	right field	kurt angle	right side	sid vicious	mankind
+2558	1	joy
+4730	2	call	message
+4949	1	youth
+4814	1	relationship
+10	7	justin	dan	elvis	justin gaston	justin gatlin	justin masterson	justin timberlake
+413	2	jews	jew
+310	2	final	lost
+964	3	behavior	human	human behavior
+3702	4	judas	sad	golfing	chipper
+3744	1	theater
+1372	5	fund	agency	incentive	funding	hud
+4535	1	judaism
+3029	1	suzuki
+2314	2	monroe doctrine	princeton theological seminary
+1402	2	department	academic department
+562	1	philosophy
+1157	1	fort lauderdale
+20	2	air	jet
+4131	2	defense secretary	defense
+1696	2	central intelligence agency	collective intelligence
+247	1	nuclear weapon
+743	4	donald trump	donald	donalda	donald rumsfeld
+3252	1	surge
+3699	1	pentagon
+3857	1	show
+4451	1	isg
+2518	2	nuremberg	krakow
+845	2	adelaide	perth
+905	3	student	graduate	graduate student
+3498	2	red bell pepper	arugula
+3776	1	bodywork
+41	1	association
+564	2	plague	cholera
+4490	1	rehabilitation
+554	1	spirituality
+1478	34	plaxico burress	danneel harris	nightstalker	levaquin	micaiah	bill monroe	bernardsville	nassau county	detroit metro airport	chumash	ars electronica	law enforcement	terminal illness	bill watterson	radio frequency identification	obstructive sleep apnea	ponce	fra angelico	joshua	paul rassinier	edwardsburg	annual report	standard oil	harley race	southern illinois	max hoffman	rivotril	wladimir klitschko	mark souder	pam grier	marie antoinette	texas monthly	regional rail	shawn chacon
+437	2	freedom	liberty
+3783	1	bus
+4007	1	amendment
+3273	1	grand
+4660	3	parliament	likud	partition
+3612	2	wale	grizzly bear
+3207	1	medium
+3712	1	editorial
+4389	1	shipping
+4035	1	closure
+4525	1	master
+3446	4	vine	curry	beverage	sec
+1984	3	branch	west branch	long branch
+3205	1	string
+3518	1	order
+2859	1	necklace
+3628	1	hole
+4820	1	foot
+2759	1	rope
+3264	1	metal
+3718	1	supplement
+2775	1	po
+1371	8	netscape navigator	shop	pdf file	product	microsoft internet explorer	gq	internet explorer	gq magazine
+4072	1	accenture
+513	5	military science	political science	communist manifesto	intellectual property	research associate
+4499	1	broadway
+862	15	michael nylander	michael clayton	michael jordan	michael eisner	michael vick	michael connelly	michael owen	michael bowden	michael behe	michael korda	michael dell	michael steele	michael moore	michael arrington	michael longley
+4433	1	nba
+3673	1	jordan
+303	18	wesley clark	cal thomas	ryan fitzpatrick	dean ashton	jp morgan chase	virgin mary	clint hurdle	helen thomas	chris brown	kent state university	chris dodd	edward gibbon	toni elias	stanley marcus	brooke fraser	chris bosh	mark anthony	thomas hardy
+68	3	stanislaw lem	nicolas cage	nicolas batum
+4214	1	orlando
+4128	1	bomb
+4910	1	documentary
+197	2	mississippi	louisiana
+3244	1	division
+2689	1	junior
+2910	1	rcaf
+2470	4	mimi	jackie	ba	konami
+4325	1	naacp
+184	4	bontril	wyandotte	james patterson	james stewart
+2692	1	lori
+3671	1	element
+4577	1	rule
+1471	1	lung cancer
+3608	1	milk
+540	13	jim clark	tameka foster	john murtha	ken kesey	adsense	professor	john lennon	marton csokas	meg ryan	jeff bingaman	chimamanda ngozi adichie	ken starr	aly
+4994	2	file	list
+4869	1	paper
+3579	1	copyright
+3774	1	download
+969	2	video game	video
+3715	1	creation
+1026	1	hold
+1104	2	portuguese	spanish
+4345	1	printer
+3260	2	distribution	digital distribution
+3856	1	foam
+4198	1	ps
+3846	4	esquire	esquire magazine	magazine	print
+3432	1	weather
+4922	2	blogger	singer
+1647	1	music
+2528	1	missouri
+1091	13	kym johnson	jimmie johnson	andrew johnson	jack johnson	mountain view	general contractor	tim johnson	chris johnson	walter cronkite	president nixon	lyndon johnson	aaron brown	diaz
+4591	1	castle
+124	1	suicide
+4359	1	bedding
+4387	2	droopy	mattress
+293	4	cotton	tobacco	farmland	cereal
+1011	2	continental	continental army
+846	5	plane crash	lance storm	tom cruise	snow crash	space siege
+3276	1	row
+4519	1	stroke
+2179	1	phase
+176	2	britney	aguilera
+1217	4	liverpool	cardiff	sheffield	newcastle
+3572	1	lyon
+3688	1	signal
+1279	2	biology	microbiology
+2885	2	amr	ram
+2652	1	shock
+1590	3	ethiopia	eritrea	pondicherry
+2820	1	habitat
+297	7	randy	danny	sherwood	starter	kevin	brad	ky
+2379	2	check	check point
+4624	1	housing
+452	3	vermont	vt	vermonter
+3957	6	environmental science	fossil fuel	dyndns	charlie wilson	green bay	lush life
+914	1	matter
+129	41	andy murray	alanis morissette	daniel radosh	anthony bourdain	paul simon	santa barbara news press	susan rice	gary oldman	lindsay	teresa heinz kerry	geena davis	anne rice	len wiseman	billie jean king	martha rosler	estee lauder	gisele bundchen	seed	carol city	parke davis	lindsey	brady	rita wilson	eva	santa barbara	elton john	uc davis	carol ann duffy	carl sagan	tom hanks	julie andrews	winona ryder	carly fiorina	anna nalick	redford	chad michael murray	nassim nicholas taleb	tom brady	paul newman	sandra dee	daniel day lewis
+2326	6	boxing	ferdinand lassalle	jason marquis	writing	prince richard	general grant
+721	8	ridley park	terry labonte	al hayat	jared leto	yeshiva university	calvin johnson	dallas fort worth international airport	mountain biking
+1186	7	matt murton	john ford	clarence thomas	tim burton	old trafford	harrison ford	ford field
+1340	1	red sox
+1556	1	destiny
+367	9	vivien leigh	mary pickford	huston street	oscar wilde	alfred hitchcock	audrey hepburn	john huston	katharine hepburn	dorothy day
+4125	1	oriole
+425	13	muzio clementi	jason leopold	cmu	michael haydn	ludwig van beethoven	holy roman emperor	margaret mitchell	carl czerny	telemann	margaretha	tchaikovsky	leo strauss	matt clement
+3490	1	brewer
+1576	15	eddie irvine	cavendish laboratory	retail banking	martina navratilova	kevin kline	abbott lab	aurobindo pharma	thornton wilder	uc irvine	cc sabathia	tikiwiki	sam houston	nancy werlin	ferruccio busoni	scott podsednik
+4	2	win	contender
+3600	1	error
+4713	1	holliday
+4768	1	casper
+531	2	blue	purple
+2771	1	ticket
+3654	3	francis	jeff francis	francis bellamy
+374	1	shift
+3803	2	hit	big hit
+2424	7	burnett	david brainerd	erin burnett	joan crawford	lil wayne	fort wayne	david arquette
+1990	1	wild country
+3414	2	alaska	whale
+1052	4	fish	hard work	codfish	remote
+641	5	wordpress	ms office	open office	iceberg	staroffice
+4193	2	finnish	finland
+4098	1	cabinet
+4289	1	transylvania
+24	4	glendale	carlsbad	pattaya	scottsdale
+1383	10	gary bauer	alice walker	whoopi goldberg	wayne gretzky	nikki reed	michael caine	tribune co	brad grey	brad johnson	jamie dimon
+4190	1	lady
+2756	1	booklet
+4906	1	designer
+3817	1	feasibility
+2607	1	loft
+1735	2	honda	toyota
+103	4	sacred heart	valueclick	calculated risk	altered carbon
+4315	1	palate
+4528	1	genesis
+4113	1	al
+4177	1	logistic
+3187	1	kia
+4399	1	role
+4470	1	ie
+112	3	holiday	visitor	travel
+4898	1	virgil
+2164	18	caml	nick faldo	tony iommi	juliette binoche	ulan bator	gabor szabo	indore	grand blanc	miriam makeba	nicole scherzinger	club penguin	olkhon	variation	django reinhardt	wikio	donkey kong jungle beat	meryl streep	el monte
+925	1	friend
+469	3	slovenia	bosnia herzegovina	croatia
+757	2	zagreb	belgrade
+3914	1	humanity
+3609	1	plugin
+4298	1	creativity
+644	10	david broder	david byrne	david bowie	david pogue	david geffen	david brower	david ruffin	david gilmour	archie shepp	david dellinger
+3080	5	comcast	circulation	cable	comcast cable	operator
+2697	1	wave
+3741	1	universe
+4409	1	appeal
+4777	1	hiatus
+3920	1	peach
+127	6	mark twain	chuck palahniuk	patsy kensit	romper stomper	jennie garth	author
+4167	1	earthquake
+263	2	brand	astrazeneca
+3026	1	spot
+4979	2	achievement	recognition
+3270	1	saloon
+1085	2	clarksburg	lynchburg
+400	3	beckett	wilde	weis
+2722	1	myspace
+4552	4	elisha	kauai	crisp	maui
+4940	1	halloween
+4822	1	impact
+1006	4	gallery	photo	photograph	photo gallery
+568	8	sony bmg	entertainment	sony music entertainment	black entertainment television	sony corp	world wrestling entertainment	entertainment tonight	publishing
+3115	1	square
+4484	1	level
+370	6	dave	tim	steve	dave matthews	jeff	matt
+2646	1	physiology
+89	2	income	fee
+2074	9	jimmy carter	june carter cash	dad	june carter	tim pawlenty	inspection	evan bayh	gary carter	mike huckabee
+2217	17	hunter college	davie	kevin nash	kevin rudd	itraconazole	kevin klose	gavin	buff	kevin costner	kevin bacon	strength	krajina	ufc	mandan	kevin garnett	wasteland	rectangle
+4669	3	physical activity	activity	plant food
+3921	1	play
+492	3	fishery	shawnee mission	osx
+794	5	cornette	clarinex	marbach	boris	neurology
+1336	3	kate winslet	female	globespan
+1108	2	spirit	essence
+2741	1	design
+387	3	outcome	bradford	bolton
+4003	1	vincent
+3988	1	revenge
+1360	5	nietzsche	wilhelm	tsar	esau	haku
+2618	1	beginner
+843	5	live search	disaster	search	star search	taijutsu
+3830	3	defeat	everton	anfield
+624	4	springfield	erie	buckeye	rockford
+4545	3	lamb	garlic	carrot
+46	2	henderson	marshall
+4142	3	funchal	curitiba	niceville
+1335	21	weslaco	moorpark	fr yugoslavia	sierra vista	ramona	el cajon	heart	santa monica high school	adobe indesign	el centro	toledo	buena vista	oaklawn park	kolo toure	leawood	macalester college	mcmurdo sound	marc silvestri	kino video	crestview	alta vista
+141	15	tullahoma	gardena	hudsonville	gainesville	watsonville	alticor	hendersonville	hemet	batesville	eatonville	bentonville	celina	ukiah	madisonville	petaluma
+3672	1	pepsico
+1111	6	revere	glendive	whataburger	whitefield	george whitefield	wildwood
+648	3	willemstad	dunedin	invercargill
+3093	12	sevierville	milledgeville	waterville	westerville	lakeville	stillwater	silverdale	porterville	barnesville	uttaranchal	aiken	dyersburg
+584	3	grafton	chester	west chester
+4127	2	brownsville	vallejo
+1738	9	lisle	millington	podcast	aj	ray lamontagne	phnom penh	thierry henry	dan gillmor	marc andre fleury
+764	18	harold pinter	christmas carol	shaquille oneal	baker street	american jewish world service	oxford music online	store manager	levoxyl	deerfield beach	olaf stapledon	bryn mawr college	british guiana	pacific bell	plaxo	viral marketing	filmmaker magazine	carphone warehouse	wikimedia foundation
+4179	1	elko
+4918	1	hampton
+80	20	summerville	thomond	ludlow castle	marshalltown	chartwell	lawndale	merrillville	south park	tidworth	beachwood	arcetri	leeuwarden	devonshire	blairgowrie	titusville	bharatpur	minnetonka	dalaman	westlake	trumbull
+1124	1	mount pleasant
+4771	1	ban
+237	4	la habra	daytrana	fernandina beach	chula vista
+1220	2	fairfield	blackrock
+2808	1	newton
+3161	1	compton
+565	6	lakewood	greenville	palatka	mcallen	denville	acworth
+939	5	walnut	oak	leaf	cypress	pine
+647	3	springdale	grove	kissimmee
+2433	1	spring
+2146	8	ogdensburg	meadville	crawfordsville	goodlettsville	middleboro	vacaville	pulaski	crawfordville
+537	7	akita	clarksville	indianola	mckeesport	amboise	icelander	moorestown
+866	1	frederick
+3395	1	waterloo
+2294	4	morgan city	albert	morgan hill	morgan
+1542	4	camden	woonsocket	covington	bordentown
+1967	3	belichick	gretna	dungy
+3171	1	ypsilanti
+4798	2	chittorgarh	riverview
+1468	2	metairie	plano
+4403	2	boro	albion
+4078	1	seward
+287	10	chinquapin	willimantic	vermillion	suwanee	mukilteo	caffeine	tangier	boonville	deland	portage
+447	4	clifton	randolph	littleton	weston
+1400	2	inn	yosemite
+4695	2	harlan	locke
+3028	1	aurora
+4496	7	cilantro	vegetable	baby spinach	pasta	spinach	coriander	parsley
+5	5	la grange	mount blanc	chateau marmont	pinot blanc	mountain
+302	3	artesia	waukegan	kenosha
+249	2	venice	florence
+4847	1	tallahassee
+2167	8	lore	tony gilroy	bruce clay	bruce chatwin	morton downey	reggie bush	afc	lenexa
+4530	1	burlington
+274	9	hilton head	coral	southwest	northeast	island	hilton head island	cape coral	south florida	proposal
+2687	3	christmas	christmas eve	christmas day
+4557	2	bellingham	bremerton
+1438	5	androgel	rancho mirage	rancho santa margarita	los altos	inyo county
+1008	7	bay city	cedar city	rapid city	sioux city	culver city	mason city	dodge city
+1423	3	inglewood	wellington	wellesley
+806	1	hawthorne
+606	1	torrance
+4903	1	pepperoni
+881	25	sam bradford	faith hill	christopher lee	stern john	christopher walken	john malone	john robinson	van buren	john smoltz	ray bradbury	buckingham county	henry flagler	robert penn warren	tracy mcgrady	hyde park	barbara lee	keri hulme	john mitchell	dick armey	jensen beach	martin van buren	james river	furman	stuart townsend	howard lederer
+1541	3	sarasota	indialantic	bradenton
+3155	1	seguin
+4067	1	cupertino
+4551	2	sunnyvale	conroe
+1905	5	fountain	garden grove	waverly	garden city	garden
+53	15	old saybrook	hazleton	kensico cemetery	lakewood church	andy schlafly	frida	new smyrna beach	owasso	vero beach	makassar	seal beach	glen cove	laurel hill cemetery	rehoboth beach	bensonhurst
+2209	3	clermont county	clermont ferrand	clermont
+55	2	chambourcin	ocoee
+251	3	torrington	watertown	medford
+1737	1	stanton
+2757	1	anaheim
+4064	1	irvine
+718	5	fort ticonderoga	juan pierre	ormond beach	fort sumter	fort pierce
+4765	3	preston	bristol	lane
+463	1	lynn
+3632	3	josiah	kalinga	jasper
+339	3	alton	benton	fulton
+517	2	harrisburg	greensboro
+3305	3	calder	flint	paducah
+1014	14	davison	dickenson county	sindh	king william county	ingham county	collin county	whitfield county	johnson county	james city county	ritchie county	henrico county	king george county	canterbury	agri
+665	7	st augustine	complex	beach	augustine	saint augustine	sand	ludlow
+3594	14	muskingum county	arunachal pradesh	vung tau	mumbai airport	merced county	madhya pradesh	andhra pradesh	himachal pradesh	himachal	siddhartha	apple valley	uttar pradesh	county mayo	plumas county
+4187	3	edinburg	burnsville	orem
+4592	1	park city
+1139	3	penelope cruz	penelope	hartsville
+3479	1	okeechobee
+4388	1	gulfport
+2128	12	jim brown	bobby rush	pink floyd	charlie musselwhite	john brown	jack black	jerry brown	bobby brown	bobby cox	dee brown	jack kemp	dee
+3272	1	co
+525	2	hauppauge	peekskill
+3054	1	resort
+1553	5	mount kenya	mount vernon	mount holly	joseph finder	mount hood
+1921	2	cathedral city	cathedral
+723	5	rosario	indio	oxnard	avocado	modesto
+2640	2	costa mesa	mesa
+1179	1	riverdale
+3135	1	helena
+1194	3	fredericksburg	blacksburg	kerrville
+186	1	boulder
+1800	2	brighton	chelsea
+2850	12	cheshire	folkestone	lanark	beaufort	avon	iona	cornwall	devon	cootamundra	surrey	lancaster	severn
+2622	5	chesterfield	stirling	lewes	glen burnie	whitby
+1578	2	galveston island	galveston
+4438	2	savannah	savanna
+4887	1	absecon
+656	3	dawson	sawyer	mchale
+747	5	lombard	canandaigua	utica	kingsport	waterbury
+3989	2	vail	moab
+1150	4	mauldin	morganton	kingman	morgantown
+125	3	bern	canton	schaumburg
+1704	2	urbandale	preta
+822	2	neptune	jupiter
+4458	4	pflugerville	westerly	covina	hialeah
+4192	4	kenner	moe	lionel	mario
+1084	7	belize city	placer county	elk grove village	national semiconductor	target corporation	podor	great bend
+1543	5	bird	buffalo bill	valley	larry bird	may
+4704	2	provo	springville
+108	2	evan	gregg
+602	4	john denver	marianna	tcm	pulmicort
+51	1	arlington
+3648	1	homestead
+671	3	paramount	warner	beverly
+1903	4	lemonade	lemon grove	peep	lemon
+3698	9	daly city	chardon	jennifer lopez	jennifer granholm	cakewalk	jennifer aniston	jennifer garner	jennifer hudson	jennifer flavin
+937	4	snow leopard	jordan river	tropic thunder	sac
+4518	4	mango	cane	cocoa	fruit
+3047	2	fico	sebastian
+4620	1	quincy
+842	3	leopold	beatrice	isabella
+2145	2	stumbleupon	face
+64	2	carson	sommer
+2290	4	port st lucie	apple iphone	apple inc	apple ipod
+3596	1	fort washington
+4554	1	cary
+25	3	shore	clearwater	bay
+2960	6	chincoteague island	international sos	mediterranean sea	montelukast	oxford university press	atlantic beach
+4316	2	staunton	inverness
+3059	4	bath	buda	berkshire	abbey
+1222	19	holden caulfield	wallace beery	joel coen	phenix city	richard rosenblatt	levon helm	chronic pain	awa	bobby zamora	raymond chandler	janssen cilag	sam hamill	cordova	joel osteen	laughlin	eddie van halen	vise	lisa kudrow	ucsb
+4627	1	clarksdale
+1384	1	billion
+3351	3	danish	sweden	denmark
+326	2	malaysian	singapore
+2599	1	luxury
+3423	3	commonwealth	species	unesco
+1958	3	egypt	uae	venezuela
+1987	3	foxnews	news corp	newscorp
+569	1	journal
+4022	1	gannett
+2611	1	oj
+1446	7	ariel sharon	ron weasley	ehud barak	lech walesa	medea benjamin	ben foster	shlomo ben ami
+2947	1	newsday
+1001	2	australia	australian
+4785	1	directv
+4717	1	alternative
+3930	1	watch
+1424	3	billy	jack	charlie
+1820	2	advertisement	advertising agency
+3956	1	rove
+2934	1	hustler
+2724	1	wsj
+155	1	post
+248	2	hall	fame
+736	1	whooping cough
+823	2	bronchitis	pneumonia
+1750	2	vaccination	vaccine
+4575	1	baby
+4478	1	killer
+43	1	threat
+1819	1	server
+4547	1	raven
+3909	1	regina
+3571	1	crosby
+688	5	primo levi	qt	rambler	brunson	institute
+1527	4	dustin hoffman	reid hoffman	comedian	hoffman
+1683	4	eddie murphy	stephen king	stephen hawking	eddie cochran
+4900	1	soundtrack
+4197	1	pascagoula
+2181	1	herman wouk
+3789	1	hip
+279	5	gloria borger	gloria estefan	sean penn	frida kahlo	la jolla
+2776	1	anguilla
+3405	1	wantagh
+3254	1	song
+3266	1	tour
+1655	1	grammy
+3902	1	award
+3126	2	parent	rca
+250	1	stuff
+4120	2	bone	disc
+1951	2	hunter	hunt
+4281	1	lead
+4832	1	report
+3693	4	fulham	leicester	wigan	charlton
+471	10	palo alto	machu picchu	zaragoza airport	west coast	el paso	los cabos	el tiempo	el dorado	real madrid	los gatos
+4156	1	crisis
+4966	17	western michigan university	central michigan	henry clay	royal albert hall	eastern michigan university	amador county	pulp fiction	minor white	peter green	southern methodist university	edinburgh castle	lorelai gilmore	albemarle county	peter sellers	ditropan	mendocino county	lower austria
+133	4	vijay singh	raja bell	deepak chopra	anish kapoor
+3565	1	pattern
+1963	2	kenya	tanzania
+3661	1	nassau
+4169	4	jodhpur	lahore	rawalpindi	suva
+915	4	insurance	tx	health insurance	medical insurance
+664	1	commission
+34	4	task force	richard power	army reserve	naval reserve
+4157	1	taxation
+1099	2	wisconsin	log
+1740	2	explosive	cell
+3262	1	pound
+2241	8	sweet potato pie	sawai madhopur	white pine	basil rathbone	feta cheese	jack cheese	bbq sauce	captain cook
+4760	1	red
+4037	1	regeneration
+4897	1	rebirth
+1481	3	red herring	isla fisher	burt rutan
+4082	1	epic
+4111	1	rn
+2774	1	inferno
+3714	1	biography
+2749	1	live
+3002	2	chatham	montauk
+2911	1	alarm
+3301	1	ovid
+2534	1	exposure
+4725	1	folder
+4375	2	nas	ns
+2463	2	button	rear
+2789	1	privacy
+4699	1	psychosis
+2691	1	impulse
+3543	1	bend
+3668	1	dependence
+2405	1	confusion
+4840	1	nation
+4698	1	fatigue
+1071	14	trish stratus	andy sidaris	jason giambi	anna faris	kevin youkilis	black theology	youk	jason kidd	jason bay	justin chatwin	giambi	jason calacanis	walt whitman	bad idea
+1627	6	victor serge	mario vargas llosa	cristina	victor horta	victor hugo	victor
+90	2	miscarriage	pregnancy
+4877	1	felony
+622	1	situation
+4265	1	provider
+3095	1	continuum
+1278	1	exercise
+4061	3	messi	match	kiwis
+3407	1	cloture
+4411	1	bakersfield
+3477	12	washtenaw county	chittenden county	prince edward county	rockland county	nyse euronext	coahoma county	trumbull county	hunterdon county	tippecanoe county	riverside county	rockbridge county	audrain county
+3986	1	strategy
+86	2	new brunswick	kingston
+3658	3	griffin	kiffin	lane kiffin
+1498	1	new
+2645	1	wildlife
+3424	1	classroom
+4215	1	balm
+814	6	lieberman	senator lieberman	joe lieberman	sue	joseph lieberman	beth
+4194	1	navy
+424	3	barney	halstead	farley
+2131	4	amazon com	gmail	youtube com	youtube
+4328	1	ebay
+4680	2	cd player	cd
+2809	1	menu
+388	2	technology	technorati
+1431	1	format
+4272	1	pc
+2693	1	edition
+4140	2	dvd player	flash player
+3924	1	exhibition
+4065	1	gb
+196	2	preview	imovie
+351	2	carrie	rebecca
+1720	1	version
+1273	3	mtel	audio	digital
+307	3	maybelline	rocketboom	anastacia
+4986	1	netflix
+3575	1	arrival
+4117	1	guilford
+3144	1	awesome
+4371	1	upgrade
+4174	1	insert
+244	2	pat	kenny
+678	1	monday
+848	5	nbc universal	universal music	universal press syndicate	universal	universal music group
+1771	1	loop
+2708	1	bonus
+4195	1	cpl
+676	2	urdu	hindi
+2205	1	ee
+4196	1	fast
+4045	1	flavor
+2168	2	gary	dennis
+362	3	infoseek	official website	active directory
+3607	1	vista
+4311	1	plot
+1079	2	star trek	star wars
+561	2	documentation	adobe software
+3344	1	instruction
+1643	1	homepage
+4031	1	storage
+2342	1	saigon
+4975	1	discount
+3899	2	client	customer
+1267	1	dd
+3941	1	trailer
+4586	1	euro
+2854	2	hd	nextel
+140	1	offer
+815	1	piano
+2191	1	scene
+4394	1	sd
+1189	19	ernest hemmingway	bob ney	joe calzaghe	john fogerty	bob marley	stevie wonder	thomas nelson	larry fitzgerald	joplin	eric clapton	desmond tutu	kerr	jackie chan	roy orbison	eddie vedder	bobby kennedy	bob dylan	brenda song	brendan canty
+3247	1	sony
+2985	1	pause
+4590	1	commentary
+3056	1	animation
+967	2	imperial war museum	toy story
+4049	1	nab
+589	2	evander holyfield	boxing day
+4217	1	wii
+4879	1	ld
+4266	1	meditation
+4710	3	kite runner	fellow	blade runner
+3037	1	disk
+661	2	macs	itanium
+146	1	component
+4514	1	gigabyte
+4410	2	ireland	argentina
+2627	1	border
+4640	1	archive
+977	10	christian bale	seth godin	shea weber	ray kurzweil	randall jarrell	naomi klein	amnesty international	waterland	wyeth ayerst	david whitmer
+4130	1	toshiba
+4837	1	paypal
+3480	1	episode
+4932	1	timer
+2887	1	cinema
+3303	2	css	freeport
+1968	1	intimacy
+3206	1	mouse
+4141	1	device
+980	4	dirt music	roxy music	rock music	warner music
+2357	3	daft punk	hardcore punk	cm punk
+3876	1	diagnosis
+3060	1	obesity
+4973	1	ron
+4273	1	ben
+1823	2	harry potter	potter
+202	1	reward
+2505	1	dna
+2123	12	ultramar diamond shamrock	blue bell	connie mack	acadian french	diamond head	silver jews	nate silver	blue jacket	silver spring	rogue wave	brutus beefcake	one trick pony
+3165	6	dodge	talladega	arca	indy	irl	lap
+3436	1	smithsonian
+2766	1	field
+3940	1	corner
+4161	2	draw	killing
+4469	1	auction
+630	6	arena	winnipeg	edmonton	lynx	calgary	mississauga
+1312	1	minimum
+174	2	suriname	guyana
+4164	1	astronomy
+3453	1	nasa
+448	1	phd
+181	4	buzz	buzz aldrin	depeche mode	the beatles
+286	2	buddy	chuck
+2723	1	eagle
+3716	1	wikipedia
+4998	2	pasadena	pasadena city college
+4331	1	salem
+84	2	edinburgh	glasgow
+3949	7	pristiq	terry gordy	msn video	bodog	lincoln university	megan hauserman	alan lightman
+2341	1	gamble
+637	3	dick	tail	tom
+3781	2	brett favre	favre
+386	3	lucasfilm ltd	disney world	linuxworld
+2512	1	gp
+2538	3	rain	storm	hurricane
+224	5	colmar	mannheim	leipzig	bonn	heidelberg
+1341	2	chandler	raymond
+4643	1	knight
+2866	3	afp	combivir	nairobi
+4050	1	mo
+3813	1	benzene
+2202	1	propane
+1350	5	tesco	revlon	yasmin	daughtry	mastectomy
+1235	5	mol	volkswagen golf	volkswagen ag	sap	volkswagen
+2954	1	keystone
+435	3	genoa	palermo	bologna
+4144	3	sugriva	fluor	conquer
+4755	1	vehicle
+2891	1	teller
+719	13	nelson mandela	frank lautenberg	pratt	lauren conrad	gerald ford	joseph conrad	terri schiavo	theodore dreiser	frank herbert	henry waxman	herbert hoover	astronaut	martin landau
+4723	1	archetype
+1249	6	manhattan	lower manhattan	downtown manhattan	midtown manhattan	manhattan project	manhattan beach
+1991	4	antipas	monarch	koxinga	herod antipas
+1334	2	diarrhoea	diarrhea
+1162	3	olive oyl	healthy diet	olive oil
+4654	1	fat
+2051	2	preeclampsia	actos
+4294	1	borrego
+2279	2	sega	hbo
+4119	1	friendship
+3045	1	flash
+255	2	hannover	hamburg
+2728	1	lic
+2351	11	al anon	ansar al islam	nextel cup	western ukraine	gene snitsky	codexis	cheap trick	svetlana kuznetsova	big brother	cubicin	neisseria gonorrhoeae
+594	2	martinsville speedway	martinsville
+3981	2	public service	aps
+4457	2	joseph haydn	haydn
+2000	1	adhd
+3298	2	dundee	aston
+981	1	flute
+3372	1	goddess
+4342	1	crowd
+4956	1	artist
+1664	5	arthur andersen	arthur	arthur ashe	arthur miller	arthur koestler
+1140	9	paris hilton	andrew stanton	daniel radcliffe	activision	francis hopkinson	peter lawford	fair isaac	peter moore	peter sutherland
+4378	1	generation
+3651	1	beauty
+3238	1	card
+3281	1	candle
+4570	1	guilt
+3888	1	chip
+2898	1	volt
+3025	2	neal	shaq
+1387	1	guard
+385	27	madison square garden	jack layton	annie hall	kenzie dalton	tim bray	darling harbour	shaun livingston	mandy moore	chad hurley	sara jane moore	lloyd	bay ridge	nick denton	rich	cotton mather	demi	bonnie somerville	ocean ridge	joost	port richey	new port richey	oliver north	haley barbour	harbour	park ridge	tom ridge	demi moore
+4432	1	lexington
+3397	1	rondo
+1624	3	logan	marion	wayne
+1684	1	rocket
+4625	1	lakers
+4284	1	strawberry
+1646	1	pf
+4076	3	nexium	humira	bhp
+927	2	medellin	bernardo
+1086	2	evil	wicked
+859	3	unix	hewlett packard	linux
+4737	1	ruby
+398	4	marlborough	link	woodbury	marlboro
+2642	2	ds	amiga
+2772	1	parole
+2491	1	scully
+696	2	tensas parish	epidemic
+266	2	public citizen	citizen
+2311	1	malta
+3062	2	discrimination	singulair
+4893	1	rise
+61	5	richard	harold	julia roberts	robert	saul
+514	2	find	duncan
+1678	2	bounty	treasure
+621	2	carnegie mellon university	tolkien
+4741	1	jamestown
+1352	1	dortmund
+1357	5	utah jazz	john coltrane	sonic youth	rascal flatts	joe satriani
+4168	1	comeback
+383	7	sutent	ravel	michaelangelo	leonardo da vinci	da vinci	leonardo	michelangelo
+3027	1	adventure
+3201	1	plane
+3933	1	eye
+3141	1	ebro
+3660	1	tb
+444	3	hamilcar barca	ryazan	nafplio
+3369	1	hike
+500	3	pamela	cheryl	cindy
+4286	1	poison
+1284	2	superman	batman
+376	1	secrecy
+3811	1	segment
+3353	1	susa
+4081	1	costume
+3364	1	elite
+2596	1	authority
+1358	4	ken nelson	jameer nelson	mandela	willie nelson
+3627	1	nuance
+2608	1	matrix
+2573	1	fantasy
+2862	1	label
+3926	1	janelle
+3476	1	tragedy
+2602	1	disneyland
+2699	1	cr
+2629	1	meter
+3812	1	guardian
+991	6	lise meitner	franz marc	franz kline	adolf hitler	kline	franz kafka
+1212	2	nero	caligula
+3833	1	merton
+1484	2	tricia	molly
+3886	1	theodore
+551	12	erik satie	martin sheen	aaron copland	martin luther	teddy roosevelt	luther	martin buber	william somerset maugham	martin amis	martin havlat	duke ellington	bach
+4372	1	younger
+4889	1	canonical
+3203	1	audubon
+856	2	zachary	dupont
+4541	2	avodart	gustave flaubert
+262	12	roland burris	edgar allen poe	guy vanderhaeghe	edgar allan poe	tom fazio	eric dolphy	glen arbor	eddi reader	san ignacio	thomas bewick	matt leinart	edgar snow
+628	3	sas	marsden	rl
+857	2	joseph	samuel
+526	2	william blake	blake
+2561	1	lupus
+4529	1	phuket
+1206	4	husayn	napoleon bonaparte	maurice maeterlinck	napoleon
+962	2	sukarno	suharto
+1368	2	doe	kbr
+4402	1	tony
+3322	1	utah
+4999	1	flovent
+364	2	flonase	invirase
+3835	1	pushkin
+4417	1	swank
+1731	3	ed bradley	haaretz	bradley
+4369	2	stratford	boba
+2962	12	wyclef jean	brandon roy	marcus allen	jon favreau	shannon stewart	brian lee	bobby labonte	adrian brody	brian griese	greg kinnear	brian eno	avril lavigne
+3831	6	human computer interaction	taftville	garden state	vivendi universal	vsam	thierry lincou
+1041	4	nasdaq	russell	kurt russell	parker posey
+3152	1	aix
+3236	1	yoga
+2788	1	outlook
+1483	1	anna
+3927	1	darvon
+3017	1	differin
+1799	2	cymbalta	sukkot
+626	1	topamax
+4747	2	zacarias moussaoui	krav maga
+62	2	starbucks	lupron
+304	1	eligard
+4676	1	hrithik
+1172	2	linda	barbara
+1901	1	sky
+3564	1	ruth
+139	22	kurt warner	mark coleman	kyle orton	willy brandt	heston blumenthal	jeff jarvis	mark seliger	jason epstein	julia fischer	bobby fischer	jeff suppan	jann wenner	liv tyler	matthew vaughn	kurt busch	bill mckibben	matt lauer	kirsten gillibrand	curt schilling	eric schlosser	dawn powell	hanley ramirez
+2709	1	xanax
+357	4	clonazepam	vibramycin	lorazepam	alprazolam
+32	2	bear	wolf
+3753	1	pashto
+489	3	paterson	patterson	storrs
+3231	4	nsync	io	comair	shakira
+4976	1	accutane
+3362	1	kyle
+2764	1	latin
+1155	2	paul wellstone	calvin coolidge
+288	1	sarko
+4424	1	jr
+2329	1	dubya
+996	1	british
+831	2	harvey	frank
+1144	3	robert ludlum	isaac asimov	asimov
+4578	1	desai
+4690	1	dubai
+2044	3	russell crowe	crowe	newman
+215	15	beatrix potter	sophia loren	sophia bush	melville	katherine heigl	beatrice wood	hugh grant	grace kelly	anne enright	cary grant	rebecca gayheart	helen keller	willa cather	bald eagle	helen mirren
+1262	12	orlando bloom	peeble	frost nixon	jim zorn	cissy houston	iggy pop	san joaquin county	robert plant	ray tomlinson	san dimas	texas university	kimberly clark
+3838	1	bloom
+4066	1	juneau
+118	1	ralph
+1190	2	ravi shankar	shankar
+4604	3	choi	bobby	sam
+4849	1	cynthia
+2372	2	riley	mckinney
+2906	2	abta	bangkok
+344	1	ian
+4612	2	buddhism	taoist
+242	2	beatty	caine
+1246	41	shannen doherty	patrick leahy	saki	crowley	eliot	neil young	mariah	tim geithner	azar nafisi	scarlett johansson	robin hobb	nathaniel hawthorne	sigrid undset	writer	meg cabot	garrison keillor	jack kerouac	andy roddick	rhonda byrne	landon donovan	paul mccartney	michael pollan	samuel taylor coleridge	neil gaiman	sean	jeremy clarkson	neil patrick harris	hillerman	pete doherty	tyler cowen	carlo collodi	hilary duff	hemingway	anton chekhov	jada pinkett	john updike	carole lombard	george eliot	richard wright	carole	kahlil gibran
+970	2	eve	louise
+3456	1	tehran
+70	3	kirk hammett	kirk kerkorian	kirk
+627	2	viet nam	harrison
+730	2	hasbro	disney
+1725	3	stanley	stan	stanley kubrick
+2134	1	acrobat
+1381	4	adobe acrobat reader	adobe acrobat	adobe reader	acrobat reader
+456	10	george stephanopoulos	coloma	edmund crispin	boromir	minden	john negroponte	rb	abby	rahm emmanuel	rahm emanuel
+1003	1	beijing capital airport
+4317	1	symantec
+2227	8	jon kitna	sammy hagar	jay leno	jay	david otunga	aaron lennon	kay hagan	kelly pavlik
+1225	12	hefei	surabaya	changsha	hunan	zhengzhou	guangzhou	yokohama	tabriz	hangzhou	guilin	yangzhou	qi
+750	2	mount kilimanjaro	kilimanjaro
+2328	8	john thune	ted nugent	john thain	buddy guy	tom wolfe	damon huard	john cabot	long john baldry
+3466	1	thain
+4487	3	cornelius	baldwin	spartacus
+239	7	sanchez	gonzalez	rodriguez	lopez	ortiz	david ortiz	perez
+2385	1	erectile dysfunction
+2347	1	jujitsu
+3952	1	epivir
+462	2	mclaren	coulthard
+2902	19	gordon lish	fluvanna county	aciphex	ron perlman	erlotinib	jeri ryan	iris chang	tucker carlson	jethro tull	aonia	floyd landis	peter sarsgaard	kyle lafferty	jon postel	dan savage	citizen kane	sarah lawrence college	lee carroll	eli roth
+538	2	dumaguete	bacolod
+2043	6	asia pacific	cathay pacific	pacific ocean	pacific poker	tradition	pacific coast
+1944	3	ruth rendell	rendell	ed rendell
+253	2	doris	helen
+544	1	cruz
+1347	1	shire
+596	3	jesse	jake	jess
+1441	2	hhs	dhhs
+1726	1	homer
+4218	2	barbara boxer	boxer
+2972	1	mold
+2025	5	ursula le guin	jude law	antonio esfandiari	ac milan	tel aviv
+4427	1	antonio
+1151	6	natalie cole	rachel carson	rachel weisz	kate beckinsale	gwyneth paltrow	kyle maclachlan
+203	3	bruce	boyd	gordon
+3077	1	paralympian
+172	5	mikhail gorbachev	nikolai gogol	morton grove	andrei sakharov	nikolai vasilievich gogol
+1019	11	david beckham	matt hasselbeck	glenn beck	heinz field	steven gerrard	mary steenburgen	usatoday	mario manningham	steven	david hockney	nick hornby
+742	1	knox
+2824	1	expedia
+1123	9	calipari	mickey mouse	sierra leone	tony dovolani	costa rica	eris	john calipari	chaosium	benicar
+3363	1	ub
+2288	2	barbra streisand	anthony kiedis
+3	3	philippe	pierre	jean
+382	5	philip roth	flaubert	henry roth	stephane dion	celine dion
+2807	1	eustis
+844	6	knightley	kim kardashian	catherine deneuve	laurence olivier	angelina jolie	cate blanchett
+4807	1	ventura
+3553	1	lara
+669	1	fossil
+2654	1	cfl
+4599	1	cherokee
+4845	1	portsmouth
+2409	1	hugo
+381	2	alphonso taft	castile leon
+97	4	pittsburg landing	whitney houston	miami heat	indiana jones
+992	8	christ jesus	paul wolfowitz	stein	john campbell	paul volcker	ben bernanke	ben stein	paul krugman
+460	4	jefferson airplane	william jefferson clinton	jefferson davis	weber
+679	5	ginger root	chuck berry	ginger baker	root beer	halle berry
+4454	2	paul gauguin	gauguin
+148	3	tiger woods	redwood city	forest whitaker
+3868	2	isaac	yitzchak
+2276	1	yankee
+3570	2	newark	jfk
+2460	1	jim
+1113	2	aleppo	damascus
+423	5	zulfikar ali bhutto	rashid khalidi	jalal talabani	abdullah ocalan	nawaz sharif
+3387	2	gmt	beacon
+2174	5	jenny mccarthy	joseph mccarthy	peter fonda	cormac mccarthy	john goodman
+4631	1	ib
+3304	1	equallogic
+716	2	glucophage	glucosamine
+917	2	neiman marcus	marcus garvey
+623	2	margaret	elizabeth
+1931	1	evergreen
+3664	1	binghamton
+2529	1	shogun
+470	2	brightcove	silverlight
+1228	3	jordin tootoo	pay pal	puget sound
+126	2	bowie	coldplay
+2937	1	morse
+3487	1	honorable
+539	4	toni morrison	morrison	jim morrison	turner
+4160	3	kathryn	kaufman	sherry
+461	1	lehman
+419	4	cagliari	grenoble	montpellier	lille
+4110	3	ceramic tile	dichroic glass	silicon valley
+3081	1	biden
+804	2	nancy	nicole
+120	6	alex katz	saul alinsky	maksim chmerkovskiy	mark kurlansky	vladimir horowitz	karina smirnoff
+2522	1	kunitz
+4598	1	franz
+4691	1	aig
+1132	2	nicklaus	jack nicklaus
+2825	1	quicktime
+1215	2	strattera	desloratadine
+4538	1	roslin
+755	4	tyson	marat safin	martina hingis	mike tyson
+3692	1	hepatitis
+2569	1	crv
+2141	1	palin
+631	2	psychotherapy	hypnotherapy
+4606	1	roger
+4097	1	catia
+887	14	joan miro	alberto salazar	san mateo county	lee ranaldo	robert kubica	dave navarro	monte carlo	pat benatar	torre	jose silva	jose mourinho	joe torre	ken salazar	donna brazile
+4846	1	dale
+2065	6	posterous	ben stiller	sun devil stadium	avram grant	vinod khosla	dale earnhardt
+3577	4	pocahontas	shakespeare	william shakespeare	hib
+501	2	kate	katie
+2447	1	lord
+1247	8	cory booker	sheryl crow	bill bryson	gene simmons	jac holzman	joe biden	woody allen	woody guthrie
+1462	2	coconut palm	coconut
+2193	1	abhishek
+4221	1	boccaccio
+3929	1	pachyderm
+1913	5	richard thompson	bennie thompson	ken thompson	thompson	emma thompson
+225	2	eminem	ludacris
+1544	11	community emergency response team	nifedipine	google search	google sync	google calendar	froogle	fresh air	google browser sync	google reader	fall river	google news
+1256	2	exxon	exxonmobil
+3915	1	katz
+524	5	tunis	ecma	tripoli	headquarters	gcc
+3504	1	bayer
+2560	2	yiddish	postmodernism
+3377	1	frankie
+753	2	queen victoria	capetown
+3349	1	omar
+1717	2	soviet	ussr
+4576	1	peggy
+3461	1	ham
+14	2	garcia	ramirez
+711	10	beethoven	mozart	johann sebastian bach	stravinsky	wolfgang amadeus mozart	brahms	johnny rotten	musician	glenn danzig	georg philipp telemann
+3819	2	motorola	nvidia
+4089	3	ralph nader	nader	elliott
+1975	2	rodney	barker
+4752	1	mckay
+2152	1	visual basic
+282	7	diana krall	duncan hunter	nimh	ewan mcgregor	mark hamill	bram stoker	sam allardyce
+4793	1	eric
+122	2	tiger	leopard
+649	2	courteney	seth rogen
+4668	1	cox
+1119	5	peabody	east greenwich	greenwich village	simsbury	greenwich
+809	3	heidi klum	jake gyllenhaal	gene hackman
+533	2	scarpetta	sustiva
+450	5	efavirenz	acyclovir	claritin	loratadine	zovirax
+1183	5	anne	joyce	susan	emma	jane
+2504	1	tara
+2867	1	sgi
+1860	2	tyler	davis
+666	3	amoxicillin	doxycycline	tetracycline
+175	3	sumycin	azithromycin	alicia molik
+4509	6	new wilmington	new haven	andrew grove	kelly brook	west newbury	david brook
+151	2	conway	cunningham
+2024	1	zyrtec
+640	3	graham greene	greene	butler
+2352	1	thomson
+2333	1	adam
+1880	3	santana	brandon routh	brandon
+4100	3	morning glory	wsfl	arsene wenger
+1554	4	cameron	james cameron	mike cameron	david cameron
+3743	1	pavlova
+1073	3	gustav klimt	eliel saarinen	klimt
+36	7	eric bischoff	julian mcmahon	undertaker	jon heyman	vince mcmahon	brock lesnar	chris benoit
+495	1	sql server
+1048	2	jiangsu	tainan
+1892	3	zodiac	polaris	thebe
+2161	1	enron
+3770	1	umass
+3842	2	derek jeter	jeter
+2556	1	derek
+4240	4	malawi	guinea	ngo	sabah
+994	3	carroll	lewis carroll	herndon
+2737	1	joaquin
+2499	3	mylan	eli	yemeni
+765	5	fa cup	condi rice	royal holloway	icici bank	red bank
+166	2	synthroid	zithromax
+3879	1	bolivar
+885	3	newburyport	colton	newbury
+3976	3	taupo	namibia	bonham
+4875	1	levitra
+401	6	sildenafil citrate	vardenafil	tadalafil	symbyax	sildenafil	kamagra
+3140	1	tower
+1734	7	american psychological association	ig farben	marvel entertainment	fritz lang	relafen	tag heuer	piet mondrian
+3551	1	humboldt
+1161	4	kazakhstan	kyrgyzstan	tajikistan	tajiks
+2268	1	rim
+597	1	spencer
+3522	1	skype
+1667	6	air france	charles darwin	caroline kennedy	carolina ballet	charles de gaulle	charles dickens
+4860	1	chisinau
+2827	1	lada
+1816	1	samara
+735	1	sara
+2897	1	anise
+4488	1	gaston
+3537	1	shannon
+4351	1	voltaire
+3366	2	lily	lilly
+3120	1	andrews
+2698	1	drudge
+2397	1	lagrange
+3604	3	locus	nell	capoeira
+3883	2	ambien	zolpidem
+325	3	scofield	matthew	michael scofield
+3865	1	roxio
+3978	1	swift
+3629	1	nephthys
+1159	2	customer service	service pack
+1792	2	newington	stamford
+3499	1	keye
+3148	1	kidman
+3502	1	turkish
+4883	1	lyme
+131	5	univision	lima	santiago	quito	montevideo
+2359	3	franklin pierce	ben franklin	franklin
+1972	4	rosuvastatin	simvastatin	yaounde	atorvastatin
+4588	1	crestor
+607	6	steve martin	frank martin	kofi annan	chris martin	frontrow	daly
+2995	2	warhol	andy warhol
+2117	2	dillinger	hiddink
+473	3	sinclair lewis	upton sinclair	sinclair
+2606	1	ut
+1797	4	chrysler	daimler chrysler	daimler ag	evelyn
+1902	2	kodak	dell
+2600	1	cromwell
+1361	1	metro
+322	2	muhammad	ali
+782	7	guy ritchie	hudson	cochran	dennis ritchie	ritchie	simon cowell	cowell
+4200	1	marina
+156	10	modern art	imperial college	campbell soup	festus mogae	vesper lynd	french lick	mint tea	alfa romeo	jungle book	roman holiday
+530	3	black swan	black tea	blackbaud
+3740	1	kintera
+2532	1	tripod
+2133	4	goog	batman forever	gardnerian wicca	forever war
+803	5	cabernet sauvignon	sauvignon blanc	cabernet	fume blanc	sauvignon
+2221	2	clomid	lipitor
+4301	1	gibson
+1671	1	sibelius
+4996	1	naomi
+2979	1	watt
+3667	1	arsenal
+2184	1	mahon
+4657	5	stevie ray vaughn	delagoa bay	boca raton	gaza strip	east hampton
+826	6	jeff hardy	thomas becket	bruney	thomas paine	thomas wolfe	thomas pynchon
+4060	1	casey
+2694	2	telluride	sedona
+1385	1	umc
+4503	1	salah
+3980	1	inderal
+1854	1	wyeth
+208	5	ivan pavlov	amman	oman	hyderabad	delhi
+1266	2	mandarin	standard mandarin
+1637	1	lucas
+633	1	russian
+2370	1	solaris
+343	1	handel
+3057	3	yeshua	mina	ishmael
+698	3	lynch	liam	cuomo
+2232	2	upton	kerkyra
+3445	1	corfu
+4306	1	ray
+4583	1	beaujolais
+2293	1	sumatra
+4479	1	vince
+1900	1	cad
+228	7	quetiapine	risperdal	celecoxib	sarafem	olanzapine	seroquel	risperidone
+338	14	junichiro koizumi	yorba linda	sergey brin	rosario dawson	jeff garcia	carlos ghosn	banderas bay	selena	miranda kerr	javier	mark sanchez	loretta sanchez	selena gomez	daniel ortega
+2860	2	millard fillmore	fillmore
+1253	1	panda
+4209	1	nantucket
+2920	1	zach
+957	11	william shatner	frederick douglass	william gibson	malcolm gladwell	william shockley	william kristol	james baldwin	william godwin	william faulkner	william maxwell	josiah parker
+1296	2	marrakesh	marrakech
+1176	6	sarah jessica parker	hendrix	jessica biel	jessica	jessica alba	jessica simpson
+3489	1	vartan
+4642	4	wolf blitzer	howard zinn	howard stringer	howard schultz
+4000	1	chamberlain
+189	1	grant
+2990	1	mercury
+2615	1	polygram
+216	3	barry	port	shaw
+727	1	wiki
+1914	3	ronaldo	cristiano ronaldo	robinho
+3410	1	hanoi
+1398	9	alexandra	lara croft	eli stone	white oleander	mark shuttleworth	luke walton	bryce canyon	sharon stone	kate bosworth
+285	4	paul graham	trileptal	propecia	gleevec
+703	4	imatinib	mozilla	mozilla firefox	firefox
+42	3	carla	claire	gabrielle
+3122	1	lovejoy
+4920	1	valero
+1164	10	elvis presley	lisa marie presley	berry gordy	hudson bay	jimmy wales	gene pitney	percy crosby	david crosby	dolly parton	gordy
+3166	1	ingrid
+2881	2	sylar	gabriel
+4261	1	ranger
+2254	2	nicaragua	paraguay
+3108	1	flex
+1822	1	papua
+3175	1	ceviche
+713	2	heston	charlton heston
+3354	1	memory
+114	3	percodan	fluconazole	diflucan
+1263	4	air india	air asia	air china	kentucky fried chicken
+4052	4	ita	airline	mda	airasia
+406	3	sun yat sen	kqv	wnv
+976	3	east timor	timor leste	papua new guinea
+2031	2	freetown	nagin
+786	2	rachel	sarah
+4023	1	terah
+229	4	atlanta georgia	upper egypt	miley cyrus	georgia rule
+3647	1	dmx
+3798	2	wc	kane
+2069	5	kim stanley robinson	robinson	craig robinson	chris robinson	jackie robinson
+1203	4	calcutta	kanpur	bombay	kolkata
+4728	1	souder
+3520	1	cody
+1857	3	pascal chimbonda	blaise pascal	madera county
+3687	3	korngold	zorn	arad
+3750	2	rod	hammond
+1107	13	glasgow airport	haneda	new chitose airport	airport	ben gurion	manchester airport	treviso airport	faro airport	toronto airport	paris orly airport	london gatwick airport	amsterdam airport schiphol	haneda airport
+715	1	lake geneva
+1922	1	geneva
+359	4	cicero	simeon	jehoiakim	hezekiah
+1094	2	watson	owen
+3306	1	tenuate
+3558	1	tcp
+81	2	speke	bridgetown
+3246	1	orly
+834	3	bailey	hailey	haley
+2312	1	apache axis
+2601	1	axis
+111	4	henri matisse	marc chagall	matisse	poussin
+3138	3	annie laurie gaylor	fluvastatin	macrobid
+1485	1	glimepiride
+4761	1	amaryl
+4515	1	tutu
+4981	1	nagorno karabakh
+563	4	reinhold niebuhr	gerhard richter	ibn khaldun	heinrich harrer
+2675	1	alice
+4015	1	cruise
+581	2	zantac	valtrex
+595	2	baclofen	misoprostol
+4974	1	cytotec
+1002	5	alan seeger	french sign language	chad kroeger	gush shalom	pete seeger
+4335	1	savage
+4440	2	samoa	rhea
+1018	3	leopoldville	kinshasa	brazzaville
+4853	1	diana
+731	2	albright	madeleine albright
+2367	2	fedex	usps
+951	2	choplifter	shoplifting
+2295	1	ashton
+1813	1	xavier
+3117	2	mysql ab	mysql
+2107	1	kfc
+3398	1	raid
+3768	1	asian
+3528	1	roshi
+4818	1	bryan
+2542	1	donna
+1062	1	palm beach
+732	3	mark warner	walt	walt disney
+2492	6	araneae	chelsea clinton	full tilt	wrc tv	george mason	lisa belkin
+271	1	amoxil
+3292	1	snl
+3969	1	cali
+2509	1	henson
+2072	3	costello	hardy	elvis costello
+1682	2	siemens ag	siemens
+4828	1	fluoride
+3953	1	mbna
+2915	1	falla
+2391	1	mickey rourke
+1843	2	metcalfe	howell
+3323	2	john singer sargent	sargent
+1798	2	jon corzine	corzine
+3449	2	sfo	hartung
+3526	3	betaseron	camptosar	irinotecan
+3727	3	carmichael	gmc	qazi
+2745	1	bnp
+1207	3	petite sirah	alimta	bnp paribas
+1126	3	salomon	deutsche telekom ag	deutsche bank
+4318	2	dart	trumpet
+638	2	farsi	persian
+466	3	mother teresa	prevnar	mother theresa
+4608	3	sport express	lescol	retrovir
+4901	2	rhinox	ted
+1759	1	lance
+3697	1	npt
+4180	2	nirvana	django
+2029	3	harper	zaire	harper lee
+205	3	nasonex	alcatel	alcatel lucent
+2284	2	lake tahoe	tahoe
+3154	1	guadeloupe
+4241	1	garth
+3267	2	tan	jen
+3514	1	bangladesh
+1028	3	karlheinz schreiber	schreiber	liev schreiber
+1906	4	elizabeth taylor	elizabeth ii	elizabeth smart	queen elizabeth ii
+668	2	smart car	smart
+3413	2	slate	mesh
+4756	1	hard
+3382	1	wyler
+384	1	beck
+37	2	zoloft	prozac
+684	3	alan arkin	paroxetine	fluoxetine
+159	5	jennifer	lauren	julie	vanessa	amanda
+2644	1	swiss
+2908	1	raphael
+4338	1	hank
+4224	1	seth
+1980	2	tagamet	rogen
+850	5	ben kingsley	kingsley amis	priestley	wlan	david goyer
+1632	1	hospice
+3483	2	daschle	tom daschle
+347	8	muay thai	rob neyer	koh samui	chick webb	pearl buck	bobby lashley	krabi krabong	ko samui
+2551	1	mexican
+1491	5	adobe	adobe flash	wikia	adobe system	adobe pdf
+503	2	seroxat	paxil
+940	7	ezekiel	ra	isaiah	ganesha	varanasi	lucius	durant
+4381	1	mecca
+2719	1	madonna
+1842	1	morphine
+1852	5	roger federer	michael schumacher	mark wahlberg	roethlisberger	didrex
+2636	1	jotspot
+507	3	intel	chevrontexaco	amd
+3097	1	super
+2707	1	lego
+4173	1	rasmussen
+4946	1	smi
+4011	1	guerrero
+2143	5	saskatchewan	asylum	ontario	barrie ontario	ottawa
+2064	1	stephanie
+1078	3	edwidge danticat	mundelein	kurashiki
+2190	2	hani hanjour	adword
+4664	1	liberalism
+4096	2	suprax	cefixime
+439	6	pat buchanan	shelley	james buchanan	george mcgovern	dan quayle	barry goldwater
+16	4	zyprexa	citalopram	celexa	lexapro
+1448	1	antrim
+1871	2	bacon	francis bacon
+3125	1	abbott
+2094	1	uva
+1668	13	robert wright	chivas usa	tom shadyac	willamette national cemetery	ncr corporation	cookeville	sam walton	battersea park	kansas speedway	chattanooga national cemetery	homestead miami speedway	bristol motor speedway	textron
+2970	1	spicy
+3391	1	camilla
+520	1	lithuanian
+4205	1	dow
+4733	1	klein
+3088	1	usher
+1636	2	french guiana	french polynesia
+3581	1	doryx
+1535	1	antarctica
+1693	2	jane austen	austen
+930	5	canola	canola oil	beta carotene	palm jebel ali	insulin resistance
+2989	1	tulip
+3694	1	radha
+240	2	faq	faqs
+3576	1	salazar
+1969	1	brett
+1701	4	aj allmendinger	kurt cobain	masi oka	kurt masur
+3630	1	oka
+320	2	patrick	ryan
+3674	1	navision
+2093	1	inuyasha
+3223	1	feist
+2292	1	windsor
+3834	1	bean
+4364	2	baldelli	rocco baldelli
+2837	1	bell
+2097	1	connor
+1348	1	nissan
+272	5	sichuan province	sichuan	heilongjiang	guangxi	heilongjiang province
+1665	1	dvorak
+4048	2	pelosi	nancy pelosi
+808	3	diego	san	jose
+522	5	bob menendez	manny pacquiao	alex rodriguez	chevron	matt gonzalez
+1117	1	philip ii
+2958	1	jersey
+1658	3	frank zappa	john abraham	aaron burr
+4021	1	toni
+3814	1	larnaca
+1562	1	scotsman
+3677	1	kenan
+4163	1	orthodoxy
+2899	1	alma
+3076	1	apex
+4750	1	uranus
+3378	1	erskine
+787	1	ambler
+1793	1	skywest
+1036	2	mainland china	kailua kona
+238	2	kentville	kona
+1512	1	miramar
+2120	1	singh
+1389	1	proscar
+96	5	wellbutrin	zyban	atomoxetine	finasteride	wellbutrin sr
+3657	2	henin	justine henin
+3546	1	willamette
+180	3	morocco	mauritania	sahara
+1033	2	ea	electronic art
+2982	1	fischer
+2848	1	idc
+2018	1	bentley
+1459	3	skopje	kiev	kyiv
+2755	1	pawlenty
+2964	1	alexandrian wicca
+4850	1	nsf
+2762	2	wsu	washington state university
+2804	1	buddha
+2493	1	libertarian
+336	4	jermain taylor	lenny kravitz	art garfunkel	kris kristofferson
+67	3	levin	goldman	cohen
+3358	1	syndrome
+66	3	kpcc	killington	belton
+428	1	geraldine ferraro
+4700	1	turmeric
+232	2	handbrake	flexeril
+3545	1	webex
+3330	1	daimler
+4333	1	schneider
+2310	3	southern oregon university	county kerry	county kildare
+590	2	niacin	riboflavin
+771	1	rituxan
+1043	2	gabapentin	oxcarbazepine
+4307	1	neurontin
+1937	6	capital	dili	monrovia	pul	kong	jakarta
+4494	1	hyde
+629	2	inc	echostar
+2196	1	wagner
+4420	2	viagra	aleve
+182	1	naproxen
+4826	1	grape
+183	2	zocor	entocort
+2992	2	al sharpton	sharpton
+1715	2	witherspoon	reese witherspoon
+3656	1	senator mccain
+2060	1	chaplin
+1125	5	forrest griffin	harry reid	harry partch	tokyo story	tokuma shoten
+1146	3	orkut	ohm	winzip
+429	1	kerrey
+2110	3	ultram	ultracet	hydrocodone
+7	4	oxycontin	tylenol	ritalin	bank one
+4236	1	marquette
+3341	1	arjuna
+3695	1	severus
+1213	2	kefalonia	estonia
+1324	7	pleasant hill	george hincapie	cockspur island	jamaica plain	new mexico state university	imiquimod	east carolina university
+4091	1	aldara
+1970	1	whitney
+4090	4	santa fe	santa clara	santa paula	santa ynez
+4336	3	worldpay	superbowl xliii	vectibix
+105	3	croatian	hungarian	romanian
+1513	1	leahy
+3858	2	ryan air	ryanair
+1626	1	pop
+3560	1	osmond
+4808	1	sharapova
+3340	1	shane
+4152	1	emerson
+1092	3	metronidazole	esomeprazole	lansoprazole
+1749	3	albert lea	albert lee	albert camus
+2713	1	vodafone
+4581	1	rilke
+4868	1	selenium
+451	2	shawn	jamie
+4884	1	branson
+618	2	tarceva	domenech
+541	1	keller
+2459	1	walton
+1163	3	keflex	zanaflex	cephalexin
+4954	1	octavian
+1863	1	dempsey
+2871	1	tls
+2127	1	barnabas
+3137	1	chanute
+2298	2	nickelback	hiphop
+4854	1	aveda
+1703	1	shepard
+4199	1	pearson
+2056	1	arnold
+4290	3	arnold schwarzenegger	schwarzenegger	arnold schwarzeneggar
+1233	5	eidos plc	taj mahal	tariq ali	reza aslan	sacha kljestan
+4030	1	burnside
+223	4	heber	immanuel kant	sigmund freud	eckhart tolle
+3289	1	cod
+3754	1	etihad
+1102	1	karl
+663	7	shelton	carl	goldsboro	benjamin netanyahu	shelton benjamin	benjamin bratt	benjamin
+1076	1	ana
+150	1	lisbon
+93	5	enrico fermi	fish oil	umberto eco	joseph heller	domenik hixon
+2721	1	herzog
+2476	1	faust
+3495	1	vilnius
+198	6	maywood	klerksdorp	lynwood	livermore	fremont	roseville
+2271	1	krishna
+2009	1	ziyi
+4527	1	taipei
+4833	1	damon
+4769	1	kahane
+2603	2	national security agency	nsa
+1110	3	klonopin	effexor	trazodone
+3901	1	subaru
+2614	1	holly
+1778	2	carver	mccloud
+2549	1	giacomo
+1418	1	nichiren
+1628	2	dorothy	emily
+1526	1	chichewa
+3219	2	karnataka	maharashtra
+4899	1	cramer
+1592	2	christie	fletcher
+2634	2	frankenstein	lion
+4951	1	ativan
+3101	1	karina
+2986	1	bosch
+1413	2	registry	register
+2894	1	sanger
+2207	4	boston latin school	michelle obama	harvard divinity school	high school musical
+591	2	carlos	fernando
+358	4	concerta	ionamin	fastin	brigham young
+926	2	juanda	tanaka
+100	2	gardner	doyle
+498	7	jawaharlal nehru	khajuraho	buxton	rabindranath tagore	gandhi	mahatma gandhi	indira gandhi
+3682	1	natasha
+4258	2	nintendo wii	nintendo gamecube
+4805	2	tasmania	ta
+4670	9	sankara	arthur kornberg	heinrich schliemann	ivo andric	ptolemy	denis diderot	ibn rushd	henry morgentaler	phil zimmermann
+3412	1	stamp
+4872	1	wcw
+2468	1	bjj
+4027	2	present	gift
+1907	3	mozambique	angola	sierra
+2680	1	sirius
+3451	1	maori
+1300	1	beech
+916	2	falun gong	falun dafa
+4788	1	reeve
+833	1	district
+1722	3	turin	bergen	luca
+2716	1	trump
+3421	2	schiphol	schiphol airport
+3164	1	marc
+153	4	bennett	layton	kennett	lewiston
+331	3	carriage	stair	staircase
+2845	1	esa
+1520	2	barak obama	barrack obama
+1875	2	mozilla thunderbird	thunderbird
+4969	1	paolo
+134	2	carlson	rabat
+1960	2	kaiser wilhelm	otto
+4801	1	bart
+2220	7	grafton county	arlington county	ontario county	guilford county	burlington county	hampton county	marlboro county
+4314	1	caan
+3346	1	manila
+1688	1	mp
+1560	1	gateway
+3556	1	wmu
+4783	1	flair
+1191	2	margarito	antonio margarito
+4882	1	cheney
+4223	1	cardinal
+2940	1	beirut
+4971	1	casino
+1825	1	regal
+3807	1	sonny
+1895	1	rupiah
+1758	1	kaohsiung
+2403	2	ruskin	john ruskin
+2083	1	delphi
+1493	1	swedish
+2795	2	alpha	htc
+1618	1	debian
+3425	2	fernando botero	botero
+410	1	shiva
+4321	1	dominic
+578	2	cassidy	depp
+3321	1	ansi
+378	4	balarama	rama	om	paphos
+1201	1	federer
+580	1	vijayawada
+3527	1	julia
+1602	1	burton
+1803	1	bauer
+2318	2	alan greenspan	greenspan
+3983	1	huckabee
+2628	1	brooke
+2950	2	rosemary	encino
+185	2	rosie	liz
+366	2	marty friedman	thomas friedman
+827	6	variable star	john flamsteed	bayer ag	affymetrix	bayer corporation	voicestream
+559	3	paul cezanne	cezanne	pablo picasso
+948	2	bhubaneswar	bhubaneshwar
+3287	1	visa
+4726	1	turbo pascal
+4658	1	hagel
+4308	1	safeco
+200	3	madagascar	mauritius	maurice
+2632	1	spinoza
+2413	1	chipotle
+1856	1	edwin
+4084	1	nataraja
+1066	1	blogspot
+2971	2	renoir	pierre auguste renoir
+2823	1	jewelry
+2045	2	isotretinoin	tretinoin
+2727	1	renova
+2941	1	zanu
+3663	1	constable
+2451	1	osu
+3440	1	gregoire
+446	1	heidfeld
+2797	1	ihop
+2156	2	jaffrey	sari
+1946	2	ahmadinejad	mahmoud ahmadinejad
+4572	1	frost
+3533	2	weed	webmaster
+2886	2	fast company magazine	jaiku
+1784	3	phentermine	ephedra	fen phen
+2635	2	ciali	hummer
+674	1	hart
+2921	1	maliki
+1430	2	cinnamon	viola
+924	3	chaucer	sartre	geoffrey chaucer
+332	2	tonga	fiji
+4017	1	syrah
+1090	4	rupert sheldrake	imovane	hugh jackman	roald dahl
+548	2	freddie mercury	freddie prinze jr
+2303	1	nathaniel
+4505	1	onion
+1645	1	broom
+2735	1	lois
+3950	2	mark rothko	rothko
+1883	1	nicholson baker
+2942	1	theo
+1015	2	donovan	keane
+3458	1	hornby
+4815	1	sim
+2849	2	lehighton	lehigh
+2054	8	dwarka	porbandar	trivandrum	mangalore	bulacan	edo	surat	amritsar
+4562	1	leonard
+4086	3	tamil	tamil nadu	tamilnadu
+1870	1	aes
+4330	1	premarin
+2907	1	prempro
+1992	1	juniper
+4520	1	genevieve
+4926	1	moyer
+2439	1	adler
+1727	1	zidane
+1568	1	painter
+2075	1	ledger
+4596	1	heath
+2736	1	nyt
+116	1	tester
+2835	1	rudd
+4474	1	dicaprio
+3788	1	api
+414	2	modafinil	adrafinil
+4012	1	msn messenger
+4010	1	lake
+1281	1	bull
+609	3	new rochelle	la roche	hoffman la roche
+3274	2	bethesda	wheaton
+3177	1	andersen
+2301	1	chronic fatigue syndrome
+1894	1	cfs
+4071	1	gorilla
+728	3	hessen	hanau	hesse
+4989	1	lucy
+3417	1	apache
+4447	2	limit	access
+3622	1	easter
+3999	1	simpson
+1638	2	john steinbeck	steinbeck
+3235	1	armagh
+2377	1	custer
+1849	3	atuona	lino tagliapietra	tarquinius priscus
+346	1	nepali
+3111	1	abb
+1530	4	chagall	san salvador	salvador	el salvador
+2539	1	cal
+4452	2	yom kippur	mount sinai
+3691	1	karzai
+3530	1	bartholomew
+3265	2	brangelina	angelina
+4139	1	paintball
+1811	3	british north america	fedex express	final cut express
+1971	2	carrie anne moss	moss
+334	2	helsinki	tallinn
+3112	1	japheth
+1651	1	axl
+4964	1	javan
+1021	2	prince	princess diana
+4075	2	tourette	tourette syndrome
+592	1	mary shelley
+1106	3	amelie mauresmo	depakote	hctz
+333	4	bupropion	amitriptyline	carbimazole	imipramine
+810	2	aramark	elavil
+694	3	sherman	omri	chafee
+4523	1	booth
+2376	2	lawrence	lawrence lessig
+3401	1	rembrandt
+431	2	botticelli	caravaggio
+2042	2	jelena jankovic	jankovic
+1760	2	fawn	ellsworth
+2427	1	deer
+821	5	central asia	central park	central america	central europe	central eastern europe
+1918	2	champaign	urbana
+1426	3	ekaterinburg	yekaterinburg	sverdlovsk
+2382	1	raoul
+1288	1	snipe
+4980	1	golan
+681	3	calcium	calcium carbonate	calcium phosphate
+2101	1	ferdinand
+2222	1	ecuador
+653	2	sweeney	mike sweeney
+4823	1	uzbek
+3923	1	mandalay
+4416	1	adalat
+1830	1	woodruff
+3019	1	adm
+1131	2	nanjing	tianjin
+3730	2	auguste rodin	rodin
+2810	1	sharon
+3021	1	saturn
+1775	1	king solomon
+4339	1	lamont
+3860	1	boone
+1197	2	chhattisgarh	chhatisgarh
+2541	1	dish
+984	1	lotus
+2977	1	iis
+3163	1	dilantin
+1782	2	enfuvirtide	fuzeon
+4548	1	levy
+3008	2	picton	oswald
+440	2	sullivan	gilbert
+3338	1	blackberry
+2929	1	dill
+1773	1	burke
+4299	1	key
+2730	1	nabisco
+1938	1	ssris
+2923	2	liege	prost
+1978	3	art gallery	night gallery	yigal amir
+543	3	icelandic	greenland	iceland
+2785	1	rosa
+2410	1	dui
+1503	1	franciscan
+4622	2	cochin	kochi
+3866	3	albert schweitzer	ageia	luzon
+4894	1	yaakov
+838	1	christina aguilera
+3211	1	gerry
+3681	2	drug enforcement administration	dea
+3433	1	vali
+2900	1	bali
+3517	1	delta
+3586	1	ken
+110	3	dick durbin	corbin	durbin
+4044	2	jpm	atherosclerosis
+361	1	belarus
+1814	2	guy davenport	davenport
+1699	1	bushnell
+3190	1	vietnamese
+2412	1	bond
+938	1	barbie
+3215	1	massa
+3380	1	luigi
+4492	1	ufo
+1805	1	suite
+1996	2	andalusia	andalucia
+2704	1	colbert
+3778	1	montag
+1210	7	san diego county	miami dade county	san luis obispo county	san bernardino county	anna paquin	los angeles county	santa clara county
+1607	1	apl
+2246	2	henry david thoreau	thoreau
+3168	4	moldavia	hardback	hardcover	burgundy
+4262	1	alameda
+4775	2	compaq	compaq computer corporation
+3731	1	viread
+1815	1	bison
+3997	2	gucci	guernsey
+2102	1	alain
+4602	1	frontpage
+1709	8	uppsala	puttaparthi	stockholm	fluxus	arlanda	stockholm arlanda	gillian	anna kournikova
+979	1	domitian
+2961	1	cable tv
+2472	1	myanmar
+1109	1	visakhapatnam
+2663	1	sulawesi
+2052	1	fred
+3162	1	hotmail
+2839	2	halliburton	halliburton company
+3422	1	macy
+4614	1	miro
+72	1	ginger
+313	4	soderbergh	steven spielberg	steven soderbergh	spielberg
+3248	1	reuben
+137	1	bette
+4425	1	zimmerman
+3891	1	duchamp
+1973	1	mcpherson
+3808	1	peafowl
+4508	1	yen
+2884	1	wade
+4463	1	pwc
+1399	1	township
+309	2	lin	chen
+2175	2	auschwitz	cooperstown
+2262	1	shakti
+2842	1	cameroon
+4722	1	herpes
+2231	1	chiron
+1713	2	amedeo modigliani	modigliani
+3552	1	almond
+3836	1	harbin
+1403	2	greyhound bus	darien
+2289	2	moldova	pravda
+4107	2	yazoo	yaz
+2426	1	hulk
+3393	2	hyatt	hyatt regency
+2966	1	magellan
+1796	2	wyoming	montana
+2480	1	dale earnhardt jr
+2855	1	morgan stanley
+3196	1	valve
+3402	1	aquarium
+2991	1	martha
+106	2	garfield	blaine
+4443	2	ondansetron	zofran
+2406	1	python
+4461	2	warfarin	coumadin
+91	2	juice	grapefruit
+426	2	rosberg	kovalainen
+4797	2	proust	marcel proust
+1827	1	flomax
+2717	1	geo
+2197	1	berea
+506	3	bilhah	aishwarya	keturah
+1096	1	jade
+1509	1	ramban
+3683	1	darpa
+1379	1	nsw
+1114	2	abu musa	salman rushdie
+2656	1	gustav
+3843	1	sapporo
+4734	1	oldboy
+1147	3	vincent van gogh	theo van gogh	van gogh
+2011	1	greenpeace
+188	2	macromedia flash	powerpoint
+600	2	zedekiah	jeroboam
+3212	1	eddy
+858	1	marcus
+4803	1	phoebe
+4401	1	verizon
+645	1	verizon wireless
+4349	2	leo tolstoy	tolstoy
+1089	3	benton harbor	sanofi aventis	aneurin bevan
+2345	1	usc
+3011	1	hari
+4524	1	zak
+1416	2	specter	arlen specter
+1457	2	dante alighieri	dante
+2830	1	iii
+712	2	lake ontario	presque isle
+472	2	hayden christensen	christensen
+1728	1	session
+2806	2	malchus	kibbeh
+2306	1	karen
+1103	2	macao	macau
+4135	1	chaffee
+4647	1	emi music
+1295	2	amy goodman	benny goodman
+825	1	eric schmidt
+1925	1	geodon
+1569	1	celebrex
+2586	1	zune
+3431	1	nws
+1152	1	costco
+4511	1	emory
+899	1	reader
+3049	1	excel
+1500	1	emerald
+2334	1	westwood
+3048	1	pharmacy
+2515	2	review	reviews
+2270	4	brandenburg gate	central cemetery	henry oldenburg	honorius iii
+710	1	easley
+3044	1	gisele
+2841	2	dionysus	dionysos
+1313	1	rss
+1270	1	mexicana
+3871	1	scout
+2700	1	villa
+2475	1	dragon
+1756	1	netscape
+708	1	arab
+3224	1	semitic
+1449	1	pearl
+1411	1	african
+3127	1	gimp
+3142	1	nyse
+136	2	cape girardeau	leo laporte
+2150	1	laporte
+3745	2	alexa	gmac
+4213	1	julian
+2831	1	gaya
+2770	1	pinot
+2257	1	aaliyah
+3653	1	brittany
+4773	1	eber
+2437	2	duryodhana	judah
+2481	2	gurgaon	pune
+1433	1	quetzaltenango
+3302	1	elijah
+1855	1	alicia
+2524	1	kaushalya
+1669	1	slobodan milosevic
+1044	1	elena dementieva
+2092	1	qualcomm
+1593	1	brew
+574	1	guangdong
+2255	1	bangalore
+3492	1	schiele
+3760	1	babel
+1999	1	vermeer
+2396	2	koala	athene
+4666	1	odysseus
+4776	3	cadiz	corte	barranquilla
+2666	1	berg
+4210	1	calhoun
+2158	1	picasso
+2384	2	chromium	chrome
+2612	1	ashcroft
+2576	1	utc
+3234	1	attorney
+453	1	becky
+1453	1	imperial
+1570	1	trane
+3118	1	xerox
+2364	2	panjim	panaji
+4489	2	wwd	iphone
+4977	1	lisa
+3525	2	major league soccer	mls
+2726	1	gdansk
+1447	1	jaffa
+2513	1	whirlpool
+2647	2	goya	francisco goya
+3379	1	nato
+1287	1	helvetica
+2394	1	moorhead
+4907	1	malibu
+1268	3	bermuda	barbados	bahamas
+2287	1	hay
+3538	1	medora
+2414	1	lawton
+1346	1	babylon
+3462	1	guadalajara
+512	1	warsaw
+1659	2	acorn	kingfish
+1567	2	burbank	baytown
+2980	1	shreveport
+1007	1	shanghai
+1353	1	rbi
+824	2	antwerp	ghent
+2739	1	advair
+1808	1	nist
+101	4	cologne	dusseldorf	erfurt	nanterre
+1873	1	brussels
+128	2	mallorca	menorca
+3516	1	seoul
+999	1	bsd
+1050	2	boise	spokane
+1954	2	chechnya	dagestan
+2893	1	kunm
+4534	1	tulsa
+104	1	rhino
+795	2	chattanooga	knoxville
+1600	1	nyssa
+2490	1	basil
+617	2	vicoden	vicodin
+2965	1	gaba
+963	1	sinemet
+107	3	psychology	dermatology	psychiatry
+3174	1	valium
+3316	1	lexus
+642	3	mahalo	garuda	anchorage
+3325	1	bismarck
+1695	2	jrr tolkien	vatican city
+2803	1	predator
+3239	1	wmd
+4650	1	kean
+2987	1	pretoria
+243	2	peshawar	kabul
+4202	1	manassas
+1337	1	sofia
+798	1	senegal
+1410	1	baroness
+4720	1	wimbledon
+4350	1	gujarat
+4243	1	craigslist
+2469	1	apec
+1184	1	corsicana
+138	2	poet laureate	prize
+1167	1	poitier
+3897	1	chilli
+1930	1	hinduism
+4123	1	lorcet
+2559	1	gm
+2523	1	oceania
+4644	1	jamaica
+1271	2	postscript	applescript
+4398	1	cadence
+616	1	cafe
+390	1	nanchang
+521	2	suzhou	lanzhou
+3345	1	kibo
+1392	3	newport	newport beach	newport news
+2291	1	folsom
+1559	1	shenzhen
+2108	1	wausau
+1872	1	tarzana
+4426	1	judo
+2218	1	personnel
+2225	1	canberra
+2840	1	gawker
+4844	1	aer lingus
+2331	3	occidental college	negros oriental	negros occidental
+4816	1	aol
+1205	2	adderall xr	adderall
+2461	2	bronxville	brookline
+2277	1	biaxin
+234	1	medicare
+2484	1	burley
+2082	1	gallup
+2012	1	hurd
+978	1	cordoba
+2098	1	ubc
+1729	2	cebu city	fuerteventura
+3470	1	warren beatty
+3448	1	vml
+3772	1	jacket
+1258	1	wyndham
+4013	1	softbank
+2389	1	unicef
+2478	2	rouen	chantilly
+1436	1	optimism
+2091	1	doha
+3894	1	luxembourg
+3310	1	baku
+2172	1	sarajevo
+2226	1	caracas
+4838	1	manaus
+170	1	ravenwood
+4036	1	tahiti
+3263	1	papeete
+2304	1	impressionism
+662	3	johannesburg	hobart	durban
+1083	3	dayton	longview	akron
+2155	1	hebron
+3003	1	fair
+433	1	pisa
+1550	1	wing
+4422	1	massapequa
+4108	1	boldin
+2420	1	palm
+213	4	verisign	wiley	palmsource	healthcare
+3548	1	maputo
+4921	2	botswana	rhodesia
+3669	1	knol
+3961	1	budapest
+2514	1	cynic
+3787	1	iman
+3384	1	rjd
+2206	1	st lucia
+4468	1	mit
+1917	2	blow	ring
+1580	1	ge
+2458	1	invasion
+3390	1	defiance
+2659	1	montpelier
+2674	2	photoshop	adobe photoshop
+468	1	gaithersburg
+4435	2	sal	hagar
+2903	1	astrology
+1601	1	civic
+1314	1	laredo
+4978	1	jeremiah
+3277	1	mosul
+2434	1	ephraim
+2285	1	mia
+2111	1	marietta
+3389	5	ringo	syriana	bidil	destin	sci
+1333	2	guantanamo	guantanamo bay
+2189	1	sativex
+872	3	kensington palace	buckingham palace	lismore castle
+2199	1	gladstone
+1952	1	camp
+2748	2	roseburg	muskogee
+4257	1	ojai
+2651	1	xanadu
+3496	1	kiel
+2325	1	zeus
+1234	1	sparta
+2938	3	cronus	selene	agamemnon
+1672	1	billboard
+4933	1	qatar
+1356	1	penthouse
+1040	2	nanaimo	iceni
+740	1	telelogic
+988	4	super bowl	hotbot	superbad	super bowl xliii
+3279	1	juno
+1581	1	quaid
+3156	1	gile
+2050	1	spike
+1298	1	buffy
+2283	2	bloomington	evanston
+1408	5	logo	okinawa	macbook	tofino	macbook air
+1579	1	gatlinburg
+4343	1	hogg
+2188	1	vanuatu
+4618	1	pau
+4908	1	mgm
+772	1	chemistry
+1315	1	tijuana
+4630	2	pfizer inc	pfizer
+212	1	cyprus
+968	1	belfast
+2037	2	plato	aristotle
+2792	1	titanic
+3259	1	tiburon
+4005	2	grenada	roseau
+3752	1	ramallah
+2994	2	parnate	john bunyan
+4181	1	crossfire
+2778	2	buprenorphine	monet
+2813	1	cyrenaica
+1055	1	advil
+327	3	academy	scientific atlanta	research triangle park
+2363	1	lortab
+4639	1	gladiator
+3725	1	people
+4182	1	breda
+2126	1	casablanca
+1732	1	bozeman
+2233	1	android
+1522	1	dagobah
+3898	1	oslo
+1640	6	piedmont	stavanger	breslau	arcelormittal	redux	ulm
+1789	1	schaffhausen
+2620	1	bohr
+2465	1	petoskey
+817	1	tunisia
+2278	1	iptv
+3014	1	lagoon
+4229	1	maginot
+2130	1	togo
+1393	1	monaco
+1302	1	wallonia
+1927	1	djibouti
+1763	1	nijmegen
+1673	1	pristina
+3734	1	nascar
+1409	1	alsace
+658	5	citibank	frankfurt	pan	rotterdam	amsterdam
+2263	1	zanzibar
+3573	1	aventis
+3797	1	circle
+995	2	ingolstadt	regensburg
+1619	1	insomnia
+19	3	narcolepsy	fibromyalgia	tashkent
+2395	1	phenergan
+187	2	citigroup	citi
+3182	1	napster
+2844	1	medina
+2443	1	kashgar
+2790	1	madinah
+1460	1	isis
+4462	1	cyrix
+2625	1	xp
+3912	1	saskatoon
+3766	1	sunderland
+1049	1	honolulu
+2136	1	oecd
+4148	1	serzone
+1747	1	mayfair
+4913	1	alienware
+4252	1	carmel
+2393	1	cio
+4056	1	msg
+3050	2	viacom	seagram
+4605	1	genentech
+4694	1	squidoo
+4655	1	baidu
+861	2	graz	linz
+4886	1	klaipeda
+511	2	gottlieb daimler	mein kampf
+1241	1	sun tzu
+4965	1	patagonia
+4297	1	czechoslovakia
+1507	1	weimar
+284	3	la rochelle	culex tarsalis	new bedford
+3966	1	kerala
+1744	1	mono
+3934	1	oasis
+2816	1	kathmandu
+4663	1	lucknow
+1839	1	redmond
+2924	1	dearborn
+2422	1	gamay
+801	3	motley crue	cashmere mafia	tax evasion
+3717	1	drupal
+3644	1	natick
+4069	2	bp	british petroleum
+1237	1	bilbao
+1070	1	ljubljana
+2103	1	fez
+3684	1	renton
+3297	1	flickr
+4293	1	madeira
+3197	1	anoka
+877	2	paramore	gorillaz
+1286	1	rubisco
+1100	2	trinidad	tobago
+283	3	gaborone	almaty	harare
+1297	1	tirana
+2486	1	kuala lumpur
+3058	1	kuantan
+355	3	foxborough	bellevue	peterborough
+3975	1	rarotonga
+1461	1	gideon
+1429	1	hino
+4092	1	grub
+289	1	beaverton
+705	1	beta
+949	1	pusan
+4477	1	navigation
+2746	1	manasseh
+3820	1	evs
+2591	1	aetna
+1869	1	zinfandel
+2162	1	placentia
+2988	1	rfid
+693	2	arlington national cemetery	oak ridge cemetery
+3299	1	lesotho
+2210	1	dresden
+2836	1	quaker
+3892	1	oshawa
+3982	1	unocal
+1529	1	il
+3370	1	cvs
+467	1	hammersmith
+1366	1	hippo
+2740	1	midway
+2116	1	babbitt
+3052	1	reus
+2198	1	kowloon
+3786	1	goa
+2204	1	lamp
+1858	1	poway
+1199	1	karachi
+3035	1	gastonia
+2252	2	ferrara	parma
+4083	1	cern
+3199	1	holyoke
+207	2	hyattsville	hicksville
+2858	1	colon
+1949	1	hoboken
+1786	1	manganese
+1891	1	diamond
+1339	1	uranium
+1428	1	eurasia
+2641	1	yangon
+2502	1	motown
+4365	1	natal
+99	1	elance
+1404	1	shang
+3091	1	strep
+1405	1	canaan
+1896	1	gilroy
+455	1	piscataway
+2020	1	wrestler
+2786	3	pasay city	yajur veda	ms word
+1867	1	xinjiang
+724	1	maluku
+1566	1	egyptology
+377	1	lake champlain
+2122	1	pomona
+1331	1	biloxi
+3285	1	altoona
+3336	1	horn
+3110	1	yakima
+2077	1	samarium
+2375	1	clique
+1494	1	reykjavik
+87	2	acapulco	tampico
+1710	1	abreu
+3705	1	cancun
+1508	1	ctv
+986	1	commons
+3192	1	gatineau
+2767	1	safina
+2690	1	colombo
+1697	1	fifa
+1539	1	bhutan
+4972	1	jute
+4176	1	bangla
+947	1	jonesboro
+145	2	wentzville	pleasanton
+2005	2	intel corp	chitika
+2203	1	monticello
+3075	1	aruba
+2338	1	andorra
+3706	1	plain
+2208	1	lieutenant
+729	1	wiesbaden
+2138	1	malvern
+4231	1	cbn
+1510	1	narita
+1377	1	corsica
+3090	1	reebok
+2214	1	jezebel
+311	4	hubble space telescope	sirius satellite radio	steward observatory	la galaxy
+491	2	luvox	google notebook
+3098	1	salina
+2280	1	tawny kitaen
+1768	1	valdosta
+1625	1	imf
+553	1	hillsboro
+812	2	vanilla	sauce
+2212	1	cop
+1051	2	human resource	resource
+1204	1	nbt
+1680	1	ocd
+1274	2	niamey	lilongwe
+1721	1	verity
+1689	1	mormon
+2983	1	lyrica
+1879	1	sennett
+552	1	bahrain
+2026	1	parsippany
+2119	1	xen
+1594	2	montaigne	fandango
+2344	1	sprint
+2973	1	wwe
+1874	1	malden
+2545	1	staph
+1499	1	cipro
+348	1	litchfield
+1674	1	gma
+2604	1	hind
+1767	1	abigail
+3615	1	badminton
+1134	2	potassium	sodium
+3324	1	raytheon
+233	1	shoreview
+868	1	friendster
+2016	1	gephardt
+2027	1	waltham
+2053	1	daytona
+1116	1	poznan
+3606	1	perfume
+3356	2	brest	havre
+2260	4	malarone	cdc	vdara	cordarone
+1105	1	rapeseed
+1514	1	narrow
+2678	1	corinth
+1548	1	peta
+2387	1	yerevan
+3113	1	abkhazia
+2852	2	trieste	veneto
+2115	1	id
+2419	1	bariloche
+26	2	hertz	avila
+4500	1	schenectady
+488	2	missoula	kalispell
+1644	1	augusta
+714	1	fontana
+1698	2	rancho santa fe	rancho cucamonga
+2783	1	jacksonville state
+839	2	velazquez	marquez
+2996	1	barr
+3352	1	paramus
+1388	1	radiohead
+2913	1	branagh
+487	1	greg
+2878	1	zeppelin
+1122	3	brenham	jabalpur	muncie
+4459	1	haifa
+1909	1	hilo
+1290	1	trustee
+1434	2	judgment	judgement
+2592	1	spore
+4320	1	steam
+2889	1	majestic
+1705	1	curacao
+252	2	herodotus	plutarch
+2550	1	hamlet
+2057	1	multatuli
+3068	1	trulli
+1847	1	pullman
+1924	1	nm
+1708	1	epa
+2055	1	caroline
+1711	1	twa
+2153	3	ua	ti	eos
+191	1	scuba diving
+2851	1	hunting
+1945	1	vanguard
+204	3	moonlight drive	cinderella man	backdraft
+934	1	whistler
+1320	1	mogadishu
+2253	1	mondale
+2339	1	benin
+1757	1	osiris
+3427	1	utopia
+1564	1	nauru
+3561	1	stuttgart
+2236	2	salmon	lax
+2462	1	skydrive
+1635	1	daisy
+1889	1	vmware
+1807	1	risi competizione
+2931	1	hewlett packard co
+2856	1	uml
+1622	1	arcade
+2348	1	kare
+2248	1	acp
+58	1	ajmer
+776	1	naperville
+1367	1	zerit
+4304	1	bloemfontein
+869	1	smyrna
+2892	1	abortion
+1829	1	pemberton
+1953	1	carol
+2251	1	lubbock
+1319	1	ks
+4222	1	vevey
+853	1	belize
+4295	1	bango
+2086	1	fiat
+3996	1	laon
+1354	1	gah
+2021	1	yamaha
+2316	1	niger
+4851	1	hpv
+1745	1	ibiza
+1606	1	friedrichshafen
+4628	1	girona
+3242	1	walkman
+2297	1	gerd
+1142	1	optus
+3419	1	chd
+2281	1	poughkeepsie
+1046	1	portal
+1538	1	brno
+494	3	bain capital	ge capital	tori spelling
+3547	1	uti
+119	1	ouagadougou
+4009	1	charter
+918	1	southern france
+2454	1	queenstown
+1846	1	mido
+2489	1	aragon
+2269	1	bodybuilding
+1269	1	fallujah
+2358	2	atlantis	interceptor
+2239	1	joliet
+2453	1	pbs
+3066	1	bihar
+1452	1	stowe
+2754	1	ostpolitik
+2154	1	rbd
+1349	1	lithium
+4609	2	konya	takamatsu
+1724	1	nt
+2415	2	henan	gansu
+1677	1	elm
+1524	1	mayo
+2250	1	farmar
+4934	1	elektra
+3430	1	darling
+2660	1	span
+567	1	kennebunkport
+3286	1	borat
+2266	1	transmeta
+1236	2	shenandoah	kelso
+4943	1	rubinstein
+1723	1	manic miner
+3226	1	wipo
+1255	1	medan
+4916	1	laban
+677	1	civilization
+2428	1	jovi
+921	1	politico
+1777	1	streak
+3828	1	kosciusko
+2378	1	lsd
+2104	2	middle tennessee	east tennessee
+3181	1	claremont
+3227	1	nice
+2235	1	teton village
+2520	1	eden
+3510	1	melatonin
+1414	1	autocad
+4960	1	tissot
+1876	1	kaine
+2272	1	lugar
+1850	1	progressive
+2688	1	fargo
+4149	1	holder
+1329	1	pendleton
+2751	1	pueblo
+2062	1	abington
+528	1	ticketmaster
+3616	1	mescaline
+3064	1	nntp
+2366	1	begich
+1851	1	caltrain
+1260	1	mci worldcom
+871	1	malacca
+2173	1	tmr
+2007	1	pujol
+2368	2	vulture	nebbiolo
+2374	1	fema
+3826	2	niedersachsen	lower saxony
+4637	1	paderborn
+1454	1	needham
+983	1	pumpkin
+4136	1	amphipolis
+1412	1	hammond organ
+2496	1	vicksburg
+2049	1	rbac
+1175	2	watergate	trail
+1910	1	ayodhya
+2354	1	ravana
+3460	1	cryptonomicon
+3598	1	delano
+4716	2	basle	basel
+1948	1	jeddah
+3889	1	newberg
+1939	1	rand
+82	1	cumberland
+1365	1	arcata
+1188	1	megadeth
+1304	1	montclair
+2004	1	cubism
+38	2	orissa	madurai
+2968	1	puri
+2846	1	homecoming
+1623	1	yellowknife
+1061	2	grassy key	ponderosa pine
+891	2	lowell	huntington
+1024	1	hitwise
+2826	2	rheumatoid arthritis	arthritis
+2157	1	suffolk
+1059	1	ai
+4085	1	flagstaff
+1770	1	skien
+945	1	tamar
+2519	1	michal
+1115	1	bathsheba
+2243	1	issaquah
+2038	1	ashanti
+1000	2	mma	karate
+3296	1	ning
+3368	1	thuringia
+707	1	kumasi
+1831	1	rousseau
+2613	1	halo
+1832	1	merlot
+1013	1	quercetin
+1415	1	granada
+1982	1	adak
+2147	1	maidenhead
+4582	1	beloved
+2657	1	tantalus
+1370	1	conan
+2752	1	sloan
+4363	1	fraternity
+2170	1	valacyclovir
+1962	1	fraser
+1547	1	berber
+1310	1	nauvoo
+2340	1	salzburg
+2869	1	diddy
+4374	1	belleville
+1571	1	tamiflu
+2332	1	raf
+2959	1	carcass
+2261	1	yorktown
+1443	1	europa
+2510	1	rusty
+3968	1	sinai
+4303	1	honeywell
+1523	1	alstom
+1254	1	interpol
+1439	1	arista
+1464	1	angie
+802	1	molloy
+1506	1	agra
+1801	1	espoo
+2479	1	wbcn
+2488	1	medline
+1915	1	carnival
+1719	1	bravo
+650	1	mca
+961	1	glendora
+4995	1	bandung
+1309	1	powerpc
+1932	1	redstate
+1375	2	bogota	dushanbe
+4621	1	gleason
+1027	1	snuff
+557	1	valentino
+1311	1	velvet
+1754	1	oscar
+1528	1	schumann
+2224	1	anglican
+1977	1	embarq
+2319	1	snyder
+1486	1	masonry
+1634	1	tapi
+1373	1	minsk
+3313	1	exodus
+1166	1	ushuaia
+1425	1	gia
+1474	1	ueno
+1573	1	inktomi
+2401	1	abuja
+2166	1	baathist
+1928	1	hama
+2178	1	gabon
+465	2	experiment	experian
+2039	2	tamoxifen	femara
+2497	1	woodside
+3554	1	jeeps
+160	3	broderbund	yucaipa	emeryville
+1505	1	lancome
+935	1	psalm
+1806	1	fortis
+1995	1	kampuchea
+2259	1	changchun
+1511	1	lazard
+2365	1	erickson
+3501	1	alcoa
+532	1	shrewsbury
+265	1	kentwood
+1997	1	nike
+819	1	tuvalu
+1098	1	cobourg
+2743	1	brantford
+1432	1	hayward
+1069	1	gaur
+3549	1	homeworld
+1363	1	wamego
+749	1	guymon
+1475	1	bauhaus
+1138	1	maclean
+2242	1	ahmedabad
+1242	1	kaletra
+1289	1	lander
+1785	1	digg
+4568	1	blantyre
+904	1	albanian
+2265	1	caucasus
+1532	1	nerva
+1702	1	flavius
+672	1	urine
+974	1	doylestown
+884	1	pastor
+2583	1	bequia
+1177	1	dopamine
+1202	1	saipan
+2041	1	biotechnology
+4512	1	leah
+3210	1	bag
+3337	1	dada
+4912	1	arimidex
+2969	1	lodi
+2309	1	denby
+752	1	hubble
+2500	1	chappaquiddick
+1275	1	szczecin
+1344	1	calexico
+2006	1	zebedee
+3067	1	expedition
+3624	1	jaguar
+1540	1	mazda
+1555	1	yuan
+643	2	dizziness	vertigo
+389	1	booklist
+2216	1	audible
+1888	1	johor
+1198	1	andre
+1272	1	hokkaido
+1718	1	pioneer
+2548	1	vardar
+1390	1	pawtucket
+1694	1	avalon
+3724	1	new scientist
+1221	1	janet
+1022	1	hattiesburg
+2067	1	spa
+1833	1	sophie
+2483	1	fleet
+1812	1	wasilla
+2132	1	maremma
+2249	1	ritz
+2063	1	nitrate
+1401	1	oppenheimer
+1654	1	cycling
+1685	1	quinine
+799	1	caspa
+3193	1	chittenango
+1989	1	stadium
+445	1	usair
+3827	1	ivy
+1378	1	feed
+1574	1	fad
+2014	1	blackwell
+1280	1	pdd
+2670	1	roller
+2125	1	usaid
+3903	1	explorer
+2090	1	palmdale
+733	1	pocatello
+3042	1	vladivostok
+2068	1	clementine
+1577	1	shelah
+1940	1	aquitaine
+2085	1	aichi prefecture
+2144	1	carr
+760	1	stockton
+3529	1	bernstein
+1396	1	kedah
+1961	1	ithaca
+4230	1	robot
+1837	1	faro
+2121	1	sangiovese
+4436	1	goliath
+2215	1	malaga
+3404	1	excite
+2151	1	winona
+2058	1	mathura
+2180	1	dekalb
+76	1	bentyl
+1926	1	metformin
+2353	1	zaragoza

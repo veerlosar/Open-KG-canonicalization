@@ -1,0 +1,1717 @@
+{"batch_size": {"train": 50, "eval": 5}, "model_info": {"dir": "glove/", "src": "GLOVE"}, "working_directory": "data/vae_run_r45nell/", "learning_rate": {"stage1": 0.001, "stage2": 0.0001}, "eval_per": {"stage1": 10, "stage2": 10}, "loss_weights": {"vae": 1, "kbc": 1, "side_info": 1}, "train_stages": ["stage1", "stage2"], "dims": {"input": 300, "interim": [384], "latent": 100}, "seed": 57, "init_ent_file": "hacft_ent_labels.pkl", "init_rel_file": "hacft_rel_labels.pkl", "clusters": {"ent": 3000, "rel": 3000}, "reg_info": {"stage1_reg": 0.001, "stage2_reg": 0.001, "mc_samples": 1}, "kge_util_params": {"temp": 0.01, "n_corruptions": 20}, "n_epochs": {"stage1": 50, "stage2": 300}}
+
+Number of Clusters: 1714
+1579	202	be the chemical name for	put over	be the effect of	should not be use with	then prescribe	have to use	may be for	would be with	have only be on	be not the only factor involve in	have a large stock of	may stay on	be a good price on	be the generic form of	be induce with	be sometimes know as	stop search for	must be mix with	would be on	be be develop by	could split	cover more than	be the generic for	may be better than	be a good alternative to	be not standardize by	can use	be my fourth day of	be an alternative to	be also know as	be run low on	work just like	only use	be the same way as	be the brand name for	be about know	will interact with	will be cover by	have be on	be a generic for	be better know as	be the generic brand of	be no reason to switch to	be due to	be the successor of	be previously on	be commonly label	be just generic for	be a brand name of	be the other ingredient in	be the property of	increase the risk of	be help by	be give a prescription for	be twice daily with	be just put on	be no need for	have similar property to	be the ingredient in	be very similar to	be a highly effective treatment for	use for	be take large dose of	be a shortage of	have a similar effect on	be worse than	be switch to	suggest a course of	be market by	should not be take with	be a brand name for	be the active metabolite of	be an abbreviation for	may be legal in	be also start on	be prescribe for	be not just take	market as	can cause side effect of	be an alternative spelling for	be approve in	be no reason to use	be a newer version of	be the most common alternative to	be a question about	creep up on	be a prescription for	be just the opposite of	be the brand name of	be an excellent alternative for	be a known side effect of	say to try	also take	be a generic form of	have use	be not a prescription for	have no choice in	do not contain all information about	do not interact with	could be take	be the equivalent of	be know	have discard	be a better alternative to	be the abbreviation of	be cover for	be weaker than	can interact with	be the genric name for	be know to interact with	have also be find in	may work better than	be closely relate to	be chemically similar to	be relate chemically to	be even better than	be impress to	be put on	market by	be roundly	be just as effective as	work exactly like	be not available in	have while on	contain the same ingredient as	be more effective than	be no choice with	be as valid as	may be relate to	be not relate to	start take	be an excellent source of	should not be confuse with	help in	may be better off with	be the trade name for	only ask for	be best know as	be no such thing as	be the generic name for	be not afraid of	will increase the half-life of	have compress	be only on	should not take	be flourish to	be the generic of	may be take instead of	be the generic version of	would be much better than	be your dose of	may also interact with	be simply a refined version of	be an analogue of	may increase drowsiness cause by	be a long acting form of	be an alternate name for	can be worsen by	be recently put on	be recently prescribe	be the active ingredient in	be excellent on	be do fine on	be then change to	have be use in	be the medical term use for	be the precursor to	have a prescription for	may increase the effect of	be the constant commercial for	be true not only for	may be link to	have approve	be prescribe	be a dose of	be my first time on	also become	be a low-dose form of	should not be combine with	will be put on	be generic for	can also interact with	could be cause by	be the same drug as	be a very small amount of	be the primary competitor to	may be attributable to	be the use of	may decrease the hypotensive effect of	may interact with	be the main ingredient in	be the canadian name for	be just an abbreviation for	be the generic equivalent of	be almost identical to	have similar effect to	be structurally similar to	offer a safe alternative to	may decrease the effect of	be the generic name of	know more about	be the progeny of
+1632	2	have become synonymous with	make a killing on
+2130	4	be the fourth largest city in	be the most populated city in	offer the very best of	be weak to
+606	11	speak	settle in	be still in	live in	be bear in	speak in	be live in	have be sue over	live at	move back to	proceed to
+204	85	grow up in	have take	be send to	have arrive to	will work with	be a form of	go off to	reside in	die at	then go to	be different than	have tie to	go back to	arrive into	can come to	move into	have just take	once live in	set off to	grow under	be come here to	say in	be look to	will find out in	have be work in	be go to	be bear at	be no friend of	love	again set out for	come in for	come to	find against	fly to	can play against	be locate in between	be leave with	go up into	come down to	will play against	open in	have be find in	come out of	come up to	turn up in	include all of	come there from	leave in	be found in	look out over	begin at	go further to	be the home of	be move to	have come to	locate on	have come on for	begin be	take off for	be friend with	reach	should come to	can be reach in	come again to	come in from	be say in	come from	go into	come out on	then move to	come here from	move to	be expel to	be work on	say at	be in	be all bear in	can go to	grow up	come up with	be very different than	have just move to	have grow up in	locate in	be convert to
+2337	1	turn to face
+1081	133	then move on to	be connect to	be then offer to	be a member of	be play on	be now king of	be join by	be run on	be part of	will be no different than	make its way to	deliver to	be endorse	be governor of	look over at	be know for	be still	have win	meet	be leave	speak about	be at	have no link to	be speak here of	can join	be the co-founder of	now support	be endorse by	have appear on	be work with	make in	go after	study in	be travel to	like	move on	come after	have say to	be campaign for	join in on	make his way to	defeat	be study	will speak on	be say to have be in	be a product of	be now work with	have support	win at	be lead	be sell to	arrive in	have move to	be speak in	run	will be lead by	now lead in	be the head of	say no to	then leave	will lose in	be run	do work with	now work at	be the brother of	visit	be nothing more than	should endorse	should win in	speak with	be bear to	be already off to	perform on	have just return to	speak on	play	be go to be	have the lead over	support by	do run on	lose again to	have speak out against	have leave	have campaign in	have endorse	be a native of	should be return to	be influence by	take she to	come in with	have live in	will endorse	be the governor of	speak of	be play in	be base on	be run by	go for	be support by	work on	will win	have call	die in	campaign for	work over	have meet	create through	lead in	will make a presentation on	know of	be open for	have work for	endorse	come	declare war on	lose to	will win in	have be look at	be win	should vote for	perform at	already have	arrive with	have arrive in	then turn to	be say to be from	say to	be locate in	beat	have a lead in	be very different from	be a son of	have win in
+44	49	be just as bad as	must really hate	be the true face of	be a substitute for	be the official car of	be more than	have concern	be an american singer-songwriter from	be a unit of	be go to choose	be very competitive in	fire back at	be just enough for	be greatly influence by	send subpoena to	present a film by	have be separate from	be definitely go to	roll the dice on	be a descendant of	do not keep track of	have get nothing on	be the health of	end up marry	step up attack on	do not serve with	be still support	be wrong about	must win	copy from	have issue with	be profoundly influence by	be loosely derive from	barely speak to	be descendant of	be dumber than	be a hero to	can be drop into	be distribute to	be the guest host on	famously say of	have a vision of	be not an evolution of	be a creature of	provide	will not bring peace to	make no direct reference to	be not a partner in	be a mausoleum locate in
+505	123	open his heart to	be shoot down in	reign in	have be suggest for	be earlier call as	first go to	should be before	be still locate in	hold event in	set up a base in	could help	have link up with	bring prosperity to	start she career at	be a student in	will be license to	make a campaign stop in	then journey to	could only be do in	be practice only in	march north to	pass	found	look often to	include the city of	become the new president of	might have be lose to	hold a news conference in	make his only visit to	hold a town hall in	capture the city of	have suggest to	may have be bear in	practice medicine in	hold a campaign rally in	will be promote by	be deeply involve in	be divert to	be hold a campaign rally in	be probably a native of	have open an office in	be a big hit in	be locate approximately nine mile from	be primitive compare to	be the former mayor of	pass through	could do to	be now list on	get his start in	will hold a press conference in	be furious at	be once know as	open a new factory in	have a factory in	start his career in	sign the treaty of	hold a rally in	win the war in	be locate just two mile south of	attend a meeting in	leave home for	withdraw to	cancel his visit to	be form in	tell the upcoming issue of	be publicly trade on	be situate on	have a meeting in	be sleepless in	have an address in	be a congressman from	would like to buy	be the icon of	be not in	will be at	be way better than	be recently interview in	find she in	bring the ark to	first come to	annex part of	do not come to	be found at	also announce	put his faith in	would do the same in	still play	be also big in	make three trip to	prosper in	grow up near	hand the ball to	now reside in	make a stop in	hold a fundraiser in	set fire on	announce the initiative in	be also a great friend of	cast in	could be	collect in	think be	have never win at	have a trip plan to	plan a trip to	have be expel from	hold an event in	be earlier call	be be compare to	take a ship to	be leave alone in	also return to	receive award in	overlook the city of	eagerly return to	be not useful in	have no mercy on	have its corporate headquarters in	be a bastion of	be garrison in	be a turn point for	be able to travel to	be easily reach from
+1140	1	be a division of
+2915	1	pin
+2787	1	be a disciple of
+971	4	be currently president of	be a scholar-in-residence at	be currently writer-in-residence at	be also president of
+1368	2	be all dress up for	be the most famous green tea in
+1289	3	be the uncle of	be a follower of	have gain the respect of
+2159	2	strike up a conversation with	continue his conversation with
+1910	1	be the princess of
+2229	2	return with	return to
+409	4	win a seat in	turn the matter over to	then send a message to	be locate just west of
+104	3	own the copyright to	provide support for	do on
+815	27	be the most liberal member of	be the current prime minister of	have tremendous faith in	try with	come look for	be the prime minister of	have a major impact on	be closely link to	be elect after	bring attention to	have be kill in	be always with	also quote	claim to follow	be choose by	want to take on	be still ahead in	have also rely on	be the first female prime minister of	also comment on	enjoy study	be right on	have move on to	have gain ground in	may not look like	negotiate with	will carry
+1842	98	rally in	return the favor in	be to blame for	have express admiration for	have a slight edge in	could lose	put his money on	be ridicule for	be introduce as	be expect to carry	do not need	test the water in	tell voter in	tell the audience in	be also a native of	be popular in	announce the selection of	study alongside	be target	have strong tie to	have a strong lead in	be not welcome in	be popular on	be surge in	hang on in	call attention to	lose the popular vote to	have put pressure on	would bring	make no reference to	have negotiate with	announce his choice of	get kill in	be gain in	beat clinton in	say thursday in	suffer with	reduce the size of	lose badly in	be campaign against	have a clear lead in	be perform without	need to win	also meet with	carry	have praise	be an ambassador for	have concede defeat to	be particularly strong in	should forget	have often be liken to	be move forward in	visit the office of	be here in	have make significant stride in	do carry	have teach	get revenge on	have win the popular vote in	should have pick	be rise fast in	have an edge in	win handily in	be the commander in	lose the election for	say thursday on	be cheat in	recall the word of	tell supporter in	spend million in	be extol the virtue of	assassinate in	fly in from	have hope for	have be hire for	be the project winner in	be assassinate by	be a strong critic of	have edge slightly ahead of	be already lead in	combine the best of	also lead in	would have win in	lose the election to	do especially well in	also meet	become	be cheat on	lead obama among	be a staunch supporter of	set to win	be go to win	may be right about	also be lead in	announce his selection of	be neck-and-neck with	will campaign in	be poll in
+2700	31	be campaign in	can say to	be lose	run with	be leave of	need more than	do nothing for	be win in	settle with	have reach out to	will face	just win	take only	be once marry to	will be take over from	be about to marry	be run against	lose out to	be leave in	have say of	travel to	reach out to	back	have be marry to	be marry to	be tie into	have to win in	will then take	be lose in	be lead in	be take on
+926	14	be schedule to fly to	be a lawyer in	cannot win without	start his day in	join a law firm in	seem to have learn from	lead	have take the lead from	do a good job on	be persona non grata in	currently make his home in	campaign in	then proceed to	be the democratic mayor of
+2920	1	write to
+1519	2	take one to	also travel to
+2093	27	will be a part of	focus on	be too close to	can win	have spend time in	will win at	have a long history of	have pull out of	be pull out of	bring in	have perform in	be shoot on	leave for	have be play with	have study	have a long history on	spend some time in	surrender to	be never attack by	be the cultural center of	be now fight in	win against	be shoot by	want out of	will again return to	be city in	will meet
+1136	10	win in	celebrate the triumph of	be a version of	now live full time in	first meet	lay the foundation for	be discuss here	be also call	be the best thing about	take a fancy to
+449	11	also hit on	once tell	be probably refer to	have two son with	call florida for	go well with	then charge at	must hate	be also subject to	be not	be all for
+205	38	serve as	have a home in	move for	also work at	could be in	get marry to	meet with	make his home in	be roll out	would be	take a shine to	be welcome into	be hide in	be with	be an exile in	be home of	will be play	be a problem for	be exile to	be right by	have friend on	be a huge admirer of	mention to	be spend the day in	be relatively new to	be the southern part of	have win over	have elect	blogg about	should resign from	must submit a report to	speak to	join	be retire from	just play	be once compare to	be start by	enter with
+448	108	be the largest city in	try to go to	be not unique to	be a co-founder of	also star in	can take care of	be certainly not like	be warmer than	be a linux distribution base on	continue work on	be there in	move its headquarters to	have an advantage over	have deal with	go fish with	too praise	release the next version of	be probably	be close enough to	be not kind to	add to	be still without	do a similar thing with	would be great at	dominate	use a system similar to	have take a back seat to	prefer to buy from	represent a new wave of	be also the administrative headquarters of	walk away from	be rich in	send man to	be always talk about	be so much bigger than	be a major player in	become dictator of	be allow to go to	be not from	be quite the opposite of	be even more so than	be very dependent on	finish behind	be dependent on	provide detail information on	can afford	push	will not endorse	look nothing like	spin off	make product for	overcharge for	be a distribution base on	be also base on	have call the election for	love work for	be the former capital of	do not reach the level of	publish the journal of	have information on	be mentor to	just announce	be also document in	grow rapidly during	be the crown jewel of	watch include	be comprise of	be mile ahead of	bring this suit in	must apply in	be magnificent as	also want to buy	comprise of	need time to be	edit for	be also the capital of	roll up	change his name to	have not leave	then take care of	be comprise only of	proclaim the republic of	will add	be up against	be often less expensive than	write the declaration of	assume command of	be the major player in	be rubbish at	be already use on	be a subsidiary of	have become a subsidiary of	be the only natural satellite of	be well ahead of	provide search result for	should listen to	be currently chairman of	have spread to	have take the lead in	do a similar thing in	should promote	infuse with	be give advice to	cannot compete with	watch football on	continue its work on	be also very close to	compare favorably to
+2412	1	be the maintainer of
+301	1	be the commercial sponsor of
+454	147	side with	lie on	be the second largest city in	be the oldest capital city in	wish in	be the third most populous city in	be a mix between	be a landlocked nation of	have ask	be discriminate against in	lose at	have other tie to	be situate right on	win the nobel prize in	be promote by	have appoint	be head by	invite application for	would be king of	be headquarters of	bounce back in	have be engage to	come third in	be develop by	be bury in	be the polar opposite of	be quote in	be the mentor of	be a friend of	translate the book of	say this about	be target for	be nestle on	be the boyhood home of	have become the capital of	use	should pick	place third in	be wrong for	offer two-year degree in	be an icon for	be well connect to	be a hub for	suffer severely during	be the seventh largest city in	compare this to	be not just the birthplace of	have be close to	be actually locate on	will still be without	be call for	become the capital of	take over from	be an enclave of	represent	lead obama in	ask of	do not pick	be include in	be the capital of	have be bury in	actually win	march on	take the body of	be the official home of	be also call as	win the vote in	be also home to	be the vibrant capital of	have be buy	sail in	also call on	be do a tour in	can be use with	be a win for	be catch up with	announce on	win	be confer with	be a success for	be locate on	have another vision of	once include	be bury	be three time the size of	be much better in	be a town in	be above	will miss	be now head to	be the state capital of	sail for	be the modern capital of	be beat in	should extend	remain second in	be the fifth-largest city in	miss out on	then enter the city of	now appear as	will always be grateful to	lie along	be a department of	be a small city of	have be hope for	extend she hand to	be the capital city of	have be focus on	be a competitor of	be capture by	be name after	also work in	remain aloof from	bring up	be a problem to	bring	do not wash	be also a member of	engage to	be extend in	should have ask for	again visit	have to win	then sail to	have a minister for	be face off against	be closer than	have complete project for	win as	be ideally situate on	have no say in	be assassinate on	be son of	attend the university of	show the way to	be completely surround by	be the seat of	be strongly influence by	be capital city of	be an important partner of	demand of	be a landlocked nation in	be border by	be annex by	march to	be the provincial capital of	travel through
+2765	3	remain critical of	go inside	be also the site of
+1891	77	also court	be just east of	be safer than	be address	continue his journey to	be name for	be also connect to	buy by	have an ally in	continue in	have his own version of	have a feud with	be west of	nearly hit	be serve by	be the soul of	have migrate to	be list in	be the place to be in	have a part in	lie east of	say farewell to	now visit	play with	spend two year in	build his first car in	be much better than	be once part of	fly only to	would not be without	be a huge improvement over	ride to	be very close to	should have nothing to do with	vote early in	have a daughter with	be a public two-year college locate in	be the beautiful capital of	go to live in	be a daughter of	be convenient to	have also be compare to	compare to	preach to	set the story in	begin life in	be also close to	be not as big as	be locate here in	perform in	also offer program in	be miniscule compare to	be visit	be accessible from	must not become	will vote	move next to	be ambassador for	hit the ground run in	visit she in	be now be hold in	march south to	will now meet	be make the capital of	be an ardent admirer of	vote against	practice law in	be very different to	be abandon for	explore the coast of	be never in	be much warmer than	also struggle in	flee to	have capture	should follow	have increasingly turn to
+1100	2	be well receive in	be again in
+243	5	will ruin	be three hour in	have a system of	be buzz about	be praise by
+901	3	must not be take by	may not be able to take	be no easy task in
+650	30	be also on	be take more than	take on	have take on	be take with	go on	be call in	be release after	then go on	be only take	be start on	go up to	have be sell to	be for	be sell as	have take over	be provide by	be available at	go from	have be ask about	will start with	be nothing about	then go on to	be available as	release	take for	be give	be take	be on	have give up on
+1220	3	be especially true in	may have occur in	could be usefull for
+41	29	direct research on	be indeed on	be third for	be a dear friend of	be not bear in	be bow to	have walk for	observe in	crash in	be also nominate for	also rank first in	settle first in	be initially headquarter in	be there from	be allow to return to	learn this from	be roughly the same as	edit by	be cooler than	never say anything about	be the port of	be an important festival in	help the people of	be indeed in	have his eye on	be totally different than	be distress by	port to	be five hour behind
+694	9	be also bear in	have also be feature in	remain in	begin his tour of	be also bear on	be hone in on	can shut down	score the other two goal for	be the toast of
+235	207	be cheaper than	suffer a similar fate in	be finally free of	sell weapon to	be the primary gateway to	include photograph from	retain the name of	be a major donor to	have be a major donor to	be easily accessible from anywhere in	be adjacent to	make treaty with	should emulate	maintain friendly relation with	be light year ahead of	come next to	be much more important than	can do the same to	be suppose to be part of	receive water from	be previously call	still remember	grant independence to	still need	renounce all claim to	do not have an embassy in	trail	declare independence from	be unable to compete with	have no formal relation with	do the same in	be the second largest oil producer in	never invade	want to be like	be simalar to	decide to attack	be a very poor country in	claim part of	be no longer a priority for	take the side of	also occupy part of	do not recognize the state of	have always be ahead of	must be connect to	find an ally in	may be best know for	have friendly relation with	have bilateral agreement with	agree with	be also accessible via	break diplomatic relation with	be use here instead of	thru to	break off diplomatic relation with	be the eastern part of	have become a major tourist destination in	have always underestimate	have embassy in	be not only in	assume control of	first attack	be also the largest investor in	be a cosmopolitan city of	stop support	drop an atomic bomb on	be a county in	be border with	be not well know in	be pamper by	subsequently attack	have investment in	be still an ally of	sign a free trade agreement with	be the actual capital of	share its northern border with	join the war in	come out better than	be right next door to	have a peace treaty with	share its border with	proclaim the independent republic of	be a traditional enemy of	drop two atomic bomb on	be become more like	could withstand	gain independence from	be a very special place in	be a close neighbor of	gain control over	be no more accurate than	be have a field day in	be a huge market for	be so much different from	be provoke	only recognize	be much closer to	be a beautiful country locate in	relinquish all claim to	be the traditional enemy of	be a key partner for	become independent of	seem to really love	do this with	lie north of	be humiliate in	bear some relation to	would come out of	be not independent from	do the same with	supply arm to	be feed up with	alone can save	be mandate to	maintain good relation with	have full diplomatic relation with	shall occupy	sit south of	be a memorial to	be not a master of	always mean	be mark as	be under	still hold onto	also attack	be formally part of	be an old ally of	pay dearly for	formally declare war on	launch attack on	call the land of	recognize the state of	be the smallest nation in	start move to	provide car rental in	have also be name	have the largest population in	have no design on	appeal to	would divide	have design on	be less than	recognize the independence of	celebrate christmas on	cover the country of	must follow	officially become part of	achieve independence from	enjoy friendly relation with	be legally available only in	have the highest population density in	be a world away from	could be a part of	be the largest country in	would cease to be	defeat the force of	be also valid in	be one step away from	be more remote than	be a very popular travel destination in	quickly fall to	give up all claim to	be follow the same path as	have keep	negotiate a treaty with	rank just below	formally annex	be the crossroads of	capture part of	be a close ally of	make peace with	trail only	be an outpost of	be not originally a part of	be not the same as	be the old name for	be a common abbreviation for	be four time the size of	be not just about	gain its independence from	rank below	be a popular travel destination in	declare its independence from	be not much better than	owe everything to	be sell weapon to	impose sanction on	be mediate with	be a better name than	take a slice of	have significant economic interest in	launch an attack on	form part of	have never fail	be tire of	be the second most populous country in	be formerly know as	gain control of	cannot remain	be two hour ahead of	be make peace with	give up its claim to	give up claim to	pick a fight with	depend on	be the stand-in for	be north of	be seduce by
+1224	3	also have a good relationship with	have a love-hate relationship with	have a very good relationship with
+2923	1	be also a major producer of
+1866	2	be find in	be find only in
+2666	1	be a great delicacy in
+394	74	cast a spell on	provide these for	have study in	be a great admirer of	be a major crop in	have an interest in	be not new in	be now rage in	be a neighborhood in	be never part of	affect all of	start for	grow out of	be bring from	will never get out of	free from	would go to	be larger than	be grow in	be bless with	stay on in	can now return to	be once a friend of	operate from	be be destroy in	live only in	have declare war against	enter in	be now accept	be also grow commercially in	be die for	bring a new era to	follow suit in	be the main ethnic group in	ally with	operate over	may no longer be in	be operate out of	be practically unknown in	have reach with	be best choice for	enter	do operate in	have other office in	have remain in	be form by	withdraw from	have turn his attention to	have relocate to	will hold	be a long way from	take a trip to	then declare war on	will turn on	be also bring from	have declare war on	talk about	be a king of	live throughout	be a problem in	be the only country in	like work for	be very important in	spend several day in	originate in	have reciprocity with	remain with	operate in	be the most popular fruit in	open the school in	be actually bear in	be bring up in	be everywhere in	operate out of
+977	1	contain large amount of
+2514	1	have a restaurant in
+970	4	be more common in	be more prevalent in	be common with	be prevalent in
+2246	118	have finally discover	have traditionally be a part of	have a large range of	be the safest country in	be a small mountainous country in	be run amuck in	be involve in	be pay in	be slightly smaller than	be approximately twice the size of	be roughly twice the size of	become independent from	remain a problem for	be a strategic market for	must negotiate with	be closest to	be the gate to	be very patient with	be a small island in	be a land-locked country in	have take the fight to	cover an area the size of	be an island nation in	be a paradise on	have a strategic position in	declare all-out war on	be the real home of	remain a member of	be a small nation in	stumble over	be a longstanding member of	be a landlocked country in	retain its grip on	refuse to deal with	lose control of	flatten	be grow primarily in	become embroil in	be an active member of	be a country base on	have an access to	be only slightly smaller than	be definitely look	have the highest teenage pregnancy rate in	have access to	be relatively close to	pay reparation to	be the largest mosque in	would nominate	become predominantly	do not negotiate with	be roughly the size of	step up pressure on	be twice the size of	be comprise primarily of	be smaller than	be an important player in	have make inroad in	be strategically locate between	be an oasis in	refuse to talk to	be the northernmost country of	be still open to	will not beat	have be the recipient of	be not yet a member of	be badly damage during	kick butt in	be an independent country in	be often call the gateway to	conquer the island in	be much stronger than	have no jurisdiction over	be the breadbasket of	be the second largest economy in	get sign to	do not reward	blame the attack on	slam the door on	control two-thirds of	be the cultural centre of	claim ownership of	be the most populous country in	be try to join	be not home to	be the smallest country in	be as much to blame as	precipitate	be an archipelago in	do not settle	be thrust into	be the odd man out in	be very involve in	have be invite to join	pay out	be a waiter at	be right next to	be a key supporter of	still vote for	be the oldest permanent european settlement in	be a country situate in	be paradise on	will be very hard for	be already an active member of	be nine hour ahead of	be the major exporter of	be the largest producer of	be a republic in	be a wonderful place to visit in	file case against	be reportedly consider to play	have no illusion about	be be	be a small land-locked country in	be the main producer of	be a nation in	be the melt pot of	also maintain a consulate in
+1122	36	be cede to	be the capitol city of	be a bad idea for	be the second biggest town in	be also the largest city in	be the best island in	be the biggest airport in	remain part of	evoke the image of	become the third largest city in	be the fifth largest city in	will be absorb by	be not consider part of	lie next to	be transfer to	be assign to	be the southernmost city of	be the third busiest airport in	be the second biggest city in	be muster out of	do not pose a threat to	be my first stop in	have enormous potential in	be a dependent territory of	be the most southern region of	expand into	be clearly not part of	be the main city in	be the main gateway to	be the second capital of	link to	will stop in	be the third largest city of	come down hard on	be one hour ahead of	hold territory in
+396	110	be already here in	be travel in	would still be in	would invade	have take power in	have be a great friend of	settle temporarily in	spend year at	be available throughout	intervene in	tell reporter at	be prepare to invade	be keep an eye on	open their first store in	then travel to	should have destroy	split from	be the crown of	have come home to	have write for	declare of	lose the war in	take full control of	be still find in	become chancellor of	be rule	be currently be hold in	be a significant minority in	have a good life in	be appoint chancellor of	be no threat to	be rise in	want to travel to	remark to	have always be a symbol of	should accept	will travel to	be a great friend to	live between	extend to	will hit	have assume power in	follow up to	have invade	preach the gospel in	arrive again in	be not yet available in	be elect chancellor of	next turn his attention to	be shipwreck on	become the second president of	glare at	depart for	march into	travel around	have be force out of	will destroy	be not even bear in	be a columnist for	get own in	be expel from	be already in	have not invade	be a major problem of	make several trip to	be trade in	tell reporter on	tell reporter in	have be tour	be perform for	make an extensive tour of	prepare to invade	have spend year in	seize power in	be land in	be now available in	turn away from	be name chancellor of	have nothing against	say before leave for	become the chancellor of	then deliver	do not invade	be the stage name of	be now equal to	break his promise to	have march into	be little know in	be the bible belt of	be the king of	be shoot in	be not accept in	want to work with	be the first person in	depart out of	defend	be the elect president of	make a covenant with	have not turn his back on	spend a year at	do the same thing in	be know not only in	be speak of as	take power in	be send back to	just beat	move his government to	turn their attention to	be split from	make demand on
+738	86	say this to	do not choose to be	come for	give advice to	have see	be not translate into	be the flow of	die just before	remain	be so proud of	now lead	win the european championship in	walk to	learn the lesson of	be presently locate in	be talk with	be right for	make for	finally kill	desire	be piece of	will lose to	serve four term in	be the lover of	desire of	be critical of	hear	work closely with	start fight	choose	be then join by	set his sight on	rejoice in	be cling to	be back by	start to attack	can defend	be fight in	deny any knowledge of	be now back in	kill million of	return as	help find	have deny any involvement with	also work on	be close on	be the name of	be not frighten of	be sufficient as	eventually make his way to	attend a party in	call a special session of	be right with	settle down in	cite the case of	be make of	cheat on	be a reference to	have enable	also appear in	be a black version of	be a singer/songwriter from	run up on	cannot be	do stand up to	do not harm	give the letter to	see man in	relate this story to	bump into	be back to be	be not the father of	be right about	also kill	fly out to	be captivate by	include the value of	retreat back to	make a state visit to	be busy in	then convert to	be never marry to	clear the air on	transfer in	be a child of	can see
+253	102	address the media in	wind up in	be the poster boy of	enter school in	be beatify in	spend the next four year in	be raise outside	support the war in	receive a vision of	walk	make trip to	be educate in	be great admirer of	bring to	be permit to return to	be as far as	study art in	have big plan for	have be bear in	then relocate to	have to follow	have head off to	be to follow	do appear on	make frequent visit to	take a holiday in	find work in	have their first meeting in	be again expel from	will depart for	have stay in	be baptize in	be incorporate in	inquire about	reconcile with	loom large in	be also the home to	look at	be right here in	be bear be	be incarcerate in	then eliminate	be tolerate by	be king in	be a seamstress in	give a speech on	do not accept	die yesterday in	be then send to	can buy	give a speech in	be the former archbishop of	own nearly half of	move first to	fire to	also arrive from	accidentally hit	be vacation in	report to	have be send to	make she way to	pull ahead of	make his first trip to	be hospitalize in	be refer to as	come fourth in	also spend some time in	have leave for	will manage	turn his attention to	will hold event in	have be impressive for	be a tiny minority in	have recently open an office in	be the mother of	gravitate to	give no quarter to	be familiar with	turn his back on	spend six year in	record prolifically for	be send by	be force out of	have be live in	be bear with	be unknown outside of	be the largest ethnic group in	be spot in	be fire by	found the church of	continue to	never get out of	be raise on	have choose	then turn his attention to	close up on	will appear with	make up the majority in	be expect to arrive in	have to flee from	be give a speech in	then fly back to
+2009	1	be a professional basketball team base in
+1094	9	be still very expensive in	be the dark underside of	may cause	ship from	be discover by	may be in	be hot new male talent from	be also be distribute in	be anabolic in
+1887	1	make the acquaintance of
+2395	1	be outstanding as
+209	5	have an advisory committee on	submit its report to	be monitor	pose the question to	be a member state of
+1116	12	be better know in	would leave	be a big celebration in	be also find in	be highly respect in	return home to	make two trip to	attend a memorial service for	have long be associate with	avoid the issue of	live briefly in	be a big fan of
+34	3	be a significant market for	be a significant upgrade over	have a significant presence in
+1913	2	glance at	could learn a lot from
+963	117	sit out	remain strongly committed to	will change	still sell	open a flagship store in	be not add to	be favor by	cover most of	be the official web site for	be a politician from	have change to	soon go to	be high in	be expect to appoint	dump by	be basically be	be reason enough to come to	have refuse to talk to	be the core of	be thrive by	be report for	also visit	do a report on	have be hospitalize in	be also a close friend of	be build	be accord to	include the country of	currently have	expand on	make a cameo appearance as	have sue	finish second in	will remain chairman of	be expect as well as	have be declare on	remain an important part of	do a number on	play a starring role in	also go after	do a tour of	say angrily to	be wrong on	have just switch to	do not lose	also hammer	be the senator from	be bury next to	remain the chairman of	hitchhike to	may have win	also win	just release a new version of	have be prescribe	report in	recently say in	be rehabilitate	run second in	be as corrupt as	declare for	hold a fundraiser for	become establish in	have be the language of	be fine as	open a manufacturing facility in	sue	have consult for	should be in	go big in	classify ad for	be the local leader of	report for	nominate	be measure in	be a registered professional engineer in	just do a story on	have question for	cover	yell back to	be inaugurate in	be the town of	will start alongside	hire be possible in	may be from	be recently in	be not the right choice for	be insanely jealous of	have confirm this to be a problem in	lock up	basically own	be become	have unveil	have recently update	be directly behind	start work on	also fight in	make an impassioned plea to	can also be a problem in	describe under	be persecute in	bring major change to	be resident of	be a prospective member of	be fine in	be the developer of	release a public beta of	rage throughout	make stop in	be twice elect mayor of	wrong	release the public beta of	be commonly use in	have release patch for	spend his adult life in	give order to	dominate in	be not better than
+737	166	sell on	be a locate in	die on	have just begin in	lie in	sail to	be come to	be a different than	be to meet	blame	add	will become member of	turn into	be do nothing for	will be better than	come with	can run on	kill	include	have its headquarters in	have be talk up	be about to acquire	be go for	again play	be rename to	be the study of	be once a part of	have begin in	can beat	will choose	be different to	be go	fly into	could have be	write for	will now be call	grow in	talk with	study at	work for	once say to	take care of	go with	be support on	take out	go on to	call out	go up against	have go further than	run only on	be build on	should have stay at	be support	work at	be the headquarters for	do not come with	have pick	go	now sell	be refer to	call in	be great for	be influence	will say to	be look out for	do not like	will be play against	have reach	be work for	do go to	look down at	have come out for	then return to	work out of	will return to	be lose to	will campaign for	have some friend in	will defeat	think for	come out with	also have	be go out to	be some form of	have also work on	again meet	lose ground to	be now take on	be locate	win for	take off after	be head over to	support	be play	play for	say about	have just return from	beat out	have turn	run under	have nothing for	name	be promote	have be develop by	be now call	be a friend to	will take	have pick on	place in	be return as	support for	should appear on	say for	lose against	create	plan for	go over to	have be link with	will go to	do she part for	have be link to	be represent	have star in	should look to	be vote for	just endorse	be big on	be never	come back in	be native to	enter into	start in	be better for	be never own by	also refer to	go off on	have refer to	pick	be invest heavily in	have work with	be go as be	can also be call	can come back to	be no different than	work with	be blame	be link to	be go after	have kill	be call to be	be back	should go after	be as big as	be only go to be	just go to	have play with	call for	have be the capital of	be destroy	be destroy in	will work in	be now friend with	be use	hold on to	be sell	be a hero in
+393	4	be still trap in	will also travel to	be the largest minority group in	need visa for
+891	3	be another character in	be not the president of	make fun of
+978	3	be hilarious for	say on	then say to
+2197	1	refer to
+2081	1	set out for
+1204	14	be a bit hard on	have a story about	will be the savior of	be a personal friend of	be not root for	have more with	be try to destroy	also throw in	would not have go to	be not mention again in	may exit	be rear principally in	get nasty with	direct the question to
+764	1	be the nephew of
+392	5	do respond to	be also the patron of	be a jew from	be manage by	hurry back to
+996	5	be a cousin to	be a cousin of	be the cousin of	grow suspicious of	be taller than
+128	4	be actually marry to	promise to take care of	have promise to take care of	do not stay with
+151	11	also run	make a rare visit to	make room for	would take control of	be a charter member of	be not find in	be more volatile than	enter the war against	promise to help	spend four month in	gain full control of
+1227	12	would be proud of	easily dispose of	be a huge fan of	overwhelmingly support	scare the crap out of	be the enemy of	join his father on	share his thought on	overwhelmingly win	really do not like	turn back to face	be just jealous of
+1515	5	apply this to	will sing	be a real friend of	be from	have do the same in
+1655	3	have acquire a control stake in	have just acquire	become a subsidiary of
+2491	2	have morph into	morph to
+2414	2	feel like	will feel like
+979	3	be the biggest holiday in	be not a holiday in	be not a national holiday in
+175	2	be the most important city for	be also very important in
+696	4	go to	have go to	play in	be found by
+289	77	have the support of	will leave	have settle down in	be very important for	make up for	be close to	declare war against	still have	be take to	have become a part of	take over	then become a part of	will invade	be beat by	become part of	be an ally of	have to leave	can take on	be just like	have lose in	be include with	turn to	have come into	be invade by	travel in	be return to	be free in	be not like	have a base in	have turn to	only get	be follow by	still own	be locate between	be free of	look down on	be available in	have do nothing for	be make in	have be return to	have just invade	have plan for	follow	then leave for	will settle for	have a link with	win over	have be bring up in	be move with	launch in	lie between	be replace by	declare war to	only look out for	now come under	have now invade	be then part of	sell	have go over to	move on to	have their home in	sell to	be call out of	invade	be turn	have influence	have move into	run for	be annex to	be bring to	will be compare with	once say of	be so different from	will be available in	just work for	invade to	have be part of
+2010	1	co-authored
+521	3	have recently return from	have his own studio in	be also the city of
+339	58	have support for	be much more secure than	have creep up on	be build into	be previously know as	be far more than	legalize the use of	be only available for	be a free alternative to	be a variant of	be also available for	be support as well as	have now be port to	be tag with	be more secure than	only support	then enter	use to have	be work fine in	be own by	be now available for	bring on	be only available from	have office in	be less secure than	work out great for	be already on	be free for	settle on	be successfully launch in	be a great release of	be go to destroy	be product of	be use for	leave	be make by	can be better than	be also more stable than	be cheap compare to	be synonymous to	raise the price of	come free with	be similar to	be now part of	be very cheap compare to	be different from	will only be available for	be a flavor of	incorporate element of	be derive from	be available for	be a piece of	be a variety of	be the latest edition of	include for	be provide free with	be use in	be only for
+785	7	have a limited supply of	be a registered trademark of	be the registered trademark of	be a trademark register by	be register trademark of	have be make inroad in	be a registered trademark own by
+718	14	be not currently available for	be available free to	be a mixture between	also come with	use by	be free from	require the use of	can convert to	work just fine in	be available on	be the big brother of	be actually part of	be the free version of	be better than
+572	3	hire	tell	be tell by
+1727	11	also do	look to	move from	be all trademark of	get own by	go further than	be a trademark of	be trademark of	be the trademark of	own the trademark to	be the place to go for
+15	1	continue to work on
+2322	1	be a part of
+2286	62	be king of	be persecute by	propose to	prepare for	reveal to	can challenge	be a former speechwriter for	have deliver	say through	be be influence by	need to dump	become king of	be happily marry to	have a child with	have also be romantically link to	rule in	be the twin sister of	be mad at	formally adopt	tell the story of	be close friend with	be the husband of	be the only son of	also say to	have a crush on	then become king of	participate in	enlarge	reveal in	be bless by	be the same with	be a hostage in	become the ward of	be a type of	be bear out of	be the god of	march out of	be call son of	simply ask	be the first bear of	be accept by	be go crazy for	will be back on	be spawn of	be back as	accept	have confidence in	send to	be the grandson of	be bear of	punch out	be then follow by	attend the funeral of	be join the likes of	be the only child of	always talk about	be not play by	run to	lie with	be all child of	make a remark about	wait patiently for
+2120	1	be the great great grandfather of
+1434	4	start to return to	be persuade to return to	be set to return to	give this name to
+1296	1	be the european version of
+1131	3	be often link to	be apply	be also a derivative of
+1351	84	do the same to	can be refer to as	also have an office in	be not base in	leave france for	be a tiny country in	spin for	remain commit to	be probably in	have betray the people of	have break out in	decide to withdraw from	be toss out of	be not a part of	feel sorry for	may be hide in	never conquer	spend a week on	be not support by	be the new york of	be the main language of	be not a threat in	be go back to	will not be come to	be the only city in	open plant in	have be critical of	have many effect on	also grow in	be the first language of	be a tour of	secede from	be a southern state of	be grow commercially in	give encouragement to	be a plant native to	be the crowning glory of	be the third largest island in	be try to get out of	be defend	have not forget	be the oldest european settlement in	be also grow in	have no great love for	be also speak in	take much of	be take root in	claim victory in	enthuse about	also share a border with	have proximity to	be also be grow in	cannot deliver	be synonymous with	now face	can also be find in	be the southern most state of	be still young in	operate not only in	have team in	be appoint	make a visit to	be follow the footstep of	be now license in	remain loyal to	seek refuge in	have be defeat in	be a hero for	be locate just east of	be the second biggest city of	be the business capital of	have become a household name in	also have office in	be move back to	unite for	lead the invasion of	have also be active in	be a well-known friend of	see the potential of	have now move back to	be declare war on	take refuge in	be face of	do celebrate
+2685	1	help defeat
+2742	1	slap sanction on
+2386	23	be your plan for	be professor emeritus at	get out of	play college football at	win the democratic primary in	be re-elected in	spend a few week in	be a senator from	have drop out of	be the senior united states senator from	become the president of	become a fellow of	start as	be a professor emeritus of	be attend	be now a student at	transfer to	spend week in	be originally develop at	attend to	open	become president of	have now open in
+1038	2	order a blockade of	send military aid to
+72	48	be the fifth largest country in	request assistance from	have always be a part of	be a unique country in	be the meeting point of	have the longest coastline in	be the poorest nation in	have the largest jewish community in	be the backwater of	be the largest aid donor to	be unlikely to threaten	be the great hope of	claim territory in	be the seventh largest country in	equal	be more diverse than	be a very important partner for	be a territory of	have a station in	be the centre of	be the size of	have a very long history in	suffer from	take a leading role in	be an important trading partner for	also be a part of	have discover	be not part of	be the fourth most populous country in	can trace their ancestry back to	trace its ancestry back to	be the shame of	be my first trip to	have the highest death rate in	be the most populated country in	become available in	join the council of	be still the heart of	remain the poorest country in	have never be part of	offer a taste of	will be to	have control on	begin missionary work in	be geographically part of	be not go to attack	rank third in	have very little to do with
+845	58	have claim	will become a member of	be country of	also own	be a country of	be a large country in	be still there on	have be a member of	have apologize to	be more know for	be also from	have become a member of	be much like	be a country in	become a member of	be reach out to	be close by with	be a found member of	have the highest rate in	have be a part of	target	have corrupt	have conquer all of	be still part of	be the focus of	be develop in	now have its own version of	be a land-locked country locate in	develop in	be look	be not punish	be develop	have lose	be most active in	be fight with	fight in	have ally in	look more like	send an army to	have sign up with	be member of	turn its attention to	be currently live in	start by	be represent by	have fall behind	have be active in	be the land of	can be find in	be so close to	be a small country locate in	should become a member of	have be a found member of	begin	be ally to	win the war against	be small country in	end up in
+1118	7	be now the poorest country in	be the third largest country in	need to be integrate into	be central in	have the fastest grow economy in	be the poorest country in	be an important country in
+2636	2	have a long-standing interest in	spend many year in
+1135	1	drop out of
+2324	3	still believe in	come second follow by	still have feeling for
+1031	11	be now provide	be a public college locate in	offer a bachelor degree in	maintain facility in	be a university in	have close tie to	be in neighbor	be a participant in	be a public university of	be a state university in	be a public university in
+194	8	be a federally register trademark of	establish an office in	clinch	be station in	run a story on	spend monday in	be a state in	hold steady in
+907	5	be the elder sister of	would have crush	may be help	give birth to	be cozy up to
+1348	40	be mention before	be the grandmother to	be a man of	have be nickname	claim to be	be proclaim king in	try to speak to	make good progress in	be get marry to	be perfect as	be ahead of	will present the award to	announce for	assume power in	see in	be still president of	often speak of	be assist by	do not let	begin his acting career on	have already send	be equal to	be a former member of	then come back to	turn out to be	be able to return to	head off to	be justify before	will be the next prime minister of	come right out of	exile from	join the cast as	must be allow to return to	be commander of	be very affectionate with	have heal	be proclaim in	live his later year in	be a perfect choice for	be already marry to
+1228	28	be now	finally find	be in for	may well be	be transform to	be heavily influence by	visit with	count as much as	be an extension of	level for	have be bench for	be newer than	must be change to	be out as be	be somewhat similar to	hand off to	be backstage with	be the last version of	be so much like	throw a short pass to	find	be the final version of	be superficially similar to	be more powerful than	be a sibling of	may well be in	be the next version of	throw a pass to
+11	5	will not trade	look like	be look for	have form	be hit by
+2471	6	throw a strike to	be an extension to	be couple to	throw short to	offer his hand to	be more advanced than
+200	3	use a chair on	smile at	stare down
+1451	3	try to cover	laugh at	drop an elbow on
+506	2	rip on	seek therefore to kill
+735	10	retire from	land at	begin his life in	be interest in	also be the home to	discover	land in	appear with	be have problem at	have find
+2339	2	charge after	hit a clothesline on
+1067	4	be consider go to	be a disgrace to	should not vote for	sit out for
+2826	1	reunite with
+1213	2	be just	be blacker than
+374	5	have always be part of	be generally sell in	be the best keep secret in	have always be special to	will be double for
+185	4	should be select for	will be fully support in	boost the effect of	should have select
+227	12	finally endorse	continue to develop	do not touch	snap at	be no such animal in	have a ranch in	be the govenor of	will do this with	receive his doctor of	will be oppose	be a senior lecturer in	use a lab in
+789	20	be call	be indicate for	die of	be use to treat	be see in	open the door for	be die in	be not a cure for	be one measure of	be the abbreviation for	be currently no cure for	be prescribe due to	be infect with	be also refer to as	do not cure	be the most commonly prescribe medication for	be use to treat the symptom of	be a good marker for	help control	be a cure for
+262	3	never accept	change into	belong in
+179	22	comment on	be not scare of	care nothing for	seem to be follow	will continue be	set off for	respond to	then respond to	be double	break out in	may not like	have also marry	be not come to	have no comment on	bore in	assume the position of	say of	react to	bring glamour to	be quote	blame this on	have more experience than
+2319	6	still hate	have great impact on	be the principal language of	be the national language in	be the national language of	be a national language of
+199	7	be the language of	be an indo-european language speak in	be a language speak in	be the main language in	be the first official language of	be the official language in	be the native language of
+1256	9	now live in	talk to	be ceo of	be bear	do live in	can contract	testify before	have convert to	live all over
+1651	1	be the bestselling author of
+836	6	be preparation for	have be nominate for	do not submit to	join the likes of	be the seed of	will join the likes of
+365	17	have also date	withdraw his support for	look up to	be way sexier than	win the fourth season of	be now marry to	have be challenge	get together with	follow by	have the hot for	be an early supporter of	have be marry with	send a message to	be the spitting image of	cut to	have turn into	be run second to
+1059	3	jump at	do not go to	never like
+733	5	be the new name of	be now pair with	be new name of	do not pick up	be formerly call
+1206	1	break new ground in
+813	1	be push out of
+126	6	be the official language of	be an official language in	be an official language of	be the only official language in	be the most common language speak in	remain the official language of
+616	37	be currently the chairman of	have purchase	be follow the lead of	now own	already own	should acquire	should just buy	go live with	will not install in	have beat the likes of	buy	own a stake in	really love	be an owner of	also acquire	be seek a stake in	buy all of	be buy by	will buy	offer to	have be ban from	have reveal in	be now on	have already get	now offer	have a hit with	recently buy	announce the launch of	be then buy out by	launch	be censor	buy out	just launch	be a general manager for	embrace	be founder of	just buy
+1049	5	have never sing in	be also a visit professor at	leave england for	buy land from	be study business at
+187	15	be not president of	be also	be elect president of	order the invasion of	leave out	should do the same for	be the president of	meet in	have be elect president of	be president of	be a president of	will be president of	be the new president of	have a brother in	do the same thing to
+1643	2	will be the next president of	be the current president of
+1184	9	be the first stop for	be never close to	lose the game to	be now afraid of	let loose on	dedicate the album to	will pay tribute to	send the message to	be mainly use in
+75	20	rely on	make an exception for	order the implementation of	say after meet with	do not mention	make reference to	be not want in	be accompany by	have already capture	be a single guy from	make no mention of	be still draw to	have do the same on	should be govern by	be govern	do not crucify	play the lead role in	have never see	play its home game at	be the figure of
+417	3	bless	have demonize	admire
+349	27	have be welcome to	be a manager for	be elect the president of	be get ready to take on	get a deal with	have always be popular in	have be swallow by	have already declare war on	do travel to	will get	be tough on	find a home in	purchase the property in	write on	send a copy to	even go to	be just back from	be a senior correspondent for	be dead in	be peeve at	be the founding president of	be the director of	do not declare war on	respond by fire	will no longer be president of	be populate by	be swallow by
+121	10	really run	carry the day in	be off to	win numerous award for	appear regularly on	be not allow in	take his idea to	be warm up for	take his bride to	set foot in
+1639	1	be remake
+24	7	have no clue about	sink tooth into	really be better than	be appropriate for	lead to	be go to launch	be actually
+404	9	have many advantage over	be arguably better than	be not as strict as	be now a subsidiary of	use the same procedure as	work differently from	contribute to	launch by	provide free copy of
+2595	2	be a writer for	be an author of
+233	15	be a private university in	be surpass only by	be a coeducational public research university in	be the home to	be an independent affiliate of	be the oldest university in	be the university of	be a private university locate in	be a home for	be home to	be a private coeducational research university locate in	close the season at	will portray	be also promote	be a catholic university in
+1188	17	be a repeat of	be also endorse by	will not be like	be finally	may be worse than	poke fun at	be a lot smarter than	have line up behind	be not like by	roll over for	be sympathetic to	be a lot closer to	urge respect for	just return from	be skeptical about	be pretty similar to	have compare obama to
+1325	10	get to keep	say tuesday on	go shop in	never appeal to	actually say to	also make his way to	have cancel his trip to	be soft on	begin his trip to	also have harsh word for
+2523	2	campaign hard in	do not campaign in
+1578	8	hold a degree from	later transfer to	shoot	be the only president bear in	would go on to	place second in	be the favorite in	earn his degree from
+1657	11	be also the president of	will do better than	be a lifelong resident of	be the sixth president of	be the top presidential fund-raiser in	be write	be make for	be go to be the next president of	be write from	resign to	just come back from
+2104	3	rule the world by	be the worst possible choice for	be lead among
+421	6	be spread in	be be report throughout	be identify with	have not be detect in	be a reportable disease in	be identify in
+306	58	be the perfect place for	talk a lot about	will beat	be way different from	face the same problem with	have concede the election to	have become a strong supporter of	be the son of	be not attack	be hardly	should honor	will pick	vote with	speak for	be barely ahead of	have pull ahead of	have never hold	do not rely on	be always	be talk about	will have an office in	be the wife of	be save by	be offer more than	be one point ahead of	concede the election to	be all about	do not respond directly to	be a name for	be not vote for	be relate to	be a major stockholder in	would make a better president than	be dismissive of	have settle on	should apologize to	do not frighten	be often liken to	be the political director for	will wipe out	go toe to toe with	be the white version of	take his cue from	mop the floor with	assert of	have a different vision for	be so unlike	be now help	decide to vote for	take a swipe at	be a perfect complement to	will take care of	have suffer more than	have stand by	will not pick	be the alternative to	would be very proud of	be older than
+47	7	be recently kill in	have extensive tie to	recently call	say recently on	leave chicago for	previously work for	be totally
+1890	40	be a gift for	will do the same in	want to go in	be very bad for	pay a visit to	be the first leader of	be invite to visit	be out to save	be reelect president of	make quick visit to	tell cheer supporter in	become a citizen of	will also be visit	would be bad for	take a hard line on	generally like	be still fight	have an agenda for	will save	assume dictatorial power in	have many friend in	emphasize his support for	have no vision for	want the best for	make the comment in	hold forth on	be a danger to	will be the death of	be the dictator of	be the real face of	be deceive	emigrate to	be ship to	be a tool of	have a special concern for	hope to return to	be a traitor to	will be best for	may not be go to	protect
+796	3	trump	owe	vet
+721	1	be obsess with
+878	1	want
+590	2	have spend more than	later start
+612	3	point out to	point to	do not know
+474	6	be a graduate of	start at	have just graduate from	complete his undergraduate study at	then attend	then transfer to
+472	16	write this about	make a pass reference to	represent a combination of	be very polite to	say the same thing about	play chess with	be the second daughter of	sing the praise of	be just as corrupt as	would be better with	will never beat	be an appealing alternative to	be the second come of	have a better chance than	really need	would never beat
+2233	1	continue to target
+1741	3	order the bombing of	be the predominant religion of	be the predominant religion in
+1782	13	be compare to	be comparable to	speak out on	have the power in	be like	lie about	be liken to	be no better than	have call on	now have the power of	lie to	have the power of	have be compare to
+207	11	say wednesday on	listen to	never vote for	will never marry	be not the source of	be throw out by	be have an affair with	be not even close to	do not kill	have stop look for	be highly critical of
+841	2	do not lie about	keep bring up
+1528	16	be especially fond of	will kill	be now governor of	be twice elect governor of	be the former governor of	be a former governor of	be no longer the governor of	bury in	be ahead in	sign to	win the governorship of	be elect governor of	become governor of	be great as	create the state of	admit to
+260	4	eat away at	be liberate in	seek to kill	kowtow to
+639	1	do not speak
+1159	6	be not blame	be also official in	have a degree from	will be	be about	have faith in
+1014	22	be the dominant religion in	promise support to	will not win	invent	go much further than	have go home to	need result in	identify strongly with	fly home to	be the majority religion in	be the dominant language in	be the official religion of	be most likely a reference to	mean the department of	narrowly win	lay claim to	have become	attend a birthday party for	still lead in	be a lock in	become the dominant religion in	build
+672	2	finish a distant second to	be currently put the finishing touch on
+704	19	have a nice time in	say from	arrive at	be quite close to	be offer in	be live on	will be hold in	be the city of	win three medal in	declare in	lavish praise on	be say to	set for	deliver in	take a pass on	head to	take the top spot with	arrive from	will arrive in
+1202	1	will be in
+656	4	ultimately lose to	will continue to report directly to	be closely associate to	be the lead partner in
+2809	1	have breakfast with
+1247	1	be not invade
+377	5	have no word for	be peace with	rarely visit	can also refer to	must talk to
+1180	24	have do so much for	be the state religion in	be ship by	may visit	be the main religion of	have exist in	be the official religion in	be the fastest-growing religion in	order an invasion of	be head to	then invade	have no place in	say tuesday in	will visit	spread to	be the religion of	be the state religion of	want a war in	should get out of	be the largest religion in	be protect	be the principal religion of	stop first in	want a war on
+782	4	have threaten	have threaten to attack	threaten	be threaten
+795	2	host the conference in	tell a news conference in
+2571	1	be increase pressure on
+2950	1	offer no criticism of
+2055	4	be not restrict to	be better looking than	have a higher iq than	send flower to
+2718	11	must get out of	appoint the president of	be a suburb of	do not hold in	stand behind	be just a suburb of	be not the king of	also go to	begin she day in	be appoint president of	take root in
+2975	1	give an interview to
+2434	1	say wednesday in
+287	4	pay tribute to	be good for	be thrive in	have continue to thrive in
+311	4	study economics at	then enrol at	be an alumnus of	join the faculty of
+1948	3	also have a message for	have expand to	say refer to
+383	8	be the largest private landowner in	be league ahead of	have be a dominant force in	be make headway in	narrowly focus on	be the third largest donor to	have gain a strong foothold in	be islam in
+1245	2	be much worse than	be smarter than
+115	2	also cite	be not address
+2675	1	be interested in
+2810	2	have shift toward	be sometimes refer to as
+1065	2	be never ready for	also have a stake in
+248	4	be an apologist for	could be compare to	be a constitutional monarchy with	refuse to listen to
+566	7	barely beat	trot to	send condolence to	move west to	see gain in	run deep in	stop in
+1298	4	ship to	have be ship off to	call out to	call on
+232	1	spend the day in
+917	1	be no fan of
+562	4	be a puppet for	might not be	be the ruler of	could have save
+456	2	have never really understand	have embrace
+750	7	also take a dim view of	need to beware of	have often be compare to	be an amateur compare to	enter his second year at	be a second cousin of	serve seven year for
+1041	2	shall be	seem too much like
+1862	1	create the department of
+461	2	be a minority shareholder in	be a shareholder in
+1661	1	have marginalize
+1016	1	be more evil than
+2295	1	agree to notify
+2969	1	be more trustworthy than
+1734	1	expatriate live in
+2199	3	never go to	set sail for	take possession of
+402	1	open a consulate in
+663	95	have consulate in	have sign for	want to get out of	want no part of	be heavily involve in	turn she back on	have shrink to	escape to	control the whole of	would be free of	list with	be now accessible from	be way ahead of	have ban	deck out for	have no respect for	also capture	may be go the way of	be a reality for	cannot exist without	invade the island of	have high hope in	be the way of	be rename	turn she eye toward	be very much like	be a region of	be democratic for	be the private residence of	occupy all of	be more democratic than	be locate next to	be hardly comparable to	be hold in	be divide into	earn a law degree at	be sign in	be a gift from	be poise to enter	interview in	have its way with	should exclude	be banish from	move out of	have an honorary consulate in	be rather similar to	have repeatedly violate	should follow the example of	be withdraw from	be force to retreat from	be also well know for	be wage war on	be locate immediately south of	have win the war in	be the giant in	also gain control of	have lose the war in	have occupy	be also exempt from	fall to	should still be in	be celebrate the birth of	control the western half of	have no claim on	look different from	be look beyond	will never be part of	need to get out of	sign up to	have target	have blame the attack on	rename to	be attack	unfold in	also have agreement with	occupy	be best know for	be suppose to love	separate from	cut off gas supplies to	be a landlocked country border by	also come into	be the epicenter of	be widely accept in	launch its first attack on	occupy most of	be smash	face a similar dilemma in	just turn to	be also accessible from	illegally occupy	assume leadership of	be be handle by	do not punish	be very comparable to
+2072	3	sever diplomatic tie with	sever diplomatic relation with	do not have diplomatic relation with
+177	25	be easily reach via	enjoy warm relation with	would not talk to	be next to	be not the kingdom of	be try to talk to	be next door to	become a charter member of	be a very long way from	assert claim to	will belong to	have more to offer than just	have be wait	be declare free of	have never be a threat to	have just host	have to get rid of	now belong to	have no voting representation in	be overrun by	get marry in	be never threaten by	obtain a number of	would have join	be elect to
+1010	49	send his army into	do not recognise	be occupy by	announce support for	be an enemy to	be place in between	defeat by	support the war on	be go the way of	would have return to	get closer to	be liberate from	have fall to	have long admire	be second to	have no business in	have border with	will annex	do not forget about	be defeat in	annex all of	have be slave in	apply in	launch a massive assault on	will not be	have be very active in	be more important than	be locate east of	will no longer be	now have diplomatic relation with	have be defeat by	support the war against	be the jewel in	should attack	be a tool for	be control by	then change its name to	be a map of	be higher than	pull out of	will withdraw from	can be liken to	be no enemy of	move closer to	occupy in	be formerly	be the world headquarters for	will not give up	apply to
+343	3	have not be eliminate in	have nothing to fear from	have little contact with
+332	3	be the best place on	be the best people on	be the greatest nation on
+164	8	hit back at	be indeed like	zero in on	race back to	score two for	may get	sparkle in	would play
+2796	2	get through in	be stay at
+1703	1	be a regional centre for
+49	3	be probably best know for	provide detailed information on	pass the information on to
+1559	1	may be
+2858	1	graduate from
+439	1	be mainly
+292	6	be a late replacement for	be mostly situate in	be be persecute in	be situate in	take third place in	be better prepared than
+223	28	be more like	should buy	just release	have just buy	work in	have release	be take from	have join	represent most of	can take	do work in	be base off of	begin on	be already do this with	be then base in	be purchase by	be play by	be now free in	be there represent	be base in	have die of	be buy	be give to	move in with	take over for	begin as	should play in	be no friend to
+855	10	be rivet as	be good too in	lead with	wander the street of	also marry	be the voice of	be engage to	be my pick for	be also marry to	be very good as
+1028	3	also work for	never refer to	be then in
+490	2	be often eat for	be offer the post of
+48	8	be the embodiment of	do not espouse	be the exponent of	have betray	have mix	also hate	never reject	certainly use
+411	23	also come to	be the first bishop of	be besiege	specifically cite	move his family back to	cause chaos in	stay in	be anoint in	tell delegate in	move his family to	fly back to	comment to	est n	be definitely come to	be distinctly	will not be play	unload on	do not find	fly from	then visit	tell an audience in	will head to	be bury at
+9	15	do not know the name of	be not go to vote for	be call to follow	be also the leader of	be two year older than	have not be fair to	be the male version of	be pedestrian in	go a lot further than	send away for	be every bit the equal of	be the right partner for	be singularly focus on	know the character of	be nothing compare to
+2091	1	be martyr in
+1619	5	have be photograph on	be a city in	be a city locate in	be a census-designated place locate in	become the seat of
+2462	1	be a supermarket chain in
+1717	23	be the last man stand in	show surprising strength in	be the big winner in	will win the state of	have a large follow in	carry the state of	do not vote for	relate the story to	have do some good thing for	be more common than	be well love in	be not go to win	be currently not in	get rid of	plan to stay in	be not suppose to win	be a big winner in	have ball the size of	do this to	take the exit to	be an important platform for	be the coolest place in	be meddle in
+2941	2	have release a new trailer of	have release a new trailer for
+679	1	have set its sight on
+849	24	make the pilgrimage to	be carry to	must face	be base off	be the fulfilment of	have great respect for	have some success in	be the person of	have a high view of	cannot tolerate	do not worship	look back to	understand this better than	can have faith in	be pervasive in	predominate on	make a pilgrimage to	be the largest religious group in	be not the way of	be the true follower of	be now sue	emerge in	be also in	be also practice in
+131	2	be follow closely by	be currently work on
+584	15	be also sell on	become a found member of	be a lawyer for	simply move to	be six year younger than	use the same engine as	be the cofounder of	find alive in	be also sell	be invite to	be fluent in	become ceo of	fly around	lose the nomination to	have be very critical of
+112	13	leave an indelible mark on	be also the editor of	be no longer in	remain ahead of	have develop its own version of	also become a member of	be the largest island of	be a watershed moment for	have find its home in	be the clear leader in	have post a video of	be the next incarnation of	withdraw its troops from
+65	7	be celebrate in	be slave to	be celebrate on	have the spirit of	be to sing	be be celebrate in	have write a letter to
+97	10	direct	begin the development of	be money to	also come from	may be a newcomer to	be first develop in	be a valuable source of	be a close relative to	also contain a substantial amount of	be the purest of
+2129	43	be the new jew in	be also present in	bring many change to	be import from	finally come to	grow steadily in	be particularly common in	become illegal in	spread throughout	grow rapidly in	be the national religion of	be no longer find in	be introduce to	be readily accept in	become the state religion of	be deeply root in	get start in	be introduce from	have be practise in	also start in	be undergo a renaissance in	be the largest religious minority in	have a rich heritage in	have strong connection with	die out of	almost disappear from	be carry off in	be an essence of	be wipe out in	be uncommon in	have grow dramatically in	be the main religion in	be nothing new in	make up the vast majority of	have a huge presence in	have an impact on	have find success in	spread in	represent the house of	introduce to	be grow fast in	spread from	have become a major force in
+415	26	be concern about	be an early endorser of	have the stature of	be morph into	make a joke about	clone	be all the rage on	give way to	be important in	will not go for	would not have vote for	speak glowingly of	be probably for	have be highly critical of	send a congratulatory letter to	come close to	be as dead as	be next follow by	have some advantage for	lose the race to	be a close adviser to	be the antithesis to	pass the torch to	joke about	be defeat by	do talk to
+519	2	receive another prescription for	receive fda approval for
+1229	1	also lie about
+317	15	succumb to	have nothing on	put the blame on	run away to	be the american version of	be deliver to	be author of	have settle in	convert to	run away from	be also unaware of	be an expert on	be talk to	have come to believe in	make the choice for
+906	7	wax philosophical on	also declare war on	have win the battle of	be not very fond of	also spend time in	be attract to	become ruler of
+2374	2	be interview	interview by
+1407	5	be younger than	share the stage with	be still with	be select to replace	be frequently compare to
+2952	2	attend the same high school as	attend high school in
+462	14	also sue	also buy	be behind	be a neighborhood of	be serious about	be huge in	strike back against	have a stake in	have win award from	be unstable in	be behind in	be an unmitigated disaster for	be advertising in	talk tough on
+118	3	be now in	start to follow	be almost three time the size of
+944	5	be a piker compare to	choose to return to	have a deep affection for	have a different plan for	have high praise for
+700	4	have strip for	be currently date	vote for	be currently jail in
+251	22	identify with	spend more time in	have ignore	have turn their attention to	have blame	be become more comfortable with	be spend more time in	be always welcome in	be best for	be focus on	provide supplies to	stream to	be fly to	be the biggest investor in	will blame this on	provide supplies for	be especially draw to	be the highest mountain of	spend his time between	have always be fascinate by	have a love affair with	have lose control of
+22	1	be the executive producer of
+1425	3	be most likely in	be very protective of	move permanently to
+2472	1	discuss the creation of
+1817	2	have limit support for	be superior to
+632	10	open on	now work in	be speak to	run on	open up	follow with	now run on	will run on	will talk to	be run for
+1069	7	be a family consist of	be free software available from	be a rip-off of	be available free at	be offer free by	be available free from	be very strong in
+1060	4	have release the source code to	have partner with	have block	be a free download from
+1551	1	be not yet available on
+2446	1	be bear on
+1192	4	be face	love spending time with	want to marry	miss
+1329	8	be the hub of	be locate directly south of	be a major transportation hub for	double for	be locate just south of	be first write for	be locate south of	be the cosmopolitan capital of
+1650	27	may also run on	be not go to replace	have nothing to offer	offer software for	may knock	have not be use	have develop the concept of	require a visa for	fake	get ahead of	be recently buy by	will be release for	be a free download for	be year ahead of	open a center in	release an update version of	have be a problem in	have never be	have also sue	be continually update	begin construction on	write a book for	do not comment on	be move closer to	have more to offer than	go on to find	audition with
+885	7	survive in	have originate from	also expand into	also expand in	be originate in	lose ground in	have its beginning in
+167	45	first become aware of	have to defend	lose the lead to	do very well in	appear on	also buy a stake in	be one such type of	be the parent company of	establish in	have a big stake in	have observer status in	have its eye set on	be plan on use	raise its stake in	be now officially support on	be a registered service mark of	be a distant second to	have a work relationship with	have a big presence in	have announce its purchase of	open facility in	be get ready for	be plan a mission to	be the majority owner of	drop its bid for	be important to	be a very important market for	approve	be make a bid for	license the technology from	be offer by	be the place to be on	spin off from	have do well in	be lead to	announce the purchase of	be not a member of	have announce the acquisition of	have license this technology to	be a major power in	be a majority owner of	announce its purchase of	have already purchase	offer its service to	will never be on
+941	5	be the highest summit in	have an important effect on	be the highest mountain in	be the second highest mountain in	be the second highest peak in
+2635	3	be the magazine of	recently name	also rank
+124	11	have his headquarters in	be establish in	then acquire	be headquarter here in	have serve in	headquarter in	have their headquarters in	can be extend in	be headquarter in	be a privately hold company headquarter in	can be make in
+1671	12	be provide assistance to	provide assistance to	have garner the support of	have do wonderful thing for	have be provide assistance to	be do very well in	have the full support of	support the government of	have pretty much give up on	be very supportive of	have be very supportive of	provide tour to
+1177	1	relocate to
+469	15	recall to	go directly to	buy control interest in	become an ally of	be empower	have no problem with	be recall to	be a design studio base in	provide military assistance to	later pardon	pardon of	hit a german suplex on	currently reside in	will maintain operation in	have branch office in
+12	27	have large investment in	actively monitor traffic for	be just as vulnerable as	be the largest company in	be currently headquarter in	see strong growth in	be often abbreviate as	compete on	will have in	have three factory in	be sell arm to	be not disappoint in	be the new buzzword of	be far away from	be a big topic in	have also invest heavily in	be often prefer over	be also an investor in	be country in	hold special significance for	specialize in	benefit tremendously from	have invest in	be drive in	have start work on	be kick out of	be a software application for
+840	10	be the first black player in	be the next best thing to	be the best player in	be a big star in	play the title role of	be a valuable asset to	make his debut in	have always struggle against	use a combination of	hang out in
+788	3	pose nude for	have grace the cover of	feature in
+13	4	become the focus of	become the lead singer of	look pleadingly at	go immediately to
+285	4	be often refer to as	have a positive test for	be an excellent choice for treat	be first identify in
+2750	1	can order
+516	3	be mainly confine to	have its origin in	have a very similar feel to
+528	20	have lose interest in	be more concerned with	even resemble	also appear on	tell the times of	be previously with	be the richest man in	be the antithesis of	be a welcome change from	be formally open by	be censure by	recall the death of	change she name to	absorb	be a short drive from	take his case to	be more than just	be relatively new in	set their sight on	do the right thing for
+1364	3	be subject to	have always be the holy grail of	say today in
+1409	1	be no longer the prime minister of
+716	7	have become more critical of	would be perfect in	be a striking contrast to	be ubiquitous in	become a type of	have be an outspoken opponent of	also light the lamp for
+508	1	be probably most similar to
+2883	2	be the widow of	be the daughter of
+799	15	be dub in	be steal from	can take a big bite out of	be a discredit to	have a degree in	be indeed a threat to	be the location for	be lay to rest in	have better watch out for	usually point to	retain only	have catch up with	own share of	be do to	team up with
+806	64	have many interest in	be accredit to	be deadly serious about	represent a threat to	be not just a problem for	be still ban in	also operate in	have think	be a very important customer for	have not attack	have huge stake in	have a special interest in	be an alternative of	also invade	be also involve in	be not only the capital of	be a very good friend of	have already surpass	pose a threat not only to	have draw closer to	be a proxy for	be not weaker than	be important for	have bully	rage against	make overture to	send representative to	be rank above	be quite active in	also have store in	be do well in	should do well in	want to ruin	be ten time the size of	be a key ally of	have never lose to	be the most important for	increase frequency to	will declare war on	be also interesting to	have an enormous stake in	be no longer operating in	will not become	greatly fear	have overtake	be very important to	will do the same to	be nearly three time the size of	be spread out to	also have a program for	be a big player in	apologize to	could learn from	escort tour to	be not actively involve in	be awfully close to	have extensive interest in	have no use for	need to listen to	start manufacture in	have the upper hand in	be commit to assist	be an enormous threat to	pose no immediate threat to
+2211	1	be a pseudonym use by
+1705	1	be bad for
+2489	1	also direct
+443	5	be plan to launch	have the patent on	be the original producer of	be the only maker of	be the maker of
+1827	1	be best with
+2198	3	be the father of	father	be father to
+2192	1	become the father of
+166	42	be a subset of	do not develop out of	draw on	be forcibly convert to	be an offshoot of	be divide amongst	vanish from	be corrupt by	be slaughter	still be	be a parent of	accept some aspect of	be just another branch of	explain to	owe its existence to	be merely a branch of	arise out of	emerge out of	be the direct ancestor of	should live for	be a mixture of	be heaven in	do not add to	must meet	be a brother to	differ from	do not have any problem with	differ dramatically from	develop from	be a challenge to	owe so much to	have never be better than	combine element of	would not be	be complete	be more similar to	be consider a branch of	be clearly a product of	be fight	flow out of	build upon	be just another form of
+1183	21	store on	be something like	go head to head with	will never catch	would be dependent on	have a detailed explanation of	be a harbour in	be clearly commit to	be president emeritus of	be a superset of	be way more interesting than	be a step ahead of	be upload via	be slowly turn into	could care less about	be especially concern about	actually run on	be not a household name in	have send an open letter to	follow the experience of	provide more information on
+2425	1	tell story of
+114	16	be the northern most state of	make his way back to	use to be part of	be master of	still remain part of	turn the conversation to	be sort of like	be a state of	will liberate	love to visit	be a beautiful state of	be the fifth largest state in	be not only president of	be originally part of	be illegal in	order an attack on
+1809	5	be the top tourist destination in	be a landlocked country locate in	win gold in	be always loyal to	be a landlocked country situate in
+1337	5	be a democrat of	be a democratic senator from	be the democratic governor of	be the republican governor of	be a republican senator from
+2900	1	be on to
+2179	1	star in
+291	3	be perfect for	make dinner for	break up with
+341	10	have a lot of	have become the enemy of	be the other side of	be the natural enemy of	be very much a product of	be also increasingly active in	encourage the growth of	have become more active in	be a true fighter for	have never be tie to
+30	6	be never a threat to	become the leader of	be a chief in	become leader of	have be deport from	be banish to
+496	6	never go back to	have be kick out of	be carve out of	be a chart of	be be kick out of	sound a lot like
+2279	2	never do anything to	actually come from
+92	4	spend his early youth in	get his hand on	find his place in	be the patron deity of
+2040	1	have connection to
+422	10	disagree with	want to move to	should exercise caution in	be not just a threat to	be very excite to go to	be the big enemy of	cover the best of	be the leader of	use the same approach in	be believe to be live in
+1335	4	launch an invasion of	begin an invasion of	launch its invasion of	be plan an invasion of
+825	10	have also record with	could look like	still like	be push	be a founder member of	be the heart of	hang around with	also pay tribute to	get the attention of	do not directly respond to
+667	2	still have control of	have this from
+956	22	study act in	have give a bad name to	could stay in	have always live in	cancel a planned visit to	write his work in	have family in	be well know in	rush back to	make a proposal to	walk out on	be a peace corps volunteer in	move briefly to	build the temple in	be not persecute	have do in	leave home to study in	speed back to	may have go to	spend some time talk to	take his first trip to	have continue his attack on
+1479	5	have close its border with	announce his support for	close its border with	have the longest border with	close the border with
+711	55	will be like	be the battleground of	be afraid of	be even worse than	will launch on	have lag behind in	be east of	be arm	be make from	hold on	be also look to	be a client of	obtain from	take the lead over	may not be	be second only to	be too strong for	roll over	can strike	will be use as	be no match for	have the best food in	look out for	be still no match for	strike again in	become member of	launch a full-scale invasion of	be a big country in	be play for	be a meeting point of	have the look of	slam into	be also like	be poke fun at	be technically part of	would attack	have be negotiate with	be ally with	have close tie with	be hold every year in	have attack	be become part of	have play	be a small country in	be go to attack	take over most of	also have close tie to	be often compare with	have good reason to worry about	will play	have a very limited supply of	have join force with	have its own version of	be lead the way in	be consider an invasion of
+2655	2	choose among	be the online edition of
+654	15	lose their majority in	will interview	present a proposal to	have just take control of	do better than	will acquire	control	have be gain ground in	have the majority in	have be unable to locate	still exist in	pick up seat in	now control	win both house of	have take control of
+2682	1	recently have an article on
+1200	10	may go to	have an interview with	will debate in	also have a review of	lose seat in	try to block	share the stage in	be desperate to reach out to	consistently vote for	have initiate coverage of
+1061	10	almost get	fall behind	quip to	win big in	teach about	have fail	be count on	go straight to	hail from	be abandon
+892	5	be a rich source of	be a major source of	fail to produce	be a good source of	be jam pack with
+699	2	be south of	be locate southwest of
+206	6	become a fixture of	be not just in	be a unique feature of	be walk the street of	first travel to	look south to
+286	5	be an acolyte of	become a close friend of	have be replace with	write a book about	be an admirer of
+88	2	express great admiration for	express his deep admiration for
+2625	1	be primarily develop for
+2622	1	eventually move to
+1900	1	retreat to
+222	3	be bear not in	have be award the order of	spend his early year in
+479	10	be more popular than	back away from	be a global leader in	be also own by	be now very similar to	have an article about	be formerly own by	be a sub-brand of	do not work properly on	be the symbol of
+1156	14	be not the same thing as	turn its back on	be be supply through	be a key area of	stay ahead of	be far ahead of	turn back to	be locate west of	would move to	be not as lucky as	herald the start of	be a gateway to	be a common problem in	be already well ahead of
+2312	1	have diplomatic tie with
+681	2	be move west to	be the giant of
+108	4	will be migrate to	be another name for	be just another flavor of	be also part of
+872	1	be the counterpart to
+1642	5	cannot be compare with	be not subservient to	do not require visa to visit	be stick in	be not just find in
+485	3	really hate	be the parent of	finally listen to
+2207	3	have spend some time in	be very centrally locate in	be the delta of
+658	3	become a mentor for	represent the state of	be a representative from
+1546	2	be odd of	be a masterful blend of
+2835	1	decapitate
+666	2	be an idol of	be do
+765	3	be catch up to	be the main rival to	be well represent at
+436	3	be an alternative for	include preliminary support for	be an excellent alternative to
+212	3	currently make she home in	currently live in	have house in
+1905	1	be immediately reduce to
+497	2	have contribute so much to	be the largest single contributor to
+2	3	be an important market for	be the largest market in	be the largest market for
+543	3	be the financial capital of	have no financial tie to	take over the management of
+1363	2	be a great place for	also have its own version of
+1659	1	begin a full-scale invasion of
+2220	2	get information from	have information about
+1564	3	be also heavily dependent on	will be dependent on	be dependant on
+539	11	then retreat to	have hear of	be now engage to	recently announce she engagement to	be worry about	be call back to	be turn against	lose	will be rule by	be force to retreat into	have just lose
+2008	1	be the largest asian group in
+2914	1	be very fond of
+535	1	first defeat
+2209	2	try to dominate	dominate trade in
+1880	2	have not yet be introduce to	be first introduce into
+1764	2	have close economic tie with	be the economic hub of
+752	6	compete with	will compete with	be compete against	can compete in	can compete with	be compete with
+385	1	stun
+634	3	have the third largest economy in	have strong economic tie to	dominate the economy of
+2487	3	be the largest trading partner for	be a major trading partner for	be the largest trade partner of
+685	1	be the most industrialized country in
+1832	1	send troops to
+477	4	be an important product for	be quite important to	be become an increasingly important market for	have be a valuable partner for
+1567	1	be chock full of
+1232	2	have the highest infant mortality rate in	have the highest suicide rate in
+327	3	fly first to	be closer to	be exceptionally good in
+419	1	break off relation with
+1176	2	have official status in	need a visa to enter
+84	4	do a great job in	have echo the sentiment of	be great in	be also a great admirer of
+1738	2	be excellent as well as	be excellent as
+1462	2	be clueless about	excite about
+2814	1	also influence
+1215	2	attend public school in	attend the public school of
+661	1	be god of
+139	5	be a great supporter of	have always be a strong supporter of	have be a supporter of	have long be a supporter of	remain a staunch supporter of
+1191	1	never declare war against
+2368	1	be an important neighbor of
+2594	3	give million to	give its support to	do not support
+561	2	be an existential threat to	be not a new phenomenon in
+1144	7	have plant in	have sovereignty over	be the same as	be surround by	be a grave threat to	be a threat to	may pose a threat to
+1466	4	be slightly larger than	be the sequel to	be close a plant in	keep a tight grip on
+350	4	want to destroy	could threaten	have not threaten	threaten to destroy
+57	8	merge with	be connect with	have block access to	connect to	have dinner with	get hooked on	dine with	block access to
+908	5	have enter into	have come back to	be look at	stand for	be the acronym for
+914	2	be a litmus test for	be very much involve in
+959	3	have high hope for	be the darling of	be a thorny problem for
+1101	3	also have an embassy in	have an embassy in	open its embassy in
+673	2	have several type of	have absolutely nothing to do with
+657	8	be a nickname for	be an unincorporated community locate in	have be an advisor to	hold a town hall meeting in	be a township in	own a home in	be a small town locate in	be an advisor to
+623	5	be extremely popular in	have majority of	want to meet with	be particularly interest in	be project to win
+578	4	be the resurrection of	deny the divinity of	be buddy with	be the legal father of
+261	3	have another name for	have long be a close ally of	be a distant cousin of
+507	10	make a good point about	have his own show on	be create by	have be a consultant for	integrate with	should have be in	get pummel by	have travel to	make his debut on	cover event in
+675	10	see the day of	be the bishop of	will take the lead role in	make his film debut in	found the city of	tell reporter after arrive in	may have leave his heart in	be the sheriff of	save the day in	build the city of
+173	4	be respond to	be well-liked by	speak highly of	be know to
+2628	2	be a great alternative to	be a great free alternative to
+54	63	can replace	be the same thing as	be the creator of	must destroy all copy of	be a big backer of	want to sell	aim for	be a great replacement for	be develop for	have announce a new version of	have sell a lot of	have be develop	improve support for	be capable of run	be easier than	have announce the release of	move toward	have finally release	be a major contributor to	be a program similar to	lobby hard for	be lower the price of	be the latest craze in	run against	try to discredit	be do the same thing with	be prepare to launch	begin work on	have revamp	have announce a new generation of	can do better than	start on	be easier to use than	be so over	have total control over	have update to	be make money on	do the same thing as	be still push	be produce in	make some change to	have just announce	have develop	have enter	be release	unveil the beta version of	be not compatible with	have release the final version of	be already work on	change to	recently announce	cannot beat	have make a big bet on	have sell million of	have no plan for	have previously develop	go behind	can be convert to	have make	be also high in	be almost the same thing as	be expect to launch	have an update to
+2115	2	be much easier than	be quite similar to
+1190	4	recently speak to	decide not to prosecute	be faster than	do not work like
+264	34	take second place to	cash in on	be ready for	have some word for	propose marriage to	be not good enough for	would be finish in	run a profile on	suffer his first attack of	be the prince of	might be better than	be believe to be hide in	be rush to	be my kind of	spend the war year in	provide the voice for	send a personal letter to	have always be good to	be a highly respected member of	lose the right to vote in	be spearhead by	have strong word for	be currently base in	keep a home in	may have save	would beat	send an urgent message to	deny any involvement by	be not only the son of	be french for	compete primarily with	be run ahead of	also vote against	often go to
+258	1	be a separate entity from
+2505	1	be a derivative of
+293	2	include a number of	be the lead solution for
+1941	1	be a distribution of
+336	7	be the national capital of	be capital of	take the name of	be a neighboring country of	be the third largest city in	be the most populous state in	be an autonomous region of
+975	2	observe to	coin by
+1311	5	write of	write in	be the first book write by	have write to	write most of
+1585	1	scan from
+1080	10	be force to leave	be very well receive in	seem indifferent to	will believe	leave immediately for	actually do live in	be a borough of	maintain an embassy in	have a bad opinion of	retaliate with
+994	2	have strong support among	particularly dislike
+882	3	be the true master of	be a founding father of	be a french painter of
+1545	44	marry	oppose	succeed	stand up for	always remain	party with	finally get rid of	be far stronger than	immediately join	be willing to work for	be also the father of	be the best bond since	represent the essence of	give preference to	do marry	be so much hotter than	lose the right to	do the same for	be determine to kill	go to work for	be the victim of	interact well with	closely follow	also father	go to work on	take advantage of	be the son-in-law of	pass by	would introduce	plead with	be not talk about	be the second son of	lead a march on	do lie to	be the greek form of	go toward	score over	answer	bear a son to	be of	be partial to	never serve	be way too good for	come face to face with
+2071	1	be the spiritual son of
+948	2	be a prophet in	be a prophet of
+109	3	be the main character in	then leave to find	be the type of
+362	2	spend she childhood in	promote the interest of
+127	3	be probably the most beautiful city in	be a charming city in	be the most exciting city in
+946	33	be a land of	have a border with	land on	be the culinary capital of	will be the capital of	be the most populous city in	be a beautiful country of	be the second largest city of	be the capital city in	cede the land to	sound like	be a colony of	be contain in	be the political capital of	be the most prosperous city in	be bring down to	be the ancient capital of	be the tourist capital of	be hold by	be more skilled than	may be the capital of	be the original capital city of	have more success in	be the southernmost province of	be name the capital of	be the heartbeat of	be the southernmost province in	be outrebound by	claim the territory for	be also border by	be border	be the real capital of	be the official capital of
+1859	1	also have a page on
+511	1	be just a short drive from
+2560	2	have more fan than	be a fan of
+1915	1	have an argument with
+2161	2	be act like	be great on
+1123	2	run ad on	run ad for
+2618	1	have a strategic alliance with
+582	7	have be replace by	be a producer on	be the center of	be exactly equal to	be the holiest site in	be the oldest city on	be the holiest city in
+912	1	have be to
+1894	2	have with	feud with
+1581	4	also bring in	might be without	will be without	have the memory of
+135	10	also score for	be set in	be fond of	would not do well in	then fly to	be raise	be raise in	have a mansion in	still live in	have finally land in
+1052	2	do in	also praise
+35	4	get sexy in	get scare in	close shop in	never return to
+4	5	have sue the state of	be crown at	be crown as	do not walk with	be the lead singer of
+29	3	lie south of	open a law office in	be centrally locate in
+1561	1	attend public high school in
+1694	1	be a school for
+2672	2	be a messenger of	be stronger than
+2981	1	issue a challenge to
+918	2	be southwest of	be locate northeast of
+1763	11	have recently be purchase by	be acquire by	be a subsidiary company of	will purchase	can be purchase from	be purchase from	be a company own by	be now own by	get take out by	have be acquire by	have sign a five-year deal with
+2217	3	be certify by	do not own	double down on
+1165	2	currently accept payment in	accept payment in
+1294	4	be an american businessman from	become a wholly own subsidiary of	do business in	be a wholly own subsidiary of
+277	4	now provide service to	be a service provide by	be fourth for	be open a call center in
+622	7	be the native language in	be the official national language of	be one component of	be almost the same as	be the people of	should be thankful to	be the language speak in
+1475	2	tighten its grip on	establish an embassy in
+450	23	have fight	occupy the southern tip of	be the second largest country in	play this role in	have the largest economy in	be the richest country in	can skip	be suppose to support	be even more dominant in	be cultivate in	be the most powerful nation in	be start in	become the dominant power in	capture the charm of	be the dominant power in	be be fight in	also play a significant role in	have always play a pivotal role in	set the style for	be far faster than	be the economic powerhouse of	be not new to	control most of
+266	3	have the highest percentage of	have a high incidence of	be a real concern in
+425	3	have a superb system of	be the oldest european city in	trace its origin to
+2919	5	set a date for	design set for	have release the latest version of	have release the first update for	release their latest version of
+345	1	be the guitarist for
+745	4	go first to	be somewhere in	be a knight of	be not bomb
+1085	8	be sue	be also highly regard in	even feature on	accept fund from	pave the way for	be the guitarist of	will also perform in	have label
+149	2	mention go to	be a band from
+152	7	be surprisingly good as	be find dead in	be not only bear in	speak the truth on	may well be the king of	look a lot like	be innate inside
+2785	1	inspire
+1463	1	be a singer-songwriter from
+835	3	be schedule to appear on	star with	will star in
+2078	9	be go to be hold in	have continue to operate in	still point to	have major operation in	be still operate in	open its first store in	be make progress in	be a part owner of	own a control interest in
+1142	1	be incorporated in
+950	3	will always be	sound so much like	have always be
+2752	1	be reportedly addict to
+1233	2	seldom refer to	be make up of
+2329	1	be the author of
+2428	5	be lucky to have	be often mistake for	be first bury in	begin his tour in	make a trip to
+2580	2	still owe money to	be next then
+2429	2	be also the home of	need
+2085	1	be a constituent of
+2816	4	belong to	once belong to	be an arm of	earn for
+2125	1	opt for
+269	2	steer clear of	beat the hell out of
+1099	9	be a personal relationship with	begin with	be a relationship with	be be mislead by	be center around	do not include the concept of	take its name from	owe its name to	must submit to
+504	4	be the county seat of	want to meet	be the county seat for	be a county seat of
+2346	2	will reprise his role as	reprise his role of
+776	3	be much more than	be also an original member of	be much bigger than
+1445	4	can cause	be cause by	be an acronym for	be commonly refer to as
+1083	2	be no mention of	be short for
+1735	5	be a significant issue in	do occur in	be not endemic in	have be confirm in	have be blame on
+234	5	be the tallest player in	retire early in	should learn from	be the co-creator of	be no stranger to
+263	6	begin its activity in	be a private school locate in	retire to	live just outside of	be a liberal art college locate in	be locate within
+148	9	then agree with	make his appearance on	say similar thing about	make a strong case for	write a letter to	have finally accept	then cut into	do not come close to	would be a great asset to
+709	9	be manufacture by	be manufacture	be not the best drug for	be give by	be be manufacture by	be the only manufacturer of	be first manufacture by	can cause significant worsen of	could do this on
+371	5	be competition for	be a serious competitor to	have little competition for	work fine on	be no competition for
+1777	3	be vice president under	be the vice president for	be vice president to
+488	7	be a true heir of	be bomb	be brand ambassador for	be just be	be simply	rule like	have not always be
+1795	1	be suspicious of
+778	3	walk like	be appoint governor of	would return to
+102	2	may not be native to	be educate at
+76	2	make an enemy of	remain an active supporter of
+430	4	make quick work of	buy a ranch in	discover the pleasure of	be not join
+1484	6	be the mayor of	be commission by	be officially abolish in	be a christian university in	be a citizen of	become mayor of
+2347	1	enrol at
+1359	13	be an indivisible part of	do the same thing for	be an inalienable part of	return back to	be quote as say by	be a beautiful city in	have dream of go to	have set his heart on	be the fastest grow city in	be the jewel of	be a beautiful country in	pose a dilemma for	be the place to go in
+38	3	cite a study of	have tell	grant to
+2448	1	be a basis of
+684	3	be more moral than	be much older than	swear an oath to
+787	6	play the role of	understand the meaning of	play a role in	love the work of	never call	also have a connection to
+1032	4	be unnecessary in	could convert to	be the rise star in	attempt to avoid
+252	8	first kill	take swing at	have file a civil suit against	could give a crap about	do not expel	first arrive in	be very attract to	bring good out of
+119	4	be luminous in	be stare in	advise in	steal the show in
+583	9	be also feature in	begin act at	complete his education at	never leave	be provost of	will never leave	be accept to	be register to vote in	tell a gathering at
+1413	4	also have subsidiary in	be hunt in	might also be good for	be the national animal of
+1096	3	be recruit to	give his impression of	be a native to
+893	3	emulate	echo	tear into
+1512	3	have secure the endorsement of	receive the endorsement of	accept the endorsement of
+1583	5	be not only bad for	tell a gathering of	be now vice-chairman of	be also an officer of	lead the field for
+818	1	be choose to play
+625	8	be a former senator from	be the current attorney general of	be a small neighborhood in	will be the next senator from	be a united states senator from	be the junior united states senator from	be the junior senator from	be the attorney general of
+1384	8	be still go strong in	be a great place to sell	may be the public face of	be not a great fan of	will not run on	be a biotechnology company base in	should not be run	be the original name of
+1175	2	be the top producer of	never produce
+729	1	be an auxiliary of
+434	1	pose a great challenge to
+342	2	be not the queen of	be not fond of
+2577	1	complain about
+900	2	move the court to	be down in
+2495	1	be imprison in
+1025	9	take control of	control both house of	win control of	will retain control of	have win control of	will not vote for	be flood	have regain control of	regain control of
+90	3	have sign a deal with	be a neighbor to	have retreat from
+587	7	advance to	be consider the gateway to	come out well ahead of	lead the assault on	come late to	might not support	be ship from
+850	2	be the traditional food of	be the main food of
+1252	7	be an open-source version of	be an open source alternative to	be the open source alternative to	be an open source version of	be a free replacement for	be a kingdom of	be a populated place in
+52	3	shake hand with	win the hand of	make war on
+668	4	be also very active on	do hate	also be active in	must be work for
+294	11	sing a duet with	be write song for	once remark to	be see a lot of	be a good friend of	play the piano for	rip off	reportedly say to	be the teacher of	write this song for	perform work by
+140	2	open his own law practice in	obviously like
+1876	1	be descend from
+184	1	be a programming language develop by
+1568	1	develop an addiction to
+1164	2	receive a scholarship to	be award a scholarship to
+2147	1	take the picture of
+2639	1	be a fighter pilot in
+2777	1	be chairman of
+1813	1	own
+155	3	be a close friend of	help pave the way for	be personal physician to
+31	2	be brilliant as	star as
+1934	1	let go of
+1555	1	go to see
+2267	1	complain to
+1732	1	nod toward
+1295	1	lose money in
+2693	1	be an economics professor at
+1720	1	have already break out in
+859	18	be an old tradition in	have contract	have already start in	rage in	have end in	be on in	control much of	change everything in	erupt in	be sweep	be over in	be rage in	journey to	be frequently use in	be a medical doctor in	be an important crop in	be a vital market for	have a similar situation in
+2528	3	have a profound impact on	have little impact on	have an enormous impact on
+665	2	slow the growth of	bring the family to
+2887	2	be ecstatic in	be an injustice to
+2677	1	be grace the cover of
+547	4	be a political commentator for	have a similar agreement with	could be return to	be currently hire for
+1179	2	be the third-largest island of	be one-fifth the size of
+435	1	play an important role during
+1120	2	be the first to use	be the founder of
+125	4	have turn its sight on	be not shape like	be no model for	have come early for
+1587	3	glance over at	walk up beside	joke to
+55	6	be rate ahead of	spit on	be convince of	be beholden to	board a plane to	confide in
+1264	8	be divide on	will never be like	be further divide in	be not hostile to	owe a lot to	have the best access to	be not far behind	be designate as
+1088	9	also include part of	be speak throughout	apply this principle to	be also widely use in	be invaluable in	be define as include	be the adjectival form of	be also need in	be closely ally with
+1349	3	may be come to	be the second largest metropolitan area in	could be call for
+281	2	be a former boyfriend of	be ready to leave
+276	6	actually play in	have good memory of	still seem to be in	have be drive out of	tip his hat to	be instantly draw to
+1376	1	say friday at
+645	4	be the largest metropolis in	be the most populated city of	be the most cosmopolitan city in	be a top destination in
+1001	1	win best director for
+2269	1	write the screenplay with
+426	3	dvds profile on	be try to emulate	be not copy
+2886	1	lose two seat in
+2110	3	be go to vote	should be	do not have a monopoly on
+14	10	be treat differently than	act more like	be almost as bad as	dish on	be no different from	should stand for	need to stop act like	be stand with	be happier than	be still preferable to
+1922	4	be now act like	be against	have start talk to	act like
+553	6	may prefer	have make time for	need to move beyond	must be	do to	start talk about
+2850	1	be the majority in
+1847	3	have be bullish on	look safe in	attract hundred of
+2141	2	could count on	would rather listen to
+1017	3	sign the declaration of	read the declaration of	approve the declaration of
+1113	2	open a branch office in	stay with
+2729	1	be welcome to
+321	3	will need	will never attack	need to be
+1254	1	believe in
+2363	1	have a small role in
+1800	1	be not an alternative to
+2450	1	integrate well with
+798	6	be the recommend browser for	must be use on	be also compatible with	have always love	be no longer on	be much more powerful than
+863	3	be package with	be the current version of	be the latest release of
+452	6	become a permanent part of	be the western-most province of	roll out	be the westernmost province of	be a province of	become a province of
+686	7	be slightly worse than	bind for	be a sub region of	have have enough of	be a region in	produce more than	be a unknown in
+809	2	can cause change in	be the sixth largest city in
+237	4	have an interesting story about	have a review from	have give money to	make a deal with
+2202	1	be not about
+1321	3	do some research on	want to understand	be tweak
+816	2	do not interview	have post an interview with
+629	2	welcome the election of	be actively campaign for
+791	2	sit next to	cut back to
+615	2	be nowhere near as bad as	make an apology to
+2181	1	cleanse
+1663	11	be a minor revision of	be the main city of	be the latest version of	first announce	offer program in	own the patent to	be be port to	be the follow-up to	be the upgrade to	be the third major release of	be the product of
+2513	1	draw comparison to
+2946	3	have a high rate of	have the highest rate of	be vulnerable to
+1872	4	be quite popular in	be most popular in	be very popular in	have launch
+580	4	be now date	would be pair with	be come back to	be team with
+2317	7	be the host of	become the host of	start sell	be the republican version of	win emmy for	be a target of	premiere on
+770	4	announce approval of	be deficient in	have approve new label for	carry an extensive variety of
+708	5	be the fourth son of	be much larger than	be a former employee of	plot with	could not get along with
+828	2	have the greatest respect for	have take an interest in
+1246	1	spend several year in
+2380	1	be generously donate by
+2377	2	be not a contemporary of	be a contemporary of
+988	4	be not hide in	be sit in	sit in	have never meet
+275	3	be nominate last year for	retain his seat in	be a huge deal in
+367	4	recently introduce	will introduce	will be introduce by	introduce a new line of
+337	4	work better than	be ask about	be a street name for	will soon join
+2467	1	be power by
+664	1	attempt a comeback in
+424	5	be the second largest nation in	become a major power in	be the second largest bank in	be the most famous man in	have long be a crossroads for
+1645	7	have an interesting relationship to	have a very special relationship with	have great relationship with	have a close relationship with	have a unique relationship with	have close relationship with	value its relationship with
+1399	1	be perfectly cast as
+2043	1	scare of
+966	2	be compatible to	be compatible with
+2863	1	hook
+1773	1	be currently available for
+1878	3	have an operation in	also have operation in	move its operation to
+1730	1	set course for
+1634	1	begin school in
+280	2	be license in	be license to
+105	14	tell reporter outside	be back in	then turn towards	be speak mostly in	preach in	come home from	be a stranger in	be the choice in	come back to	be a great king of	be the third king of	be re-named	be force to go to	have be give
+1793	3	own up to	also speak to	later die in
+546	6	tighten the screw on	have be a harsh critic of	be bigger than	be the pulse of	be a lot more than	have particularly harsh word for
+712	4	have a long tradition of support	be a country locate in	be a beautiful country situate in	have the largest muslim population in
+2240	4	have be a nightmare for	be the nightmare of	have never hear of	have never play for
+993	1	be the leader in
+834	8	be also interested in	be the second largest market in	be the biggest market in	be the biggest country in	probably originate in	begin sale in	be still weak in	be the second-largest country in
+2293	1	be conquer by
+1542	1	would want
+203	1	be found member of
+134	1	have an extensive background in
+172	5	have portrait of	begin settle	never meet	portray	can learn from
+156	2	also have control of	cannot be extend in
+601	10	mimic	be more dangerous than	would sell to	have stop sell	award a contract to	face competition from	be initially sign to	do not sell	be ditch	would lose to
+1082	2	have replace	replace by
+196	2	pay homage to	play the music of
+2736	10	be as fast as	sound much better than	be the newest version of	be also use with	be not an improvement on	be a huge star in	be accredit by	be a huge upgrade from	have be hard on	be more stable than
+2302	1	be a contractor to
+150	7	need to come back to	may be play on	be do in	be an interesting choice for	own most of	remain a very important market for	would get to
+459	1	be the national sport of
+680	2	be think to have originate in	do not originate in
+1753	1	be very widespread in
+766	3	be the historic heart of	have a history of	spend his formative year in
+320	1	be a drug use to treat
+2665	1	have a guest recently on
+1433	1	be some information on
+754	2	be a big man in	have to be import from
+713	3	be currently use in	become the symbol of	be cheaper in
+2150	1	be cheap in
+2880	1	be an adjective to
+898	3	be the reformation of	be adherent of	be ultimately responsible for
+1588	6	be unite in	do not make	be not cause by	argue for	do not cause	cede to
+1441	12	follow the religion of	be draw back to	be diametrically oppose to	be not so dissimilar to	be the main victim of	be the answer to	have kill more people than	be the biggest victim of	supply for	be the first victim of	be free to believe in	have always be larger than
+1452	2	have a unique opportunity in	be practically a religion in
+1927	1	launch a surprise attack on
+1486	1	be not to be confuse with
+830	7	be tolerate in	be draw to	be still illegal in	be believe in	head back to	be the elected leader of	begin migrate to
+1825	2	be the follower of	be follower of
+1048	3	do not celebrate	be widely celebrate in	be not celebrate in
+523	17	be not a religion of	co-existed in	become firmly establish in	cover much of	be grow rapidly in	already exist in	be well establish in	be outlaw in	be obviously refer to	be legal in	be a new thing in	later spread to	be not indigenous to	be rare in	live mostly in	be scatter throughout	become widespread in
+2166	1	kill thousand of
+1237	3	do not believe in	may marry	trace their lineage to
+219	2	point this out to	assume the form of
+1044	2	enable	have return to
+1195	5	rub elbow with	also catch the attention of	will dance with	be also best friend with	be much prettier than
+163	4	have two adopt child with	be a solid addition to	have be pair with	become secretly engage to
+2711	1	do not live in
+832	3	have a similar history to	be a bridge between	have a unique history in
+1414	5	do trade with	do not want war with	be the same time as	also have talk with	have war with
+2136	2	make up the largest ethnic group in	be the main language speak in
+930	3	be far superior to	also ban the sale of	be so superior to
+2108	2	be deprive of	be a victim of
+239	1	do not attack
+58	1	be an old friend of
+2283	1	have reach epidemic proportion in
+2260	1	affect million of
+296	7	be still a part of	be most certainly part of	be the second largest island of	be a special administrative region of	be a microcosm of	be in northeast	host a radio show on
+247	4	be raise near	teach social study in	be innate within	then head to
+1762	11	roar through	be only the size of	be the first president bear in	be an american actress of	be the very embodiment of	be currently go through	be the most famous landmark of	be the cultural capital of	be quintessentially	decamp to	be a wake-up call for
+445	2	begin a policy of	shut down
+1947	8	face a crisis in	be a beautiful island locate in	be the second-largest city in	be east-southeast of	be plentiful in	have kill thousand of	could learn a lesson from	be the largest port in
+71	3	be a resident of	keep tab on	be not choose by
+877	7	maintain a facility in	be highly prize by	will fly to	will build up	be big in	often say to	turn his sight to
+967	2	also have a relationship with	have a strong relationship with
+1502	7	give in to	can be install on	do not write	give into	be not serious about	lean toward	make money on
+2383	1	recommend
+2562	2	get a jump on	be not ready for
+2892	2	be the destination for	get nothing from
+536	3	serve the community of	add service to	have start their operation in
+1629	3	jump ahead of	be the successor to	descend from
+802	3	give an outstanding performance as	give a very good performance as	have a great influence on
+83	1	diss
+20	6	be the saviour of	be ready to rock	be hide out in	be the patron saint of	make an oblique reference to	be the protector of
+999	3	be also an integral part of	pass the information to	be the central database of
+138	2	acquire	have acquire
+895	2	announce the beta launch of	recently announce the release of
+39	2	be good at pick up	use the example of
+214	3	just love	could stop	would be a sort of
+982	6	be copy	make a big bet on	have do a really good job with	have agree to buy	have partner up with	be do really well with
+1077	4	note in	launch a beta version of	have just release a beta version of	be introduce a new version of
+136	12	have already kill	be the geographical center of	would turn to	be off again to	be close behind	be not a newcomer to	be attach to	be the last in	can be good for	have little access to	build car in	have invest heavily in
+659	2	be the perfect partner for	become a partner in
+103	2	do something similar with	be right to worry about
+968	2	bring book to	also have one for
+986	1	be tie to
+1870	1	join the rank of
+165	12	be still very interested in	deliver for	be not so kind to	be the largest lake in	be still a novelty in	have the word of	be share with	be the largest freshwater lake in	extend through	would be better off in	be still miss in	be much louder than
+1733	2	have some great resource for	have information for
+2087	3	have a map of	open a small office in	first open its door in
+862	1	also release
+723	2	have discontinue	will continue to support
+220	4	be the investment banking arm of	have make substantial investment in	make a substantial investment in	be increase its investment in
+1317	1	officially launch
+611	5	have grand plan for	have widget for	control the fate of	announce a new version of	release the first version of
+848	7	fall prey to	just release a beta of	recently acquire	never tell	could buy	be currently the ceo of	be a director of
+2819	1	be unmistakably
+1807	1	be widely cultivate in
+1143	1	have begin to attract the attention of
+129	3	be widely play in	be the most expensive city in	be more expensive in
+558	1	be a year-round sport in
+1962	1	be boom in
+2288	2	also thrive in	be currently illegal in
+328	3	be name best actress for	bear little resemblance to	fair better than
+67	3	be apparently a fan of	be the found director of	leave egypt for
+574	3	will restore	be roll across	leave china for
+1058	3	have make a pact with	take part in	might have win
+894	4	have be a good friend to	be a good friend to	use the music of	may not have read
+1540	3	then conquer	have conquer most of	be conquer
+911	1	know nothing of
+557	10	be the deputy prime minister of	become the first prime minister of	be a former foreign minister of	become the prime minister of	become the new prime minister of	be appoint minister to	be elect prime minister of	be twice prime minister of	be now the prime minister of	become prime minister of
+2231	1	make the cover of
+446	3	become increasingly popular in	be hugely popular in	be enormously popular in
+876	6	have acknowledge	plead to	learn from	be draw into	arise for	never live in
+1011	3	be the image of	be not save through	be very far from
+1000	3	be finally leave	score first through	manage without
+2645	1	finish second to
+653	1	be a beautiful choice for
+142	9	have a narrow lead in	get engage to	have conversation with	present the award to	be way better looking than	will still win in	predict victory in	move the family back to	win the popular vote in
+1693	1	be the capital town of
+2284	2	be the ceo of	have be a big supporter of
+2953	1	attend college in
+1019	2	declare his support for	explain his support for
+744	3	get	be call to	call to
+2117	1	audition for
+432	2	be fascinate with	be always attract to
+486	4	be five mile south of	enter the city of	go south to	connect the two side of
+1843	1	be obligatory in
+604	1	be the second pillar of
+170	1	be slightly stronger than
+542	5	work the same way as	be not recommend for	will be higher than	work similarly to	begin development of
+1772	8	be currently governor of	be then governor of	be not legal in	be currently the governor of	be the next governor of	will be the next governor of	be the current governor of	award custody of
+1873	1	attend school in
+366	2	be interest in invest in	be commit to
+2131	2	be ready to take on	cannot be blame on
+229	4	have a strong base in	also fall foul of	throw a lifeline to	be so big in
+2601	1	concentrate on
+2014	1	already sell
+69	3	launch the program in	have yet to arrive in	own a restaurant in
+1996	1	be not native to
+2731	4	be a public research university locate in	be a public university locate in	be a university locate in	be a private research university locate in
+303	2	have a very good article on	be recently profile in
+533	6	be bomb in	lie primarily in	lie mostly in	almost kill	head south to	own half of
+2591	1	be the motherland of
+1244	1	continue its support to
+73	1	have side with
+670	6	be a terrible place for	be the birth place of	be the birthplace of	be also the birthplace of	be a big center of	be steep in
+936	1	be a key strategic market for
+1831	1	also fear
+1953	1	be a major supplier for
+1166	4	wage war on	yield the floor to	will never join	offer connection to
+1015	3	be not as tall as	be the spoken language in	be the tongue of
+2067	1	explode
+74	5	receive a warm welcome in	be flex its muscle in	be invite to come to	be the host country for	be a very special time in
+197	9	be the greatest victim of	have no diplomatic relation with	bring freedom to	have diplomatic relation with	sign a deal with	cede land to	never belong to	would oppose	rank ahead of
+230	2	have be wound by	there be
+534	1	be to
+1380	8	be present in	have long be common in	present on	be previously find in	have be describe in	have be report in	be indigenous to	be endemic in
+298	3	be schedule to go to	be bear near	move alone to
+1435	1	be a very special part of
+190	7	be arrest in	be quite far from	have be arrest in	stare at	have accept the principle of	do not begin in	have powerful ally in
+2456	1	be predominantly
+79	3	be the third largest island of	have the mildest climate in	be the antipode of
+1853	2	reprise his role as	reprise the role of
+1611	1	be the homeland of
+2291	1	transform
+1111	4	be originally open in	be an independent publisher base in	be a software company base in	have an office in
+779	2	be a frequent contributor to	be a regular contributor to
+278	5	have a large presence in	be almost twice the size of	be not surround by	be join to	include quote about
+2454	2	have the third largest population in	have the oldest population in
+1524	2	have be romantically link with	have be romantically link to
+2686	1	be believable as
+359	2	be particularly hard on	be particularly fond of
+2392	2	see a different side to	play the love interest of
+2629	7	lose the presidency to	be nominate for	be smite with	be lead guitarist for	be up for	be go to marry	produce
+1592	1	cut off
+2193	3	become the first elect president of	be a former president of	be the first president of
+1198	3	be also a friend of	should get rid of	be also friend with
+1919	1	handbook for
+2443	1	be gravely ill with
+1115	1	have some good info on
+80	1	be not representative of
+734	3	finally sign for	never set foot in	have never even be to
+517	2	be all over	start date
+800	2	share the birthday with	turn down the role of
+2003	2	complete its acquisition of	have several improvement over
+1612	2	have be good to	be also the creator of
+2893	2	win best actor for	be great example of
+687	11	have be ban in	have an entry about	put pressure on	be go to acquire	be then purchase by	have in-built support for	must concentrate on	have since be buy by	be much faster than	have a forum on	have recently be buy by
+1864	1	be the brainchild of
+642	2	have no preference for	have an excellent series on
+2369	1	have an interesting page on
+2354	4	be a popular alternative to	be a very good alternative to	be a superior alternative to	be certainly better than
+2669	1	be host by
+613	3	be slow as	have launch an application for	be also base in
+1343	2	also have an interesting article on	write an interesting article about
+2187	1	might play for
+1951	1	be an austronesian language speak in
+760	3	be replant in	also contain generous amount of	be also introduce to
+1879	1	be try to defend
+1239	3	be become an issue in	be possible even in	can be test for in
+1057	1	be professor at
+1739	2	discount hotel in	discount hotel rate in
+916	1	be challenge by
+599	2	be associate with	have be associate with
+122	2	be a low-cost airline base in	be the second largest airline in
+1470	9	be the only airport in	be the nearest airport to	be the closest international airport to	be situate just outside of	be the main airport of	do not fly to	also fly to	have daily flight from	also have daily flight to
+2406	1	be first discover in
+940	9	rear its ugly head in	be not limit to	be typically find in	be a major problem in	originate from	be commonly find in	be not the problem of	be find mainly in	be fester in
+1151	3	be now present in	have find its way to	find his way to
+719	2	have be find across	enter the us in
+1576	2	have be endemic in	be now endemic in
+1743	1	be detect only in
+370	1	run an article about
+1621	2	be the eldest son of	be the tutor of
+1103	1	decamp for
+2367	3	later write of	be date	later write to
+81	1	be not a legitimate part of
+2261	1	never visit
+1505	2	have traditionally back	be a traditional ally of
+2947	1	be overwhelmingly
+1507	3	also lead the creation of	also create	also have the support of
+1388	2	be a friendly neighbor of	be a neighbor of
+412	2	have capture the spirit of	be the citadel of
+2335	1	conceive
+1716	1	beget
+1673	1	study architecture at
+1210	2	retreat toward	have sleep in
+36	4	have be soft on	tell member of	give some money to	be suck up to
+2759	2	be the commercial hub of	be the commercial capital of
+1923	1	help install
+1132	1	have be
+833	3	know very little about	win a grammy award for	be bait
+1965	1	quickly spread throughout
+1860	1	may be employ in
+1478	4	be year-round in	be instruct to go to	be the most dynamic city in	lie just south of
+1346	3	have the highest poverty rate in	be easily accessible from	be fortunate to have a large number of
+607	11	be the loss of	come out ahead of	be produce by	will change its name to	would head to	become the centerpiece of	sound too much like	be slicker than	look sidelong at	be proud of	consist of
+1193	4	fly away to	start the war against	have to support	start the war in
+351	4	be the lead producer of	be the second largest producer of	be the largest grower of	start this year in
+1045	3	be an original county of	be a small coastal town in	be the tiny town of
+2902	1	head for
+1468	2	primarily live in	be originally develop in
+2530	1	would transfer to
+87	3	be the next generation of	detect the use of	be a complete redesign of
+1992	1	be invent in
+2792	1	have a clinic in
+2797	1	represent the interest of
+2478	2	also live in	have be in
+2763	1	tell journalist in
+1593	1	be consecrate bishop of
+17	6	start campaign for	tell joke about	sometimes beat	do not marry	fare worse than	stand alongside
+2023	2	mainly export to	export its product to
+1042	3	be an integral part of	remain an integral part of	should be an integral part of
+1828	2	wander in	do
+1936	1	appear in
+1356	1	mean against
+1906	1	have no effect on
+2843	1	be much richer than
+360	2	always play	flank by
+26	4	be the aunt of	fall for	do not look like	be godfather to
+934	4	be deadly to	set the tone for	be now the party of	recently tell
+962	2	sign on with	will be with
+457	1	be another common cause of
+726	1	meet eye with
+481	4	be also victorious in	live longer than	finish third in	finish sixth in
+1201	1	trek back to
+431	2	be the dominant carrier at	be a forerunner to
+1529	1	become a protectorate of
+1912	1	be an adviser to
+1471	1	be a locality of
+838	1	be the happiest place on
+1411	2	want to talk with	want to talk to
+1722	1	offer instruction in
+143	3	be the central area of	be just try to be like	have a special gift for
+817	3	have his moment on	maintain its office in	have grow accustom to
+1944	2	turn his thought to	might be in
+886	1	be mostly implement in
+2100	1	speak yesterday in
+2474	1	offer no advantage over
+1078	3	cost less than	be not as good as	be far better than
+932	2	do not die of	be a better choice than
+1615	1	have be a staunch ally of
+631	2	be suppose to be for	be suppose to be
+2180	2	be here before	be now merge with
+909	2	have the largest supply of	be slang for
+2540	1	collide with
+749	3	have announce the result of	be the only producer of	be already a member of
+674	1	could attack
+389	1	issue an ultimatum to
+2057	1	be a signatory to
+387	1	have a rich history of
+216	3	celebrate the birth anniversary of	celebrate the birth of	celebrate the birthday of
+807	7	adopt the concept of	have a rich variety of	have a rich tradition of	come early for	be the top producer in	will be forward to	be attribute to
+18	2	outnumber whites in	be the largest ethnic minority in
+514	18	be not just about be	do not enslave	be an offspring of	do not emerge out of	be also recognize in	be more akin to	be intolerant of	be the child of	have have an influence on	be the islam of	become the enemy of	be mandatory for	be fan of	be a mishmash of	be interpret differently by	be basically	have an influence on	be another offshoot of
+416	1	then decide to move to
+1616	2	have no direct relationship to	have a long term relationship with
+56	2	be a central figure in	be a popular figure in
+335	4	be an apostle of	have a special affection for	offer a wide variety of	would be the seed of
+2155	1	be indispensable to
+609	3	be not the founder of	be first follow by	be a huge challenge to
+1418	1	often shorten to
+2306	1	will implement
+573	4	open an office in	currently have office in	open office in	have just open an office in
+2913	3	win the category for	seem genuinely interested in	stay focus on
+1751	5	will be the future of	have reach the border of	be now the second largest religion in	be the second largest religion in	be the fastest grow religion in
+1746	2	be unofficial in	be the official state religion of
+241	4	see no action in	be a serious problem in	be widely spread in	be an enemy of
+257	2	make an alliance with	have a long history in
+1436	4	do improve on	be incompatible with	do have benefit for	do not improve on
+780	3	simply mean	be not send to	then hurry back to
+2256	2	play a major role in	play an important role in
+356	4	flourish in	be the established religion of	be well-established in	be a cofounder of
+1171	2	be the sole founder of	be not found by
+331	1	be a professor at
+1938	1	be seat behind
+334	9	be survive by	have agree a deal with	be the primary backer of	look the other way on	be a pioneer in	be not significantly better than	appoint	be direct by	be a non-issue for
+2153	1	be lecturer in
+1573	3	be a university lecturer in	offer course in	have major in
+210	2	be the poet laureate of	may be far from
+822	5	be block in	be widely use in	ban in	be release in	be launch from
+1402	1	be elect mayor of
+598	3	be the largest bank in	be the third largest commercial bank in	have a longstanding commitment to
+2054	1	be before
+515	3	be ten year younger than	play the part of	be also excellent as
+858	2	be the word use in	be sometimes call
+2991	1	be the second language of
+2097	3	ignore the role of	have win the support of	change the image of
+2588	3	draw people to	decide to head for	die today in
+1855	1	provide mobile service to
+2468	1	include support for
+837	1	currently use
+2968	2	be the ultimate goal of	be the goal of
+706	1	write letter to
+313	1	be virtually unknown in
+117	1	be eight year older than
+2139	1	get nail for
+1398	2	must be resident of	be not resident of
+2928	1	turn south on
+1970	3	be also the chairman of	be the former chairman of	be the chairman of
+94	2	tell the house of	be a special season for
+240	4	lament the loss of	be three year younger than	reach the final at	spend his summer in
+865	1	apologise to
+937	3	be face extradition to	demand the extradition of	have an extradition treaty with
+928	1	have finally purchase
+1153	3	be a program offer by	give a great presentation at	seem to be a fan of
+2247	1	be the opposite of
+1098	1	draft a constitution for
+864	2	present the idea to	describe his view of
+99	3	call upon	allow no exception for	report the fact to
+1802	2	be a diplomat in	be ambassador to
+2515	1	be the easternmost county in
+973	1	prevail in
+638	3	form the border between	be become an increasingly popular destination for	be a continent on
+2430	1	need a visa to visit
+541	4	be nothing like	use to be like	have always recognize the importance of	would drive out
+888	2	do not apologize to	also apologize to
+202	13	need to stop worry about	pose a real threat to	really need to get rid of	be usually much cheaper than	sing	be proud to be a part of	be furious with	be the major threat to	be try to catch up with	will work directly with	be a huge part of	start slowly in	be not an option for
+2881	1	discuss his meeting with
+471	1	fail to carry
+725	2	be promote to	be confirm as
+2939	1	decline to comment on
+2703	1	discuss the character of
+2551	1	have business interest in
+610	4	be so much better than	be elect the first president of	do not know anything about	have be much better than
+1986	3	be a know supporter of	be a vocal supporter of	be a supporter of
+159	2	be still stick on	be the perfect fit for
+1236	2	be the main attraction in	be the location of
+947	4	have be loan to	make an appeal for	pay a state visit to	have score his first goal for
+2910	1	be currently in
+720	2	be currently train with	be currently direct
+1787	1	be wildly popular in
+509	7	have a great affinity with	decide to go to	be out of	could move	be adore in	be beloved in	be deeply influence by
+1419	1	be commonly prescribe
+60	1	work as well as
+2822	3	have a secret crush on	remind she of	do a wonderful job as
+1420	2	urge retailer to check their order on	buy the house from
+1728	1	announce its plan for
+897	2	be originally	be originally from
+464	3	have two facility in	be very expensive in	be more expensive than
+1709	2	continue his education at	study law at
+2657	1	be not just for
+2142	1	have a free trade agreement with
+1009	2	be colonize	colonize
+2683	1	require
+2290	3	be a file format for	be the file extension for	announce today the release of
+869	3	be very open to	be open with	be open only to
+1852	1	be holy to
+772	1	do not deny the existence of
+2227	1	be a graduate student in
+2607	1	be more intelligent than
+2044	1	look angrily at
+2865	1	have mission in
+621	1	look something like
+689	2	support integration with	be a standard part of
+256	1	be not design to replace
+1884	1	be a lot like
+2704	1	be executive vice president of
+1040	2	be an angel investor in	be an investor in
+2882	1	file a lawsuit against
+969	2	have two manufacture plant in	be a technology company base in
+265	1	have the legacy of
+1240	3	be the new baby of	have long be a fan of	be the man behind
+1421	2	do not hate	be a single source for
+2442	2	rebel against	be the fief of
+107	1	do not fight
+314	2	be not easily available in	be still available in
+1124	3	be the next major version of	be five time the size of	be the most recent version of
+1637	1	be suspend from
+1133	1	have introduce
+525	1	be the directorial debut of
+2877	2	be a major improvement over	be an improved version of
+395	2	award an honorary doctorate to	award an honorary degree to
+747	3	have a strong presence in	have a presence on	may buy
+2252	1	also triumph in
+2300	11	do show up in	show up on	begin the year in	make the move to	be force to flee to	offer a grand view of	dedicate she life to	show up with	will not compete with	be the principal city of	have pull back to
+375	4	rush past	arrange for	get to play with	accuse
+7	3	offer a great view of	have be dabble in	be please to work with
+1034	2	post this video on	create a profile on
+560	1	care only about
+1446	1	be the brain behind
+272	4	become an overseas territory of	lose territory to	be economically dependent on	be an overseas territory of
+352	2	enjoy the work of	must submit a write request to
+960	4	be suppose to play in	be a writer living in	be a writer base in	be definitely better than
+228	2	be an extremely active member of	be extremely loyal to
+2342	1	be a flower indigenous to
+1372	1	be blockade
+340	1	decide to return to
+839	1	be an important influence on
+2440	1	have profile
+577	9	slide on	be not the enemy of	publish simultaneously in	be scare of	want to eliminate	would wipe out	slide into	open the book on	be an affront to
+1251	2	be not endorse	have officially endorse
+2623	1	be also a symbol of
+2582	1	be expensive in
+2304	1	be the northern terminus of
+475	2	become the hero of	be not so good at
+2296	1	preach his first sermon in
+322	3	have alliance with	complete the takeover of	be the national airline of
+2327	1	throw support to
+1149	2	be play like	be sharply critical of
+1604	3	spend she early year in	be an anagram of	end a visit to
+1699	1	publicly endorse
+2049	3	become ill in	report see	may border on
+1983	1	have the highest unemployment rate in
+520	1	complete his elementary education in
+1092	1	be also shoot by
+1784	1	save
+1454	1	represent a district in
+2105	2	be a blight on	be a warrior for
+655	3	just crash into	become involve with	rave about
+78	2	begin his career in	be take a holiday in
+1056	6	have write	also write	introduce the world to	be most recently the author of	do this in	read from
+2998	3	be strongest in	need to vote for	feel the same way about
+2094	1	have more child than
+2340	1	point finger at
+1375	2	be not the party of	be sick of
+2661	2	might vote for	write a column for
+1030	1	be not threaten by
+2504	1	think of
+1845	1	hate
+949	5	be a better actor than	have his share of	have nothing to do with	be good as be	also win for
+2305	1	collaborate with
+463	2	be the exact same as	send a reporter to
+646	3	have be settle in	have make important gain in	be the problem for
+1212	4	kill in	be kill in	be kill by	be kill
+1704	1	tower over
+1969	1	be a partnership of
+1640	2	be a collaboration of	have collaboration with
+920	3	be the biggest player in	be also deploy in	be the most popular meat in
+123	1	hold onto
+1243	1	serve in
+96	1	pose no military threat to
+2378	1	be symbol of
+870	1	keep ask
+1455	3	be the elder brother of	be the half-brother of	be the twin brother of
+2328	4	be a real son of	be the firstborn son of	be the title give to	be a variation of
+2398	1	reappear in
+218	2	be no longer active on	do not belong to
+736	2	be force to abandon	file their motion for
+2740	4	be the model for	be also use instead of	be originally create for	be also a clone of
+692	1	be reminiscent of
+1406	7	be a former head of	be the former ceo of	be trounce in	be put the pressure on	have be a frequent visitor to	be a frequent visitor to	be a former ceo of
+2294	1	scream at
+1473	1	launch call
+42	1	discuss she book with
+427	2	give a brief description of	give a description of
+238	8	release an update for	have release an update for	release an update to	have release a software update for	be not available for	have release a patch for	have report a vulnerability in	release a patch for
+1366	3	be very much aware of	have an intimate knowledge of	be a lifelong devotee of
+1369	2	be an amazing time in	spend less time in
+399	1	first write
+618	2	write two letter to	be a natural choice for
+144	5	be first call christian at	follow the law of	remain the capital of	be the oldest city in	be the biggest city of
+46	5	exit ahead of	be use to eliminate	be second ahead of	be third ahead of	move ahead of
+728	11	have already die in	be firmly plant in	be retreat in	have become the religion of	have lose ground in	be strong in	be prime in	spread through	be not center on	be the cradle of	would conquer
+552	3	sound the alarm in	be a pale imitation of	be the latest iteration of
+1569	1	publish
+2455	1	dropkick
+1033	1	be just for
+169	2	have extensive link to	have two campus in
+1090	2	be still the choice for	make the same argument about
+688	3	have flock to	flock to	be flock to
+295	2	be observe by	do not observe
+594	1	should be proud of
+2658	1	should avoid travel to
+2485	1	do not need a passport to enter
+329	2	largely agree with	be denounce
+1300	2	be awash in	have be prepare for
+1117	4	be not friend with	go back from	know little about	have many misconception about
+2387	2	be publish three time a year by	instead go to
+1557	2	be less densely populated than	be the most densely populated country in
+923	2	have be keep a close eye on	go to check on
+91	3	be not fool by	get goal from	describe his visit to
+1178	2	be not worthy of	have get to know
+873	2	celebrate this day as	celebrate the life of
+1572	1	watch as
+1723	3	could not escape	be prepare for	be not prepare for
+1867	1	have imprison
+641	1	generally enjoy
+1370	1	offer a variety of
+2248	2	will fight for	want to kill
+2287	3	be eye	have their eye on	lust after
+2632	2	be also closely associate with	be commonly associate with
+68	3	mark the establishment of	establish a home in	establish his residence in
+2466	2	be the last prophet of	be also a prophet of
+245	4	be the apostle of	would give birth to	remarry to	be allude to
+1258	3	be a descendent of	be the adopt son of	be the direct descendent of
+70	1	have his first experience of
+1046	1	actually visit
+2101	1	be a true descendant of
+2815	1	be force to withdraw to
+1599	2	be foundational for	be foundational to
+1630	2	be ruler of	become the new king of
+732	2	become sole ruler of	be all set to move to
+1499	1	attack the city of
+10	1	be a service of
+867	2	have some advice for	have a long history of work with
+308	1	slam
+2537	1	be the foundation of
+344	4	spring out of	do have its root in	spring from	derive from
+225	1	be radically different from
+224	7	be a faith in	be widespread in	be a major religion in	begin in	be practice in	become the official religion of	be the major religion in
+1797	1	come early to
+1043	2	be centre in	become the centre of
+1794	2	be the fulfillment of	fulfil the promise of
+2831	1	be explode in
+1737	1	be often compare to
+487	1	represent the perfection of
+567	4	have root in	outdo	have its root in	be root for
+2385	1	have its registered office in
+2908	1	form a partnership with
+717	2	be particularly note for	use a method similar to
+346	1	be structurally relate to
+1306	4	be not buy by	have hire	remain well ahead of	be just the beginning for
+2098	5	end its support for	end support for	have drop support for	currently support	have extend support for
+2004	4	say the new version of	also release an update to	have discontinue support for	announce the immediate availability of
+1416	4	invest in	invest heavily in	be go to invest in	have start invest in
+1483	2	have release a security update for	have release a service pack for
+1424	1	fix this problem in
+470	1	open a campus in
+1495	1	have decide to sponsor
+2469	2	announce its partnership with	announce a partnership with
+358	5	haunt	enter the university of	could win	be still very much alive in	later pay
+942	1	have also improve
+2164	1	be there promote
+309	4	hold its meeting in	have a large campus in	have four office in	open a store in
+1217	3	be also the teacher of	do not create	be proud to be associate with
+455	2	have recently release a new version of	have release a new version of
+2547	1	have register
+299	3	be not a good place for	seek revenge on	be full of
+759	1	be a direct importer of
+1373	1	debut at
+181	7	be a strong supporter of	have long be an outspoken supporter of	be a very strong supporter of	be a major political party in	have supporter in	be a firm supporter of	be also a staunch supporter of
+879	1	be really
+484	2	have no regard for	be compromise on
+871	3	be last on	be acknowledge	must beat
+722	3	have move towards	be a creation of	have paved way for
+1846	1	be a continuation of
+2436	1	say sunday on
+769	3	be sooo much better than	be considerably older than	be only slightly better than
+1438	1	want to close down
+1886	4	often invoke	be new to	improve in	be tie with
+781	1	will fill in for
+1185	2	be just interview on	be interview by
+1084	5	be a good choice for	would be a good choice for	be a bad matchup for	make a good choice for	be a perfect match for
+2938	1	be invisible on
+998	3	will hold a rally in	be more violent than	be even more liberal than
+683	2	have no hit in	be still block in
+2037	1	also have deal with
+2359	1	be a net positive for
+1141	1	have agreement with
+2275	1	outpace
+2384	1	be sanction in
+1926	1	be chief executive of
+161	4	have be post in	be better off without	have learn much from	make the statement in
+310	2	strongly support	do not want a war with
+288	6	be a famous tourist destination of	be the southernmost part of	be the southernmost state of	be the northernmost state of	be the northernmost state in	be establish on
+522	1	have no love for
+2566	1	provide direct flight to
+2176	3	have flight to	cancel flight to	offer flight from
+1134	1	finish seventh at
+579	1	have a resemblance to
+43	7	be mother of	have diploma in	be a close follower of	do not recognize	still do not recognize	be the first disciple of	become a disciple of
+854	1	be affiliate with
+2422	2	be be construct on	will be construct on
+2163	1	will be complete in
+626	4	already own part of	ink deal with	be the new face of	would go the way of
+6	1	be the major proponent of
+1624	2	enrol in	attend
+2420	1	replace
+2620	3	announce their acquisition of	complete the acquisition of	announce the acquisition of
+141	2	provide coverage throughout	perform throughout
+1079	2	have have a bid accept for	win the best actor award for
+1285	6	secretly travel to	would dump	quote	be fire up for	face stiff competition from	have already serve as
+2781	1	conceive of
+82	1	find deal on
+1355	1	have create
+2221	2	have deal in	open a plant in
+1139	3	be expand its facility in	have its manufacturing facility in	also have a facility in
+1823	3	have be criticize for	also have facility in	be also the state capital of
+410	1	also have family in
+0	1	have not give up
+701	3	offer advice to	have do the same for	describe the condition of
+2943	1	be diagnose with
+620	1	become a follower of
+45	1	occupy a strategic position in
+773	1	set the bar for
+423	2	know the significance of	be roughly analogous to
+2109	1	do for
+2966	2	deny clemency for	cannot vote for
+1666	1	have vouch for
+2802	1	lose the contest to
+1214	3	be just an accessory to	be not the sole property of	be as guilty as
+2925	1	represent the heart of
+2575	1	throw behind
+16	1	be essentially base on
+724	1	be the face of
+180	3	be also see in	have even go to	score lower than
+678	2	be conveniently locate on	be locate right on
+441	2	currently host	have always run well at
+1518	3	be also much more expensive than	be also much cheaper than	be also much less expensive than
+1690	1	then rape
+925	1	be simply an abbreviation for
+2206	1	be succeed by
+777	2	will run fine on	do not include
+408	2	be a republican congressman from	be the congressman from
+250	4	be mainly speak in	be inform	be speak primarily in	have no analog in
+691	3	be more complicated than	be quite different from	be four year younger than
+1352	2	be also the maker of	may be substitute for
+482	1	shall not intentionally allow unauthorized connection to
+586	1	lead lakers past
+2183	2	be quite effective on	be another spelling of
+551	3	be a trader at	be a booming market for	want go to
+447	2	be clearly superior to	earn the rank of
+740	2	cost more than	be the bedrock of
+2654	1	have before
+476	1	begin practice law in
+2716	3	sound better than	never recover from	be more moderate than
+236	2	be a prominent critic of	be an early adopter of
+413	1	narrowly defeat
+1284	1	make she first appearance on
+1674	1	be the sister of
+1706	1	be also a graduate of
+2840	1	have a museum in
+2660	2	be generally associate with	rely strongly on
+1533	1	be not on
+86	3	dedicate the work to	be very interested in	start see
+1218	2	strike gold with	get to work on
+1429	1	have land border with
+1383	2	be currently with	never work with
+1697	2	be a disaster for	prove a disaster for
+2664	1	venture to
+2361	1	currently present
+1182	1	provide access to
+215	2	have also select	protest to
+2453	1	say accord to
+357	1	apologize before
+1145	2	explain on	have a site on
+757	1	chastise
+2973	1	will forever be remember for
+2188	1	be the capitol of
+1422	2	know everything about	be basically split into
+755	2	be pastor of	be dominate by
+249	1	hospitalize with
+2597	1	be addict to
+649	1	may interfere with
+1231	1	gain a foothold in
+1504	2	be always cheaper than	be usually cheaper than
+581	1	und
+1444	2	want to save	fail in
+188	2	be the beloved wife of	heap praise on
+1125	1	give his loyalty to
+1835	1	work well with
+1839	3	have a relatively low rate of	have come a long way on	have a contract with
+386	1	be the largest airport in
+753	1	be the busiest airport in
+1018	2	be strong among	champion the rights of
+433	1	must hire
+2128	1	run interference for
+330	4	be not connect to	have deep connection with	also connect to	be also connect with
+1818	3	have work hard in	work hard for	have work hard for
+1522	1	approach
+695	1	have never support
+596	2	have earn the trust of	have close family tie to
+418	1	tell a crowd in
+1319	1	be the same height as
+741	1	be way behind
+786	1	be also a big fan of
+2567	1	be already threaten
+111	2	have yet to endorse	have already endorse
+465	1	take the presidential oath of
+302	2	deliver a speech at	give the commencement speech at
+1998	1	wax lyrical about
+244	3	be the second largest airport in	be most convenient to	be the closest airport to
+273	2	switch to	also integrate with
+2388	2	be the perfect companion for	be the companion to
+3	3	be particularly good with	offer support for	have good support for
+1290	2	be the perfect complement to	be the perfect location in
+952	2	be still the biggest killer in	be a staple food in
+1071	1	study philosophy in
+556	1	be an institution in
+1379	1	indict by
+1712	1	rhapsodize about
+1276	1	be chancellor of
+2376	1	be unanimously elect president of
+2059	1	be outplay
+1021	1	announce his retirement from
+347	3	would join	be an independent state of	be a registered republican in
+1292	2	send the request to	be the granddaddy of
+2039	3	be the currency use in	be the currency of	be the currency for
+1692	2	enter the office of	call the office of
+565	1	obtain possession of
+1756	2	have come to know	will play the mother of
+1760	1	be christen
+1332	2	actually grow up in	always believe in
+938	1	be more transparent than
+442	2	suffer heavy loss in	remain neutral during
+2002	2	be a large city in	train his gun on
+617	1	be already approach
+2298	1	seize control of
+2234	1	begin his invasion of
+1076	2	get knock out by	give the film to
+1203	2	be a fierce opponent of	be a staunch opponent of
+635	2	think like	have taste
+1194	1	call the gospel of
+1472	2	set up his headquarters in	open its european headquarters in
+2249	2	be the tallest mountain in	be the highest point in
+242	4	be badly affect by	will not prevent the spread of	be a once-a-day treatment for	be not suffer from
+2959	1	constitute the largest ethnic group in
+1024	3	be no longer for	can no longer be	be locate nine mile south of
+1400	3	become the target of	have to end	have not be involve in
+254	2	have plenty of	have be a fertile ground for
+794	5	rank second with	rank second to	be actually a part of	can learn a lot from	should be wary of
+89	3	be guard by	be okay in	wear one in
+1649	1	give the example of
+364	2	be a staff writer for	have be publish in
+570	1	represent the face of
+444	1	be certainly not in
+2961	1	be the current leader of
+1449	4	have not fare well in	fail to impress	be out in	be somewhat popular in
+1066	1	be a loyal servant of
+1050	2	say today on	have more on
+922	1	be concentrate in
+2829	1	be not susceptible to
+2873	1	be inferior to
+2079	1	begin move to
+2017	1	be disproportionately affect by
+1829	3	feature on	will return home to	be feature on
+921	2	be now a division of	be the canadian division of
+307	1	stretch out to
+1511	1	be an excellent introduction to
+186	1	announce she engagement to
+2116	2	be the national dish of	be the cause of
+1324	1	be a large island in
+1323	1	be really into
+157	4	recall its ambassador from	have recall its ambassador to	recall its ambassador to	appoint a new ambassador to
+2956	1	have a significant risk of
+2687	1	will be ship via
+1979	1	do not participate in
+153	3	make liar out of	be the largest importer of	be a fine place for
+1888	1	be eat by
+2940	1	be swallow whole by
+2579	1	be a great substitute for
+2345	2	be the replacement for	be a replacement for
+1063	1	be *not*
+793	1	kick ass in
+915	1	lose his title to
+1367	1	do not represent the people of
+1544	2	be expect to do well in	be extremely successful in
+881	1	create this social network on
+2042	1	be very impressive on
+2499	1	be a speechwriter for
+2241	1	demolish
+95	2	be an autonomous community of	have a large community of
+1162	2	have outlast	be little better than
+1752	1	supposedly tell
+808	1	be another term for
+297	1	merge in
+1091	1	be bound by
+2195	1	usually mean
+2542	1	blend with
+2743	1	take his family to
+1070	1	be believe to have originate in
+1089	2	pack with	top with
+812	1	be award the nobel prize for
+874	1	win a pulitzer prize for
+183	1	may live in
+682	2	be an associate of	be an early associate of
+510	2	be legally marry to	will be up against
+2013	2	be photograph by	photograph in
+569	1	will result in
+2330	2	be add to	be accept into
+951	3	recently play	eventually settle	eventually settle in
+326	2	just sign a deal with	become the republic of
+2733	6	receive his ph.d. degree in	receive his ph.d. in	have a ph.d. in	be simply no excuse for	have a phd in	speak not a word of
+1410	1	lie bury in
+1130	1	get compare to
+2699	1	consist nearly of
+636	2	be the largest single investor in	be the biggest foreign investor in
+1871	1	also have a series of
+1889	1	file a complaint to
+1313	2	celebrate the rebirth of	celebrate the resurrection of
+768	2	be a tonic for	be a special occasion for
+171	8	recently return from	be a grand festival of	be another important festival of	be the most important festival of	be the most significant festival in	be a very special time for	be an important festival of	be an annual festival of
+1574	3	never have the chance to go to	be high season for	would be ban from
+1280	2	do not graduate from	graduate magna cum laude from
+1443	1	be a mountainous country in
+460	1	have more potential than
+763	1	begin to leave
+1826	1	reject
+2189	1	retaliate against
+1755	3	reach an agreement with	sign an agreement with	must remove
+965	1	may attack
+499	1	be invade
+1501	1	never work for
+2084	1	should default to
+2708	1	will overwrite
+1312	1	give his support to
+113	3	be the perfect coach for	be a journalist base in	feel strongly about
+1603	1	be tightly integrate with
+985	1	be the hebrew word for
+378	3	be a war with	be truly the gateway to	launch the iphone in
+1377	2	be the economic capital of	be the economic heart of
+2026	1	be the anglicized version of
+2590	1	be congratulate by
+316	4	win an oscar for	have a good column on	also love	do not win an oscar for
+473	1	should get ready for
+640	1	be prepare to leave
+2584	1	finally beat
+2790	1	be extradite to
+2592	1	only occur in
+758	1	be even higher than
+2827	1	have similar chemical property to
+2680	2	be the most developed country in	be more developed than
+2890	1	be the heavyweight of
+382	1	be the musical guest on
+390	2	be school in	spend his childhood in
+1474	1	provide information on
+2709	1	be become increasingly important for
+2232	1	make an advertisement for
+1617	2	sell his company to	start to talk about
+1465	1	discuss the future of
+2508	1	be conduct course for
+2578	1	attract the attention of
+2782	1	be crown in
+8	2	also launch	also offer
+1431	2	be likely to replace	would replace
+1538	1	be the intellectual property of
+1331	2	be a trademark belong to	be a regsitered trademark of
+697	3	be not synonymous with	be a stepping stone to	be the new version of
+518	1	be the reincarnation of
+2869	1	be unwelcome in
+2705	1	be originally create by
+1315	1	be a very popular tourist destination in
+935	7	must not abandon	house a variety of	be disciple of	celebrate	do not follow	pray for	would say
+2437	1	play the wife of
+66	1	pose for
+1005	1	also consider
+2519	1	have two type of
+201	1	be still run by
+2449	1	reluctantly accept the resignation of
+1110	1	prepare to meet
+1347	1	play a different role in
+467	2	have complete its acquisition of	have a complete system of
+290	2	buy a building in	be the tallest building in
+2776	1	be a strategic investor in
+2753	1	consume
+1590	1	be bail out
+2070	3	be not interested in	be always interest in	have have a long-standing interest in
+1631	1	say yes to
+1008	2	have little to fear from	have donate to
+1613	1	be consider to be equal to
+1820	1	celebrate the joy of
+1670	1	should encourage
+1776	5	ultimately move to	be a small minority in	be also a national holiday in	have always be a minority in	be also suffer in
+544	2	be pray with	claim to speak for
+1503	1	begin to persecute
+1598	1	be worshipper of
+2409	3	follow the way of	expand the role of	follow the teaching of
+526	1	eventually come to
+1792	2	commemorate the birth of	commemorate the death of
+2318	1	be grow widely in
+767	1	may be king of
+2050	1	ultimately return to
+1757	4	be the spirit of	draw a picture of	play exactly like	be stand behind
+2663	1	have no idea about
+2633	1	present the theory of
+312	1	be welcome in
+259	1	recently announce the introduction of
+2138	1	be consume at
+120	9	be wreak havoc in	be still a taboo subject in	be sweep through	have sweep across	be eradicate from	be a huge problem in	be very common in	be most rampant in	be the lead killer in
+1255	3	be devastate	be widespread throughout	have be devastate in
+267	4	be the final phase of	always lead to	stand for acquire	usually lead to
+2421	1	be cure by
+1147	1	make the news in
+1304	1	pose a serious threat to
+1249	1	will be pair with
+1489	1	be deputy editor of
+2921	2	be as delusional as	immigrate to
+633	1	release the source code to
+2957	1	stage performance in
+2029	1	have be assassinate in
+784	3	remove to	be a small county in	mean the county of
+797	2	be consider convert to	have recently convert to
+2350	1	marry the daughter of
+2962	1	enjoy life in
+162	1	anchor for
+2634	1	knock off
+826	1	open new store in
+1761	1	be creative director of
+1390	1	decide to convert to
+2205	1	be only an instrument of
+2270	1	be consider part of
+2817	1	be a province in
+671	2	be a product create by	be discontinue by
+756	1	be terrific as
+1392	1	be the transportation hub for
+2847	1	be the economic engine of
+1121	1	also contain
+1396	1	help absorb
+2849	1	be a massive fan of
+2646	1	be the new name for
+1386	4	be a great time in	be a magical time in	be not a big thing in	be just another day in
+2484	2	bring the joy of	be the feast day of
+1205	2	mark the birth of	be the birth of
+2483	3	start early in	arrive early in	be a great time to visit
+883	1	be spend at
+1127	1	do not mark the end of
+853	2	be an important holiday for	be a public holiday for
+1288	1	visit the state of
+2069	1	be award a grammy for
+2821	1	be the tallest lighthouse in
+2356	2	be now happily marry to	be previously marry to
+2909	1	bail out of
+2165	1	could play
+2184	1	have an opinion about
+896	1	currently star in
+2083	1	highlight in
+1387	1	encounter the work of
+2898	1	be a neighbour of
+903	1	have have its share of
+2807	1	be collaborate with
+1427	1	lift sanction against
+217	2	be a great market for	become more vulnerable to
+2891	1	be the continent of
+2452	1	have a different take on
+775	1	be the commercial center of
+2477	1	finally leave
+226	2	be a close second to	need to work on
+2053	1	be vp of
+1552	1	be the beloved of
+379	4	sell share in	own one-third of	have a huge stake in	recommend regular-grade fuel for
+751	1	represent the legacy of
+198	1	embody the essence of
+369	1	have to
+913	1	have issue a come-and-get-me plea to
+851	1	be also mine in
+373	1	want to be
+1950	1	lay siege to
+116	1	be a gift to
+2841	1	be the personification of
+101	1	be trade back to
+1405	1	be the highlight of
+868	2	be very limited compare to	do not work on
+614	1	have be forward to
+1893	1	add support for
+1600	1	then switch to
+2426	1	become chief executive of
+1068	1	sound a bit like
+2978	2	become a fan of	be currently tie with
+1558	1	fall back to
+1597	1	outnumber
+2262	1	also retain
+2730	2	may not visit	be not allow to become
+1492	1	help to prevent
+2251	1	hold a grudge against
+2200	1	be the first european settlement in
+2235	1	do not protect against
+2761	1	be bump for
+929	2	be an important component in	be the main component of
+2177	2	represent a new breed of	be the top choice among
+1560	1	have not donate to
+953	1	extol the virtue of
+2544	1	be co-promoted by
+1534	1	be the network administrator for
+1931	1	hold a ba from
+1516	2	eliminate	be eliminate by
+2503	1	be not discriminate against in
+1641	2	be invest billion in	have major investment in
+575	4	be an iteration of	be create use	be also famous for	be always write in
+1958	1	be geographically close to
+1440	2	be incredibly important to	be an extremely important market for
+1242	1	will supply material for
+1844	1	be a viable alternative to
+660	1	welcome the world to
+1780	1	be a copyrighted product of
+2842	1	be a software develop by
+468	1	be angry with
+1496	1	be another icon of
+1357	2	leave the hotel in	give his opinion of
+1942	2	be the best method to	be locate in neighbor
+1047	1	be first invent by
+2565	1	be a dialect of
+147	1	decide to come to
+600	2	be not favorable to	be not support
+1072	2	be curse with	lavish attention on
+397	2	again host	place the blame squarely on
+1497	1	say yesterday at
+884	1	write a note for
+178	1	appoint she ambassador to
+1500	1	be significantly better than
+1417	2	be another spin-off of	be a modify version of
+1608	1	disappear in
+1161	1	want to control
+1896	1	insult
+1646	1	remain an inspiration to
+1086	1	come closer than
+2062	1	be the flagship of
+2825	1	go best with
+1824	1	be the chief financial officer of
+591	1	be rock
+213	1	become a correspondent for
+2331	1	proclaim the state of
+1278	1	inquire of
+2912	1	persecute by
+2353	1	have rehabilitate
+1253	1	build a store in
+1391	1	be hook up with
+318	1	offer a wide range of
+146	1	seek out
+414	1	do not consist only of
+1107	1	occupy the southern part of
+284	1	be press for
+2697	1	have a huge concentration of
+2980	1	turn towards
+1510	1	be the bedroom of
+2371	1	call the election for
+2403	1	be a network for
+2536	1	have long covet
+2626	1	accept the argument of
+2152	1	recently travel to
+1675	1	play lacrosse at
+1491	1	still lead
+1221	1	have be a close friend of
+2535	1	pollute

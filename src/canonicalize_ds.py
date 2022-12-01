@@ -23,23 +23,26 @@ class BuildDataForCanonicalization(Dataset):
         self.rel2id = dict(self.read_file(os.path.join(self.data_dir, 'rel2id.txt')))
         self.id2rel = dict([(idx, rel) for rel, idx in self.rel2id.items()])
         self.triples = self.read_file(os.path.join(self.data_dir, 'triples.txt'))
-        '''Added links between triples and rels'''
-        # Thoughts: removing duplicates in the triples.
-        # This works for relations, but might not for entities.
-        # Duplicates may be there on purpose if, e.g. Apple and apple match to two
-        # different entities in Wiki in exactly the same triple
-        self.triples = list({tuple(t) for t in self.triples})
-        self.triple2relid = {trip: self.rel2id[trip[1]] for trip in self.triples}
-        '''Leaving only one triple per rel for dimensionality's sake.
-        Also, it should not be a problem for any model to cluster exactly the same relations
-        together'''
-        self.relid2untriple = {idx: trip for trip, idx in self.triple2relid.items()}
-        self.untriple2relid = {trip: idx for idx, trip in self.relid2untriple.items()}
+        '''Added rel_triples'''
+        self.rel_triples = self.read_rel_triples()
+        '''Added links between re_triples and rels'''
+        self.rel_triple2relid = {trip: self.rel2id[trip[1]] for trip in self.rel_triples}
+        self.relid2rel_triple = {idx: trip for trip, idx in self.rel_triple2relid.items()}
         ''''''
         entity_side_info = self.read_file(os.path.join(self.data_dir, 'ent_side_info.txt'))
-        self.ent_side_info = list(map(lambda z: (self.ent2id[z[0]], self.ent2id[z[1]], float(z[2])), entity_side_info))
+        #self.ent_side_info = list(map(lambda z: (self.ent2id[z[0]], self.ent2id[z[1]], float(z[2])), entity_side_info))
+        self.ent_side_info = [
+            (self.ent2id[z[0]], self.ent2id[z[1]], float(z[2]))
+            for z in entity_side_info
+            if (z[0] in self.ent2id) and (z[1] in self.ent2id)
+        ]
         relation_side_info = self.read_file(os.path.join(self.data_dir, 'rel_side_info.txt'))
-        self.rel_side_info = list(map(lambda z: (self.rel2id[z[0]], self.rel2id[z[1]], float(z[2])), relation_side_info))
+        #self.rel_side_info = list(map(lambda z: (self.rel2id[z[0]], self.rel2id[z[1]], float(z[2])), relation_side_info))
+        self.rel_side_info = [
+            (self.rel2id[z[0]], self.rel2id[z[1]], float(z[2]))
+            for z in relation_side_info
+            if (z[0] in self.rel2id) and (z[1] in self.rel2id)
+        ]
         # Golden clusters dataset for entities
         self.ent2truelinks = self.read_gold_clust(os.path.join(self.data_dir, 'gold_npclust.txt'))
 
@@ -60,6 +63,16 @@ class BuildDataForCanonicalization(Dataset):
         rel_side_info = self.rel_side_info[item % len(self.rel_side_info)]
         return curr_triple, ent_side_info, rel_side_info
 
+    def read_rel_triples(self):
+        '''Read subj_category, rel, obj_category triples into a list of tuples'''
+        rel_triples = (pd.read_csv(
+            os.path.join(self.data_dir, 'rel_triples.txt'),
+            sep='\t',
+            skiprows=1,
+            header=None,
+        ).values)
+        return [(s, r, o) for s, r, o in rel_triples]
+
     @staticmethod
     def read_file(f_name: str) -> List[Tuple[str, str, str]]:
         if f_name is None or not os.path.exists(f_name): return FileNotFoundError
@@ -76,6 +89,6 @@ class BuildDataForCanonicalization(Dataset):
             for entry in f:
                 entries = entry.strip().split('\t')
                 entities = entries[2:]
-                if entries[0] in clustid2entities: raise KeyError
+                # if entries[0] in clustid2entities: raise KeyError
                 clustid2entities[entries[0]] = entities
         return invertDict(clustid2entities)

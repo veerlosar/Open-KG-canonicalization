@@ -1,0 +1,1853 @@
+1852
+vlad	vlad iii	1.0
+bill	bill gates	0.6556838710822129
+bill	clinton	0.09196986029286057
+bill	gate	0.09196986029286057
+gate	bill gates	0.25
+gate	bill	0.25
+gate	clinton	0.033833820809153176
+gate	robert gate	0.6769924925288455
+gate	door	1.0
+wallace	alfr wallace	0.25
+wallace	president	0.04087549346349359
+wallace	william wallace	0.3678794411714423
+wallace	alabama	0.3678794411714423
+boman irani	boman	1.0
+information service	internet information service	1.2790132368860356
+phoenix	phoenix arizona	0.5608236049020797
+histogram	color histogram	0.5578858913022596
+canadian rocky	rocky	0.5
+drug	drug abuse	0.4016231838083946
+tesla	tesla roadster	0.5
+chapman	tracy chapman	0.5
+identity	gender identity	0.4056838710822129
+abuse	drug abuse	0.5983768161916053
+horace	horace greeley	0.5578858913022596
+horace	horacio	1.0
+august	mid august	1.5637914160289368
+bill clinton	clinton	0.09196986029286057
+bill clinton	george clinton	0.0625
+president	clinton	0.033833820809153176
+president	bill clinton	0.09196986029286057
+president	good president	0.5182352724855582
+president	president bush	0.4476047816870142
+president	american president	0.5041719870037746
+president	death president	0.4231572362499203
+john kerry	year	1.0
+john kerry	kerry	0.06223383545982994
+barack obama	obama	1.4362945258726774
+barack obama	senator barack obama	1.327716837653583
+barack obama	barack	0.5637054741273227
+barack obama	barak obama	0.1111111111111111
+barack obama	barrak obama	0.1111111111111111
+barack obama	barrack obama	0.1111111111111111
+feb	mid february	0.09196986029286057
+february	mid february	0.5713486316169489
+february	feb	0.16916910404576588
+february	store february	0.5520264007992992
+february	st february	0.5686165471914938
+february	rd february	0.4526808302869429
+warren	california	0.3678794411714423
+warren	earl warren	0.3678794411714423
+warren	warren county	0.6972813648390579
+warren	warren hard	0.5206212286759118
+warren	warren sapp	1.0
+india	indiana	1.0
+india	nepal	0.25
+india	indian	0.09196986029286057
+january	jan	1.0
+january	early january	0.6491498728360909
+january	rd january	0.5372435736804817
+democrat	democracy	1.0
+democrat	democrat party	0.5623818557528477
+democrat	liberal democrat	0.4362085839710631
+democrat	new democrat	0.7054102301100573
+pm	be	1.0
+malaysia	malaysian	1.0
+june	early june	1.6144493051612967
+june	june july	0.5
+early	late	1.0
+early	early march	0.4313834528085063
+early	early age	0.513569206867111
+early	early october	0.4313834528085063
+early	early show	0.5533783852138398
+united states	usa	0.25
+united states	supreme court united states	0.47024264599064497
+united states	united states supreme court	0.47024264599064497
+united states	united states senate	0.6172239290207081
+united states	american	0.006944444444444444
+united states	bush	0.00012719193672732068
+united states	davis	0.002554718341468349
+united states	america	0.006944444444444444
+united states	state	0.002554718341468349
+united states	geithner	0.002554718341468349
+united states	national public radio	0.006944444444444444
+united states	united states america	0.006944444444444444
+united states	darrell	0.006944444444444444
+united states	mitchell	0.006944444444444444
+united states	procter	0.006944444444444444
+united states	president united states	0.612771
+american	usa	0.25
+american	united states	0.25
+american	american person	0.4889204576404361
+december	dec	0.16916910404576588
+december	early december	0.7920943853356605
+richard nixon	nixon	1.4731974454383394
+richard nixon	president richard nixon	1.6096753915896804
+richard nixon	richard milhous nixon	0.25
+dwight eisenhower	eisenhower	1.0
+dwight eisenhower	bush	0.00013750912243031566
+dwight eisenhower	obama	6.846176079643099e-06
+dwight eisenhower	liberium	0.0075077436973763735
+dwight eisenhower	kennedy	0.0003737885487496772
+dwight eisenhower	polk	0.002761944555849239
+dwight eisenhower	chavez	0.002761944555849239
+german	germany	1.0
+german	german development policy	0.5517149181138856
+german	lubitsch	0.1111111111111111
+german	brandt	0.1111111111111111
+congestive heart failure	heart failure	1.4273087047609752
+constantine	gaul	0.25
+constantine	constantine ii	0.768039
+princeton	princeton university	1.7281704568659972
+murdoch	rupert murdoch	1.0
+scott feldman	feldman	1.0
+rocky	colorado rocky	1.0
+peel	john peel	1.0
+hyundai	hyundai motor	0.25
+hyundai motor company	hyundai motor	0.25
+hyundai motor company	hyundai	0.25
+united kingdom	uk	1.0
+united kingdom	kingdom god	0.4880554577748072
+march	mid march	0.7293787713240882
+march	st march	0.5686165471914938
+richie mccaw	mccaw	1.0
+james monroe	monroe	1.0
+iowa state	iowa state university	1.739511416438117
+iowa state	iowa	0.6290554826788924
+iowa state	iowa city	0.4588482427488004
+karla homolka	homolka	1.0
+mark david chapman	mark chapman	1.0
+date	day date	0.632718363759129
+date	court date	0.6505149978319905
+radio interview	radio	0.5254612271806532
+art school	art	0.6136731268579213
+new york	governor new york	1.0184150530645095
+new york	rent	0.0625
+new york city	governor new york	0.8151403697314326
+new york city	new york	0.6712628989605324
+new york city	giuliani	0.09196986029286057
+new york state	governor new york	0.8151403697314324
+new york state	new york	0.6712628989605323
+new york state	new york city	0.5051886475025082
+new york state	new york post	0.43099315369839775
+new york state	york	0.4010714306612661
+new york state	rent	0.0625
+new york time	governor new york	0.8290567039648225
+new york time	new york	0.6903482015957487
+new york time	new york city	0.5159230209048417
+new york time	new york post	0.4387817124297437
+new york time	new york state	1.031846041809683
+new york time	new york area	0.502021451535879
+new york time	york	0.4124746672238153
+new york time	nyt	1.0
+new	new medium	0.40251214348009495
+new	new format	0.4150688424320549
+new	new home	0.41115199693539184
+new	new york	0.40251214348009495
+new york area	new york	0.6479191756585585
+new york area	new york city	0.4918520597686482
+new york area	new york post	0.4212485224093018
+new york area	new york state	0.9837041195372964
+home	military home	0.4683506422548481
+home	home video	0.5363697240640876
+july	june july	0.5
+july	july release	0.5637054741273227
+july	thursday july	0.5
+release	july release	0.4362945258726773
+release	october release	0.4834136986177057
+release	worldwide release	0.4362945258726773
+press release	release	0.5444165400074104
+press release	press	0.4555834599925897
+physical	physical space	0.4612652778312555
+physical	physical attack	0.4097281427954464
+physical	physical abuse	0.453397256149243
+physical	physical problem	0.5566431479585082
+physical	physical form	0.49105006341249896
+physical	physical sex	0.453397256149243
+high quality	high quality education	0.5768727309686423
+high quality	high	0.4786126582018335
+high quality	high quality video	0.6825853583443876
+high quality	quality	0.5213873417981665
+high school	high	0.4786126582018335
+high school	high school friend	0.4996596632717056
+high school	school	0.5213873417981665
+high school	middle school	1.0
+school	public school	0.43685962428970004
+school	school child	0.4921707156843741
+law school	school	0.4669782606455238
+law school	yale law school	0.8643473876617982
+last year	year	0.4056838710822129
+last year	more year	0.4056838710822129
+last year	year so	0.4056838710822129
+form	multiple form	0.4622842690781805
+wide screen	screen	0.5058878647216387
+american history	american political history	1.296480788174414
+american history	american	0.4027880498328803
+american history	history	0.5972119501671197
+american family	american	0.4484172193155739
+dream	american dream	0.7639403419861699
+computer	laptop computer	0.4000000000000001
+computer	computer information	0.5767173575091714
+computer	computer screen	0.5656511481581256
+information	computer information	0.42328264249082864
+information	information service	0.5096255043474288
+information	gb information	0.40716883584617214
+second	second time	0.6001698222511732
+second place	second	0.5
+second place	place	0.5
+second term	second	0.4920747534624129
+second term	second year term	0.71833509402217
+second term	term	0.5079252465375872
+package	different package	0.7003264967765497
+package	original package	0.5
+senator barack obama	senator obama	0.6257793752618286
+senator	senator obama	0.5371566952531242
+senator	senate	1.0
+senator	obama	5.699262284715727e-05
+senator	congressman	1.0
+state senator	senator obama	0.4219839073649367
+state senator	senator	0.6630840463731476
+hillary clinton	hillary	0.5772049881597967
+hillary clinton	hillary rodham clinton	0.040000000000000015
+senator hillary clinton	hillary clinton	0.6585571286578871
+clinton	hillary clinton	0.42279501184020335
+clinton	clinton county	0.6525775038378121
+clinton	port clinton	0.4491768952476266
+clinton	bush	5.058677911563996e-05
+clinton	obama	2.5185674303403985e-06
+clinton	liberium	0.0027619445558492387
+clinton	kennedy	0.00013750912243031566
+clinton	polk	0.0010160626197523253
+clinton	chavez	0.0010160626197523253
+clinton	dwight eisenhower	0.0010160626197523253
+clinton	george clinton	0.008458455202288294
+clinton	bill clinton	0.008458455202288294
+clinton	hillary rodham clinton	0.005413411329464509
+clinton	hillary rodham	0.005413411329464509
+clinton	hillary diane rodham	0.005413411329464509
+service	city service	0.5449651967357009
+service	information service	0.4903744956525711
+secret service	secret service protection	0.6166413260700582
+secret service	top secret	0.4189930445812004
+secret service	secret	0.6216882614292827
+mason	george mason university	0.5267028072167861
+mason	freemasonry	1.0
+order	order page	0.41126445225156544
+order	new world order	0.4074934129478889
+order	work order	0.5
+order	hour order	0.4477318095822362
+natural history	natural	0.5101383446357888
+natural history	history	0.4898616553642111
+faith	faith prayer	0.5372435736804817
+faith	variety faith	0.6962776933382736
+time	big time	0.4488484090340588
+time	more time	1.0
+time	time magazine	1.0
+half	half bad	0.6491498728360909
+half	half person	0.7104340987720837
+person	real person	0.4432706588520428
+person	person life	0.4796760209835421
+person	american person	0.5110795423595639
+person	person food	0.449090505498313
+person	black person	0.4594039569116257
+person	person health	0.4830418732980683
+person	lot person	0.4036944086183503
+person	person person	1.0
+person	person identity	0.4221649220793326
+person	variety person	0.4830418732980683
+person	different person	0.5251314405661175
+space	small space	0.5248477122150519
+space	physical space	0.5387347221687444
+space	gb space	0.4313834528085063
+space	real space	0.513569206867111
+campaign	obamas campaign	0.4000000000000001
+park	forest park	0.40438581656000827
+park	park city	0.5719580745360133
+television	television show	0.5463285371304557
+television	radio television	0.4406998069513341
+last week	week	0.4692787260227566
+next week	week	0.43917639509792017
+next week	available next week	0.5595296291031784
+next week	few week	0.43917639509792017
+republican john mccain	john mccain	1.3449577623599616
+video	video quality	0.471427015747032
+video	video game	0.4444444444444444
+video	internet video	0.4253164021613054
+video	video content	0.4386368681271087
+video	video audio	0.4175862737222221
+video	music video	0.4497914228266541
+video	digital video	0.4815351969576812
+video	home video	0.4636302759359124
+video	audio video	0.4175862737222221
+video	video store	0.4089437416830336
+video	film video	0.4386368681271087
+game	good game	0.5756537606261609
+game	video game	0.5555555555555556
+game	internet game	0.4805491444109881
+pay	pay television	0.7060702520912806
+president richard nixon	president nixon	0.5760094458477575
+great president	president	0.5116656752762906
+great president	great	0.4883343247237095
+former president	former president bill clinton	1.036703975954263
+president kennedy	president john kennedy	0.6894597947891562
+president kennedy	kennedy	0.6140976561994957
+council	council chamber	0.4362085839710631
+brother	warner brother	0.5
+national university	university	0.4804419346792885
+national university	national	0.5195580653207116
+university college	university	0.4376735833410919
+state	washington state	0.44550364577299534
+state	small state	0.44550364577299534
+state	usa	0.002554718341468349
+state	american	0.002554718341468349
+state	bush	4.679129860476018e-05
+state	davis	0.0009398283558098103
+state	america	0.002554718341468349
+creation	character creation	0.5810382621965611
+front	front group	0.6125902699186471
+front	front child	0.6257415019191551
+minute	few minute	1.0
+music	best music	0.4583914134515144
+music	music sale	0.42328264249082864
+rock music	music	0.467252836089503
+rock music	just rock	0.5327471639104969
+rock music	rock county	0.4033635528477264
+rock music	rock	0.5327471639104969
+lot	lot size	0.5565946032077425
+lot	lot better	0.5404604490558214
+lot	lot person	0.5963055913816496
+lot	lot polish airline	0.433544
+little	little thing	0.4822600136196577
+little rock	little	0.467252836089503
+little rock	just rock	0.5327471639104969
+purchase	purchase online	0.5206212286759118
+purchase	day purchase	0.6074446133234529
+purchase	great purchase	0.6715574699747862
+purchase	rental purchase	0.4731974454383394
+online	purchase online	0.4793787713240883
+online	online consumer	0.5
+online	online delivery	0.5
+online	available online	0.41602919535301897
+online	online life	0.6170526867602943
+health	health problem	0.5420179380867214
+health	health care	0.25
+health	medical	0.25
+issue	control issue	0.4139114242568716
+issue	political issue	0.4726531878358297
+issue	economic issue	0.4790898513446606
+issue	real issue	0.4790898513446606
+usa	usa canada	0.5
+usa	usa today	0.6295171572499421
+usa	usa president	0.6611821114879037
+category	number category	0.6903752345284635
+news	bad news	0.4499560998085411
+news	fox news	0.4120270845916477
+news	news world	0.4886024482528176
+news	good news	0.545362739718319
+new york daily news	daily news	1.2046493372554086
+fox news	fox news sunday	0.581048110091764
+fox news	fox news channel	1.0
+news conference	white house news conference	0.5396349900853048
+grey	shade grey	0.5578858913022596
+grey	jack	1.0
+korea	south korea	0.7245884476238132
+korea	nihon	0.25
+korea	korean	0.25
+downtown	downtown toronto	0.4056838710822129
+downtown	downtown phoenix	0.5
+toronto	downtown toronto	0.5943161289177871
+drive	sex drive	0.5810382621965611
+drive	dvd drive	0.6173196815056889
+open	open standard	0.5307212739772436
+open	open source	0.4491768952476266
+open	open format	0.5808220864105899
+george	george bush	0.5177399863803424
+george	bush	9.915008706665435e-05
+george	dubya bush	0.005413411329464509
+george	george lucas	0.1353352832366127
+bush	george bush	0.4822600136196577
+bush	laura bush	0.0045789097221835455
+bush	laura	0.0045789097221835455
+bush	usa	0.00012719193672732068
+bush	american	0.00012719193672732068
+president bush	bush	0.5523952183129858
+medium	medium training	0.4023566422499772
+medium	storage medium	0.4184144184766948
+medium	digital medium	0.5268858040635662
+security	economic security	0.5520690121184821
+security	security reason	0.5386089194935016
+good	good use	0.418603403561529
+good	good team	0.4390989341229843
+good	good president	0.4817647275144417
+good	good condition	0.4054519053566238
+good	good car	0.418603403561529
+good news	good	0.4546372602816811
+good thing	good	0.4123361211898751
+good thing	different thing	0.4160934992691581
+good thing	thing	0.5876638788101248
+good thing	new thing	0.431638777023497
+graduate	graduate student	0.6418955364979172
+student	college student	0.5377157309218195
+student	student education	0.4692787260227566
+sec	sec state	0.7178115716727808
+great	great team	0.4455869704211034
+united states supreme court	supreme court united states	1.0
+united states supreme court	supreme court	0.529757354009355
+united states military academy	united states	0.42770649330955995
+united nations	model united nations	1.1572255917122218
+key west	key role	0.43839631409047203
+role	important role	0.4898616553642111
+role	small role	0.5416085865484855
+role	big role	0.5666498305092562
+mount mckinley	mckinley	0.6199062332840657
+generation	power generation	0.6377303057306478
+generation	future generation	0.4627564263195184
+top	top gear	0.41140808993222094
+top	top secret	0.4376181442471523
+top	top page	0.4376181442471523
+top	top shape	0.5269504270732932
+top	top form	0.5565946032077425
+team	better team	0.4790898513446606
+team	team year	0.5222637374876672
+team	good team	0.5609010658770157
+team	lot team	0.438836388270265
+team	different team	0.5609010658770157
+team	nba team	0.4139114242568716
+team	national team	0.538375314789521
+team	crew	1.0
+representative	representative organization	0.4793787713240883
+representative	house representative	0.6287668703841153
+michigan	michigan today	0.6295171572499421
+michigan	michigan primary	0.5371566952531242
+michigan	lake michigan	1.0
+alternative	alternative energy	0.5637914160289369
+digital distribution	distribution	0.5943161289177871
+digital distribution	video distribution	0.4316687390747696
+digital distribution	music distribution	0.40681329861924587
+digital distribution	drug distribution	0.40681329861924587
+columbia	british columbia	0.4362085839710631
+columbia university	columbia	0.6745410412554547
+control	control issue	0.5860885757431284
+power	power dvd	0.5049932352556836
+power	loss power	0.40716883584617214
+power	power control	0.42328264249082864
+joe dimaggio	dimaggio	0.6391511932854698
+lead	big lead	0.5879729154083523
+lead	series lead	0.4862295731793668
+line	wallace line	0.43917639509792017
+line	black line	0.5377157309218195
+line	fuel line	0.5079252465375872
+line	straight line	0.4189617378034389
+line	line information	0.5327471639104969
+line	line resolution	0.4555834599925897
+activity	line activity	0.6069119518459338
+activity	disk activity	0.5473191697130573
+activity	physical activity	0.6505149978319905
+economic	economic security	0.44793098788151786
+economic	economic issue	0.5209101486553394
+economic	business	0.09196986029286057
+economic development	economic	0.5058878647216387
+economic development	development	0.4941121352783612
+point	west point	0.4935485801350909
+point	few point	1.0
+windows vista	windows xp vista	0.5977667994500598
+windows vista	vista	0.1111111111111111
+vista	windows vista	0.4793787713240883
+monica lewinsky	monica	0.5
+monica lewinsky	monica lewinsky scandal	0.632718363759129
+language	hall language	0.4543210299999297
+language	language development	0.5123374100361525
+language	european language	0.40438581656000827
+language	foreign language	0.4406998069513341
+reason	specific reason	0.4477318095822362
+daily show	daily show tonight	1.2199053372688933
+daily show	daily news	0.4683324263402036
+show	early show	0.44662161478616014
+show	television show	0.4536714628695443
+show	no show	1.0
+show	very good show	0.5420179380867214
+show	great show	0.5354819572549014
+world series	world	0.4097281427954464
+world war ii	world war ii veteran	1.2147529010899063
+war	board war	0.42328264249082864
+war	war department	0.4367859442201452
+war	violence war	0.40716883584617214
+war	world war	0.5139406798552708
+supreme court	supreme court united states	0.529757354009355
+court	supreme court	0.42311627853398337
+court	court law	0.4747814653056943
+court	family court	0.49105006341249896
+court	local court	0.4097281427954464
+court	court house	0.5238497412802338
+law	court law	0.5252185346943057
+law	law school	0.5330217393544762
+law	act	1.0
+energy	alternative energy	0.4362085839710631
+white	white vote	0.4406998069513341
+white	green white	0.4406998069513341
+white	white house	0.5553320341307706
+white	black white	0.5227251696606903
+white	white black	0.5227251696606903
+white	obama	2.0966414243906987e-05
+white	blagojevich	0.008458455202288294
+white	jindal	0.008458455202288294
+white	romney	0.0011447274305458866
+white	asia	0.033833820809153176
+white	black	0.09196986029286057
+white house	white house news conference	0.4603650099146953
+house	court house	0.4761502587197662
+house	house today	0.4801813733069396
+house	house committee	0.4622597705931061
+house	government house	0.4446679658692294
+house	white house	0.4446679658692294
+age	experience age	0.47851478861451
+age	child age	0.5252185346943057
+age	age year	0.5430936392261073
+age	week age	0.47851478861451
+age	very young age	0.4343488518418743
+age	early age	0.48643079313288895
+start	easy start	0.4731974454383394
+fox tv	tv	0.4781648028770922
+fox tv	fox	0.5218351971229078
+fox tv	fox television	0.0625
+fox tv	fox broadcasting	0.0625
+fox tv	fox broadcasting company	0.0625
+obama	senator obama	0.46284330474687607
+obama	barrack obama	3.647527862218065e-05
+obama	barack hussein obama ii	3.647527862218065e-05
+obama	bush	3.408510365356256e-07
+president obama	obama	0.6270694901955832
+chicago	chicago area	0.6638243993087611
+georgetown university	georgetown	0.7717019533049274
+city	central city	0.4047589021805678
+city	valley city	0.4047589021805678
+city	city service	0.4550348032642991
+city	lake city	0.4133748472150225
+city	national city	0.4933643171486389
+city	david city	0.4133748472150225
+city	texas city	0.4133748472150225
+salt lake city	lake city	0.4297630364185022
+gas	liquid gas	0.4731974454383394
+record	record deal	0.6000000000000001
+face	naruto face	0.5268025545616608
+vote	white vote	0.5593001930486661
+vote	vote office	0.5444165400074104
+vote	majority vote	0.4000000000000001
+vote	percent vote	0.4834136986177057
+vote	popular vote	0.4362945258726773
+team leader	better leader	0.4202667076327589
+leader	better leader	0.5818808063138206
+leader	majority leader	0.41602919535301897
+leader	team leader	0.6020917734020982
+device	variety device	0.6394714728255649
+money	money line	0.6069119518459338
+freedom	washington freedom	0.5632140557798548
+black	black woman	0.4772748303393097
+black	black line	0.4622842690781805
+black	black right	0.4772748303393097
+black	black case	0.4837167010517216
+black	black person	0.5405960430883743
+black	black american	0.551582780684426
+black	black white	0.4772748303393097
+black	asia	0.09196986029286057
+black	negro	1.0
+young girl	girl	0.5
+baby girl	girl	0.4000000000000001
+baby girl	baby	0.6000000000000001
+business	small business	0.5177399863803424
+international business	business	0.4406998069513341
+fort	fort washington	0.5516597621154828
+fight club	club	0.4731974454383394
+fight club	fight	0.5268025545616608
+fight club	good fight	0.4298949237864469
+problem	social problem	0.43453965661447264
+problem	fuel problem	0.4054519053566238
+problem	health problem	0.4579820619132788
+problem	serious problem	0.4123361211898751
+education	high quality education	0.4231272690313577
+college	university college	0.562326416658908
+college	college student	0.4622842690781805
+college	numerous college	0.4023566422499772
+college	university	0.3678794411714423
+country	western country	0.5520264007992992
+country	poor country	0.5165863013822943
+thing	little thing	0.5177399863803424
+thing	bad thing	0.4928797197419294
+thing	different thing	0.5876638788101248
+long	long life	0.5578773277640701
+long	long term	0.5
+long time	long life	0.4101866877149935
+long time	long	0.6077529013740662
+long time	long beach	0.4101866877149935
+long way	long	0.5327471639104969
+long way	way	0.467252836089503
+long beach	long	0.5578773277640701
+laptop computer	laptop	0.6000000000000001
+unit	arbitrary unit	0.4056838710822129
+gear	mountain gear	0.5268025545616608
+woman	black woman	0.5227251696606903
+woman	strong woman	0.4760607180717438
+china town	town	0.41602919535301897
+china town	china	0.583970804646981
+tomorrow	town tomorrow night	0.4267405662454549
+tomorrow	store tomorrow	0.6336614981727328
+night	sunday night	0.4491768952476266
+night	last night	0.5
+night	saturday night	0.4491768952476266
+night	couple night	0.4696709804438596
+night	off night	1.0
+night	granddad	0.1111111111111111
+help	divine help	0.4421141086977403
+help	help committee	0.6714559000758995
+senate committee	senate judiciary committee	0.463773385114976
+senate committee	committee	0.4483402378845172
+senate committee	senate	0.5516597621154828
+senate committee	state senate	0.4055684355119376
+committee	house committee	0.5377402294068939
+press	press time	0.6077529013740662
+press	word press	0.49109001569497
+press	press conference	0.4555834599925897
+field	right field	0.5150421314871548
+relationship	same sex relationship	0.50890998430503
+defense	national defense university	0.4989368147079654
+defense	defense secretary	0.4731974454383394
+defense	secretary defense	0.4731974454383394
+continental army	army	0.42279501184020335
+capability	wireless capability	0.5
+capability	process capability	0.583970804646981
+sunday evening	sunday	0.4362085839710631
+south america	south	0.4434053967922576
+south america	america	0.5565946032077425
+south carolina	university south carolina	0.7822384924756188
+south carolina	carolina	0.6423320028298053
+dvd player	standard dvd player	0.6371499423387853
+quality	video quality	0.5285729842529681
+quality	various quality	0.4534924100411205
+quality	poor quality	0.4021754140763937
+quality	quality film	0.4669782606455238
+quality	good quality	0.548900608492905
+quality	very good quality	0.548900608492905
+major league baseball	baseball	0.4478300907042647
+research	teaching research	0.4016231838083946
+research	research material	0.5303719389375796
+research	year research	0.5730829633070589
+research	research program	0.50890998430503
+program	program type	0.4555834599925897
+texas	texas be university	0.599110239230732
+texas	south texas	0.5377157309218195
+texas	texas county	0.624184629723683
+texas	guatemala city	0.25
+texas city	texas be university	0.4212640661251984
+texas city	texas county	0.433509193301264
+texas city	texas	0.5866251527849775
+book	new book	0.6613237372418383
+book	numerous book	0.4696709804438596
+book	history book	0.5218351971229078
+bonus	bonus footage	0.41602919535301897
+bonus	bonus material	0.5818808063138206
+feature	double feature	0.4376181442471523
+senior	senior thesis	0.5
+philosophy	philosophy department	0.6666666666666666
+plastic	glass plastic	0.583970804646981
+charlie	charlie rise	0.5
+charlie	charlie bell	0.4627564263195184
+west	west point	0.5064514198649092
+west	west london	0.5064514198649092
+west virginia	west	0.4543210299999297
+west virginia	virginia	0.5456789700000703
+west virginia	state virginia	0.4072216757009052
+west coast	west	0.40438581656000827
+character	character creation	0.4189617378034389
+child	child adult	0.4097281427954464
+child	school child	0.5078292843156259
+child	child age	0.4747814653056943
+child	street child	0.4747814653056943
+child	different child	0.5566431479585082
+young child	child	0.4097281427954464
+young child	young person	0.4337416700343159
+young child	young woman	0.4028873738136201
+cd	audio cd	0.5307212739772436
+cd	cd dvd	0.5681212831057169
+cd	cd player	0.5578858913022596
+cd	cd disc	0.5117072191244584
+mass	mass volume	0.4731974454383394
+mass	western mass	0.5723372020956963
+mass	mass communication	0.5206212286759118
+mass	volume mass	0.4731974454383394
+door	closed door	0.5
+olympic	beijing olympic	0.4731974454383394
+olympic	olympic game	1.0
+green	green white	0.5593001930486661
+st	wall st	0.4313834528085063
+private life	private	0.5765811857109555
+south asia	asia	0.6758469512137554
+change	change management	0.5522681904177638
+change	cultural change	0.4834136986177057
+change	natural change	0.5254612271806532
+man	great man	0.5958494814980366
+man	man woman	0.5150421314871548
+man	woman man	0.5150421314871548
+young man	man	0.4555834599925897
+young man	young person	0.4084610286904154
+land	land use	0.5656511481581256
+land	earth	0.3678794411714423
+earth	earth science	0.5
+earth	lans	0.04087549346349359
+room	room temperature	0.4834136986177057
+room	different room	0.6439703608498756
+room	hotel room	0.4000000000000001
+side	river side	0.5137704268206332
+side	side effect	0.5444165400074104
+left side	side	0.4362945258726773
+left side	left field	0.4129396294546941
+left side	left	0.5637054741273227
+effect	simple effect	0.4189617378034389
+effect	side effect	0.4555834599925897
+fan	new fan	0.7054102301100573
+fan	fan series	0.5371566952531242
+fan	sport fan	0.5
+fox	century fox	0.42279501184020335
+fox	fox news	0.5879729154083523
+fox	fox television	0.0625
+fox	fox broadcasting	0.0625
+fox	fox broadcasting company	0.0625
+national	national city	0.5066356828513611
+national	washington national	0.4520699987358187
+national league	western division national league	0.8670805645828032
+national league	national hockey league	0.9010525478802716
+human	human identity	0.4576806892779329
+human	human use	0.4790898513446606
+human	human health	0.5190784095996378
+human	human experience	0.4576806892779329
+human	humankind	0.3678794411714423
+human	prime	0.040000000000000015
+human	main	0.040000000000000015
+hot	hot spring	0.5608236049020797
+hot	hot start	0.4793787713240883
+hot	hot topic	0.41602919535301897
+topic	variety other topic	0.6962776933382736
+universal	universal studio	0.4526808302869429
+studio	universal studio	0.5473191697130573
+studio	studio quality	0.657601396626028
+way	couple way	0.40716883584617214
+way	number way	0.5217604639400127
+way	different way	0.5703615854011493
+serbia	wikiproject serbia	0.4421141086977403
+serbia	greater serbia	0.613147
+serbia	kosovo serb	0.5
+crime	major crime	0.5117072191244584
+crime	identity crime	0.5307212739772436
+crime	internet crime	0.5386089194935016
+bible	god bible	0.6336614981727328
+uniform	school uniform	0.6903752345284635
+uniform	uniform group	0.6714559000758995
+nba	nba team	0.5860885757431284
+nba	nba title	0.4362945258726773
+nba championship	nba	0.4000000000000001
+nba championship	world championship	0.4696107613812224
+nba championship	championship	0.6000000000000001
+scientist	great scientist	0.7254784375772821
+secret	top secret	0.5623818557528477
+secret	secret key	0.4731974454383394
+summer	spring summer	0.5810382621965611
+summer	lawrence summer	0.25
+boston	new boston	0.7557945245809385
+western	western mass	0.4276627979043037
+western	western country	0.4479735992007008
+western	western culture	0.4276627979043037
+western	western iowa	0.4644371482073046
+western	western conference	0.4644371482073046
+american culture	culture	0.6649105223833719
+buy	best buy	0.5983768161916053
+buy	worth buy	0.4056838710822129
+buy	good buy	0.7003264967765497
+sale	music sale	0.5767173575091714
+sale	sale rental	0.4362945258726773
+sale	sale october	0.4834136986177057
+sale	percent sale	0.4834136986177057
+air force	force	0.4526808302869429
+air force	eighth air force	1.0
+job	job growth	0.4898616553642111
+job	job creation	0.4276627979043037
+job	great job	0.6044028185186798
+job	good job	0.6106741133967889
+job	steve jobs	0.25
+dance	irish dance	0.5
+health care	care	0.6202334448725115
+number	large number	0.42690843466773176
+number	number way	0.4782395360599873
+number	number thing	0.4605604491316114
+number	real number	0.4669782606455238
+number	mark	0.3678794411714423
+nba title	title	0.5637054741273227
+nba title	number title	0.4357955363732937
+death	command death	0.41126445225156544
+death	death president	0.5768427637500798
+death	real death	0.513569206867111
+silver city	silver	0.7624608115505945
+fun	entertainment fun	0.5608236049020797
+england	bank england	0.5372435736804817
+substance abuse	abuse	0.43917639509792017
+substance abuse	drug abuse	1.0
+million	million american	0.7194668811370827
+cancer	cancer patient	0.4731974454383394
+christian	christian experience	0.5
+monroe doctrine	christian doctrine	0.4404703708968216
+monroe doctrine	bush doctrine	0.4541912971364895
+violence	domestic violence	0.4793787713240883
+term	long term	0.5
+term	third term	0.4555834599925897
+format	dvd format	0.4870131905686681
+format	ntsc format	0.40582672907899897
+format	digital format	0.5139184337188095
+east	east lake	0.5
+middle east	east	0.43917639509792017
+east london	east	0.5214852113854901
+east london	london east end	0.5803078689824005
+god	family god	0.546563125712008
+god	god mode	0.4644371482073046
+god	word god	0.5
+god	church god	0.4898616553642111
+square	square shape	0.7001245250427999
+shape	variety shape	0.5533783852138398
+shape	good shape	0.5945480946433762
+bed	sofa bed	0.4362085839710631
+bed	extra bed	0.5508231047523733
+double bed	bed	0.5
+double bed	double double	0.5
+song	real song	0.6272281775627487
+song	song file	0.5772049881597967
+mail	mail order	0.6491498728360909
+mail	first class mail	0.4667365495346675
+bird	beautiful bird	0.6666666666666666
+appomattox county	appomattox river	0.5084330455248263
+appomattox county	appomattox	0.7485603922814517
+french	french english	0.5508231047523733
+french	greece	0.027777777777777776
+french	charle	0.0013829741213295535
+french	france	0.027777777777777776
+french	frankreich	0.027777777777777776
+french	sarkozy	0.010218873365873396
+size	lot size	0.4434053967922576
+size	success size	0.4023566422499772
+size	variety size	0.5237031886004407
+amazon com	amazon	0.6336614981727328
+policy	policy development	0.5123374100361525
+policy	government policy	0.5
+policy	foreign policy	0.4406998069513341
+foreign policy	president bushs foreign policy	0.4181888426651145
+foreign policy	foreign policy experience	0.6811810313734494
+ground	ground combat	0.41602919535301897
+treasury	department treasury	0.6131471927654584
+edition	limited edition	0.5268025545616608
+pal	ntsc pal	0.5165863013822943
+pal	pal format	0.6100718494403359
+pal	pal system	0.5875997426017788
+print	print note	0.5943161289177871
+father	father brown	0.6199062332840657
+spanish	english spanish	0.5508231047523733
+spanish	spanish version	0.4731974454383394
+spanish	russian	0.25
+liar	pathological liar	0.5
+board	board war	0.5767173575091714
+board	plan board	0.4362945258726773
+board	board regent	0.4000000000000001
+royal	royal society	0.5623818557528477
+royal	front royal	0.5
+remote	remote sense	0.5372435736804817
+remote	remote location	0.5372435736804817
+awesome	awesome feature	0.6241963505817849
+awesome	plain awesome	0.5372435736804817
+food	food network	0.4637661145648082
+food	person food	0.5509094945016869
+food	plant food	0.4421141086977403
+food	food production	0.4124002573982212
+plant food	plant base food	0.6135206858682816
+plant food	food plant origin	0.5307212739772434
+production	commercial production	0.4793787713240883
+marshall	marshall county	0.7485603922814517
+staff	staff sgt	0.4421141086977403
+nixon	president nixon	0.6611821114879037
+administration	republican administration	0.5
+administration	bush administration policy	0.4125120909224329
+administration	nixon administration	0.4793787713240883
+conference	press conference	0.5444165400074104
+conference	news conference	0.6012527021745621
+conference	western conference	0.5355628517926954
+language development	development	0.4876625899638475
+operation	operation manager	0.4362085839710631
+question	separate question	0.5
+question	personal question	0.5983768161916053
+social network	social	0.4534368742879921
+real	real space	0.48643079313288895
+real	real person	0.5567293411479572
+society	today society	0.5693774475702217
+society	royal society	0.4376181442471523
+society	american society	0.6069287524676299
+society	democratic society	0.4580233796182054
+society	modern society	0.4882927808755416
+priority	top priority	0.6769924925288455
+challenge	university challenge	0.6976451446189836
+challenge	intellectual challenge	0.4627564263195184
+opportunity	educational opportunity	0.4731974454383394
+rock	just rock	1.0
+rock	little rock	0.5327471639104969
+rock	rock county	0.624184629723683
+rock	rock spring	0.5
+rock	peter	0.04087549346349359
+rock	pierre	0.04087549346349359
+physics	physics project	0.6543128759565947
+physics	real	1.0
+missouri	university missouri	0.7281704568659972
+tony blair	uk prime minister tony blair	0.4269734192847844
+tony blair	leo blair	0.25
+tony blair	blair	1.0
+entertainment	entertainment fun	0.43917639509792017
+entertainment	home entertainment	0.546602743850757
+entertainment	creation entertainment	0.4189617378034389
+cook	good cook	0.7306856049356902
+page	order page	0.5887355477484346
+page	top page	0.5623818557528477
+page	page decision	0.5
+dog	dog food	0.632718363759129
+dog	dog training	0.5473191697130573
+edison	thomas edison	0.5268025545616608
+end	happy end	0.4731974454383394
+alcohol	alcohol addiction	0.5473191697130573
+alcohol	alcohol poisoning	0.4056838710822129
+food poisoning	alcohol poisoning	0.4810359236379591
+responsibility	human responsibility	0.7282714920267325
+email	email interview	0.5623818557528477
+email	email telephone	0.4362085839710631
+interview	email interview	0.4376181442471523
+interview	recent interview	0.41140808993222094
+interview	radio interview	0.4745387728193467
+pressure	blood pressure	0.4580233796182054
+high blood pressure	blood pressure	0.7614984997665636
+high blood pressure	blood	0.41271438332928906
+london	london university	0.5782918882229398
+london	london area	0.5399248489947213
+london	time london	0.5870740281818044
+london	west london	0.4935485801350909
+london	new london	0.6130533014124209
+london	east london	0.47851478861451
+london	london time	0.5870740281818044
+great deal	good deal	0.4715941004600179
+sydney	sydney opera house	0.4704079121812942
+state senate	senate	0.6049739963197536
+federal office	office	0.43917639509792017
+australia	australia lead university	0.4617060456337057
+australia	australian	2.0
+loss	material loss	0.5818808063138206
+loss	loss power	0.5928311641538279
+loss	straight loss	0.4793787713240883
+loss	weight loss	0.5
+training	dog training	0.4526808302869429
+training	medium training	0.5976433577500228
+fee	additional fee	0.6131471927654584
+standard	open standard	0.4692787260227566
+illness	serious illness death	0.4206108229690384
+illness	mental illness	0.4362085839710631
+word	word press	0.50890998430503
+word	strong word	0.5
+word	word god	0.5
+water	fire water	0.4555834599925897
+water	water ice	0.4189617378034389
+water	glass water	0.43917639509792017
+credit	credit rating	0.4362945258726773
+place	last place	0.4613910805064984
+first place	place	0.4730495729267069
+first place	first	0.5269504270732932
+first place	first time	0.4006790966592872
+kerry	john kerry	0.6836408181204355
+kerry	obama	7.713112755417473e-06
+kerry	senator	0.008458455202288294
+choice	free choice	0.5
+choice	bad choice	0.5168304769853753
+choice	good choice	0.6106741133967889
+choice	poor choice	0.4644371482073046
+choice	first choice	0.4898616553642111
+choice	great choice	0.6044028185186798
+choice	better choice	0.5303719389375796
+great choice	good choice	0.4362886919943389
+neil	neil armstrong	0.5
+communication	mass communication	0.4793787713240883
+communication	internet communication	0.5686165471914938
+gray	shade gray	0.5578858913022596
+gold	gold mine	0.4421141086977403
+recognition	face recognition	0.5372435736804817
+recognition	voice recognition software	0.42033036404214696
+republican	republican party	0.5419766203817946
+republican	reye	0.027777777777777776
+republican	dreier	0.027777777777777776
+republican	grand old party	0.027777777777777776
+republican	flanagan	0.027777777777777776
+republican	gop	0.027777777777777776
+republican congress	republican	0.41602919535301897
+democrat party	party	0.4376181442471523
+mission	mission critical	0.4000000000000001
+mission	mission statement	0.4362945258726773
+statement	brief statement	0.4056838710822129
+heart attack	heart attack stroke	0.5069813495737311
+failure	heart failure	0.5772049881597967
+mccain	republican john mccain	0.4597340124985972
+mccain	john mccain	0.6836408181204355
+mccain	barrack obama	0.0007326255555493672
+mccain	barack hussein obama ii	0.0007326255555493672
+mccain	obama	1.3361360632196526e-06
+mccain	barack hussein obama	0.0007326255555493672
+mccain	john sidney mccain iii	0.0007326255555493672
+mccain	pawlenty	0.0002695178799634187
+mccain	new hampshire	0.0007326255555493672
+nature	financial nature	0.5372435736804817
+full color	color	0.5
+paper	pen paper	0.5
+commentary	commentary track	0.583970804646981
+track	couple track	0.5
+track	audio track	0.5608236049020797
+track	commentary track	0.41602919535301897
+track	numerous track	0.5
+justice	criminal justice	0.4644371482073046
+justice	gender justice	0.4479735992007008
+justice	social justice	0.546563125712008
+paula	paula jone	0.5578858913022596
+paula	paula abdul	0.25
+ps	ps xbox	0.4421141086977403
+steve miller	miller	0.4731974454383394
+steve miller	steve	0.5268025545616608
+attack	physical attack	0.5902718572045536
+attack	heart attack	0.5137704268206332
+attack	attack position	0.5444165400074104
+rocket	rocket science	0.5943161289177871
+internet	internet communication	0.4313834528085063
+internet	internet time	0.6001698222511732
+internet	internet game	0.5194508555890119
+internet	internet video	0.5746835978386945
+internet	internet crime	0.4613910805064984
+internet	canada	0.25
+vision	medium vision	0.6423320028298053
+new vision	medium vision	0.5176124139640889
+new vision	vision	0.7272091672142686
+iraq	iraq war	0.6377303057306478
+iraq study group	iraq	0.4054647946758797
+canada	usa canada	0.5
+continental	continental congress	0.4627564263195184
+continental	continental army	0.5772049881597967
+continental	continental europe	0.5
+abc	abc debate	0.5
+abc	abc tv	1.0
+abc news	abc debate	0.4094787016099799
+abc news	abc	0.6934190226946438
+disk	disk activity	0.4526808302869429
+disk	digital video disk	0.4616800988902557
+plot	control plot	0.6543128759565947
+poll	national poll	0.7124038622532449
+patent	patent application	0.5943161289177871
+fall	iowa fall	0.5165863013822943
+fall	autumn	2.0
+bad idea	bad	0.4477318095822362
+bad idea	idea	0.5522681904177638
+bad idea	good idea	0.4230868397441255
+government	government policy	0.5
+government	government house	0.5553320341307706
+government	county government	0.6099641510456766
+storage	gb storage	0.4834136986177057
+storage	storage medium	0.5815855815233053
+storage	video storage	0.625
+storage	datum storage	0.5444165400074104
+battle	naval battle	0.4362085839710631
+saint	saint loui	0.4731974454383394
+saint	san	1.0
+consumer	consumer complaint	0.4526808302869429
+consumer	consumer fraud	0.5
+consumer	today consumer	0.6100718494403359
+consumer	online consumer	0.5
+bankruptcy	bankruptcy reform	0.5372435736804817
+primary	democratic primary	0.4834136986177057
+primary	primary care	0.4834136986177057
+dependence	drug dependence	0.6125902699186471
+campus	beautiful campus	0.6131471927654584
+soldier	fellow soldier	0.5578858913022596
+building	building height	0.5372435736804817
+race	saturday race	0.4189617378034389
+race	horse race	0.4189617378034389
+race	person race	0.5778350779206675
+race	race car	0.5214852113854901
+center	kennedy center	0.5
+center	left center	0.42279501184020335
+right center	center	0.5456789700000703
+right center	right	0.4543210299999297
+response	appropriate response	0.5372435736804817
+response	bushs response	0.4421141086977403
+carnegie mellon	carnegie mellon university	0.8583371753018508
+happy man	happy hour	0.4129396294546939
+happy man	happy life	0.4627526100887106
+hour	happy hour	0.4362945258726773
+hour	hour footage	0.4000000000000001
+hour	store hour	0.5355628517926954
+hour	hour content	0.5656511481581256
+austin	austin power	0.6714559000758995
+austin	apple tv	0.010218873365873396
+austin	apple	0.010218873365873396
+austin	apple corporation	0.010218873365873396
+austin	apple computer	0.010218873365873396
+austin	apple computer company	0.010218873365873396
+austin	apple inc	0.010218873365873396
+alan	alan moore	0.5
+alan	alan dershowitz	1.0
+film	family film	0.5162832989482784
+film	bad film	0.48643079313288895
+film	film short	0.4181191936861795
+film	quality film	0.5330217393544762
+film	great film	0.5749819251342624
+individual	individual organization	0.5637914160289369
+individual	society individual	0.6241963505817849
+southern california	california	0.5165863013822943
+southern california	southern california area	0.7597030369155552
+aluminum	steel aluminum	0.5473191697130573
+text	text message	0.4627564263195184
+catholic	catholic pope	0.4421141086977403
+catholic	roman catholic	0.1111111111111111
+best	best music	0.5416085865484855
+best	second best	0.5168304769853753
+best	best buy	0.4016231838083946
+appeal	court appeal	0.6257415019191551
+favor	favor proposal	0.4627564263195184
+favor	favor bill	0.5637054741273227
+favor	favor project	0.5637054741273227
+lee	lee summit	0.5
+lee	general	0.008458455202288294
+lee	pinochet	0.008458455202288294
+adult	child adult	0.5902718572045536
+adult	adult material	0.5656511481581256
+adult	older adult	0.4000000000000001
+intervention	federal intervention	0.6391511932854698
+larry king live	larry king tonight	0.4909319231753797
+larry king	larry king tonight	0.6585571286578871
+larry king	king	0.42279501184020335
+larry king	larry king live	0.6585571286578871
+store	store february	0.4479735992007008
+store	store november	0.4016231838083946
+store	store hour	0.4644371482073046
+store	drug store	0.5416085865484855
+kingdom	kingdom god	0.6336614981727328
+kingdom	united kingdom	0.6798938534903572
+kingdom	saudi arabia	0.0625
+month	week month	0.6069119518459338
+month	month work	0.6144493051612967
+charlotte	port charlotte	0.6199062332840657
+labor	cheaper labor	0.5
+labor	department labor	0.5637909999999999
+indiana	indiana supreme court	0.4776264989493663
+indiana	indiana house representative	0.4688157345740148
+plant	plant substance	0.4696709804438596
+plant	plant food	0.5578858913022596
+cell	plant cell wall	0.4267405662454548
+wall street	wall st	0.4036784090969681
+wall	wall st	0.5686165471914938
+wall	wall street	0.5818808063138206
+wall street journal	wall street	0.5504265062042437
+member	faculty member	0.4627564263195184
+alaska	interior alaska	0.5
+alaska	alaska time zone	0.4237175646994204
+journal	wall street journal	0.4495734937957563
+plan	plan board	0.5637054741273227
+worldwide release	worldwide	0.5637054741273227
+vice president	vice captain	0.4172787230404708
+military	military home	0.5316493577451521
+military	military family	0.5227251696606903
+region	centre region	0.4362085839710631
+region	region format	0.6295171572499421
+region	eastern region	0.4362085839710631
+region	field	0.25
+star	movie star	0.5656511481581256
+series	world series	0.5902718572045536
+latin america	latin name	0.478407451063588
+fame	hall fame	0.5508231047523733
+level	personal level	0.5218351971229078
+level	multiple level	0.5307212739772436
+washington	washington state	0.5544963542270047
+washington	washington freedom	0.4367859442201452
+washington	washington post	0.42328264249082864
+washington	washington time	0.5760795553244841
+washington	fort washington	0.4483402378845172
+washington	dulle	1.0
+washington	washington dc	1.0
+secrecy	silence secrecy	0.5578858913022596
+volume	mass volume	0.5268025545616608
+version	spanish version	0.5268025545616608
+version	number version	0.657601396626028
+ice	water ice	0.5810382621965611
+ice	ice show	0.6394714728255649
+ice	ice surprise	0.4362085839710631
+jesus christ	jesus	0.41602919535301897
+jesus christ	christ jesus	0.25
+christ	jesus christ	0.583970804646981
+silence	few second silence	0.6491498728360909
+maine	maine legislature	0.5578858913022596
+movie	movie star	0.4343488518418743
+movie	few movie	1.0
+movie	home movie	0.5252185346943057
+movie	big movie	0.5365740366053459
+movie	movie television	0.4935485801350909
+movie	music movie	0.5112937367022874
+movie	great movie	0.5749819251342624
+movie	film	1.0
+community reinvestment act	nurse reinvestment act	0.4315339231272656
+growth	job growth	0.5101383446357888
+ohio	ohio texas	0.5307212739772436
+quick	quick dinner	0.5
+chris	chris clark	0.4362085839710631
+entry	number entry	0.7377797560147545
+sport	roadster sport	0.4362085839710631
+family	family film	0.4837167010517216
+family	military family	0.4772748303393097
+family	family god	0.4534368742879921
+family	family court	0.5089499365875011
+family	family value	0.4434053967922576
+family	american family	0.551582780684426
+family	beautiful family	0.4318787168942833
+english	english spanish	0.4491768952476266
+left center	left field	0.4201376650174078
+set	dvd set	0.6423320028298053
+set	goal set	0.5268025545616608
+set	disc set	0.5885919100677789
+alabama	alabama house representative	0.4688157345740148
+alabama	governor alabama	0.5637914160289369
+meeting	last meeting	0.6666666666666666
+kennedy	kennedy center	0.5
+kennedy	bush	1.8609836031724814e-05
+kennedy	obama	9.265291788262215e-07
+kennedy	liberium	0.0010160626197523253
+kennedy	robert kennedy	0.012446767091965986
+kennedy	bobby kennedy	0.012446767091965986
+kennedy	roosevelt	0.004578909722183546
+joe kennedy	kennedy	0.4696709804438596
+free	free choice	0.5
+free	free agency	0.4479735992007008
+free	free trade	0.4276627979043037
+behavior	sexual behavior	0.5355628517926954
+dickey	james dickey	0.6543128759565947
+ball	base ball team	0.4212849955169162
+ball	long ball	0.6069119518459338
+technology	modern technology	0.4692787260227566
+right	right field	0.4849578685128451
+right	animal right	0.40438581656000827
+right	black right	0.5227251696606903
+gallery	photo gallery	0.583970804646981
+santa barbara news press	santa barbara	0.6705686574618626
+santa	santa monica	0.4731974454383394
+santa	santa claus	2.0
+base	third base	0.5165863013822943
+base	basic	0.3678794411714423
+type	program type	0.5444165400074104
+type	different type	0.6439703608498756
+type	forest type	0.46284330474687607
+henry miller	henry county	0.5321017775388679
+baptist	southern baptist	0.6000000000000001
+baptist	baptist church	0.6241963505817849
+pdf file	pdf format	0.5373891722915285
+bloomberg news	bloomberg	0.7405326749633551
+nevada	california nevada	0.6391511932854698
+governor	governor alabama	0.4362085839710631
+advantage	great advantage	0.7254784375772821
+penn	penn state	0.7624608115505945
+combat	ground combat	0.583970804646981
+combat	hand hand combat	0.5637914160289369
+kia	kia motor	0.6241963505817849
+damage	monetary damage	0.4362085839710631
+damage	brain damage	0.4362085839710631
+damage	environmental damage	0.5
+small	small space	0.4751522877849482
+small	small role	0.4583914134515144
+small	small group	0.5
+small	small business	0.4822600136196577
+small	small size	0.5049932352556836
+small	small state	0.5544963542270047
+small	small child	0.5139406798552708
+xbox	ps xbox	0.5578858913022596
+harry truman	truman	0.4421141086977403
+economy	economy subject	0.4834136986177057
+economy	fuel economy	0.5522681904177638
+economy	economic	1.0
+formula	mathematical formula	0.5
+strategy	military strategy	0.5956141834399917
+dean	howard dean	0.5578858913022596
+dean	steinberg dean	0.3678794411714423
+flavor	variety flavor	0.6962776933382736
+theater	warner theater	0.5
+theater	home theater	0.6836408181204355
+union	political union	0.5956141834399917
+union	european union	0.5
+pain	physical pain	0.6257415019191551
+first time	first class	0.4006790966592872
+first time	first	0.6257622088838719
+columbus ohio	columbus	0.6666666666666666
+interstate	interstate highway system	0.4568876526410577
+horse	horse race	0.5810382621965611
+report	credit report	0.6543128759565947
+guitar	lead guitar	0.6666666666666666
+season	last season	0.5508231047523733
+next season	season	0.5206212286759118
+disease	heart disease	0.4781648028770922
+final	final call	0.4627564263195184
+final	nba final	0.5637054741273227
+oak hill	oak	0.6069119518459338
+robbery	street robbery	0.7113975059201018
+knowledge	nutritional knowledge	0.4421141086977403
+israel	israel radio	0.6543128759565947
+israel	israeli	0.027777777777777776
+israel	lebanon	0.027777777777777776
+israel	syria	0.027777777777777776
+israel	isreal	0.027777777777777776
+israel	yisrael	0.027777777777777776
+post	washington post	0.5767173575091714
+post	new york post	0.4536991402480482
+trip	road trip	0.5637914160289369
+trip	power trip	0.6714559000758995
+north american	north	0.6309637647321795
+vhs	vhs videotape	0.4056838710822129
+vhs	vhs video	0.6828802379924107
+vhs	vhs tape	0.4627564263195184
+politician	career politician	0.5372435736804817
+performance	positive performance	0.5372435736804817
+performance	show performance	0.6962776933382736
+part	main part	0.4793787713240883
+great britain	little britain	0.5354173767188544
+britain	little britain	0.6714559000758995
+britain	great britain	0.7254784375772821
+britain	united kingdom	0.033833820809153176
+britain	british	1.033833820809153
+britain	kenya	0.033833820809153176
+britain	kenyan	0.033833820809153176
+buzz aldrin	buzz	0.5
+maintenance	care maintenance	0.5473191697130573
+hole	black hole	0.7245884476238132
+symptom	psychotic symptom	0.4421141086977403
+symptom	range symptom	0.5637914160289369
+fairfax	fairfax station	0.5
+station	fairfax station	0.5
+iowa city	iowa	0.6290554826788924
+western iowa	iowa	0.5355628517926954
+western iowa	iowa city	0.4070203893239852
+western iowa	iowa state	0.4070203893239852
+iowa state university	iowa	0.465193711014031
+iowa state university	iowa state	1.0
+guy	bad guy	0.6491498728360909
+guy	car guy	0.6614123848024371
+guy	ms	0.25
+shot	better shot	0.7113975059201018
+section	distinct section	0.4056838710822129
+section	main section	0.5268025545616608
+cost	additional cost	0.6131471927654584
+low cost	additional cost	0.4478300907042647
+low cost	cost	0.6241963505817849
+congress	continental congress	0.5372435736804817
+congress	republican congress	0.583970804646981
+course	different course	0.7739393628276459
+fire	fire water	0.5444165400074104
+element	interactive element	0.5372435736804817
+element	fire element	0.6000000000000001
+surgery	heart surgery	0.6131471927654584
+dc	washington dc area	0.5193430168184585
+blood pressure	blood	0.5419766203817946
+surprise	ice surprise	0.5637914160289369
+surprise	big surprise	0.6934190226946438
+potter	harry potter	0.4421141086977403
+cloud	saint cloud	0.5637914160289369
+oklahoma	oklahoma city	0.7624608115505945
+atlanta	atlanta hawk	0.5
+steel	aluminum steel	0.4526808302869429
+single mother	mother	0.6418955364979172
+youtube com	youtube	0.6857972507265685
+france	king france	0.6131471927654584
+france	garden france	0.5
+france	greece	0.027777777777777776
+france	charle	0.0013829741213295535
+al gore	gore	0.6199062332840657
+archive	story archive	0.6199062332840657
+experience	political experience	0.5150421314871548
+experience	experience age	0.5214852113854901
+experience	human experience	0.5423193107220672
+experience	christian experience	0.5
+experience	cultural experience	0.43917639509792017
+experience	time experience	0.6077529013740662
+stage	film stage television	0.4908661782120468
+stage	committee stage	0.6714559000758995
+kyoto	kyoto protocol	0.5578858913022596
+chuck knoblauch	knoblauch	0.5
+chuck knoblauch	chuck	0.5
+origin	food plant origin	0.4692787260227565
+fantasy	fantasy world	0.7316756633516291
+national basketball association	basketball	0.4914903540149442
+national basketball association	nba	0.25
+chamber	elimination chamber	0.5372435736804817
+nomination	academy award nomination	0.4355868559546088
+result	mixed result	0.5
+mexico	mexico city policy	0.4839672981298784
+mexico	gulf mexico	0.5268025545616608
+mexico	spain	0.015037253692956963
+mexico	mexican	0.1111111111111111
+new mexico	mexico city policy	0.40960516081907095
+new mexico	gulf mexico	0.43987665181506574
+new mexico	mexico	0.7272091672142686
+new mexico	udall	1.0
+idea	unconventional idea	0.4000000000000001
+porter	terry porter	0.5
+muslim	muslim student	0.6418955364979172
+muslim	islamic	0.25
+cool	cool place	0.6491498728360909
+speech	long speech	0.6934264036172707
+john lennon	lennon	0.6836408181204355
+yale law school	yale	0.5678263061691009
+macs	big macs	0.7405326749633551
+nbc	nbc protection	0.6199062332840657
+pope	catholic pope	0.5578858913022596
+detroit	metro detroit	0.6199062332840657
+director	director central intelligence	0.4671231477731208
+labour	labour party	0.6769924925288455
+story	news story	0.6363573739615787
+stock	stock well	0.5
+stock	stock position	0.6418955364979172
+toshiba	toshiba direct com	0.4671231477731207
+piano	grand piano	0.6199062332840657
+kosovo	bosnia kosovo	0.5
+kosovo	kosovo metohija	0.25
+kosovo	kossovo	0.25
+robert rubin	rubin	0.6769924925288455
+farmer	farmer market	0.6666666666666666
+winter	winter park	0.7060702520912806
+oxford	oxford county	0.7897693177140788
+copyright	copyright law	0.7113975059201018
+image	vector image	0.4731974454383394
+image	image quality	0.6330468657882854
+rep	democratic rep	0.6391511932854698
+los angeles clippers	los angeles time	0.5150665574770191
+los angeles	los angeles time	0.827123088019218
+los angeles	los angeles clippers	0.5772049881597967
+los angeles	los angeles today	0.7909408961766208
+sense	common sense	0.5
+photo	photo gallery	0.41602919535301897
+photo	photo album	0.4793787713240883
+photo	music photo	0.5928311641538279
+pride	false pride	0.5
+driver	driver seat	0.4056838710822129
+driver	delivery driver	0.5473191697130573
+driver	important driver	0.5885919100677789
+seat	driver seat	0.5943161289177871
+eye	sasuke eye	0.5
+mobile	mobile professional	0.6199062332840657
+mobile	voicestream	0.04087549346349359
+mobile	voicestream wireless	0.04087549346349359
+mobile	mobile usa	0.04087549346349359
+mobile	mobile international	0.3678794411714423
+monday	washington monday	0.6714559000758995
+monday	monday evening	0.5
+snow	snow clear	0.5943161289177871
+percent	percent victim	0.4526808302869429
+percent	percent vote	0.5165863013822943
+percent	percent sale	0.5165863013822943
+percent	percent complaint	0.4526808302869429
+risk	significant risk factor	0.4098708128295603
+affair	veteran affair	0.4056838710822129
+affair	lewinsky affair	0.5
+marketing management	marketing	0.6144493051612967
+marketing management	internet marketing	0.4434693782408495
+brian skinner	skinner	0.5943161289177871
+kevin johnson	kevin martin	0.4040261292917642
+liberal	liberal democrat	0.5637914160289369
+patient	young patient	0.5637054741273227
+patient	cancer patient	0.5268025545616608
+liquid	liquid water	0.6069119518459338
+liquid	little liquid	0.6377303057306478
+arizona republic	arizona	0.5
+arizona state university	arizona	0.5023626284909148
+orlando magic	orlando	0.4627564263195184
+scandal	sex scandal	0.6418955364979172
+salt	salt lake city	0.5702369635814978
+powder	fine powder	0.5578858913022596
+jimmy buffett	jimmy	0.5
+jimmy buffett	buffett	0.5
+sofa bed	sofa	0.5637914160289369
+gut	gut health	0.7431147865896834
+big trouble	trouble	0.6608090761059482
+big trouble	serious trouble	0.4709983383952026
+big trouble	little trouble	0.4804556934013711
+guide	study guide	0.6199062332840657
+roll	rock roll	0.6934264036172707
+joe	joe kennedy	0.5303290195561404
+joe	samoa joe	0.3678794411714423
+joe	gerald	1.0
+nose	nose job	0.6857972507265685
+paul	saint paul	0.5
+paul	paul tarsus	0.04087549346349359
+paul	st paul	0.04087549346349359
+vietnam war	south vietnam	0.4706129793931832
+vietnam	south vietnam	0.6423320028298053
+vietnam	vietnam war	0.6377303057306478
+vietnam	viet nam	1.0
+heat	heat pressure	0.6769924925288455
+application	patent application	0.4056838710822129
+application	enterprise application	0.5268025545616608
+pentagon	pentagon news conference	0.5322829219580334
+weight	animal weight	0.4793787713240883
+weight	weight loss	0.5
+weight	weight management	0.5686165471914938
+beauty	natural beauty	0.5885919100677789
+beauty	real beauty	0.6272281775627487
+grammy	grammy award	0.5943161289177871
+award	grammy award	0.4056838710822129
+mathematics	simple mathematics	0.6199062332840657
+mathematics	math	1.0
+stroke	heart attack stroke	0.4930186504262691
+taliban	afghan taliban	0.4421141086977403
+augustus caesar	caesar	0.5
+augustus caesar	augustus	0.5
+augustus caesar	caesar augustus	0.1111111111111111
+faculty	student faculty	0.6418955364979172
+faculty	faculty member	0.5372435736804817
+unity	national unity	0.7576198183122898
+big hit	hit	0.6934190226946438
+big hit	thousand hit	0.4341252722405221
+fool	april fool day	0.41732035985524696
+discussion	panel discussion	0.4362085839710631
+discussion	good discussion	0.6773325211850345
+martin	kevin martin	0.4421141086977403
+address	union address	0.6199062332840657
+dee brown	dee	0.6199062332840657
+wale	england wale	0.5578858913022596
+effectiveness	development effectiveness	0.7162089270041655
+interest	item interest	0.4627564263195184
+quartet	krono quartet	0.5
+doctor	new doctor	0.7961407188941764
+gulf breeze	breeze	0.6199062332840657
+grace	grace god	0.6857972507265685
+magic	orlando magic	0.5372435736804817
+answer	easy answer	0.5943161289177871
+scene	scene election	0.4056838710822129
+scene	american political scene	0.4848404535871041
+threat	death threat	0.6144493051612967
+threat	serious threat	0.6211745993017164
+april	april fool day	0.41732035985524696
+pass christian	pass	0.6934264036172707
+death sentence	appropriate sentence	0.4737263018647918
+instruction	full instruction	0.6769924925288455
+american red cross	cross	0.5831969493379688
+google	google video	0.7593057666543161
+google	google analytic	0.0018769359243440934
+google	google finance	0.005102040816326529
+google	google group	0.005102040816326529
+google	google checkout	0.005102040816326529
+google	google trend	0.005102040816326529
+google	america online	0.005102040816326529
+google	google adword	0.0018769359243440934
+google	google health	0.005102040816326529
+google	google moon	0.005102040816326529
+google	google adsense	0.0018769359243440934
+google	inktomi	0.005102040816326529
+google	schmidt	0.005102040816326529
+google	google mail	0.0006904861389623097
+championship	world championship	0.6836408181204355
+neil armstrong	armstrong	0.5
+retirement community	retirement	0.7001245250427999
+ford	ford truck	0.4056838710822129
+ford	henry ford	0.3678794411714423
+ford	ford motor company	0.09196986029286057
+ford	ford motor co	0.09196986029286057
+drink	drink water	0.6934264036172707
+discount	deep discount	0.5
+madison	president madison	0.7609175985614539
+mark twain	twain	0.6543128759565947
+illinois	illinois state university	0.6221304665186123
+earl	earl warren	0.6199062332840657
+majority leader	majority	0.583970804646981
+majority leader	majority vote	0.420330364042147
+john mccain	juan mccain	1.0
+john mccain	obama	3.647527862218065e-05
+john mccain	john sidney mccain iii	0.040000000000000015
+john mccain	pawlenty	0.014715177646857697
+john mccain	new hampshire	0.040000000000000015
+john mccain	mccain	1.000732625555549
+syria	israeli	0.027777777777777776
+syria	lebanon	0.027777777777777776
+al qaeda	al quaeda	0.25
+al qaeda	al qaida	0.25
+soviet union	khruschev	0.040000000000000015
+soviet union	ahmedinejad	0.1111111111111111
+soviet union	persia	0.1111111111111111
+iran	khruschev	0.040000000000000015
+iran	soviet union	0.040000000000000015
+iran	soviet	0.040000000000000015
+iran	ussr	0.040000000000000015
+iran	khrushchev	0.040000000000000015
+tennessee	tennesee	1.0
+tennessee	nashville	1.0
+afghanistan	afganistan	1.0
+afghanistan	tajikistan	0.1111111111111111
+afghanistan	afghani	0.1111111111111111
+cuba	cuban	1.0
+news corp	newscorp	1.0
+news corp	news corporation	1.0
+bin laden	bin ladin	1.0
+bin laden	osama	0.25
+bin laden	osama bin ladin	1.25
+ny	rent	0.0625
+ny	new york	0.0625
+ny	new york state	0.0625
+ny	new york magazine	0.0625
+condoleezza rice	condoleeza rice	0.25
+condoleezza rice	condolezza rice	0.25
+condoleezza rice	condi	0.0625
+condoleezza rice	condi rice	0.0625
+condoleezza rice	condoleezza	0.0625
+rwanda	rwandan	0.25
+uganda	rwandan	0.25
+uganda	rwanda	0.25
+pennsylvania	pa	1.0
+cnn	cable news network	1.0
+aceh	acheh	1.0
+wto	world trade organization	1.0
+nigeria	nigerians	0.25
+nigeria	nigerian	0.25
+new hampshire	nh	1.0
+new hampshire	obama	3.647527862218065e-05
+new hampshire	john sidney mccain iii	0.040000000000000015
+new hampshire	pawlenty	0.014715177646857697
+walmart	wal mart	1.0
+mississippi	mississipi	1.0
+disneyland	disney land	1.0
+milan	milano	1.0
+somalia	somali	1.0
+msm	pbs	0.25
+msm	dmso	0.25
+shaq	neal	1.0
+red sox	sox	1.0
+mankind	humankind	1.0
+greece	sadc	1.0
+island	icelandic	0.25
+island	iceland	0.25
+rudy giuliani	giuliani	0.09196986029286057
+yale	yale university	1.0
+peru	spain	0.1353352832366127
+edward	obama	2.8374956101553034e-06
+edward	senator	0.0031116917729914965
+edward	kerry	0.00042112168744284174
+edward	blackbeard	0.04978706836786394
+barack	barrack obama	0.040000000000000015
+barack	barack hussein obama ii	0.040000000000000015
+barack	obama	3.647527862218065e-05
+barack	barack hussein obama	0.040000000000000015
+barack	mccain	0.0007326255555493672
+romney	obama	4.823742537264016e-05
+romney	blagojevich	0.0011447274305458866
+romney	jindal	0.0011447274305458866
+romney	mitt	0.012446767091965986
+romney	massachusett	0.04978706836786394
+america	usa	0.006944444444444444
+america	american	1.0069444444444444
+america	bush	0.00012719193672732068
+america	davis	0.002554718341468349
+george bush	bush	0.0007326255555493672
+george bush	dubya bush	0.040000000000000015
+clay	kennedy	0.001991482734714558
+clay	john fitzgerald kennedy	0.040000000000000015
+clay	joseph kennedy	0.040000000000000015
+hillary	hillary rodham clinton	0.040000000000000015
+hillary	hillary clinton	0.040000000000000015
+hillary	hillary rodham	0.040000000000000015
+hillary	hillary diane rodham	0.040000000000000015
+hillary	clinton	0.005413411329464509
+john edwards	edward	0.04978706836786394
+africa	eastern africa	0.09196986029286057
+africa	east africa	0.09196986029286057
+sweden	swedish	1.0
+islam	islaam	0.25
+islam	islamic	0.25
+broadway	broadway show	1.0
+asia	ahmedinejad	0.04087549346349359
+asia	persia	0.04087549346349359
+asia	soviet union	0.04087549346349359
+microsoft	microsoft office powerpoint	0.015625
+thailand	siam	1.0
+thailand	thai	1.0
+turkey	cyprus	0.25
+japan	nihon	0.25
+japan	korea	0.25
+japan	japanese	1.0
+arafat	yasser arafat	1.0
+germany	lubitsch	0.1111111111111111
+germany	brandt	0.1111111111111111
+germany	german	1.1111111111111112
+jesus	christ jesus	0.25
+jesus	jesus christ	0.25
+singapore	singaporean	0.3678794411714423
+singapore	singapore airline limit	0.09196986029286057
+brooklyn	king county	1.0
+truman	harry truman	1.0
+ronald reagan	ronald	0.1111111111111111
+john	malkovich	0.018315638888734182
+john	macdonald	0.018315638888734182
+john	john wesley	0.0016844867497713668
+john	charle wesley	0.0045789097221835455
+john	john graham	0.018315638888734182
+john	john abraham	0.018315638888734182
+virginia	west virginia	2.0
+mumbai	bombay	2.0
+coulter	ann coulter	1.0
+gore	al gore	1.726848
+gore	montenegrin	1.0
+florida	fl	2.0
+audi	porsche	0.25
+audi	audi ag	0.926992
+jackson	andrew jackson	0.1353352832366127
+jackson	general	0.008458455202288294
+jackson	pinochet	0.008458455202288294
+jackson	lee	0.0011447274305458866
+jackson	stonewall jackson	0.1353352832366127
+poland	polish	2.0
+morgan	morgan freeman	0.1353352832366127
+morgan	matt morgan	0.1353352832366127
+christianity	circumcision	0.25
+judaism	circumcision	0.033833820809153176
+judaism	christianity	0.033833820809153176
+judaism	zionism	0.1353352832366127
+princeton university	princeton	1.0
+saddam hussein	saddam	0.1111111111111111
+army	marine	0.3678794411714423
+marine	united states marine	0.3678794411714423
+beijing	bej	0.25
+protestant	protestantism	0.25
+protestant	protestant christianity	0.25
+shell	royal dutch shell	0.25
+shell	royal dutch shell plc	0.25
+martin luther king	martin luther	0.09196986029286057
+martin luther king	luther	0.09196986029286057
+martin luther king	martin luther king junior	0.04087549346349359
+martin luther king	king	0.04087549346349359
+martin luther king	martin luther king jr	0.04087549346349359
+king	martin luther king junior	0.1111111111111111
+king	emperor	1.0
+queen	alix	0.25
+queen	rabat	0.25
+fidel castro	castro	2.0
+hamilcar barca	hannibal	0.25
+nashville	music city	1.0
+michael	collin powell	0.006737946999085467
+michael	dukakis	0.018315638888734182
+michael	arrington	0.002035070987637131
+michael	michael arrington	0.002035070987637131
+michael	mike	0.25
+michael	jon	0.25
+presbyterian	presbyterianism	1.0
+nasa	national aeronautic space administration	1.0
+jews	judism	0.1111111111111111
+jews	jewish	0.1111111111111111
+jew	judism	0.1111111111111111
+jew	jewish	0.1111111111111111
+jew	jews	0.1111111111111111
+carter	collazo	0.25
+steve nash	nash	1.0
+steve	steve jobs	0.25
+steve	job	0.25
+abram	abraham	0.25
+abram	avraham	0.25
+italy	italian	1.0
+world	webkinz	1.0
+world	corporation	0.1111111111111111
+world	company	0.1111111111111111
+world	urban	0.1111111111111111
+sarah palin	bristol palin	0.25
+sarah palin	palin	0.25
+augustus	caesar augustus	0.1111111111111111
+augustus	augustus caesar	0.1111111111111111
+augustus	octavian	0.04087549346349359
+dylan	robert allen zimmerman	0.1111111111111111
+dylan	bob dylan	0.1111111111111111
+dylan	robert zimmerman	0.1111111111111111
+rupert murdoch	murdoch	0.807886
+rupert murdoch	rupert	0.692114
+monica	monica keena	1.0
+philly	philadelphia	1.0919698602928607
+ross	rick ross	0.1353352832366127
+ross	ross mayfield	0.033833820809153176
+mckinley	william mckinley	1.0
+san diego	seaworld san diego	1.0
+yahoo	yahoo inc	0.25
+yahoo	yahoo answer	0.25
+elvis	elvis presley	0.25
+elvis	presley	0.25
+toyota	toyota motor corporation	1.0
+darwin	charles darwin	0.1111111111111111
+darwin	charle robert darwin	0.1111111111111111
+darwin	erasmus darwin	0.1111111111111111
+ireland	irish	1.0
+ireland	argentina	1.0
+guam	guamanian	1.0
+rochester	xerox	0.25
+dutch	netherlands	1.0
+mac	medium access control	0.3678794411714423
+george washington university	george washington university hospital	1.0
+robin	robin william	1.0
+mcgovern	george mcgovern	1.0
+nuance	nuance communication	0.25
+nuance	scansoft	0.25
+scully	dana scully	1.6391509999999998
+saigon	chi minh city	1.0
+congo	drc	1.0
+congo	pyongyang	1.0
+company	weyerhaeuser	1.0
+company	corporation	0.1111111111111111
+crm	customer relationship management	1.0
+basic	prime	0.014715177646857697
+basic	main	0.014715177646857697
+basic	human	0.014715177646857697
+russia	russian	0.25
+russia	spanish	0.25
+purple	eva	0.3678794411714423
+ariel sharon	sharon	1.0
+stevenson	stephenson	1.0
+cambridge	cambridge university	1.0
+antioch	antioquia	1.0
+view	vista	1.0
+area	field	0.25
+area	region	0.25
+prison	jail	1.0
+road	time	0.25
+case	time	0.25
+case	road	0.25
+party	section	0.1111111111111111
+party	chapter	0.1111111111111111
+party	connection	0.1111111111111111
+barak	ehud olmert	0.25
+barak	olmert	0.25
+university	league	0.3678794411714423
+bank	economic	0.3678794411714423
+new delhi	delhi	1.0
+earthquake	quake	1.0
+dad	father	1.0
+alberta	ab	1.0
+philip	phillip	1.0
+british columbia	columbia	1.0
+paracetamol	acetaminophen	1.0
+cat	pussy	1.0
+netherlands	holland	1.0
+burnett	erin burnett	0.5
+sister souljah	souljah	0.557886
+ww	ww ii	0.724059
+judy	judy garland	0.442114
+amazon	amazon ec	0.5
+cr	paxil cr	0.5
+duluth	duluth minnesota	0.5
+hebrew	hebrew language	0.731676
+hong kong	hong kong island	1.672554

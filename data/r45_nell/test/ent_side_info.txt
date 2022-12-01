@@ -1,0 +1,2548 @@
+2547
+bill	bill gates	0.6556838710822129
+bill	clinton	0.09196986029286057
+bill	gate	0.09196986029286057
+gate	bill gates	0.25
+gate	bill	0.25
+gate	clinton	0.033833820809153176
+gate	robert gate	0.6769924925288455
+gate	door	1.0
+warren buffett	buffett	1.5
+warren buffett	warren	0.5
+warren buffett	warren buffet	1.0
+wallace	alfr wallace	0.25
+wallace	president	0.04087549346349359
+wallace	william wallace	0.3678794411714423
+wallace	alabama	0.3678794411714423
+phoenix	phoenix arizona	0.5608236049020797
+tesla	tesla roadster	0.5
+chapman	tracy chapman	0.5
+bill clinton	clinton	0.09196986029286057
+bill clinton	george clinton	0.0625
+john kerry	year	1.0
+john kerry	kerry	0.06223383545982994
+barack obama	obama	1.4362945258726774
+barack obama	senator barack obama	1.327716837653583
+barack obama	barack	0.5637054741273227
+barack obama	barak obama	0.1111111111111111
+barack obama	barrak obama	0.1111111111111111
+barack obama	barrack obama	0.1111111111111111
+warren	california	0.3678794411714423
+warren	earl warren	0.3678794411714423
+warren	warren county	0.6972813648390579
+warren	warren hard	0.5206212286759118
+warren	warren sapp	1.0
+india	indiana	1.0
+india	nepal	0.25
+india	indian	0.09196986029286057
+democrat	democracy	1.0
+democrat	democrat party	0.5623818557528477
+democrat	liberal democrat	0.4362085839710631
+democrat	new democrat	0.7054102301100573
+malaysia	malaysian	1.0
+united states	usa	0.25
+united states	supreme court united states	0.47024264599064497
+united states	united states supreme court	0.47024264599064497
+united states	united states senate	0.6172239290207081
+united states	american	0.006944444444444444
+united states	bush	0.00012719193672732068
+united states	davis	0.002554718341468349
+united states	america	0.006944444444444444
+united states	state	0.002554718341468349
+united states	geithner	0.002554718341468349
+united states	national public radio	0.006944444444444444
+united states	united states america	0.006944444444444444
+united states	darrell	0.006944444444444444
+united states	mitchell	0.006944444444444444
+united states	procter	0.006944444444444444
+united states	president united states	0.612771
+american	usa	0.25
+american	united states	0.25
+american	american person	0.4889204576404361
+richard nixon	nixon	1.4731974454383394
+richard nixon	president richard nixon	1.6096753915896804
+richard nixon	richard milhous nixon	0.25
+dwight eisenhower	eisenhower	1.0
+dwight eisenhower	bush	0.00013750912243031566
+dwight eisenhower	obama	6.846176079643099e-06
+dwight eisenhower	liberium	0.0075077436973763735
+dwight eisenhower	kennedy	0.0003737885487496772
+dwight eisenhower	polk	0.002761944555849239
+dwight eisenhower	chavez	0.002761944555849239
+german	germany	1.0
+german	german development policy	0.5517149181138856
+german	lubitsch	0.1111111111111111
+german	brandt	0.1111111111111111
+constantine	gaul	0.25
+constantine	constantine ii	0.768039
+princeton	princeton university	1.7281704568659972
+murdoch	rupert murdoch	1.0
+peel	john peel	1.0
+united kingdom	uk	1.0
+united kingdom	kingdom god	0.4880554577748072
+james monroe	monroe	1.0
+iowa state	iowa state university	1.739511416438117
+iowa state	iowa	0.6290554826788924
+iowa state	iowa city	0.4588482427488004
+mark david chapman	mark chapman	1.0
+bbc radio	bbc	0.6543128759565947
+new york	governor new york	1.0184150530645095
+new york	rent	0.0625
+new york city	governor new york	0.8151403697314326
+new york city	new york	0.6712628989605324
+new york city	giuliani	0.09196986029286057
+new york state	governor new york	0.8151403697314324
+new york state	new york	0.6712628989605323
+new york state	new york city	0.5051886475025082
+new york state	new york post	0.43099315369839775
+new york state	york	0.4010714306612661
+new york state	rent	0.0625
+new york time	governor new york	0.8290567039648225
+new york time	new york	0.6903482015957487
+new york time	new york city	0.5159230209048417
+new york time	new york post	0.4387817124297437
+new york time	new york state	1.031846041809683
+new york time	new york area	0.502021451535879
+new york time	york	0.4124746672238153
+new york time	nyt	1.0
+new	new medium	0.40251214348009495
+new	new format	0.4150688424320549
+new	new home	0.41115199693539184
+new	new york	0.40251214348009495
+school	public school	0.43685962428970004
+school	school child	0.4921707156843741
+american history	american political history	1.296480788174414
+american history	american	0.4027880498328803
+american history	history	0.5972119501671197
+senator	senator obama	0.5371566952531242
+senator	senate	1.0
+senator	obama	5.699262284715727e-05
+senator	congressman	1.0
+hillary clinton	hillary	0.5772049881597967
+hillary clinton	hillary rodham clinton	0.040000000000000015
+clinton	hillary clinton	0.42279501184020335
+clinton	clinton county	0.6525775038378121
+clinton	port clinton	0.4491768952476266
+clinton	bush	5.058677911563996e-05
+clinton	obama	2.5185674303403985e-06
+clinton	liberium	0.0027619445558492387
+clinton	kennedy	0.00013750912243031566
+clinton	polk	0.0010160626197523253
+clinton	chavez	0.0010160626197523253
+clinton	dwight eisenhower	0.0010160626197523253
+clinton	george clinton	0.008458455202288294
+clinton	bill clinton	0.008458455202288294
+clinton	hillary rodham clinton	0.005413411329464509
+clinton	hillary rodham	0.005413411329464509
+clinton	hillary diane rodham	0.005413411329464509
+variety	variety color	0.4201307776703473
+variety	variety way	0.4713171552447334
+variety	variety size	0.4762968113995593
+variety	variety shape	0.44662161478616014
+variety	variety person	0.5169581267019316
+faith	faith prayer	0.5372435736804817
+faith	variety faith	0.6962776933382736
+time	big time	0.4488484090340588
+time	more time	1.0
+time	time magazine	1.0
+person	real person	0.4432706588520428
+person	person life	0.4796760209835421
+person	american person	0.5110795423595639
+person	person food	0.449090505498313
+person	black person	0.4594039569116257
+person	person health	0.4830418732980683
+person	lot person	0.4036944086183503
+person	person person	1.0
+person	person identity	0.4221649220793326
+person	variety person	0.4830418732980683
+person	different person	0.5251314405661175
+park	forest park	0.40438581656000827
+park	park city	0.5719580745360133
+game	good game	0.5756537606261609
+game	video game	0.5555555555555556
+game	internet game	0.4805491444109881
+council	council chamber	0.4362085839710631
+time warner	warner brother	0.4237175646994204
+time warner	warner theater	0.4237175646994204
+time warner	time warner inc	0.09196986029286057
+time warner	aol time warner	0.033833820809153176
+state	washington state	0.44550364577299534
+state	small state	0.44550364577299534
+state	usa	0.002554718341468349
+state	american	0.002554718341468349
+state	bush	4.679129860476018e-05
+state	davis	0.0009398283558098103
+state	america	0.002554718341468349
+ohio state	ohio state buckeye	0.44798434181397984
+ohio state	ohio	0.6161104380912025
+minute	few minute	1.0
+rock music	music	0.467252836089503
+rock music	just rock	0.5327471639104969
+rock music	rock county	0.4033635528477264
+rock music	rock	0.5327471639104969
+little rock	little	0.467252836089503
+little rock	just rock	0.5327471639104969
+online	purchase online	0.4793787713240883
+online	online consumer	0.5
+online	online delivery	0.5
+online	available online	0.41602919535301897
+online	online life	0.6170526867602943
+usa	usa canada	0.5
+usa	usa today	0.6295171572499421
+usa	usa president	0.6611821114879037
+news	bad news	0.4499560998085411
+news	fox news	0.4120270845916477
+news	news world	0.4886024482528176
+news	good news	0.545362739718319
+fox news	fox news sunday	0.581048110091764
+fox news	fox news channel	1.0
+korea	south korea	0.7245884476238132
+korea	nihon	0.25
+korea	korean	0.25
+toronto	downtown toronto	0.5943161289177871
+drive	sex drive	0.5810382621965611
+drive	dvd drive	0.6173196815056889
+open	open standard	0.5307212739772436
+open	open source	0.4491768952476266
+open	open format	0.5808220864105899
+open source software	open source	0.6781412582540604
+open source	different source	0.4363297581770562
+george	george bush	0.5177399863803424
+george	bush	9.915008706665435e-05
+george	dubya bush	0.005413411329464509
+george	george lucas	0.1353352832366127
+bush	george bush	0.4822600136196577
+bush	laura bush	0.0045789097221835455
+bush	laura	0.0045789097221835455
+bush	usa	0.00012719193672732068
+bush	american	0.00012719193672732068
+national security	economic security	0.4079610817523328
+national security	security reason	0.40056380988335416
+national security	security	0.6098131872025693
+good	good use	0.418603403561529
+good	good team	0.4390989341229843
+good	good president	0.4817647275144417
+good	good condition	0.4054519053566238
+good	good car	0.418603403561529
+industry	insurance industry	0.4731974454383394
+united nations	model united nations	1.1572255917122218
+generation	power generation	0.6377303057306478
+generation	future generation	0.4627564263195184
+team	better team	0.4790898513446606
+team	team year	0.5222637374876672
+team	good team	0.5609010658770157
+team	lot team	0.438836388270265
+team	different team	0.5609010658770157
+team	nba team	0.4139114242568716
+team	national team	0.538375314789521
+team	crew	1.0
+michigan	michigan today	0.6295171572499421
+michigan	michigan primary	0.5371566952531242
+michigan	lake michigan	1.0
+columbia	british columbia	0.4362085839710631
+columbia university	columbia	0.6745410412554547
+power	power dvd	0.5049932352556836
+power	loss power	0.40716883584617214
+power	power control	0.42328264249082864
+economic	economic security	0.44793098788151786
+economic	economic issue	0.5209101486553394
+economic	business	0.09196986029286057
+windows vista	windows xp vista	0.5977667994500598
+windows vista	vista	0.1111111111111111
+vista	windows vista	0.4793787713240883
+monica lewinsky	monica	0.5
+monica lewinsky	monica lewinsky scandal	0.632718363759129
+santa monica	monica	0.5268025545616608
+language	hall language	0.4543210299999297
+language	language development	0.5123374100361525
+language	european language	0.40438581656000827
+language	foreign language	0.4406998069513341
+daily show	daily show tonight	1.2199053372688933
+daily show	daily news	0.4683324263402036
+world series	world	0.4097281427954464
+third world	world	0.4097281427954464
+third world	third	0.5902718572045536
+world war ii	world war ii veteran	1.2147529010899063
+war	board war	0.42328264249082864
+war	war department	0.4367859442201452
+war	violence war	0.40716883584617214
+war	world war	0.5139406798552708
+supreme court	supreme court united states	0.529757354009355
+court	supreme court	0.42311627853398337
+court	court law	0.4747814653056943
+court	family court	0.49105006341249896
+court	local court	0.4097281427954464
+court	court house	0.5238497412802338
+criminal law	law	0.4343488518418743
+white	white vote	0.4406998069513341
+white	green white	0.4406998069513341
+white	white house	0.5553320341307706
+white	black white	0.5227251696606903
+white	white black	0.5227251696606903
+white	obama	2.0966414243906987e-05
+white	blagojevich	0.008458455202288294
+white	jindal	0.008458455202288294
+white	romney	0.0011447274305458866
+white	asia	0.033833820809153176
+white	black	0.09196986029286057
+white house	white house news conference	0.4603650099146953
+palm bay	bay area	0.4024835428628156
+fox tv	tv	0.4781648028770922
+fox tv	fox	0.5218351971229078
+fox tv	fox television	0.0625
+fox tv	fox broadcasting	0.0625
+fox tv	fox broadcasting company	0.0625
+obama	senator obama	0.46284330474687607
+obama	barrack obama	3.647527862218065e-05
+obama	barack hussein obama ii	3.647527862218065e-05
+obama	bush	3.408510365356256e-07
+chicago	chicago area	0.6638243993087611
+georgetown university	georgetown	0.7717019533049274
+city	central city	0.4047589021805678
+city	valley city	0.4047589021805678
+city	city service	0.4550348032642991
+city	lake city	0.4133748472150225
+city	national city	0.4933643171486389
+city	david city	0.4133748472150225
+city	texas city	0.4133748472150225
+salt lake city	lake city	0.4297630364185022
+panama city	panama city beach	0.789172247207473
+park city	city	0.4280419254639868
+face	naruto face	0.5268025545616608
+black	black woman	0.4772748303393097
+black	black line	0.4622842690781805
+black	black right	0.4772748303393097
+black	black case	0.4837167010517216
+black	black person	0.5405960430883743
+black	black american	0.551582780684426
+black	black white	0.4772748303393097
+black	asia	0.09196986029286057
+black	negro	1.0
+business	small business	0.5177399863803424
+international business	business	0.4406998069513341
+fight club	club	0.4731974454383394
+fight club	fight	0.5268025545616608
+fight club	good fight	0.4298949237864469
+education	high quality education	0.4231272690313577
+college	university college	0.562326416658908
+college	college student	0.4622842690781805
+college	numerous college	0.4023566422499772
+college	university	0.3678794411714423
+long	long life	0.5578773277640701
+long	long term	0.5
+unit	arbitrary unit	0.4056838710822129
+woman	black woman	0.5227251696606903
+woman	strong woman	0.4760607180717438
+field	right field	0.5150421314871548
+continental army	army	0.42279501184020335
+south america	south	0.4434053967922576
+south america	america	0.5565946032077425
+south carolina	university south carolina	0.7822384924756188
+south carolina	carolina	0.6423320028298053
+major league baseball	baseball	0.4478300907042647
+texas	texas be university	0.599110239230732
+texas	south texas	0.5377157309218195
+texas	texas county	0.624184629723683
+texas	guatemala city	0.25
+book	new book	0.6613237372418383
+book	numerous book	0.4696709804438596
+book	history book	0.5218351971229078
+mountain view	view	0.5
+david bowie	sam bowie	0.40948127544017626
+david bowie	bowie	1.0
+philosophy	philosophy department	0.6666666666666666
+west	west point	0.5064514198649092
+west	west london	0.5064514198649092
+west virginia	west	0.4543210299999297
+west virginia	virginia	0.5456789700000703
+west virginia	state virginia	0.4072216757009052
+cd	audio cd	0.5307212739772436
+cd	cd dvd	0.5681212831057169
+cd	cd player	0.5578858913022596
+cd	cd disc	0.5117072191244584
+mass	mass volume	0.4731974454383394
+mass	western mass	0.5723372020956963
+mass	mass communication	0.5206212286759118
+mass	volume mass	0.4731974454383394
+door	closed door	0.5
+olympic	beijing olympic	0.4731974454383394
+olympic	olympic game	1.0
+st	wall st	0.4313834528085063
+south asia	asia	0.6758469512137554
+man	great man	0.5958494814980366
+man	man woman	0.5150421314871548
+man	woman man	0.5150421314871548
+young man	man	0.4555834599925897
+young man	young person	0.4084610286904154
+land	land use	0.5656511481581256
+land	earth	0.3678794411714423
+earth	earth science	0.5
+earth	lans	0.04087549346349359
+fox	century fox	0.42279501184020335
+fox	fox news	0.5879729154083523
+fox	fox television	0.0625
+fox	fox broadcasting	0.0625
+fox	fox broadcasting company	0.0625
+national	national city	0.5066356828513611
+national	washington national	0.4520699987358187
+valley	valley city	0.5952410978194321
+universal	universal studio	0.4526808302869429
+studio	universal studio	0.5473191697130573
+studio	studio quality	0.657601396626028
+serbia	wikiproject serbia	0.4421141086977403
+serbia	greater serbia	0.613147
+serbia	kosovo serb	0.5
+bible	god bible	0.6336614981727328
+nba	nba team	0.5860885757431284
+nba	nba title	0.4362945258726773
+secret	top secret	0.5623818557528477
+secret	secret key	0.4731974454383394
+summer	spring summer	0.5810382621965611
+summer	lawrence summer	0.25
+boston	new boston	0.7557945245809385
+air force	force	0.4526808302869429
+air force	eighth air force	1.0
+job	job growth	0.4898616553642111
+job	job creation	0.4276627979043037
+job	great job	0.6044028185186798
+job	good job	0.6106741133967889
+job	steve jobs	0.25
+health care	care	0.6202334448725115
+pasadena	pasadena city college	0.5911435175362871
+england	bank england	0.5372435736804817
+substance abuse	abuse	0.43917639509792017
+substance abuse	drug abuse	1.0
+glass	glass house	0.6287668703841153
+glass	glass plastic	0.41602919535301897
+cancer	cancer patient	0.4731974454383394
+christian	christian experience	0.5
+east	east lake	0.5
+middle east	east	0.43917639509792017
+god	family god	0.546563125712008
+god	god mode	0.4644371482073046
+god	word god	0.5
+god	church god	0.4898616553642111
+square	square shape	0.7001245250427999
+song	real song	0.6272281775627487
+song	song file	0.5772049881597967
+bird	beautiful bird	0.6666666666666666
+linux	window linux	0.5578858913022596
+french	french english	0.5508231047523733
+french	greece	0.027777777777777776
+french	charle	0.0013829741213295535
+french	france	0.027777777777777776
+french	frankreich	0.027777777777777776
+french	sarkozy	0.010218873365873396
+pal	ntsc pal	0.5165863013822943
+pal	pal format	0.6100718494403359
+pal	pal system	0.5875997426017788
+father	father brown	0.6199062332840657
+spanish	english spanish	0.5508231047523733
+spanish	spanish version	0.4731974454383394
+spanish	russian	0.25
+ed	board ed	0.6543128759565947
+food	food network	0.4637661145648082
+food	person food	0.5509094945016869
+food	plant food	0.4421141086977403
+food	food production	0.4124002573982212
+marshall	marshall county	0.7485603922814517
+nixon	president nixon	0.6611821114879037
+operation	operation manager	0.4362085839710631
+rock	just rock	1.0
+rock	little rock	0.5327471639104969
+rock	rock county	0.624184629723683
+rock	rock spring	0.5
+rock	peter	0.04087549346349359
+rock	pierre	0.04087549346349359
+physics	physics project	0.6543128759565947
+physics	real	1.0
+missouri	university missouri	0.7281704568659972
+abraham lincoln	abraham	0.5578858913022596
+abraham lincoln	lincoln	0.25
+abraham lincoln	abe lincoln	0.25
+tony blair	uk prime minister tony blair	0.4269734192847844
+tony blair	leo blair	0.25
+tony blair	blair	1.0
+cook	good cook	0.7306856049356902
+page	order page	0.5887355477484346
+page	top page	0.5623818557528477
+page	page decision	0.5
+dog	dog food	0.632718363759129
+dog	dog training	0.5473191697130573
+thomas	james thomas	0.5371566952531242
+thomas	thomas edison	0.4731974454383394
+thomas	josh	1.0
+edison	thomas edison	0.5268025545616608
+pound	pound pressure	0.6769924925288455
+new london	london university	0.4236551969095164
+new london	london area	0.4026917294589677
+new london	time london	0.4283495006733197
+london	london university	0.5782918882229398
+london	london area	0.5399248489947213
+london	time london	0.5870740281818044
+london	west london	0.4935485801350909
+london	new london	0.6130533014124209
+london	east london	0.47851478861451
+london	london time	0.5870740281818044
+sydney	sydney opera house	0.4704079121812942
+australia	australia lead university	0.4617060456337057
+australia	australian	2.0
+standard	open standard	0.4692787260227566
+place	last place	0.4613910805064984
+kerry	john kerry	0.6836408181204355
+kerry	obama	7.713112755417473e-06
+kerry	senator	0.008458455202288294
+rise	steady rise	0.4627564263195184
+rise	charlie rise	0.5
+neil	neil armstrong	0.5
+gray	shade gray	0.5578858913022596
+republican	republican party	0.5419766203817946
+republican	reye	0.027777777777777776
+republican	dreier	0.027777777777777776
+republican	grand old party	0.027777777777777776
+republican	flanagan	0.027777777777777776
+republican	gop	0.027777777777777776
+republican party	party	0.4580233796182054
+republican party	anthony weiner	0.754563
+republican party	david dreier	0.8296620000000001
+republican party	silvestre reye	0.429271
+republican party	grand old party	1.0
+mccain	republican john mccain	0.4597340124985972
+mccain	john mccain	0.6836408181204355
+mccain	barrack obama	0.0007326255555493672
+mccain	barack hussein obama ii	0.0007326255555493672
+mccain	obama	1.3361360632196526e-06
+mccain	barack hussein obama	0.0007326255555493672
+mccain	john sidney mccain iii	0.0007326255555493672
+mccain	pawlenty	0.0002695178799634187
+mccain	new hampshire	0.0007326255555493672
+paula	paula jone	0.5578858913022596
+paula	paula abdul	0.25
+ps	ps xbox	0.4421141086977403
+internet	internet communication	0.4313834528085063
+internet	internet time	0.6001698222511732
+internet	internet game	0.5194508555890119
+internet	internet video	0.5746835978386945
+internet	internet crime	0.4613910805064984
+internet	canada	0.25
+fat	fat tissue	0.4056838710822129
+fat	fat distribution	0.5772049881597967
+iraq	iraq war	0.6377303057306478
+canada	usa canada	0.5
+continental	continental congress	0.4627564263195184
+continental	continental army	0.5772049881597967
+continental	continental europe	0.5
+abc	abc debate	0.5
+abc	abc tv	1.0
+abc news	abc debate	0.4094787016099799
+abc news	abc	0.6934190226946438
+gb	gb space	0.5686165471914938
+gb	gb storage	0.5165863013822943
+gb	gb information	0.5928311641538279
+gb	gb datum	0.5608236049020797
+fall	iowa fall	0.5165863013822943
+fall	autumn	2.0
+government	government policy	0.5
+government	government house	0.5553320341307706
+government	county government	0.6099641510456766
+saint	saint loui	0.4731974454383394
+saint	san	1.0
+saint paul	saint	0.5
+loan	student loan bankruptcy	0.44750831328201207
+bankruptcy	bankruptcy reform	0.5372435736804817
+carnegie mellon	carnegie mellon university	0.8583371753018508
+austin	austin power	0.6714559000758995
+austin	apple tv	0.010218873365873396
+austin	apple	0.010218873365873396
+austin	apple corporation	0.010218873365873396
+austin	apple computer	0.010218873365873396
+austin	apple computer company	0.010218873365873396
+austin	apple inc	0.010218873365873396
+alan	alan moore	0.5
+alan	alan dershowitz	1.0
+film	family film	0.5162832989482784
+film	bad film	0.48643079313288895
+film	film short	0.4181191936861795
+film	quality film	0.5330217393544762
+film	great film	0.5749819251342624
+southern california	california	0.5165863013822943
+southern california	southern california area	0.7597030369155552
+catholic	catholic pope	0.4421141086977403
+catholic	roman catholic	0.1111111111111111
+lee	lee summit	0.5
+lee	general	0.008458455202288294
+lee	pinochet	0.008458455202288294
+larry king live	larry king tonight	0.4909319231753797
+larry king	larry king tonight	0.6585571286578871
+larry king	king	0.42279501184020335
+larry king	larry king live	0.6585571286578871
+kingdom	kingdom god	0.6336614981727328
+kingdom	united kingdom	0.6798938534903572
+kingdom	saudi arabia	0.0625
+charlotte	port charlotte	0.6199062332840657
+labor	cheaper labor	0.5
+labor	department labor	0.5637909999999999
+indiana	indiana supreme court	0.4776264989493663
+indiana	indiana house representative	0.4688157345740148
+cell	plant cell wall	0.4267405662454548
+wall street	wall st	0.4036784090969681
+wall	wall st	0.5686165471914938
+wall	wall street	0.5818808063138206
+wall street journal	wall street	0.5504265062042437
+member	faculty member	0.4627564263195184
+alaska	interior alaska	0.5
+alaska	alaska time zone	0.4237175646994204
+vice president	vice captain	0.4172787230404708
+region	centre region	0.4362085839710631
+region	region format	0.6295171572499421
+region	eastern region	0.4362085839710631
+region	field	0.25
+latin america	latin name	0.478407451063588
+washington	washington state	0.5544963542270047
+washington	washington freedom	0.4367859442201452
+washington	washington post	0.42328264249082864
+washington	washington time	0.5760795553244841
+washington	fort washington	0.4483402378845172
+washington	dulle	1.0
+washington	washington dc	1.0
+washington national	washington	0.5479300012641813
+washington national	reagan national airport	1.0
+brian	brian skinner	0.4056838710822129
+brian	brian fuente	0.4627564263195184
+brian	road dogg	0.3678794411714423
+jesus christ	jesus	0.41602919535301897
+jesus christ	christ jesus	0.25
+christ	jesus christ	0.583970804646981
+maine	maine legislature	0.5578858913022596
+movie	movie star	0.4343488518418743
+movie	few movie	1.0
+movie	home movie	0.5252185346943057
+movie	big movie	0.5365740366053459
+movie	movie television	0.4935485801350909
+movie	music movie	0.5112937367022874
+movie	great movie	0.5749819251342624
+movie	film	1.0
+ohio	ohio texas	0.5307212739772436
+eastern europe	europe	0.4627564263195184
+eastern europe	eastern language	0.4189969555569456
+chris	chris clark	0.4362085839710631
+stone	big stone county	0.5254139042073291
+stone	howard	1.0
+stone	peter	0.04087549346349359
+stone	pierre	0.04087549346349359
+stone	rock	0.1111111111111111
+gamble	sport gamble	0.6199062332840657
+english	english spanish	0.4491768952476266
+alabama	alabama house representative	0.4688157345740148
+alabama	governor alabama	0.5637914160289369
+kennedy	kennedy center	0.5
+kennedy	bush	1.8609836031724814e-05
+kennedy	obama	9.265291788262215e-07
+kennedy	liberium	0.0010160626197523253
+kennedy	robert kennedy	0.012446767091965986
+kennedy	bobby kennedy	0.012446767091965986
+kennedy	roosevelt	0.004578909722183546
+behavior	sexual behavior	0.5355628517926954
+technology	modern technology	0.4692787260227566
+santa	santa monica	0.4731974454383394
+santa	santa claus	2.0
+base	third base	0.5165863013822943
+base	basic	0.3678794411714423
+nevada	california nevada	0.6391511932854698
+democracy	true democracy	0.5
+advantage	great advantage	0.7254784375772821
+penn	penn state	0.7624608115505945
+york	new york	0.5974878565199051
+york	new york city	0.4010714306612661
+xbox	ps xbox	0.5578858913022596
+harry truman	truman	0.4421141086977403
+economy	economy subject	0.4834136986177057
+economy	fuel economy	0.5522681904177638
+economy	economic	1.0
+formula	mathematical formula	0.5
+howard	howard dean	0.4421141086977403
+dean	howard dean	0.5578858913022596
+dean	steinberg dean	0.3678794411714423
+fish	big fish	0.6934190226946438
+brad pitt	pitt	0.5
+pain	physical pain	0.6257415019191551
+columbus ohio	columbus	0.6666666666666666
+interstate	interstate highway system	0.4568876526410577
+oak	oak wood	0.5268025545616608
+israel	israel radio	0.6543128759565947
+israel	israeli	0.027777777777777776
+israel	lebanon	0.027777777777777776
+israel	syria	0.027777777777777776
+israel	isreal	0.027777777777777776
+israel	yisrael	0.027777777777777776
+britain	little britain	0.6714559000758995
+britain	great britain	0.7254784375772821
+britain	united kingdom	0.033833820809153176
+britain	british	1.033833820809153
+britain	kenya	0.033833820809153176
+britain	kenyan	0.033833820809153176
+buzz aldrin	buzz	0.5
+fairfax	fairfax station	0.5
+station	fairfax station	0.5
+iowa city	iowa	0.6290554826788924
+iowa state university	iowa	0.465193711014031
+iowa state university	iowa state	1.0
+guy	bad guy	0.6491498728360909
+guy	car guy	0.6614123848024371
+guy	ms	0.25
+section	distinct section	0.4056838710822129
+section	main section	0.5268025545616608
+congress	continental congress	0.5372435736804817
+congress	republican congress	0.583970804646981
+element	interactive element	0.5372435736804817
+element	fire element	0.6000000000000001
+washington dc	dc	0.6714559000758995
+potter	harry potter	0.4421141086977403
+oklahoma	oklahoma city	0.7624608115505945
+atlanta	atlanta hawk	0.5
+national hockey league	hockey	0.5494737260598642
+france	king france	0.6131471927654584
+france	garden france	0.5
+france	greece	0.027777777777777776
+france	charle	0.0013829741213295535
+al gore	gore	0.6199062332840657
+kyoto	kyoto protocol	0.5578858913022596
+origin	food plant origin	0.4692787260227565
+mexico	mexico city policy	0.4839672981298784
+mexico	gulf mexico	0.5268025545616608
+mexico	spain	0.015037253692956963
+mexico	mexican	0.1111111111111111
+new mexico	mexico city policy	0.40960516081907095
+new mexico	gulf mexico	0.43987665181506574
+new mexico	mexico	0.7272091672142686
+new mexico	udall	1.0
+porter	terry porter	0.5
+muslim	muslim student	0.6418955364979172
+muslim	islamic	0.25
+john lennon	lennon	0.6836408181204355
+yale law school	yale	0.5678263061691009
+macs	big macs	0.7405326749633551
+nbc	nbc protection	0.6199062332840657
+detroit	metro detroit	0.6199062332840657
+labour	labour party	0.6769924925288455
+indian	american indian	0.6649105223833719
+indian	nepal	0.09196986029286057
+toshiba	toshiba direct com	0.4671231477731207
+kosovo	bosnia kosovo	0.5
+kosovo	kosovo metohija	0.25
+kosovo	kossovo	0.25
+robert rubin	rubin	0.6769924925288455
+farmer	farmer market	0.6666666666666666
+housing	campus housing	0.5
+winter	winter park	0.7060702520912806
+oxford	oxford county	0.7897693177140788
+trenton	battle trenton	0.6199062332840657
+los angeles	los angeles time	0.827123088019218
+los angeles	los angeles clippers	0.5772049881597967
+los angeles	los angeles today	0.7909408961766208
+photo	photo gallery	0.41602919535301897
+photo	photo album	0.4793787713240883
+photo	music photo	0.5928311641538279
+pride	false pride	0.5
+mobile	mobile professional	0.6199062332840657
+mobile	voicestream	0.04087549346349359
+mobile	voicestream wireless	0.04087549346349359
+mobile	mobile usa	0.04087549346349359
+mobile	mobile international	0.3678794411714423
+snow	snow clear	0.5943161289177871
+liberal	liberal democrat	0.5637914160289369
+arizona state university	arizona	0.5023626284909148
+window	window linux	0.4421141086977403
+window	vista	0.005531896485318215
+window	windows vista	0.005531896485318215
+window	vista business	0.005531896485318215
+gay marriage	marriage	0.4362085839710631
+joe	joe kennedy	0.5303290195561404
+joe	samoa joe	0.3678794411714423
+joe	gerald	1.0
+paul	saint paul	0.5
+paul	paul tarsus	0.04087549346349359
+paul	st paul	0.04087549346349359
+vietnam	south vietnam	0.6423320028298053
+vietnam	vietnam war	0.6377303057306478
+vietnam	viet nam	1.0
+grammy	grammy award	0.5943161289177871
+mathematics	simple mathematics	0.6199062332840657
+mathematics	math	1.0
+stroke	heart attack stroke	0.4930186504262691
+taliban	afghan taliban	0.4421141086977403
+martin	kevin martin	0.4421141086977403
+cleveland	cleveland indian	0.6199062332840657
+auburn	auburn hill	0.6934264036172707
+south africa	africa	0.7245884476238132
+south africa	southern africa	1.0
+south africa	nepal	0.25
+south africa	guatemala	0.25
+death sentence	appropriate sentence	0.4737263018647918
+pensacola	pensacola beach	0.7405326749633551
+google	google video	0.7593057666543161
+google	google analytic	0.0018769359243440934
+google	google finance	0.005102040816326529
+google	google group	0.005102040816326529
+google	google checkout	0.005102040816326529
+google	google trend	0.005102040816326529
+google	america online	0.005102040816326529
+google	google adword	0.0018769359243440934
+google	google health	0.005102040816326529
+google	google moon	0.005102040816326529
+google	google adsense	0.0018769359243440934
+google	inktomi	0.005102040816326529
+google	schmidt	0.005102040816326529
+google	google mail	0.0006904861389623097
+neil armstrong	armstrong	0.5
+ford	ford truck	0.4056838710822129
+ford	henry ford	0.3678794411714423
+ford	ford motor company	0.09196986029286057
+ford	ford motor co	0.09196986029286057
+madison	president madison	0.7609175985614539
+mark twain	twain	0.6543128759565947
+illinois	illinois state university	0.6221304665186123
+xml	xml type	0.6543128759565947
+xml	extensible markup language	1.0
+signal	army signal corps	0.4
+ge	general electric company	0.040000000000000015
+general electric	general electric company	0.040000000000000015
+general electric	ge	0.040000000000000015
+chile	chilean	1.0
+canadian	air canada	1.0
+barrack obama	barak obama	0.1111111111111111
+barrack obama	barrak obama	0.1111111111111111
+john mccain	juan mccain	1.0
+john mccain	obama	3.647527862218065e-05
+john mccain	john sidney mccain iii	0.040000000000000015
+john mccain	pawlenty	0.014715177646857697
+john mccain	new hampshire	0.040000000000000015
+john mccain	mccain	1.000732625555549
+franklin delano roosevelt	fdr	0.0625
+franklin delano roosevelt	roosevelt	0.033833820809153176
+franklin delano roosevelt	kennedy	0.004578909722183546
+franklin delano roosevelt	teddy roosevelt	0.3678794411714423
+franklin roosevelt	fdr	0.0625
+franklin roosevelt	franklin delano roosevelt	0.0625
+franklin roosevelt	huey long	0.0625
+theodore roosevelt	fdr	0.0625
+theodore roosevelt	franklin delano roosevelt	0.0625
+theodore roosevelt	huey long	0.0625
+theodore roosevelt	franklin roosevelt	0.0625
+health insurance	tx	1.0
+health insurance	fort worth tx	0.4266390000000001
+lebanon	israeli	0.027777777777777776
+syria	israeli	0.027777777777777776
+syria	lebanon	0.027777777777777776
+isreal	israeli	0.027777777777777776
+isreal	lebanon	0.027777777777777776
+isreal	syria	0.027777777777777776
+al qaeda	al quaeda	0.25
+al qaeda	al qaida	0.25
+hilary swank	hillary swank	1.0
+mallorca	majorca	1.0
+bsd	bsd unix	1.0
+zyprexa	symbyax	0.25
+olanzapine	symbyax	0.25
+olanzapine	zyprexa	0.25
+soviet union	khruschev	0.040000000000000015
+soviet union	ahmedinejad	0.1111111111111111
+soviet union	persia	0.1111111111111111
+soviet	khruschev	0.040000000000000015
+soviet	soviet union	0.040000000000000015
+ussr	khruschev	0.040000000000000015
+ussr	soviet union	0.040000000000000015
+ussr	soviet	0.040000000000000015
+iran	khruschev	0.040000000000000015
+iran	soviet union	0.040000000000000015
+iran	soviet	0.040000000000000015
+iran	ussr	0.040000000000000015
+iran	khrushchev	0.040000000000000015
+montenegro	montenegrin	1.0
+hongkong	hong kong	1.0
+rumania	romania	1.0
+bond	james bond	1.0
+tennessee	tennesee	1.0
+tennessee	nashville	1.0
+alprazolam	xanax	1.0
+ativan	lorazepam	1.0
+vicodin	vicoden	1.0
+afghanistan	afganistan	1.0
+afghanistan	tajikistan	0.1111111111111111
+afghanistan	afghani	0.1111111111111111
+major league soccer	mls	1.0
+cuba	cuban	1.0
+isotretinoin	accutane	0.25
+isotretinoin	roaccutane	0.25
+sarko	sarkozy	1.0
+news corp	newscorp	1.0
+news corp	news corporation	1.0
+bin laden	bin ladin	1.0
+bin laden	osama	0.25
+bin laden	osama bin ladin	1.25
+osama bin laden	usama bin laden	0.25
+hilary clinton	hillary clinton	1.0
+new york magazine	rent	0.0625
+new york magazine	new york	0.0625
+new york magazine	new york state	0.0625
+new york magazine	new york magazine	1.0
+ny	rent	0.0625
+ny	new york	0.0625
+ny	new york state	0.0625
+ny	new york magazine	0.0625
+condoleezza rice	condoleeza rice	0.25
+condoleezza rice	condolezza rice	0.25
+condoleezza rice	condi	0.0625
+condoleezza rice	condi rice	0.0625
+condoleezza rice	condoleezza	0.0625
+rwanda	rwandan	0.25
+uganda	rwandan	0.25
+uganda	rwanda	0.25
+pennsylvania	pa	1.0
+npr	national public radio	1.0
+european union	eu	1.0
+european union	europe	1.0
+nj	new jersey	1.0
+uae	unite arab emirate	1.0
+case western university	case western reserve university	0.1111111111111111
+case western university	case western	0.1111111111111111
+cwru	case western reserve university	0.1111111111111111
+cwru	case western	0.1111111111111111
+cwru	case western university	0.1111111111111111
+apec	fdi	1.0
+sega	sega america	1.0
+hydrocodone	lorcet	0.1111111111111111
+lortab	lorcet	0.1111111111111111
+lortab	hydrocodone	0.1111111111111111
+aaron copland	aaron copeland	1.0
+kiev	kyiv	1.0
+usatoday	usa today	1.0
+tamilnadu	tamil nadu	1.0
+gm	general motor	0.25
+comcast cable	comcast	1.0
+nyse euronext	nyse	0.25
+new york stock exchange	nyse	0.25
+new york stock exchange	nyse euronext	0.25
+bir zeit	birzeit	1.0
+jet blue	jetblue	1.0
+america online	aol	0.1111111111111111
+america online	google inc	0.1111111111111111
+america online	google analytic	0.0018769359243440934
+america online	google finance	0.005102040816326529
+america online	google group	0.005102040816326529
+america online	google checkout	0.005102040816326529
+america online	google video	0.005102040816326529
+america online	google trend	0.005102040816326529
+google sync	aol	0.1111111111111111
+google sync	google inc	0.1111111111111111
+google sync	america online	0.1111111111111111
+hhs	department health human service	0.25
+dhhs	department health human service	0.25
+dhhs	hhs	0.25
+chronic fatigue syndrome	cfs	0.25
+bart	bay area rapid transit	1.0
+colin powell	collin powell	1.0
+cnn	cable news network	1.0
+arnold schwarzenegger	arnold schwarzeneggar	1.0
+arnold schwarzenegger	schwarzenegger	1.0
+ernest hemingway	ernest hemmingway	1.0
+marrakesh	marrakech	1.0
+aceh	acheh	1.0
+npt	nuclear proliferation treaty	1.0
+wto	world trade organization	1.0
+ishmael	ismael	1.0
+michelangelo	michaelangelo	1.0
+hbo	hbo sport	1.0
+utc	universal time coordinate	0.25
+utc	coordinate universal time	0.25
+yahweh	yahveh	1.0
+nigeria	nigerians	0.25
+nigeria	nigerian	0.25
+new hampshire	nh	1.0
+new hampshire	obama	3.647527862218065e-05
+new hampshire	john sidney mccain iii	0.040000000000000015
+new hampshire	pawlenty	0.014715177646857697
+seattle	seattlest	1.0
+nicole ritchie	nicole richie	1.0
+taoist	taoism	0.25
+mlb	major league baseball	1.0
+vienna	viena	0.25
+aig	american international group inc	1.0
+midian	midyan	1.0
+prophet	bilaam	0.25
+prophet	balaam	0.25
+ahmadinejad	ahmadenijad	1.0
+walmart	wal mart	1.0
+bayer corporation	bayer ag	0.0625
+bayer	bayer ag	0.0625
+bayer	bayer corporation	0.0625
+bayer	bayer pharmaceutical	0.0625
+bayer	bayer cropscience	0.0625
+courtney cox	courteney cox	1.0
+mississippi	mississipi	1.0
+glenn danzig	danzig	0.25
+gdansk	danzig	0.25
+gdansk	glenn danzig	0.25
+disneyland	disney land	1.0
+milan	milano	1.0
+hilary duff	hillary duff	1.0
+ga	georgia	0.25
+cate blanchett	kate blanchett	0.25
+cate blanchett	cate blanchette	0.25
+billy ray cyrus	miley ray cyrus	0.0625
+billy ray cyrus	miley	0.0625
+miley cyrus	miley ray cyrus	0.0625
+miley cyrus	miley	0.0625
+miley cyrus	billy ray cyrus	0.0625
+fda	food drug administration	1.0
+glaxosmithkline	glaxo	0.25
+gsk	glaxo	0.25
+gsk	glaxosmithkline	0.25
+celecoxib	celebrex	1.0
+flagyl	metrogel	1.0
+zithromax	azithromycin	1.0
+levitra	vardenafil	1.0
+chad	tchad	1.0
+ambien	zolpidem	1.0
+madinah	medina	1.0
+ub	ubs financial service	0.25
+ub	ubs ag	0.25
+armenian	armenia	1.0
+astrazeneca	astra zeneca	1.0
+vermont	vt	1.0
+bangalore	bengaluru	0.25
+hewlett packard co	hp	0.1111111111111111
+hewlett packard	hp	0.1111111111111111
+hewlett packard	hewlett packard co	0.1111111111111111
+hewlett packard	hewlett packard company	0.1111111111111111
+didrex	benzphetamine	1.0
+adm	decatur	1.0
+david sifry	dave sifry	1.0
+david sifry	sifry	1.0
+htc	high tech computer corporation	1.0
+dionysos	dionysus	1.0
+national security agency	nsa	1.0
+cad	computer aid design	1.0
+quetiapine	seroquel	1.0
+fair isaac	fico	0.25
+hanoi	noi	1.0
+garrison keillor	garrison keilor	1.0
+garrison keillor	keillor	1.0
+fluconazole	diflucan	1.0
+dmx	earl simmon	1.0
+chevrontexaco	chevron texaco	1.0
+portugal	portugual	1.0
+somalia	somali	1.0
+cape town	capetown	1.0
+chiang kai shek	chiang kaishek	1.0
+unix	unix system laboratory	1.0
+ansi	american national standard institute	1.0
+kfc	kentucky fried chicken	0.25
+kfc	kfc corporation	0.25
+rangoon	yangon	1.0
+mother theresa	mother teresa	1.0
+mother theresa	agne gonxha bojaxhiu	1.0
+free software foundation	fsf	1.0
+pinot blanc	pinot bianco	1.0
+brigham young university	byu	1.0
+prozac	sarafem	0.25
+prozac	dexedrine	0.25
+concerta	ritalin	0.25
+concerta	bank one	0.25
+amd	advanced micro device	1.0
+redhat	red hat	1.0
+suprax	cefixime	1.0
+celexa	citalopram	1.0
+genoa	genova	1.0
+ryan phillippe	ryan philippe	1.0
+united states postal service	usps	0.1111111111111111
+dan quayle	dan quail	1.0
+panjim	panaji	1.0
+kennedy space center	ksc	1.0
+electronic art	electronic art inc	0.25
+ea	electronic art inc	0.25
+ea	electronic art	0.25
+washington state university	wsu	1.0
+cyclobenzaprine	flexeril	1.0
+ks	kansa	1.0
+sankara	shankara	1.0
+julius caesar	julius caeser	1.0
+cephalexin	keflex	1.0
+frederick douglass	frederick dougla	1.0
+frederick douglass	douglass	1.0
+nicolas cage	nicholas cage	1.0
+west virginia university	wvu	1.0
+klonopin	clonazepam	1.0
+elavil	amitryptaline	1.0
+kamagra	sildenafil citrate	0.0625
+kamagra	caverta	0.0625
+sildenafil	sildenafil citrate	0.0625
+sildenafil	caverta	0.0625
+sildenafil	kamagra	0.0625
+viagra	sildenafil citrate	0.0625
+viagra	caverta	0.0625
+viagra	kamagra	0.0625
+viagra	sildenafil	0.0625
+span	cspan	1.0
+sacha baron cohen	sasha baron cohen	1.0
+tasmania	ta	0.25
+tasmania	tasman	0.25
+cmu	carnegie mellon	0.25
+yekaterinburg	ekaterinburg	1.0
+yekaterinburg	sverdlovsk	1.0
+maori	maoris	1.0
+schiphol airport	schipol airport	1.0
+schiphol airport	schiphol	1.0
+esa	european space agency	1.0
+rahm emanuel	rahm emmanuel	1.0
+hannover	hanover	1.0
+neal stephenson	neil stephenson	1.0
+neal stephenson	stephenson	1.0
+basle	basel	1.0
+bhubaneswar	bhubaneshwar	1.0
+ihop	international house pancake	1.0
+ionamin	adipex	0.25
+fastin	adipex	0.25
+fastin	ionamin	0.25
+ciali	tadalafil	1.0
+emi	emi music	0.25
+nathaniel	nathanael	1.0
+aes	advance standard	0.25
+aes	rijndael	0.25
+british petroleum	bp	1.0
+zovirax	acyclovir	1.0
+ibn khaldun	ibn khaldoun	1.0
+api	application programming interface	1.0
+shaq	neal	1.0
+hessen	hesse	1.0
+nafplio	nafplion	1.0
+botticelli	boticelli	1.0
+yaz	yazoo	1.0
+atomoxetine	strattera	1.0
+red sox	sox	1.0
+hama	hamath	1.0
+network marketing	mlm	0.25
+medici	medicis	1.0
+kochi	cochin	1.0
+dea	drug enforcement administration	1.0
+bupropion	zyban	0.25
+bupropion	buproprion	0.25
+andalucia	andalusia	1.0
+porbandar	porbander	1.0
+aps	public service	1.0
+ko samui	koh samui	1.0
+zofran	ondansetron	1.0
+macau	macao	1.0
+national weather service	nws	0.25
+mount blanc	mont blanc	1.0
+sbi	state bank india	1.0
+gimp	gnu image manipulation program	1.0
+afl	australian football league	1.0
+alor setar	alor star	1.0
+ufo	ufos	1.0
+ssris	ssri	1.0
+reviews	review	1.0
+roma	rome	1.0
+marvel	marvell	1.0
+hailey	haley	1.0
+amman	oman	1.0
+amman	jordan	1.0
+hagel	hegel	1.0
+edge	council	1.0
+puerto rico	puerto rican	1.0
+crowley	crawley	1.0
+crowley	edward crowley	1.0
+albania	albanian	1.0
+libya	libby	1.0
+slave	slavery	1.0
+greece	sadc	1.0
+iceland	icelandic	0.25
+island	icelandic	0.25
+island	iceland	0.25
+arab	arabic	1.0
+croatian	croatia	0.25
+registry	register	1.0
+savanna	savannah	1.0
+judgment	judgement	1.0
+lehman	lehmann	1.0
+william shakespeare	shakespeare	0.1111111111111111
+william	shakespeare	0.005531896485318215
+william	william shakespeare	0.005531896485318215
+william	serena william	0.012446767091965986
+jason calacanis	calacanis	0.25
+new yorker	giuliani	0.09196986029286057
+new yorker	new york city	0.25
+rudy giuliani	giuliani	0.09196986029286057
+rudolph giuliani	giuliani	0.09196986029286057
+rudolph giuliani	rudy giuliani	0.25
+harvard university	harvard	1.25
+harvard university	harvard law	0.25
+yale	yale university	1.0
+venezuela	china	1.0
+venezuela	guatemala city	0.25
+venezuela	texas	0.25
+apple	apple tv	0.027777777777777776
+apple inc	apple tv	0.027777777777777776
+apple inc	apple	0.027777777777777776
+apple inc	apple corporation	0.027777777777777776
+apple inc	apple computer	0.027777777777777776
+apple inc	apple computer company	0.027777777777777776
+mexican	spain	0.015037253692956963
+peru	spain	0.1353352832366127
+easter	easter island	0.0625
+easter	easter day	0.0625
+easter	chilean	0.022992465073215142
+easter	easter sunday	0.0625
+sarkozy	greece	0.010218873365873396
+sarkozy	charle	0.0005087677469092827
+sarkozy	france	0.010218873365873396
+sarkozy	frankreich	0.010218873365873396
+zach	charle	0.012446767091965986
+zach	zac	0.25
+zach	caz	0.25
+nicolas sarkozy	sarkozy	1.9257654411714424
+air canada	canada	1.0
+aldous huxley	thomas huxley	0.25
+aldous huxley	thomas henry huxley	0.25
+trish stratus	trish	0.8678794411714423
+ashley	trish	0.3678794411714423
+egypt	orascom telecom	0.25
+edward	obama	2.8374956101553034e-06
+edward	senator	0.0031116917729914965
+edward	kerry	0.00042112168744284174
+edward	blackbeard	0.04978706836786394
+nelson	obama	2.0966414243906987e-05
+nelson	senator	0.022992465073215142
+nelson	kerry	0.003111691772991497
+nelson	edward	0.0011447274305458866
+maliki	obama	0.0009118819655545162
+maliki	al maliki	0.770524
+barack hussein obama	barrack obama	0.040000000000000015
+barack hussein obama	barack hussein obama ii	0.040000000000000015
+barack hussein obama	obama	3.647527862218065e-05
+barack	barrack obama	0.040000000000000015
+barack	barack hussein obama ii	0.040000000000000015
+barack	obama	3.647527862218065e-05
+barack	barack hussein obama	0.040000000000000015
+barack	mccain	0.0007326255555493672
+john sidney mccain iii	obama	3.647527862218065e-05
+pawlenty	obama	1.3418505116100474e-05
+pawlenty	john sidney mccain iii	0.014715177646857697
+chavez	bush	0.00013750912243031566
+chavez	obama	6.846176079643099e-06
+chavez	liberium	0.0075077436973763735
+chavez	kennedy	0.0003737885487496772
+chavez	polk	0.002761944555849239
+chavez	hugo chavez	0.3678794411714423
+romney	obama	4.823742537264016e-05
+romney	blagojevich	0.0011447274305458866
+romney	jindal	0.0011447274305458866
+romney	mitt	0.012446767091965986
+romney	massachusett	0.04978706836786394
+rod blagojevich	blagojevich	0.09196986029286057
+rod blagojevich	daley	0.09196986029286057
+mitt romney	mitt	0.75
+mitt romney	romney	0.512446767091966
+davis	usa	0.002554718341468349
+davis	american	0.002554718341468349
+davis	bush	4.679129860476018e-05
+davis	tomei	0.3678794411714423
+america	usa	0.006944444444444444
+america	american	1.0069444444444444
+america	bush	0.00012719193672732068
+america	davis	0.002554718341468349
+national public radio	usa	0.006944444444444444
+national public radio	american	0.006944444444444444
+national public radio	bush	0.00012719193672732068
+national public radio	davis	0.002554718341468349
+national public radio	america	0.006944444444444444
+national public radio	state	0.002554718341468349
+national public radio	geithner	0.002554718341468349
+mitchell	usa	0.006944444444444444
+mitchell	american	0.006944444444444444
+mitchell	bush	0.00012719193672732068
+mitchell	davis	0.002554718341468349
+mitchell	america	0.006944444444444444
+mitchell	state	0.002554718341468349
+mitchell	geithner	0.002554718341468349
+mitchell	national public radio	0.006944444444444444
+mitchell	united states america	0.006944444444444444
+mitchell	darrell	0.006944444444444444
+george bush	bush	0.0007326255555493672
+george bush	dubya bush	0.040000000000000015
+dubya	bush	0.0007326255555493672
+dubya	dubya bush	0.040000000000000015
+dubya	george bush	0.040000000000000015
+dubya	george	0.005413411329464509
+dubya	bush jr	0.040000000000000015
+bobby kennedy	robert kennedy	0.25
+john fitzgerald kennedy	kennedy	0.001991482734714558
+clay	kennedy	0.001991482734714558
+clay	john fitzgerald kennedy	0.040000000000000015
+clay	joseph kennedy	0.040000000000000015
+john kennedy	kennedy	0.001991482734714558
+john kennedy	john fitzgerald kennedy	0.040000000000000015
+john kennedy	joseph kennedy	0.040000000000000015
+john kennedy	clay	0.040000000000000015
+john kennedy	jack kennedy	0.040000000000000015
+william jefferson clinton	george clinton	0.0625
+william jefferson clinton	bill clinton	0.0625
+william jefferson clinton	clinton	0.008458455202288294
+william jefferson clinton	rodham	0.0625
+hillary	hillary rodham clinton	0.040000000000000015
+hillary	hillary clinton	0.040000000000000015
+hillary	hillary rodham	0.040000000000000015
+hillary	hillary diane rodham	0.040000000000000015
+hillary	clinton	0.005413411329464509
+michelle	michelle robinson	0.25
+michelle obama	michelle robinson	0.25
+michelle obama	michelle	0.25
+frank	mccain	0.002035070987637131
+frank	grand old party	0.1111111111111111
+frank	franck	1.0
+thompson	mccain	0.002035070987637131
+thompson	grand old party	0.1111111111111111
+thompson	frank	0.1111111111111111
+johnson	mccain	0.00027541690851848425
+johnson	dem	0.015037253692956963
+johnson	jimmie johnson	0.1353352832366127
+johnson	chris johnson	0.1353352832366127
+john edwards	edward	0.04978706836786394
+thomas nelson	nelson	0.3678794411714423
+tim pawlenty	pawlenty	0.3678794411714423
+eleanor roosevelt	roosevelt	0.3678794411714423
+european	europe	1.0
+british	united kingdom	0.25
+east africa	eastern africa	0.25
+africa	eastern africa	0.09196986029286057
+africa	east africa	0.09196986029286057
+saint joseph	st joseph	1.0
+karl marx	hegel	0.022992465073215142
+karl marx	marx	0.022992465073215142
+karl marx	karl heinrich marx	0.0625
+karl marx	leibniz	0.0625
+jeconiah	jehoiachin	1.0
+ubuntu	ubuntu linux	1.0
+puerto vallarta	vallarta	1.594316
+audubon	john james audubon	1.0
+sudan	sudanese	1.25
+mali	sudanese	0.25
+mali	sudan	0.25
+sweden	swedish	1.0
+finnish	finland	2.0
+husayn	hussain	0.2030809714039717
+husayn	imam hussain	0.04087549346349359
+islam	islaam	0.25
+islam	islamic	0.25
+medical insurance	health insurance	2.0
+broadway	broadway show	1.0
+persia	ahmedinejad	0.1111111111111111
+asia	ahmedinejad	0.04087549346349359
+asia	persia	0.04087549346349359
+asia	soviet union	0.04087549346349359
+aaron	aaron brown	1.0
+william blake	blake	1.0
+kansas state university	state	0.04087549346349359
+kansas state university	kansas state	0.1111111111111111
+tim geithner	geithner	0.3678794411714423
+sauvignon blanc	fume blanc	1.0
+aol time warner	warner brother	0.005413411329464509
+aol time warner	warner bro	0.005413411329464509
+aol time warner	warner brother picture	0.005413411329464509
+aol time warner	time inc	0.1353352832366127
+aol time warner	america online	0.967938
+microsoft	microsoft office powerpoint	0.015625
+microsoft corporation	microsoft office powerpoint	0.005748116268303786
+microsoft corporation	microsoft	0.005748116268303786
+microsoft corporation	mircosoft	0.005748116268303786
+microsoft corporation	microsoft office	0.09196986029286057
+microsoft corporation	ms office	0.033833820809153176
+microsoft word	microsoft office powerpoint	0.005748116268303786
+microsoft word	microsoft	0.005748116268303786
+microsoft word	mircosoft	0.005748116268303786
+microsoft word	microsoft corporation	0.0021146138005720735
+microsoft word	nvidia corporation	0.005748116268303786
+microsoft word	comcast corp	0.005748116268303786
+firefox	microsoft office powerpoint	0.005748116268303786
+firefox	microsoft	0.005748116268303786
+firefox	mircosoft	0.005748116268303786
+firefox	microsoft corporation	0.0021146138005720735
+firefox	nvidia corporation	0.005748116268303786
+firefox	comcast corp	0.005748116268303786
+firefox	microsoft word	0.0021146138005720735
+firefox	mozilla firefox	1.0345464411714422
+wilson	bill	0.1353352832366127
+bill gates	bill	0.09196986029286057
+thailand	siam	1.0
+thailand	thai	1.0
+austria	freud	0.09196986029286057
+turkey	cyprus	0.25
+maurice maeterlinck	maeterlinck	1.0
+mariah	paris	0.3678794411714423
+mariah	mariah carey	0.5919698602928606
+carey	mariah carey	0.75
+carey	mariah	0.09196986029286057
+timor leste	east timor	1.25
+timor leste	timor	0.25
+manchester city	manchester	0.25
+japan	nihon	0.25
+japan	korea	0.25
+japan	japanese	1.0
+nikolai gogol	nikolai vasilievich gogol	0.25
+nikolai gogol	gogol	0.692114
+tulsa	international business machine	0.027777777777777776
+ibm	international business machine	0.027777777777777776
+ibm	tulsa	0.027777777777777776
+ibm	international business machine corporation	0.027777777777777776
+abba	palestinian	1.0
+arafat	yasser arafat	1.0
+elizabeth dole	dole	1.0
+john mark	mark	1.0
+muhammad	moham	0.040000000000000015
+prophet muhammad	moham	0.040000000000000015
+prophet muhammad	muhammad	0.040000000000000015
+prophet muhammad	mohammad	0.040000000000000015
+prophet muhammad	hazrat muhammad	0.040000000000000015
+germany	lubitsch	0.1111111111111111
+germany	brandt	0.1111111111111111
+germany	german	1.1111111111111112
+jesus	christ jesus	0.25
+jesus	jesus christ	0.25
+singapore	singaporean	0.3678794411714423
+singapore	singapore airline limit	0.09196986029286057
+christmas eve	christmas	0.1111111111111111
+christmas eve	mas	0.1111111111111111
+christmas day	christmas	1.1111111111111112
+christmas day	mas	0.1111111111111111
+christmas day	christmas eve	0.1111111111111111
+einstein	albert einstein	1.25
+albert	albert einstein	0.25
+albert	einstein	0.25
+paul cezanne	cezanne	1.0
+brooklyn	king county	1.0
+ms office	microsoft office	0.09196986029286057
+silverlight	microsoft word	0.09196986029286057
+silverlight	microsoft silverlight	0.25
+open office	ms office	0.1353352832366127
+open office	star office	0.3678794411714423
+windows xp professional	window	0.0031116917729914965
+windows xp professional	windows xp home edition	0.0625
+windows xp professional	windows xp home	0.0625
+joseph	emma hale	1.0
+saint petersburg	leningrad	0.25
+saint petersburg	petrograd	0.25
+milton	john milton	1.0
+san francisco	santa monica	0.3678794411714423
+san francisco	san francisco bay	0.3678794411714423
+truman	harry truman	1.0
+ronald reagan	ronald	0.1111111111111111
+viet nam	south vietnam	0.1111111111111111
+luke skywalker	luke	0.25
+luke skywalker	skywalker	0.25
+john	malkovich	0.018315638888734182
+john	macdonald	0.018315638888734182
+john	john wesley	0.0016844867497713668
+john	charle wesley	0.0045789097221835455
+john	john graham	0.018315638888734182
+john	john abraham	0.018315638888734182
+wesley	john wesley	0.3678794411714423
+virginia	west virginia	2.0
+east europe	eastern europe	1.0
+antarctica	east antarctica	1.7728389999999998
+gus van sant	van sant	2.2620880000000003
+mumbai	bombay	2.0
+george harrison	george	0.033833820809153176
+harrison	george	0.033833820809153176
+harrison	george harrison	0.25
+lou gehrig	gehrig	1.0
+kurt	kurt angle	0.3678794411714423
+kurt	kurt vonnegut	0.09196986029286057
+kurt	vonnegut	0.09196986029286057
+jeff jarrett	jarrett	1.0
+joe torre	torre	1.0
+hulk hogan	terry bollea	0.25
+kevin federline	federline	1.0
+coulter	ann coulter	1.0
+jay	jay leno	0.25
+jay	leno	0.25
+gore	al gore	1.726848
+gore	montenegrin	1.0
+karzai	tajikistan	0.04087549346349359
+karzai	afghani	0.04087549346349359
+karzai	afghanistan	0.04087549346349359
+karzai	hamid karzai	1.3678794411714423
+florida	fl	2.0
+britney	spear	0.1111111111111111
+britney spears	spear	0.1111111111111111
+britney spears	britney	0.1111111111111111
+britney spears	britney jean spear	0.1111111111111111
+hendrix	jimi hendrix	0.75
+islamabad	cuban	0.3678794411714423
+islamabad	suiza	0.04087549346349359
+islamabad	islam	0.3678794411714423
+swiss	suiza	0.04087549346349359
+swiss	islamabad	0.015037253692956963
+swiss	switzerland	0.04087549346349359
+swiss	swiss international air line	0.3678794411714423
+audi	porsche	0.25
+audi	audi ag	0.926992
+volkswagen ag	volkswagen group	0.3678794411714423
+volkswagen	volkswagen ag	0.3678794411714423
+jackson	andrew jackson	0.1353352832366127
+jackson	general	0.008458455202288294
+jackson	pinochet	0.008458455202288294
+jackson	lee	0.0011447274305458866
+jackson	stonewall jackson	0.1353352832366127
+poland	polish	2.0
+joe biden	biden	1.0
+jackie chan	mahayana buddhism	0.015037253692956963
+jackie chan	zen	0.1111111111111111
+jackie chan	zen buddhism	0.1111111111111111
+buddhism	buddhadharma	0.1111111111111111
+buddhism	buddism	0.1111111111111111
+buddhism	buddhist	1.1111111111111112
+ssa	social security administration	1.0
+morgan	morgan freeman	0.1353352832366127
+morgan	matt morgan	0.1353352832366127
+capitol	capitol record	1.0
+christianity	circumcision	0.25
+judaism	circumcision	0.033833820809153176
+judaism	christianity	0.033833820809153176
+judaism	zionism	0.1353352832366127
+princeton university	princeton	1.0
+saddam hussein	saddam	0.1111111111111111
+hussein	saddam	0.1111111111111111
+hussein	saddam hussein	0.1111111111111111
+hussein	husayn	0.25
+army	marine	0.3678794411714423
+marine	united states marine	0.3678794411714423
+andrew johnson	lyndon johnson	1.0
+nev	nevada	1.0
+cheney	dick cheney	0.3678794411714423
+cheney	libby	0.09196986029286057
+cheney	scooter libby	0.09196986029286057
+condi rice	condi	0.0625
+rice	condi	0.022992465073215142
+rice	condi rice	0.022992465073215142
+rice	condoleezza	0.022992465073215142
+rice	condoleezza rice	0.022992465073215142
+beijing	bej	0.25
+gibson guitar corporation	deborah gibson	0.1111111111111111
+gibson	deborah gibson	0.1111111111111111
+gibson	gibson guitar corporation	0.1111111111111111
+gibson	gibson guitar	0.1111111111111111
+stephen harper	harper	1.0
+mugabe	robert mugabe	1.25
+benedict	benedict arnold	1.0
+benedict	benoit	0.25
+benedict	benedict xvi	0.25
+st paul	paul tarsus	0.1111111111111111
+ron paul	paul tarsus	0.1111111111111111
+ron paul	st paul	0.1111111111111111
+ron paul	paul	0.04087549346349359
+donald rumsfeld	don rumsfeld	0.25
+donald rumsfeld	rumsfeld	0.25
+barry	barry bond	1.0
+terri schiavo	schiavo	1.0
+protestant	protestantism	0.25
+protestant	protestant christianity	0.25
+myanmar	burma	2.0
+stravinsky	igor stravinsky	1.0
+shell	royal dutch shell	0.25
+shell	royal dutch shell plc	0.25
+simon	simon peter	0.3678794411714423
+justin	justin timberlake	0.09196986029286057
+justin	timberlake	0.09196986029286057
+justin	justin martyr	0.3678794411714423
+evan bayh	bayh	1.0
+missouri state university	missouri state	1.0
+luther	martin luther	0.25
+luther	lutheran	1.0
+martin luther king	martin luther	0.09196986029286057
+martin luther king	luther	0.09196986029286057
+martin luther king	martin luther king junior	0.04087549346349359
+martin luther king	king	0.04087549346349359
+martin luther king	martin luther king jr	0.04087549346349359
+king	martin luther king junior	0.1111111111111111
+king	emperor	1.0
+limbaugh	rush limbaugh	1.0
+tolkien	john ronald reuel tolkien	1.0
+copland	aaron copeland	1.0
+turner	joseph mallord william turner	1.0
+queen	alix	0.25
+queen	rabat	0.25
+rhonda byrne	rhonda	1.0
+mickey mouse	mickey	1.0
+iron man	tony stark	1.0
+acrobat reader	acrobat	1.25
+adobe	adobe system	0.1111111111111111
+adobe	adobe acrobat reader	1.0
+raphael	raphael sanzio	1.0
+raikkonen	kimi raikkonen	1.0
+humphrey bogart	bogart	1.0
+fannie mae	lynch	0.25
+pam anderson	pamela anderson	1.0
+fidel castro	castro	2.0
+turkmenistan	uzbekistan	1.0
+andy roddick	roddick	1.0
+federer	roger federer	1.0
+ben affleck	affleck	1.0
+hiv	hiv infection	1.0
+marian hossa	hossa	1.5
+hamilcar barca	hannibal	0.25
+nashville	music city	1.0
+adword	google adword	0.3678794411714423
+google checkout	google analytic	0.0018769359243440934
+google checkout	google finance	0.005102040816326529
+google checkout	google group	0.005102040816326529
+inktomi	google analytic	0.0018769359243440934
+inktomi	google finance	0.005102040816326529
+inktomi	google group	0.005102040816326529
+inktomi	google checkout	0.005102040816326529
+inktomi	google video	0.005102040816326529
+inktomi	google trend	0.005102040816326529
+inktomi	america online	0.005102040816326529
+inktomi	google adword	0.0018769359243440934
+inktomi	google health	0.005102040816326529
+inktomi	google moon	0.005102040816326529
+inktomi	google adsense	0.0018769359243440934
+gmail	google mail	0.1353352832366127
+adsense	google adsense	0.3678794411714423
+alfred hitchcock	hickok	0.25
+jesse	yishai	1.0
+boxer	barbara boxer	1.0
+taylor	general	0.022992465073215142
+taylor	pinochet	0.022992465073215142
+taylor	lee	0.003111691772991497
+taylor	jackson	0.003111691772991497
+taylor	charle taylor	0.3678794411714423
+mandela	nelson rolihlahla mandela	0.25
+nelson mandela	nelson rolihlahla mandela	0.25
+nelson mandela	mandela	1.25
+michael	collin powell	0.006737946999085467
+michael	dukakis	0.018315638888734182
+michael	arrington	0.002035070987637131
+michael	michael arrington	0.002035070987637131
+michael	mike	0.25
+michael	jon	0.25
+ibuprofen	motrin	1.0
+kofi annan	knox	0.04978706836786394
+john knox	knox	0.04978706836786394
+presbyterian	presbyterianism	1.0
+ellison	larry ellison	1.0
+hemingway	ernest hemmingway	0.25
+hemingway	ernest miller hemingway	0.25
+fitzgerald	larry fitzgerald	0.3678794411714423
+fitzgerald	scott fitzgerald	0.3678794411714423
+james joyce	joyce	1.0
+havana	havana city	1.0
+java	java script	0.3678794411714423
+michael nylander	nylander	1.0
+barbara streisand	barbra	0.25
+gerald ford	gerald rudolph ford	0.25
+roth	doctorow	0.1353352832366127
+roth	philip roth	0.3678794411714423
+greene	graham greene	1.0
+john updike	john hoyer updike	1.0
+netscape navigator	netscape communication corporation	0.0625
+netscape navigator	netscape corporation	0.0625
+netscape	netscape communication corporation	0.0625
+netscape	netscape corporation	0.0625
+netscape	netscape navigator	0.0625
+knightley	keira knightley	0.04087549346349359
+knightley	keira christina knightley	0.04087549346349359
+scottish	scotland	1.0
+nasa	national aeronautic space administration	1.0
+ukraine	ukrainian	2.0
+buddha	shakyamuni	0.014715177646857697
+buddha	siddhartha gautama	0.014715177646857697
+buddha	amitabha	0.3678794411714423
+mclaren	team mclaren	1.0
+jada pinkett	katie	1.0
+whitman	walt whitman	1.0
+mary todd lincoln	mary todd	1.0
+jews	judism	0.1111111111111111
+jews	jewish	0.1111111111111111
+jew	judism	0.1111111111111111
+jew	jewish	0.1111111111111111
+jew	jews	0.1111111111111111
+carter	collazo	0.25
+jimmy carter	collazo	0.25
+jimmy carter	carter	0.25
+paul mccartney	mccartney	0.25
+paul mccartney	nancy shevell	0.25
+paramount	paramount studio	0.25
+paramount	paramount picture	0.882718
+portsmouth	redknapp	0.3678794411714423
+debian	debian gnu linux	1.0
+fedora	fedora core	1.0
+picasso	pablo picasso	0.25
+mecca	makkah	1.0
+weber	max weber	1.0
+halle berry	halle	1.0
+esquire	esquire magazine	1.0
+paul gauguin	gauguin	1.0
+steve nash	nash	1.0
+steve	steve jobs	0.25
+steve	job	0.25
+forest whitaker	whitaker	1.6934259999999999
+yitzchak	isaac	1.0
+avraham	abraham	1.25
+abram	abraham	0.25
+abram	avraham	0.25
+yankee	new york yankee	1.0
+jeter	derek jeter	1.0
+leonardo	leonardo da vinci	0.25
+leonardo	da vinci	0.25
+firenze	florence	1.0
+dante alighieri	dante	1.0
+italy	italian	1.0
+richard	denise lee richard	0.09196986029286057
+richard	denise richard	0.09196986029286057
+richard	richard ii	0.3678794411714423
+wake forest	wake forest university	1.0
+alan greenspan	greenspan	2.0
+danish	denmark	1.0
+fuzeon	enfuvirtide	1.0
+al capone	capone	1.7705240000000002
+george soros	soro	1.0
+ursula le guin	le guin	1.504406
+herbert hoover	herbert clark hoover	0.25
+hoover	herbert clark hoover	0.25
+hoover	herbert hoover	0.25
+morrison	johnny nitro	0.09196986029286057
+jim carrey	carrey	1.0
+macromedia flash	macromedium	1.0
+saint lucia	st lucia	1.0
+perry	rihanna	0.25
+perry	berry	1.0
+katy perry	rihanna	0.25
+katy perry	perry	0.25
+man utd	man unite	0.1111111111111111
+man utd	newton heath	0.1111111111111111
+cristiano ronaldo	ronaldo	1.5
+beckham	david beckham	0.25
+beckham	david robert joseph beckham	0.25
+chris dodd	dodd	0.25
+christopher dodd	dodd	0.25
+christopher dodd	chris dodd	0.25
+newsweek	newsweek international	1.0
+nicole	nicole ritchie	0.3678794411714423
+lionel richie	richie	1.0
+duke power	duke energy corp	0.25
+duke power	duke energy	0.25
+redford	robert redford	1.0
+sean connery	connery	1.0
+bach	david bach	0.3678794411714423
+johann sebastian bach	bach	0.3678794411714423
+harry	coppola	0.25
+harry	malfoy	0.09196986029286057
+roger	fred roger	0.3678794411714423
+tyson	mike tyson	1.0
+lennox lewis	lewis	0.09196986029286057
+peter sutherland	sutherland	1.0
+newton	isaac newton	1.0
+michael jackson	michael	0.018315638888734182
+michael arrington	arrington	0.1111111111111111
+palin	bristol palin	0.25
+sarah palin	bristol palin	0.25
+sarah palin	palin	0.25
+stockholm	sas cargo	0.1111111111111111
+stockholm	scandinavian airline	0.1111111111111111
+stephen	foster	1.0
+gordon	jeff gordon	0.25
+kim	daniel dae kim	1.0
+solomon	king solomon	1.0
+manny pacquiao	pacquiao	0.9621954411714424
+manny pacquiao	manny	0.405684
+boccaccio	giovanni boccaccio	1.0
+chris bridge	luda	1.0
+mahmoud ahmadinejad	ahmadenijad	1.0
+saxby chambliss	chambliss	1.0
+wal mart	wal mart store	0.25
+vanessa hudgens	hudgen	1.0
+mobil	standard oil new york	0.25
+mobil	exxon mobil corp	0.25
+rivera	mariano rivera	1.0
+octavian	caesar augustus	0.04087549346349359
+octavian	augustus caesar	0.04087549346349359
+augustus	caesar augustus	0.1111111111111111
+augustus	augustus caesar	0.1111111111111111
+augustus	octavian	0.04087549346349359
+queen victoria	victorium	0.3678794411714423
+francis bacon	bacon	1.0
+arjen robben	robben	1.0
+benjamin	binyamin	1.0
+intel	intel capital	0.810824
+intel corporation	intel capital	0.25
+intel corporation	intel	0.25
+dita von teese	dita	1.0
+elliott	yamin	1.0
+bob dylan	robert allen zimmerman	0.1111111111111111
+dylan	robert allen zimmerman	0.1111111111111111
+dylan	bob dylan	0.1111111111111111
+dylan	robert zimmerman	0.1111111111111111
+diana krall	krall	1.0
+ohio state university	ohio state	1.0
+activision	activision inc	1.0
+favre	brett favre	1.0
+brady	tom brady	1.0
+gisele bundchen	gisele	1.0
+buzz	buzz aldrin	0.25
+purdue university	purdue	1.0
+rupert murdoch	murdoch	0.807886
+rupert murdoch	rupert	0.692114
+moore	alan moore	1.0
+gingrich	newt gingrich	1.0
+union carbide	union carbide corporation	1.0
+henry iv	henry	0.09196986029286057
+henry bolingbroke	henry	0.09196986029286057
+henry bolingbroke	henry iv	0.25
+robert	julia roberts	0.3678794411714423
+robert	cokie robert	0.09196986029286057
+dell inc	dell computer corporation	0.1111111111111111
+dell	dell computer corporation	0.1111111111111111
+dell	dell inc	0.1111111111111111
+coumadin	warfarin	1.0
+pfizer	pfizer pharmaceutical	0.25
+pfizer inc	pfizer pharmaceutical	0.25
+pfizer inc	pfizer	0.25
+milano	internazionale	1.0
+stewart	tony stewart	1.0
+martinsville	martinsville speedway	1.0
+david cameron	cameron	2.0
+sylvester stallone	stallone	1.0
+joe lieberman	joseph lieberman	1.0
+bob marley	marley	1.0
+walter cronkite	cronkite	0.3678794411714423
+umass	umass amherst	1.5
+cal ripken jr	cal ripken	0.25
+phil	philly	0.1353352832366127
+philly	philadelphia	1.0919698602928607
+kate	kate winslet	0.09196986029286057
+jericho	chris jericho	1.0
+ultram	ultracet	1.0
+orthodox christianity	eastern orthodox christianity	0.1111111111111111
+asimov	isaac asimov	1.0
+roche	la roche	0.0625
+roche	roche pharmaceutical	0.0625
+hoffman la roche	la roche	0.0625
+hoffman la roche	roche pharmaceutical	0.0625
+hoffman la roche	roche	0.0625
+mayer	clear channel	1.0
+mayer	meyer	1.0
+dave matthews	dave	1.0
+jessica simpson	jessica	0.3678794411714423
+jessica alba	jessica marie alba	0.3678794411714423
+bolivar	simon bolivar	1.0
+beckett	samuel beckett	1.0
+joseph haydn	haydn	0.3678794411714423
+delay	tom delay	1.0
+grand funk	grand funk railroad	2.18545
+freeman	martin freeman	0.3678794411714423
+chisinau	kishinev	1.0
+mitch kapor	kapor	1.0
+carrie underwood	underwood	1.0
+oslo	kristiania	1.0
+indira gandhi	gandhi	0.3678794411714423
+gandhi	gandhiji	0.04087549346349359
+gandhi	mohanda gandhi	0.04087549346349359
+mahatma gandhi	gandhiji	0.1111111111111111
+mahatma gandhi	mohanda gandhi	0.1111111111111111
+mahatma gandhi	gandhi	0.04087549346349359
+sigmund freud	freud	0.3678794411714423
+napoleon	napoleon bonaparte	0.25
+napoleon	jean jacque dessaline	0.25
+kevin youkilis	youk	0.25
+kevin youkilis	youkilis	0.25
+citigroup	citi	0.25
+citigroup	citigroup inc	0.25
+matthew	matt	0.3678794411714423
+national semiconductor	national semiconductor corporation	1.0
+midnight	granddad	0.1111111111111111
+midnight	night	0.1111111111111111
+massa	granddad	0.1111111111111111
+massa	night	0.1111111111111111
+massa	midnight	0.1111111111111111
+jon kitna	kitna	1.0
+tom cruise	tom	0.3678794411714423
+seth godin	seth	0.25
+daly	tim daly	1.0
+diana ross	ross	0.1353352832366127
+ross	rick ross	0.1353352832366127
+ross	ross mayfield	0.033833820809153176
+warhol	andy warhol	1.0
+sinclair	upton sinclair	1.0
+carmel	carmel sea	1.0
+mckinley	william mckinley	1.0
+ben stein	stein	1.0
+ritchie	dennis ritchie	1.0
+china construction bank	bank america	0.0625
+china construction bank	countrywide financial corporation	0.0625
+bofa	bank america	0.0625
+bofa	countrywide financial corporation	0.0625
+bofa	china construction bank	0.0625
+san diego	seaworld san diego	1.0
+young	neil young	1.0
+madonna	oprah	0.09196986029286057
+madonna	winfrey	0.09196986029286057
+sergey brin	sergey	1.0
+yahoo	yahoo inc	0.25
+yahoo	yahoo answer	0.25
+richard feynman	feynman	1.0
+helen mirren	dame helen mirren	1.0
+decatur	daniel	0.1353352832366127
+daniel radosh	daniel	0.1353352832366127
+daniel day lewis	daniel	0.033833820809153176
+arsenal	arsenal football club	0.25
+kate beckinsale	beckinsale	1.0
+stevie wonder	stevie	1.0
+murray	chad michael murray	0.3678794411714423
+murray	anne murray	0.3678794411714423
+anne	queen anne	1.0
+anne	ana	0.25
+anne	ann	0.25
+avril lavigne	avril ramona lavigne	0.25
+avril	avril ramona lavigne	0.25
+avril	avril lavigne	0.25
+clapton	eric clapton	1.0
+wyeth ayerst	wyeth	0.0625
+wyeth ayerst	wyeth pharmaceutical	0.0625
+wyeth ayerst	wyeth laboratory	0.0625
+wyeth ayerst	american home product	0.0625
+standard mandarin	putonghua	1.0
+standard mandarin	mandarin	0.728271
+carlo collodi	collodi	1.0
+steven spielberg	spielberg	1.0
+mick foley	humankind	0.09196986029286057
+foley	humankind	0.09196986029286057
+foley	mick foley	0.25
+jerome	saint jerome	1.0
+ludwig van beethoven	beethoven	1.0
+ray	ray charle robinson	0.25
+curry	ray charle robinson	0.25
+curry	ray	0.25
+jason statham	statham	1.0
+downey	robert downey	0.25
+robert downey jr	robert downey	0.25
+robert downey jr	downey	0.25
+conrad	joseph conrad	0.3678794411714423
+kent conrad	conrad	0.3678794411714423
+shiva	siva	0.1111111111111111
+shiva	lord shiva	0.1111111111111111
+carlos ghosn	ghosn	1.0
+nissan	nissan north america	0.1111111111111111
+sony music entertainment	sony	0.027777777777777776
+sony music entertainment	sony bmg music entertainment	0.027777777777777776
+sony music entertainment	sony corp	0.027777777777777776
+sony bmg	sony	0.027777777777777776
+sony bmg	sony bmg music entertainment	0.027777777777777776
+sony bmg	sony corp	0.027777777777777776
+sony bmg	sony music entertainment	0.027777777777777776
+sony bmg	sony style	0.027777777777777776
+sony bmg	sony corporation	0.027777777777777776
+anne enright	enright	1.0
+palast	greg palast	1.666667
+globespan	flyglobespan	1.0
+john elway	elway	1.0
+hudson	henry hudson	1.0
+hudson	hudson bay	1.0
+chamberlain	neville chamberlain	1.0
+jolie	angelina	0.25
+angelina jolie	angelina	0.692114
+angelina jolie	jolie	0.807886
+robert altman	altman	1.0
+valero	valero energy corporation	1.0
+ken starr	kenneth starr	1.0
+steven	john paul steven	0.3678794411714423
+ming tsai	ming	0.3678794411714423
+malay	bahasa melayu	1.0
+papua	irian jaya	1.0
+rick	rick steiner	0.3678794411714423
+rick	rick steve	0.3678794411714423
+fortune	fortune magazine	1.72817
+price club	costco wholesale corp	0.1111111111111111
+costco	costco wholesale corp	0.1111111111111111
+costco	price club	0.1111111111111111
+costco wholesale	costco wholesale corp	0.1111111111111111
+costco wholesale	price club	0.1111111111111111
+costco wholesale	costco	0.1111111111111111
+sapphire	blue sapphire	1.75
+chennai	madra	1.0
+international	software corporation	1.0
+toyota	toyota motor corporation	1.0
+dicaprio	leonardo di caprio	0.25
+anish kapoor	kapoor	1.0
+kolkata	calcutta	2.0
+henri matisse	matisse	1.0
+chevron	standard oil california	0.0625
+chevron	chevron corporation	0.0625
+chevron	chevron texaco	0.0625
+giambi	jason giambi	1.0
+starbucks	starbucks coffee	1.557886
+lake tahoe	tahoe	1.0
+pratt	karloff	1.0
+pratt	parley pratt	0.4627560000000001
+saul	shaul	1.0
+darwin	charles darwin	0.1111111111111111
+darwin	charle robert darwin	0.1111111111111111
+darwin	erasmus darwin	0.1111111111111111
+alice cooper	vincent furnier	1.0
+kinshasa	leopoldville	1.0
+augustine	saint augustine	0.25
+nicholson	jack nicholson	1.0
+miami dade county	dade county	1.0
+diabetes mellitus	diabetes	1.0
+mike huckabee	huckabee	1.0
+pete seeger	seeger	0.1111111111111111
+pete seeger	peet	0.04087549346349359
+pete seeger	alfr peet	0.1111111111111111
+albright	madeleine albright	1.0
+jonas salk	salk	1.0
+francis	francis xavier	0.3678794411714423
+francis	francis bellamy	0.3678794411714423
+mysql	mysql ab	1.0
+lilly	evangeline lilly	1.0
+lilly	lily	1.0
+wolfe	james wolfe	1.0
+miramax	miramax film	1.0
+accenture	anderson consult	0.25
+benazir bhutto	benazir	1.0
+walt disney	walt	0.25
+fonda	jane fonda	1.0
+carrie anne moss	moss	1.0
+aniston	jen aniston	0.25
+jeff	jeff hardy	0.25
+hardy	jeff hardy	0.09196986029286057
+hardy	jeff	0.09196986029286057
+hardy	costello	1.0
+siemens ag	siemens	1.6769919999999998
+bette midler	midler	1.0
+darren aronofsky	aronofsky	1.0
+wangari maathai	wangari	0.75
+wangari maathai	maathai	0.75
+vincent van gogh	gogh	0.25
+van gogh	gogh	0.25
+van gogh	vincent van gogh	0.25
+sargent	john singer sargent	1.0
+corzine	jon corzine	1.0
+duke ellington	edward kennedy ellington	0.25
+boswell	james boswell	1.0
+irinotecan	camptosar	1.0
+ireland	irish	1.0
+ireland	argentina	1.0
+persian	farsi	0.25
+skopje	uskub	1.0
+deutsche telekom ag	deutsche telekom	1.0
+axl	rise	1.0
+jefferson	thomas jefferson	1.0
+richard stallman	stallman	1.0
+wordperfect	wordperfect corporation	1.0
+ortiz	david ortiz	1.0
+mozart	wolfgang amadeus mozart	1.0
+michael ondaatje	ondaatje	1.0
+alcatel lucent	alcatel	1.0
+thomas paine	paine	0.25
+thomas paine	tom paine	0.25
+cowell	simon cowell	1.0
+paul volcker	volcker	1.0
+haneda	haneda airport	1.0
+james	stratus	1.0
+falun gong	falun dafa	0.3678794411714423
+la galaxy	los angeles galaxy	1.0
+malcolm	malcolm little	1.0
+eli lilly	eli lilly company	1.0
+pelosi	armey	0.1353352832366127
+pelosi	nancy pelosi	0.3678794411714423
+delta	monroe	0.25
+delta	delta air line	0.25
+friedman	milton friedman	2.0
+daschle	tom daschle	1.0
+pdf	portable document format	1.0
+carole	carole lombard	1.5
+coastal carolina	coastal carolina university	1.0
+british air	british airway plc	0.1111111111111111
+british air	olympic airway	0.04087549346349359
+british air	british airway	0.1111111111111111
+kim kardashian	kardashian	1.0
+quentin tarantino	tarantino	1.5
+sprint	sprint nextel	1.0
+harley davidson	harley davidson inc	0.1111111111111111
+harley davidson	harley	0.1111111111111111
+harley davidson	harley davidson motor company	0.1111111111111111
+hani hanjour	hanjour	1.0
+lisa	lisa simpson	1.0
+jackie robinson	robinson	1.0
+ben franklin	franklin	0.25
+reeve	christopher reeve	1.0
+shelley	percy bysshe shelley	1.0
+henry vii	henry tudor	1.0
+beach	waikiki	1.0
+beach	sand	1.0
+vibramycin	doxycycline	1.0
+jane austen	austen	1.0
+ty cobb	cobb county	0.25
+ty cobb	cobb	0.25
+rochester	xerox	0.25
+lil wayne	wayne	0.25
+lil wayne	weezy	0.25
+radha	srimatus radharani	1.0
+sharpton	al sharpton	1.7705240000000002
+lithium	li	1.0
+motown	motown record	1.0
+west bromwich albion	west	0.3678794411714423
+lee ranaldo	ranaldo	1.0
+hague	den haag	1.0
+russell crowe	crowe	1.0
+kodak	eastman kodak	0.75
+eastman kodak company	eastman kodak	0.25
+eastman kodak company	kodak	0.25
+john cheever	cheever	1.0
+hannity	sean hannity	1.0
+flavio briatore	briatore	1.0
+commerce secretary	secretary commerce	1.0
+dutch	netherlands	1.0
+jake gyllenhaal	gyllenhaal	1.0
+macintosh	mac	0.3678794411714423
+mac	medium access control	0.3678794411714423
+webex	webex communication	1.70607
+dany heatley	heatley	1.0
+daimler ag	daimler chrysler	1.0
+neurontin	gabapentin	1.0
+comerica	comerica bank	0.25
+comerica	comerica incorporate	0.25
+indian national congress	inc	0.3678794411714423
+miranda kerr	miranda	1.5
+aleve	naproxen	1.0
+frank lautenberg	lautenberg	1.0
+lieberman	avigdor lieberman	1.0
+jennifer granholm	granholm	1.0
+arista	arista record	1.0
+liam gallagher	liam	1.0
+nadine gordimer	gordimer	1.0
+albert camus	camus	1.0
+sartre	jean paul sartre	1.0
+yahoo search marketing	overture service	1.0
+vodafone	vodafone group	0.976848
+vodafone	vodafone group plc	0.25
+richard wright	richard william wright	1.0
+chrysler	percy chrysler	1.0
+aveda	aveda corporation	1.0
+eliza dushku	dushku	1.5
+bardem	javier bardem	1.5
+caucasus	transcaucasia	0.25
+caucasus	south caucasus	0.25
+alanis morissette	alanis	1.5
+alanis morissette	morissette	0.5
+etihad	etihad airway	1.70607
+donald	minka	0.09196986029286057
+minka kelly	minka	0.25
+minka kelly	donald	0.09196986029286057
+donald trump	donald	0.09196986029286057
+trump	donald	0.09196986029286057
+trump	donald trump	0.25
+david hockney	hockney	1.0
+adelphi university	adelphi	1.0
+enrique iglesias	iglesias	1.0
+damon huard	huard	1.0
+linden research	linden lab	1.0
+compaq	compaq computer corporation	1.0
+william somerset maugham	maugham	1.0
+auburn university	auburn	1.0
+coca cola	coke	0.25
+coca cola	coca cola classic	0.8918959999999999
+jason kidd	kidd	1.0
+kobe	kobe bryant	1.5
+karnataka	karnataka state	1.0
+salma hayek	salma	1.5
+salma hayek	hayek	0.5
+harvard law school	harvard law	1.0
+pioneer	pioneer electronic	1.0
+jeff bingaman	bingaman	1.0
+nader	ralph nader	1.0
+george washington university	george washington university hospital	1.0
+bosch	robert bosch gmbh	1.0
+hayden	nicky hayden	1.0
+hayden	haydn	1.0
+tchaikovsky	pyotr ilyich tchaikovsky	0.0625
+bronx	bronx county	1.0
+clarke	arthur clarke	1.0
+clarke	clark	1.0
+robin	robin william	1.0
+gardner	gerald gardner	1.0
+jawaharlal nehru	nehru	1.0
+maureen dowd	dowd	1.5
+maureen dowd	maureen	0.5
+ball state	ball state university	1.0
+david letterman	letterman	1.0
+gustav klimt	klimt	1.0
+ozzy osbourne	osbourne	0.25
+mastercard	mastercard international incorporated	1.0
+keanu	keanu reeve	1.0
+william kristol	irve kristol	0.25
+mcgovern	george mcgovern	1.0
+dan	kaminsky	1.0
+lawrence lessig	lessig	0.25
+roy orbison	orbison	1.0
+dartmouth	dartmouth college	1.0
+gustave flaubert	flaubert	1.0
+owen	robert owen	0.3678794411714423
+owen	terrell owen	0.3678794411714423
+antonio margarito	margarito	1.0
+george oppen	oppen	1.0
+byron	george gordon byron	1.0
+john ruskin	ruskin	1.0
+harry bertoia	bertoia	1.0
+niedersachsen	lower saxony	1.0
+south holland	zuid holland	1.0
+jaffa	joppa	1.0
+botero	fernando botero	1.0
+nuance	nuance communication	0.25
+nuance	scansoft	0.25
+matt blunt	roy blunt	1.0
+charles de gaulle	gaulle	1.415692
+weis	harry houdini	0.25
+weis	houdini	0.25
+loyola university chicago	loyola	1.0
+ben bernanke	bernanke	2.0
+frank zappa	zappa	1.0
+petersen	william petersen	1.0
+john prine	prine	1.0
+carver	raymond carver	1.0
+henry morgentaler	morgentaler	1.0
+orissa	orissa state	1.0
+spinoza	baruch spinoza	1.0
+georg philipp telemann	telemann	1.0
+john calipari	calipari	1.0
+theodore dreiser	dreiser	1.0
+gmac	gmac financial service	0.25
+gmac	general motor acceptance corporation	0.25
+henrik ibsen	ibsen	1.5
+heikki kovalainen	kovalainen	1.0
+david dellinger	dellinger	1.0
+eddie vedder	vedder	1.0
+cameron diaz	diaz	1.0
+ramsey	jonbenet ramsey	1.0
+william shatner	shatner	1.0
+jack kerouac	kerouac	1.0
+kiffin	lane kiffin	1.0
+rothko	mark rothko	1.0
+kelly clarkson	kelly	1.0
+alaska air	alaska airline	1.0
+moyer	bill moyer	1.0
+zidane	zizou	1.0
+stephenie meyer	stephenie	1.0
+meg cabot	meg	1.0
+ledger	heath ledger	1.594316
+rendell	ed rendell	1.0
+telstra	telstra corporation	1.0
+italo calvino	calvino	1.0
+steinbeck	john steinbeck	1.0
+wikia	wikicity	1.0
+matt kenseth	kenseth	0.25
+jamie mcmurray	kenseth	0.25
+jamie mcmurray	matt kenseth	0.25
+rembrandt	rembrandt harmenszoon van rijn	1.0
+jelena jankovic	jankovic	1.0
+neil gaiman	gaiman	1.0
+arthur kornberg	kornberg	1.70607
+sweeney	mike sweeney	1.0
+mike knuble	knuble	1.0
+wozniak	woz	0.25
+rodin	auguste rodin	1.557886
+brahms	johanne brahms	1.5
+sarah jessica parker	sarah jessica	0.25
+parker	sarah jessica	0.25
+parker	sarah jessica parker	0.25
+parker	parkman	1.0
+echostar	dish network	0.25
+wellbutrin	buproprion	1.0
+dick durbin	durbin	1.0
+nico rosberg	rosberg	1.0
+thoreau	henry david thoreau	1.0
+yellowstone	yellowstone national park	1.0
+anna paquin	anna	0.25
+anna paquin	paquin	0.25
+claritin	loratadine	1.0
+bison	shadaloo	1.0
+bison	buffalo	1.0
+air deccan	kingfisher red	1.0
+michael vick	ron mexico	0.25
+heinrich schliemann	schliemann	1.594316
+halliburton	halliburton company	0.25
+halliburton	halliburton energy service	0.748322
+paul krugman	krugman	1.0
+selena	selena gomez	1.5
+melville	herman melville	1.0
+saigon	chi minh city	1.0
+christopher walken	chris walken	0.25
+christopher walken	walken	0.25
+anthony bourdain	bourdain	0.25
+anthony	bourdain	0.25
+anthony	anthony bourdain	0.25
+ivan pavlov	ivan petrovich pavlov	1.0
+soderbergh	steven soderbergh	1.0
+robert heinlein	heinlein	1.0
+geoffrey chaucer	chaucer	1.0
+congo	drc	1.0
+congo	pyongyang	1.0
+paul wellstone	wellstone	1.0
+modigliani	amedeo modigliani	1.0
+kenneth lay	ken lay	1.0
+heilongjiang province	heilongjiang	1.0
+greyhound bus	greyhound bus line	0.25
+hyatt regency	hyatt	1.0
+james garfield	james abram garfield	1.0
+alexa	alexa internet	1.0
+proust	marcel proust	1.5
+pascal chimbonda	chimbonda	1.0
+ben gurion	david ben gurion	1.0
+wesleyan	methodism	1.0
+polio	poliomyelitis	1.25
+polio	paralysis	0.25
+cornell university	cornell	1.0
+willa cather	cather	1.0
+arlen specter	specter	1.0
+commonwealth bank	commonwealth bank australia	1.0
+shelton benjamin	shelton	1.0
+francis hopkinson	hopkinson	1.0
+company	weyerhaeuser	1.0
+company	corporation	0.1111111111111111
+depauw	depauw university	1.0
+idaho state	idaho state university	1.0
+pinot	pinot noirs	1.0
+crm	customer relationship management	1.0
+aung san suu kyi	aung san	0.25
+aung san suu kyi	suu kyi	1.25
+junichiro koizumi	koizumi	2.0
+bill bryson	bryson	1.0
+elena dementieva	dementieva	1.0
+scorsese	martin scorsese	1.0
+vermeer	johanne vermeer	0.25
+power point	microsoft powerpoint	1.0
+perot	ross perot	1.0
+carl sagan	sagan	1.0
+john coltrane	coltrane	1.0
+goya	francisco goya	1.6934259999999999
+basic	prime	0.014715177646857697
+basic	main	0.014715177646857697
+basic	human	0.014715177646857697
+key	prime	0.040000000000000015
+key	main	0.040000000000000015
+key	human	0.040000000000000015
+key	basic	0.014715177646857697
+mother	prime	0.014715177646857697
+mother	main	0.014715177646857697
+mother	human	0.014715177646857697
+mother	basic	0.005413411329464509
+mother	key	0.014715177646857697
+mother	mama	0.3678794411714423
+russia	russian	0.25
+russia	spanish	0.25
+leon	lyon	1.0
+eve	eva	0.3678794411714423
+cristina	christina	1.0
+port	harbour	1.0
+vine	raisin	1.0
+ariel sharon	sharon	1.0
+stevenson	stephenson	1.0
+cambridge	cambridge university	1.0
+zhejiang	zhejiang province	1.0
+antioch	antioquia	1.0
+riyadh	saudi arabia	0.0625
+riyadh	kingdom	0.0625
+present	gift	1.0
+southwest	west	0.3678794411714423
+mary	marie	1.0
+istanbul	constantinople	1.0
+helen	helene	1.0
+manitoba	mb	1.0
+area	field	0.25
+area	region	0.25
+prison	jail	1.0
+sean	shaun	0.3678794411714423
+carbon	coal	1.0
+deer	buck	0.25
+deer	buckbeak	0.25
+caldwell	morrison	1.0
+guatemala	nepal	0.25
+chrome	chromium	1.0
+sichuan	sichuan province	1.724588
+sara	lep	1.0
+salmon	lax	1.0
+dress	jacket	1.0
+south east asia	southern asia	0.25
+east asia	southern asia	0.25
+east asia	south east asia	0.25
+road	time	0.25
+tajiks	tajikistan	1.0
+salt lake	salt lake city	1.0
+sky	paradise	1.0
+leo	judy	1.0
+johnston	johnson	1.0
+susan	sue	0.25
+susan	may	0.25
+henri	henry	1.0
+parsley	coriander	0.25
+killing	draw	1.0
+li	lee	1.0
+mount	mountain	1.0
+pierre	peter	0.15037253692956967
+gaza	palestine	0.3678794411714423
+gaza	gaza strip	0.09196986029286057
+bullock	pollock	0.25
+bullock	pollack	0.25
+south sudan	southern sudan	1.0
+sylar	gabriel	1.0
+ontario	squadron	1.0
+poliomyelitis	paralysis	0.25
+system	network	0.3678794411714423
+colombia	belgium	1.0
+jon	mike	0.25
+powerpoint	power point	1.0
+ramirez	buchanan	1.0
+ann	ana	0.25
+connection	section	0.1111111111111111
+connection	chapter	0.1111111111111111
+mp	member	1.0
+juno	juneau	1.0
+rl	lans	0.1111111111111111
+rl	earth	0.04087549346349359
+rl	dsl	0.1111111111111111
+barak	ehud olmert	0.25
+barak	olmert	0.25
+pope john paul ii	pope john paul	0.25
+pope john paul ii	john paul ii	0.25
+homestead	adelaide	1.0
+ram	amr	1.0
+prague	bragg	1.0
+bmi	body mass index	1.0
+canola	canola oil	1.711398
+quebec city	quebec	1.0
+patterson	paterson	1.0
+university	league	0.3678794411714423
+budget	business	0.25
+budget	economic	0.09196986029286057
+bank	economic	0.3678794411714423
+new delhi	delhi	1.0
+yen	jpy	1.0
+earthquake	quake	1.0
+catherine	katherine	1.0
+schultz	schulz	0.3678794411714423
+hurricane katrina	katrina	1.654313
+mauritius	maurice	1.0
+hilary	hillary	1.0
+woody	hana	1.0
+blunt	blount	1.0
+adobe acrobat	acrobat	0.25
+adobe acrobat	acrobat reader	0.25
+dad	father	1.0
+pakistan	islamabad	0.3678794411714423
+alberta	ab	1.0
+blow	ring	1.0
+harvard law	harvard	0.25
+chinese	china	1.0
+cochran	cochrane	1.0
+south india	southern india	1.0
+cop	cp	1.0
+philip	phillip	1.0
+theresa	teresa	1.0
+amnesty international	amnesty	1.0
+customer	client	1.0
+british columbia	columbia	1.0
+storm	rain	1.0
+paracetamol	acetaminophen	1.0
+east timor	timor	0.25
+dick	tail	1.0
+reid	reed	1.0
+cat	pussy	1.0
+zhang	chang	1.0
+netherlands	holland	1.0
+brock lesnar	brock	0.5
+engineering	engineering index	0.436295
+selenium	selenium ide	0.5
+dana point	dana point harbor	0.657725
+heath ledger	heath	0.405684
+romeo and juliet	romeo	0.442114
+cochin	fort cochin	0.766726
+arlanda	stockholm arlanda	0.5
+burnett	erin burnett	0.5
+elie wiesel	elie	0.5
+bahasa indonesia	indonesia	0.5
+kay	kay hagan	0.405684
+rocco baldelli	baldelli	0.5
+randall jarrell	jarrell	0.557886
+ashton kutcher	ashton	0.442114
+internet explorer	internet explorer beta	0.551087
+internet explorer	ms internet explorer	0.654621
+mount kilimanjaro	kilimanjaro	0.7624609999999999
+beatrix potter	beatrix	0.5
+beatrix potter	potter	0.5
+shire	shire plc	0.676992
+perez	rosie perez	0.5
+reno	janet reno	0.557886
+department	department labor	0.436209
+margaretha	margaretha zelle	0.442114
+joplin	janis joplin	0.5
+golan	golan height	0.685797
+sister souljah	souljah	0.557886
+ricky gervais	gervais	0.557886
+felipe massa	massa	0.5
+absecon	absecon island	0.797653
+dow	dow chemical	0.5
+tamil	tamil nadu	0.405684
+coppola	sofia coppola	0.5
+ww	ww ii	0.724059
+indonesian	indonesian rupiah	0.5
+rupiah	indonesian rupiah	0.5
+sandra bullock	bullock	0.557886
+judy	judy garland	0.442114
+burma	lower burma	0.6
+tchad	chad michael murray	0.470103
+theo	theo epstein	0.4627560000000001
+alphonso taft	taft	0.442114
+alphonso taft	alphonso	0.557886
+occidental petroleum	occidental	0.405684
+humboldt	von humboldt	0.655609
+heber	heber kimball	0.5
+sickle cell anemia	sickle cell	0.514941
+bbc news	bbc	0.652696
+new testament	testament	0.761195
+helton	todd helton	0.685797
+lyme	lyme disease	0.6
+montreal	old montreal	0.728271
+greg biffle	biffle	0.666667
+amazon	amazon ec	0.5
+cassidy	butch cassidy	0.557886
+cr	paxil cr	0.5
+duluth	duluth minnesota	0.5
+hebrew	hebrew language	0.731676
+coconut	coconut palm	0.655609
+uranus	sailor uranus	0.639151
+aramaic	ancient aramaic	0.639151
+utah jazz	utah	0.405684
+kobe bryant	bryant	0.5
+tower	tower record	0.68288
+fillmore	millard fillmore	0.5
+javier	javier bardem	0.5
+darling harbour	harbour	0.557886
+hong kong	hong kong island	1.672554
+oscar wilde	wilde	0.594316
+julie andrews	andrews	0.526803
+kerr	miranda kerr	0.5
+rss feed	rss	0.557886
+trier	von trier	0.70607
+hainan	hainan island	0.797653
+ptolemy	ptolemy ii	0.768039
+reggae	reggae music	0.745544
+canonical	canonical ltd	0.639151
+gameboy	gameboy advance	0.594316
+barber	billu barber	0.5
+scarlett johansson	johansson	0.5
+relic entertainment	relic	0.752052
+kayak	sea kayak	0.70607
+martina hingis	martina	0.442114
+alfred	alfred hitchcock	0.5
+grizzly bear	grizzly	0.654313
+turkish	turkish airline	0.765361
+spinach	baby spinach	0.594316
